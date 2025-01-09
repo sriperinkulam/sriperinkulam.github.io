@@ -8,8 +8,15 @@
     <language>en</language>
     <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
     <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
-    <lastBuildDate>Sat, 18 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 21:30:00 -0500</lastBuildDate>
     <atom:link href="https://srikanthperinkulam.com/categories/micro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024-12-24 21:30:00</title>
+      <link>https://srikanthperinkulam.com/2024/12/24/kobo-clara/</link>
+      <pubDate>Tue, 24 Dec 2024 21:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>https://srikanthperinkulam.com/2024/12/24/kobo-clara/</guid>
+      <description>&lt;p&gt;Ordered a Kobo Clara BW for M on a whim. Been a while that I&amp;rsquo;ve surprised her! Twelve years ago when I gifted her the Kindle she was initially super upset - we barely had any money then. This time around when she opened it, her reaction was neutral at best.&lt;/p&gt;&#xA;&lt;p&gt;Setting it up wasn&amp;rsquo;t quite intuitive. Took me 20 minutes to figure out that the software wasn&amp;rsquo;t showing the option for overdrive sync because it sensed our location to be outside US/Canada. An easy fix until we hit the next issue - M only has a Libby account and that does not map 1:1 to an Overdrive account. Looks like I&amp;rsquo;ll have to setup an overdrive account now, add all her library cards and then sync that account in the Kobo. Reasonable ask I guess. But doesn&amp;rsquo;t really help my case of getting her to try off mainstream devices.&lt;/p&gt;&#xA;</description>
+    </item>
     <item>
       <title>Pipiol</title>
       <link>https://srikanthperinkulam.com/2024/05/18/pipiol/</link>
@@ -107,13 +114,6 @@
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
       <guid>https://srikanthperinkulam.com/2024/02/03/february-3-2024-0451/</guid>
       <description>&lt;p&gt;After last weekends&amp;rsquo; hike, I threw my back out doing something super mundane. Had to take a day off work just to let it heal out. Tiny muscles I didn&amp;rsquo;t know existed were screaming out. If anything, it made me realise how incredibly complex our bodies are and a subtle reminder to strengthen the core.&lt;/p&gt;&#xA;</description>
-    </item>
-    <item>
-      <title>2024-01-31 00:00:00</title>
-      <link>https://srikanthperinkulam.com/2024/01/31/blameless-postmortem/</link>
-      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
-      <guid>https://srikanthperinkulam.com/2024/01/31/blameless-postmortem/</guid>
-      <description>&lt;p&gt;Focusing on the &amp;lsquo;Why&amp;rsquo; rather than the &amp;lsquo;Who&amp;rsquo; when doing a postmortem of an incident - Such a nuanced yet pivotal shift!&lt;/p&gt;&#xA;</description>
     </item>
   </channel>
 </rss>
