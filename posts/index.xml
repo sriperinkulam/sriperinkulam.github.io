@@ -25,6 +25,13 @@
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/manaw.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&#xA;Never fails to impress &lt;a href=&#34;https://srikanthperinkulam.com/2024/12/25/manaw/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;</description>
     </item>
     <item>
+      <title>2024-12-24 23:30:00</title>
+      <link>https://srikanthperinkulam.com/2024/12/24/las-estacas/</link>
+      <pubDate>Tue, 24 Dec 2024 23:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>https://srikanthperinkulam.com/2024/12/24/las-estacas/</guid>
+      <description>&lt;p&gt;V+D were visiting us for a few days around Christmas this year. With the 24th declared a holiday, M suggested we go glamping in Estacas for a night. S loved the idea and we booked two tents for the five of us. Cost was super reasonable given it included breakfast and entry to the park.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/estacas.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We only got to Estacas around 1400 on 24th evening thanks to the four hours we lost to the &lt;a href=&#34;https://srikanthperinkulam.com/2024/12/24/brake-fade/&#34;&gt;brake fade on the Grand Vitara&lt;/a&gt;. After a quick check-in, we decide to rent a kayak and row down the stream. I hop off the kayak and swim upstream. S was bent on going to the kids pool alone and not getting into the spring. After about an hour, S &amp;amp; I head to the kids pool. She spends maybe 30 mins in there and calls it a day. Her only ask was that we have dinner by the spring, which we gladly agree to since that&amp;rsquo;s the only restaurant that was open. After dinner, S was sleepy but still super excited about spending the night in the tent. Happy kid, Happy camper! She sleeps through the night despite all the Christmas fireworks.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/shas_estacas.jpg&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We wake up to a super crisp and nippy 25th morning. V and I decide to snorkel/swim in the warm 23C spring water. We spot some sleeping turtles and a great many schools of fish feasting on their morning find. After a simple yet delicious breakfast we make our way back to CDMX. Probably one of our best stays in Estacas so far and I&amp;rsquo;m so glad we decided to glamp! Though S didn&amp;rsquo;t get into the spring, she absolutely enjoyed our trip. &lt;a href=&#34;https://srikanthperinkulam.com/2024/12/24/las-estacas/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
       <title>2024-12-24 21:31:00</title>
       <link>https://srikanthperinkulam.com/2024/12/24/kobo-clara/</link>
       <pubDate>Tue, 24 Dec 2024 21:31:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
@@ -107,13 +114,6 @@
       <pubDate>Sun, 01 Dec 2024 00:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
       <guid>https://srikanthperinkulam.com/2024/12/01/2024-12-01-003000/</guid>
       <description>&lt;p&gt;Moved over the syndication links in my posts to post-meta. The syndication icon only shows up if a valid link is present in the FrontMatter of a post. Once micro.blog picks up the feed, it&amp;rsquo;s currently set to auto publish to the fediverse on my GoToSocial (GTS) instance.  On the backend, a GO script fetches the RSS feed from my GTS instance and saves the RSS feed item link and the corresponding link to my post in a JSON file. Another script quickly looks up which post&amp;rsquo;s FrontMatter needs to be updated for the syndication links in each post and updates the files as needed. A bit windy but seems to do the job for now. I might end up consolidating these into just one script later and/or directly use the masto API to publish to the fediverse and grab the syndication link from there. For now, I&amp;rsquo;m pretty psyched this is all working.&lt;/p&gt;&#xA;</description>
-    </item>
-    <item>
-      <title>2024-11-29 22:41:00</title>
-      <link>https://srikanthperinkulam.com/2024/11/29/2024-11-29/</link>
-      <pubDate>Fri, 29 Nov 2024 22:41:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
-      <guid>https://srikanthperinkulam.com/2024/11/29/2024-11-29/</guid>
-      <description>&lt;p&gt;Just struck me that most of my disk drives are quite old. Almost all of them were salvaged from old laptops. Age does not necessarily equate to performance and I do have decent backups, but only a question of time before I see them going kaput. Living vicariously on the edge when it comes to self-hosting!&lt;/p&gt;&#xA;</description>
     </item>
   </channel>
 </rss>
