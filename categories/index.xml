@@ -8,8 +8,15 @@
     <language>en</language>
     <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
     <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
-    <lastBuildDate>Fri, 10 Jan 2025 21:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 06:30:00 -0500</lastBuildDate>
     <atom:link href="https://srikanthperinkulam.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technology</title>
+      <link>https://srikanthperinkulam.com/categories/technology/index.xml</link>
+      <pubDate>Mon, 13 Jan 2025 06:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>https://srikanthperinkulam.com/categories/technology/index.xml</guid>
+      <description></description>
+    </item>
     <item>
       <title>Reply</title>
       <link>https://srikanthperinkulam.com/categories/reply/index.xml</link>
@@ -106,13 +113,6 @@
       <link>https://srikanthperinkulam.com/categories/status/index.xml</link>
       <pubDate>Thu, 19 Sep 2024 22:01:10 -0600</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
       <guid>https://srikanthperinkulam.com/categories/status/index.xml</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Year-Notes</title>
-      <link>https://srikanthperinkulam.com/categories/year-notes/index.xml</link>
-      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
-      <guid>https://srikanthperinkulam.com/categories/year-notes/index.xml</guid>
       <description></description>
     </item>
   </channel>

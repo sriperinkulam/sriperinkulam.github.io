@@ -8,8 +8,15 @@
     <language>en</language>
     <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
     <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
-    <lastBuildDate>Fri, 10 Jan 2025 21:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 06:30:00 -0500</lastBuildDate>
     <atom:link href="https://srikanthperinkulam.com/date/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025-01-13 06:30:00 -0500 -0500</title>
+      <link>https://srikanthperinkulam.com/date/2025-01-13-063000--0500--0500/index.xml</link>
+      <pubDate>Mon, 13 Jan 2025 06:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>https://srikanthperinkulam.com/date/2025-01-13-063000--0500--0500/index.xml</guid>
+      <description></description>
+    </item>
     <item>
       <title>2025-01-10 21:30:00 -0500 -0500</title>
       <link>https://srikanthperinkulam.com/date/2025-01-10-213000--0500--0500/index.xml</link>
@@ -106,13 +113,6 @@
       <link>https://srikanthperinkulam.com/date/2024-12-06-213900--0500--0500/index.xml</link>
       <pubDate>Fri, 06 Dec 2024 21:39:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
       <guid>https://srikanthperinkulam.com/date/2024-12-06-213900--0500--0500/index.xml</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>2024-12-06 00:36:00 -0500 -0500</title>
-      <link>https://srikanthperinkulam.com/date/2024-12-06-003600--0500--0500/index.xml</link>
-      <pubDate>Fri, 06 Dec 2024 00:36:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
-      <guid>https://srikanthperinkulam.com/date/2024-12-06-003600--0500--0500/index.xml</guid>
       <description></description>
     </item>
   </channel>

@@ -8,8 +8,15 @@
     <language>en</language>
     <managingEditor>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</managingEditor>
     <webMaster>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</webMaster>
-    <lastBuildDate>Fri, 10 Jan 2025 21:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 06:30:00 -0500</lastBuildDate>
     <atom:link href="https://srikanthperinkulam.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025-01-13 06:30:00</title>
+      <link>https://srikanthperinkulam.com/2025/01/13/blue-dell-alert/</link>
+      <pubDate>Mon, 13 Jan 2025 06:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>https://srikanthperinkulam.com/2025/01/13/blue-dell-alert/</guid>
+      <description>&lt;p&gt;Around 0300 today, I was woken up rudely to a blaring sound. For a moment I assumed it was from the Seismic City alert system that CDMX has. Turned out, it was from the old blue dell laptop that I currently use to run NextcloudPi. For some reason, looks like it rebooted and went into a huge panic mode because it lost time sync. Yanked all the cables and shut it down. Something to figure out over the next few days when I have time. &lt;a href=&#34;https://srikanthperinkulam.com/2025/01/13/blue-dell-alert/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;</description>
+    </item>
     <item>
       <title>2025-01-10 21:30:00</title>
       <link>https://srikanthperinkulam.com/2025/01/10/clara/</link>
@@ -107,13 +114,6 @@
       <pubDate>Mon, 09 Dec 2024 23:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
       <guid>https://srikanthperinkulam.com/2024/12/09/last-mile-closures/</guid>
       <description>&lt;p&gt;Most of my free time over the last few days has been spent trying to implement the comments section on this site. Something that would have been super straightforward on a regular CMS is not quite so for a static site. Initially I tinkered with the idea of side-loading the comments feature over to the fediverse. It worked okay but it did feel quite choppy.&lt;/p&gt;&#xA;&lt;p&gt;Looking around a bit, I decided to give &lt;a href=&#34;https://isso-comments.de/&#34;&gt;ISSO&lt;/a&gt; a chance. It seemed to have all the features I was looking for and was reasonably easy to setup. As with most things tech though, I had quite some difficulty tweaking it to work the way I wanted it to. Taking a break and getting back to it after a few days, did get me to approach this from a different perspective and I think it&amp;rsquo;s super close to where I&amp;rsquo;d like it to be.&lt;/p&gt;&#xA;&lt;p&gt;On certain things, I am perfectly okay leaving things half baked and cutting my losses. On most things though, I do like seeing things to closure. There&amp;rsquo;s so much thrill in figuring out why something is not working the way it is supposed to. Most often it&amp;rsquo;s because of something ridiculously silly or because of minor oversights. Trials and tribulations of the last mile closures, I guess?&lt;/p&gt;&#xA;&lt;p&gt;For now, this site has a basic commenting system and that gives me enough momentum to pursue other things to tweak. &lt;a href=&#34;https://srikanthperinkulam.com/2024/12/09/last-mile-closures/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;</description>
-    </item>
-    <item>
-      <title>2024-12-06 21:39:00</title>
-      <link>https://srikanthperinkulam.com/2024/12/06/flexibility/</link>
-      <pubDate>Fri, 06 Dec 2024 21:39:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
-      <guid>https://srikanthperinkulam.com/2024/12/06/flexibility/</guid>
-      <description>&lt;p&gt;Absolutely loving the flexibility of fast-tweaking markdown files in GO. I&amp;rsquo;m far from being a programmer/developer, but with a dash of AI and some bare minimum logic sense, I&amp;rsquo;ve been able to build scripts to do a bunch of modifications on this site on the go. &lt;a href=&#34;https://srikanthperinkulam.com/2024/12/06/flexibility/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;</description>
     </item>
   </channel>
 </rss>
