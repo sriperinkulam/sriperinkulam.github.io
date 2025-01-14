@@ -32,6 +32,13 @@
       <description></description>
     </item>
     <item>
+      <title>Year-Notes</title>
+      <link>https://srikanthperinkulam.com/categories/year-notes/index.xml</link>
+      <pubDate>Tue, 31 Dec 2024 21:30:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
+      <guid>https://srikanthperinkulam.com/categories/year-notes/index.xml</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Photos</title>
       <link>https://srikanthperinkulam.com/categories/photos/index.xml</link>
       <pubDate>Wed, 25 Dec 2024 21:21:00 -0500</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
@@ -106,13 +113,6 @@
       <link>https://srikanthperinkulam.com/categories/running/index.xml</link>
       <pubDate>Sat, 28 Sep 2024 21:54:52 -0600</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
       <guid>https://srikanthperinkulam.com/categories/running/index.xml</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Status</title>
-      <link>https://srikanthperinkulam.com/categories/status/index.xml</link>
-      <pubDate>Thu, 19 Sep 2024 22:01:10 -0600</pubDate><author>ssphugo@srkn.anonaddy.com (Srikanth Perinkulam)</author>
-      <guid>https://srikanthperinkulam.com/categories/status/index.xml</guid>
       <description></description>
     </item>
   </channel>
