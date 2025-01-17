@@ -6,8 +6,15 @@
     <description>Recent content on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jan 2025 06:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://srikanthperinkulam.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://srikanthperinkulam.com/contact/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://srikanthperinkulam.com/contact/</guid>
+      <description>&lt;p&gt;The best way to reach me is via this site. Send me a message or just reply to one of my posts. I’m reasonably active on the following portals:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Micro.blog: &lt;a href=&#34;https://micro.blog/sp&#34;&gt;@sp&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Fediverse: &lt;a href=&#34;https://chat.srkn.org/@ssp&#34;&gt;@ssp@chat.srkn.org&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Matrix: @ssp:matrix.srkn.org&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+    </item>
     <item>
       <title>Blue Dell alert</title>
       <link>https://srikanthperinkulam.com/2025/01/13/blue-dell-alert/</link>
@@ -105,13 +112,6 @@
       <pubDate>Thu, 12 Dec 2024 21:25:00 -0500</pubDate>
       <guid>https://srikanthperinkulam.com/2024/12/12/rewind/</guid>
       <description>&lt;p&gt;Built a &lt;a href=&#34;https://srikanthperinkulam.com/rewind&#34;&gt;Rewind&lt;/a&gt; page to nudge me to read my older posts. Interesting to see how my thought processes and writing has shifted over the years. This might also serve as a tool to fix any issues that might have crept in when I migrated over to Hugo. While at it, I also tweaked the &lt;a href=&#34;https://srikanthperinkulam.com/archives&#34;&gt;archives&lt;/a&gt; page a bit to make it less dense.&lt;a href=&#34;https://srikanthperinkulam.com/2024/12/12/rewind/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;</description>
-    </item>
-    <item>
-      <title>Around this day</title>
-      <link>https://srikanthperinkulam.com/rewind/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://srikanthperinkulam.com/rewind/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
