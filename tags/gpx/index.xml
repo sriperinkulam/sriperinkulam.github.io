@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gpx on Srikanth Perinkulam</title>
+    <title>GPX on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/gpx/index.xml</link>
-    <description>Recent content in Gpx on Srikanth Perinkulam</description>
+    <description>Recent content in GPX on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 21:30:00 -0500</lastBuildDate>
     <atom:link href="https://srikanthperinkulam.com/tags/gpx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mapping GPX</title>
+      <link>https://srikanthperinkulam.com/2025/01/24/mapping-gpx/</link>
+      <pubDate>Fri, 24 Jan 2025 21:30:00 -0500</pubDate>
+      <guid>https://srikanthperinkulam.com/2025/01/24/mapping-gpx/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/GPXmapping.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Took me a bit but I finally got a decent handle on displaying the gpx summary on the gpx map. Still a bunch of tweaks to make this look better but super happy with how this is shaping. &lt;a href=&#34;https://srikanthperinkulam.com/2025/01/24/mapping-gpx/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;</description>
+    </item>
     <item>
       <title>Replied to:Open workout tracking</title>
       <link>https://srikanthperinkulam.com/2017/07/02/replied-toopen-workout-tracking/</link>
