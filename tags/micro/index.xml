@@ -6,8 +6,15 @@
     <description>Recent content in Micro on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Feb 2025 21:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 21:30:00 -0500</lastBuildDate>
     <atom:link href="https://srikanthperinkulam.com/tags/micro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Implementing static comments</title>
+      <link>https://srikanthperinkulam.com/2025/02/05/implementing-static-comments/</link>
+      <pubDate>Wed, 05 Feb 2025 21:30:00 -0500</pubDate>
+      <guid>https://srikanthperinkulam.com/2025/02/05/implementing-static-comments/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/comments.png&#34; alt=&#34;&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;I bit the bullet and setup a rudimentary comment system for this site. For the last few months, I relied on &lt;a href=&#34;https://github.com/isso-comments/isso/&#34;&gt;ISSO&lt;/a&gt;, but it kinda felt a bit too heavy. Finally scratched the itch and switched over to a basic form and some javascript to push comments over to my self-hosted ntfy server. For now, I&amp;rsquo;ve left the moderation to manual mode - I have to copy over the comments manually from NTFY to a comments.json file. A GO script that usually publishes this site also builds the comments for each of the posts as needed  based on the posts&amp;rsquo; permalink. Pretty friction-less and nifty! &lt;a href=&#34;https://srikanthperinkulam.com/2025/02/05/implementing-static-comments/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;</description>
+    </item>
     <item>
       <title>Boba Stickers</title>
       <link>https://srikanthperinkulam.com/2025/02/01/boba-stickers/</link>
@@ -105,13 +112,6 @@
       <pubDate>Sun, 15 Dec 2024 06:30:00 -0500</pubDate>
       <guid>https://srikanthperinkulam.com/2024/12/15/piping-hot/</guid>
       <description>&lt;p&gt;Nothing to beat sunning on a calm and quite weekend morning with some steaming hot coffee.&#xA;&lt;div class=&#34;image-gallery&#34;&gt;&#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &lt;ul class=&#34;photo-list single-image&#34;&gt;&#xA;        &#xA;             &#xA;            &lt;li&gt;&#xA;                &lt;img src=&#34;./images/20241215_082140.jpg&#34; alt=&#34;20241215_082140.jpg&#34; /&gt;&#xA;            &lt;/li&gt;&#xA;        &#xA;    &lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.photo-list {&#xA;    display: flex;  &#xA;    flex-wrap: wrap;  &#xA;    margin: -1px;  &#xA;}&#xA;&#xA;.photo-list &gt; li {&#xA;    height: 40vh;  &#xA;    flex-grow: 1;  &#xA;    list-style-type: none;  &#xA;    margin: 1px;  &#xA;}&#xA;&#xA;.photo-list li img {&#xA;    max-height: 100%;  &#xA;    min-width: 100%;  &#xA;    object-fit: cover;  &#xA;    vertical-align: bottom;  &#xA;    border: 2px solid gray;  &#xA;}&#xA;&#xA;.photo-list li:last-child {&#xA;    flex-grow: 10;  &#xA;    border: none;  &#xA;}&#xA;&#xA; &#xA;.photo-list.single-image &gt; li {&#xA;    height: auto;  &#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;a href=&#34;https://srikanthperinkulam.com/2024/12/15/piping-hot/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;</description>
-    </item>
-    <item>
-      <title>Rewind</title>
-      <link>https://srikanthperinkulam.com/2024/12/12/rewind/</link>
-      <pubDate>Thu, 12 Dec 2024 21:25:00 -0500</pubDate>
-      <guid>https://srikanthperinkulam.com/2024/12/12/rewind/</guid>
-      <description>&lt;p&gt;Built a &lt;a href=&#34;https://srikanthperinkulam.com/rewind&#34;&gt;Rewind&lt;/a&gt; page to nudge me to read my older posts. Interesting to see how my thought processes and writing has shifted over the years. This might also serve as a tool to fix any issues that might have crept in when I migrated over to Hugo. While at it, I also tweaked the &lt;a href=&#34;https://srikanthperinkulam.com/archives&#34;&gt;archives&lt;/a&gt; page a bit to make it less dense.&lt;a href=&#34;https://srikanthperinkulam.com/2024/12/12/rewind/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;</description>
     </item>
   </channel>
 </rss>

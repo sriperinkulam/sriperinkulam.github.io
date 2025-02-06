@@ -2,34 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://srikanthperinkulam.com/date/2025-02-05-213000--0500--0500/</loc>
+    <lastmod>2025-02-05T21:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://srikanthperinkulam.com/categories/</loc>
+    <lastmod>2025-02-05T21:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://srikanthperinkulam.com/tags/comments/</loc>
+    <lastmod>2025-02-05T21:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://srikanthperinkulam.com/date/</loc>
+    <lastmod>2025-02-05T21:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://srikanthperinkulam.com/2025/02/05/implementing-static-comments/</loc>
+    <lastmod>2025-02-05T21:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://srikanthperinkulam.com/tags/micro/</loc>
+    <lastmod>2025-02-05T21:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://srikanthperinkulam.com/posts/</loc>
+    <lastmod>2025-02-05T21:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://srikanthperinkulam.com/categories/site/</loc>
+    <lastmod>2025-02-05T21:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://srikanthperinkulam.com/</loc>
+    <lastmod>2025-02-05T21:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://srikanthperinkulam.com/tags/</loc>
+    <lastmod>2025-02-05T21:30:00-05:00</lastmod>
+  </url><url>
     <loc>https://srikanthperinkulam.com/date/2025-02-01-213000--0500--0500/</loc>
     <lastmod>2025-02-01T21:30:00-05:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/2025/02/01/boba-stickers/</loc>
     <lastmod>2025-02-01T21:30:00-05:00</lastmod>
   </url><url>
-    <loc>https://srikanthperinkulam.com/categories/</loc>
-    <lastmod>2025-02-01T21:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://srikanthperinkulam.com/date/</loc>
-    <lastmod>2025-02-01T21:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://srikanthperinkulam.com/tags/micro/</loc>
-    <lastmod>2025-02-01T21:30:00-05:00</lastmod>
-  </url><url>
     <loc>https://srikanthperinkulam.com/categories/photos/</loc>
     <lastmod>2025-02-01T21:30:00-05:00</lastmod>
   </url><url>
-    <loc>https://srikanthperinkulam.com/posts/</loc>
-    <lastmod>2025-02-01T21:30:00-05:00</lastmod>
-  </url><url>
     <loc>https://srikanthperinkulam.com/tags/shasta/</loc>
-    <lastmod>2025-02-01T21:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://srikanthperinkulam.com/</loc>
-    <lastmod>2025-02-01T21:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://srikanthperinkulam.com/tags/</loc>
     <lastmod>2025-02-01T21:30:00-05:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/date/2025-01-31-213000--0500--0500/</loc>
@@ -60,9 +72,6 @@
     <lastmod>2025-01-24T21:30:00-05:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/2025/01/24/mapping-gpx/</loc>
-    <lastmod>2025-01-24T21:30:00-05:00</lastmod>
-  </url><url>
-    <loc>https://srikanthperinkulam.com/categories/site/</loc>
     <lastmod>2025-01-24T21:30:00-05:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/date/2025-01-25-000000-&#43;0000-utc/</loc>
@@ -3068,18 +3077,6 @@
     <loc>https://srikanthperinkulam.com/2018/12/03/billy-on-the-potomac/</loc>
     <lastmod>2018-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://srikanthperinkulam.com/tags/billy-goat/</loc>
-    <lastmod>2018-12-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://srikanthperinkulam.com/tags/great-falls/</loc>
-    <lastmod>2018-12-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://srikanthperinkulam.com/tags/hikes/</loc>
-    <lastmod>2018-12-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://srikanthperinkulam.com/tags/potomac/</loc>
-    <lastmod>2018-12-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://srikanthperinkulam.com/date/2018-11-20-000000-&#43;0000-utc/</loc>
     <lastmod>2018-11-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -3096,9 +3093,6 @@
     <lastmod>2018-10-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/2018/10/23/honnold-attempt/</loc>
-    <lastmod>2018-10-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://srikanthperinkulam.com/tags/liberty-dam/</loc>
     <lastmod>2018-10-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/date/2018-08-14-000000-&#43;0000-utc/</loc>
@@ -3645,6 +3639,9 @@
     <lastmod>2017-09-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/tags/cunningham-falls-state-park/</loc>
+    <lastmod>2017-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://srikanthperinkulam.com/tags/hikes/</loc>
     <lastmod>2017-09-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/date/2017-08-29-000000-&#43;0000-utc/</loc>
