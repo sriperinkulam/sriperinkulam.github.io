@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Feb 2025 21:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 20:30:00 -0500</lastBuildDate>
     <atom:link href="https://srikanthperinkulam.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hiking</title>
+      <link>https://srikanthperinkulam.com/categories/hiking/index.xml</link>
+      <pubDate>Sat, 08 Feb 2025 20:30:00 -0500</pubDate>
+      <guid>https://srikanthperinkulam.com/categories/hiking/index.xml</guid>
+      <description></description>
+    </item>
     <item>
       <title>Site</title>
       <link>https://srikanthperinkulam.com/categories/site/index.xml</link>
@@ -34,13 +41,6 @@
       <link>https://srikanthperinkulam.com/categories/activities/index.xml</link>
       <pubDate>Sun, 19 Jan 2025 21:30:00 -0500</pubDate>
       <guid>https://srikanthperinkulam.com/categories/activities/index.xml</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hiking</title>
-      <link>https://srikanthperinkulam.com/categories/hiking/index.xml</link>
-      <pubDate>Sun, 19 Jan 2025 21:30:00 -0500</pubDate>
-      <guid>https://srikanthperinkulam.com/categories/hiking/index.xml</guid>
       <description></description>
     </item>
     <item>
