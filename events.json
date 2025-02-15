@@ -1,0 +1,49 @@
+{
+  "life": {
+    "Event1": {
+      "date": "2023-01-01",
+      "emoji": "🎉",
+      "note": "New Year's Celebration"
+    },
+    "Event2": {
+      "date": "2023-02-15",
+      "emoji": "❤️",
+      "note": "Valentine's Day"
+    },
+    "Event3": {
+      "date": "2023-03-10",
+      "emoji": "🎂",
+      "note": "Birthday Party"
+    }
+  },
+  "work": {
+    "Job1": {
+      "startdate": "2022-01-01",
+      "enddate": "2023-01-01"
+    },
+    "Job2": {
+      "startdate": "2023-02-01",
+      "enddate": "2023-12-31"
+    }
+  },
+  "play": {
+    "running": {
+      "event": "Marathon",
+      "date": "2023-04-20",
+      "emoji": "🏃‍♂️"
+    },
+    "hiking": {
+      "eventname": "Mountain Trail",
+      "date": "2023-05-15",
+      "emoji": "🥾"
+    }
+  },
+  "study": {
+    "education_entity": {
+      "startdate": "2020-09-01",
+      "finishdate": "2024-06-30",
+      "notes": "Pursuing a Bachelor's degree in Computer Science",
+      "emoji": "🎓"
+    }
+  }
+}
