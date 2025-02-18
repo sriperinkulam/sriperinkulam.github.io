@@ -6,8 +6,22 @@
     <description>Recent content in Categories on Srikanth Perinkulam</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Feb 2025 21:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2025 21:30:00 -0500</lastBuildDate>
     <atom:link href="https://srikanthperinkulam.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biking</title>
+      <link>https://srikanthperinkulam.com/categories/biking/index.xml</link>
+      <pubDate>Sun, 16 Feb 2025 21:30:00 -0500</pubDate>
+      <guid>https://srikanthperinkulam.com/categories/biking/index.xml</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photos</title>
+      <link>https://srikanthperinkulam.com/categories/photos/index.xml</link>
+      <pubDate>Sun, 16 Feb 2025 21:30:00 -0500</pubDate>
+      <guid>https://srikanthperinkulam.com/categories/photos/index.xml</guid>
+      <description></description>
+    </item>
     <item>
       <title>Status</title>
       <link>https://srikanthperinkulam.com/categories/status/index.xml</link>
@@ -27,13 +41,6 @@
       <link>https://srikanthperinkulam.com/categories/site/index.xml</link>
       <pubDate>Wed, 05 Feb 2025 21:30:00 -0500</pubDate>
       <guid>https://srikanthperinkulam.com/categories/site/index.xml</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Photos</title>
-      <link>https://srikanthperinkulam.com/categories/photos/index.xml</link>
-      <pubDate>Sat, 01 Feb 2025 21:30:00 -0500</pubDate>
-      <guid>https://srikanthperinkulam.com/categories/photos/index.xml</guid>
       <description></description>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <link>https://srikanthperinkulam.com/categories/tech/index.xml</link>
       <pubDate>Fri, 29 Nov 2024 22:41:00 -0500</pubDate>
       <guid>https://srikanthperinkulam.com/categories/tech/index.xml</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Misc</title>
-      <link>https://srikanthperinkulam.com/categories/misc/index.xml</link>
-      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://srikanthperinkulam.com/categories/misc/index.xml</guid>
       <description></description>
     </item>
   </channel>
