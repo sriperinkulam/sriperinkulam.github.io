@@ -1,4 +1,4 @@
-<!doctype html><html lang=en dir=auto><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta name=robots content="index, follow"><title>Network auto-latch | Srikanth Perinkulam</title>
+<!doctype html><html lang=en dir=auto><head><meta name=robots content="noindex"><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta name=robots content="index, follow"><title>Network auto-latch | Srikanth Perinkulam</title>
 <meta name=keywords content="network,nextcloud"><meta name=description content="I realised the raspberry pi that hosts my nextcloud setup wasn&rsquo;t quite latching back on to the network if the router was turned off or if the internet was sketchy. Was a pain to hard boot the device manually to reset it. Decided to write a short script to reset the network connection when it noticed something was off.
 
 ping -c4 192.168.0.1 > /dev/null
