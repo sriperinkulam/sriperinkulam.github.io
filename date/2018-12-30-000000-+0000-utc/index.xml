@@ -1,12 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2018-12-30 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2018-12-30-000000-&#43;0000-utc/index.xml</link>
-    <description>Rexent content in 2018-12-30 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2018-12-30 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2018-12-30-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2018-12-30-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>30 Dec 2018 00:00</title>
+      <link>https://srikanthperinkulam.com/2018/12/30/gun-powder-falls-hike/</link>
+      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2018/12/30/gun-powder-falls-hike/</guid>
+      <description>&lt;p&gt;Had my eyes on this trial ever since I saw the &amp;lsquo;Gun powder falls state park&amp;rsquo; sign on I95. Drove over for about 30mins with Sharath to get here this afternoon.&lt;/p&gt;
+&lt;p&gt;Pretty surprised not to find many folks on this trail. The weather was just right and this short 5 mile round trip hike was precisely what we needed to close out 2018. The short stream crossing at the end of the trail was an added bonus!&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Had my eyes on this trial ever since I saw the &lsquo;Gun powder falls state park&rsquo; sign on I95. Drove over for about 30mins with Sharath to get here this afternoon.</p>
+<p>Pretty surprised not to find many folks on this trail. The weather was just right and this short 5 mile round trip hike was precisely what we needed to close out 2018. The short stream crossing at the end of the trail was an added bonus!</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

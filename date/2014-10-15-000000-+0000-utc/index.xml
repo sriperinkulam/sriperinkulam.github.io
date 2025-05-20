@@ -1,12 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2014-10-15 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2014-10-15-000000-&#43;0000-utc/index.xml</link>
-    <description>Rexent content in 2014-10-15 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2014-10-15 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2014-10-15-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Oct 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2014-10-15-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>15 Oct 2014 00:00</title>
+      <link>https://srikanthperinkulam.com/2014/10/15/freediving/</link>
+      <pubDate>Wed, 15 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2014/10/15/freediving/</guid>
+      <description>&lt;p&gt;The very concept of diving to depths without any apparatus, Japanese Ama tribe, Spear-Fishing  - Learning about these for the first time today!  Mind boggling!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://srikanthperinkulam.com/book-review/deep-freediving&#34; title=&#34;Deep: Freediving and What the Ocean Tells Us about Ourselves&#34;&gt;Deep: Freediving and What the Ocean Tells Us about Ourselves&lt;/a&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>The very concept of diving to depths without any apparatus, Japanese Ama tribe, Spear-Fishing  - Learning about these for the first time today!  Mind boggling!</p>
+<p><a href="https://srikanthperinkulam.com/book-review/deep-freediving" title="Deep: Freediving and What the Ocean Tells Us about Ourselves">Deep: Freediving and What the Ocean Tells Us about Ourselves</a></p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

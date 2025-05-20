@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2017-07-28 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2017-07-28-000000-&#43;0000-utc/index.xml</link>
-    <description>Rexent content in 2017-07-28 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2017-07-28 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2017-07-28-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jul 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2017-07-28-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>28 Jul 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/07/28/bookmarkmount-jefferson-mount-washington-day-hike/</link>
+      <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/07/28/bookmarkmount-jefferson-mount-washington-day-hike/</guid>
+      <description>&lt;p&gt;#Mt. Jefferson #Mt Washington loop via Jewel trail, Great gulf trail, Crawford path, lake of the clouds AMC Hut, Amoonosuc Ravine trail&lt;/p&gt;
+&lt;p&gt;Bookmark: &lt;a href=&#34;http://kaibab.org/kaibab.org/nh13g/nh13g.htm&#34;&gt;Mount Jefferson &amp;amp; Mount Washington day hike&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This day hike started at the parking area for the Mount Washington Cog Railroad off of Base Station Road in Bretton Woods, New Hampshire. The parking area is located right at the end of the road about 6 miles east from US Route 302.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;
+&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>#Mt. Jefferson #Mt Washington loop via Jewel trail, Great gulf trail, Crawford path, lake of the clouds AMC Hut, Amoonosuc Ravine trail</p>
+<p>Bookmark: <a href="http://kaibab.org/kaibab.org/nh13g/nh13g.htm">Mount Jefferson &amp; Mount Washington day hike</a></p>
+<blockquote>
+<p>This day hike started at the parking area for the Mount Washington Cog Railroad off of Base Station Road in Bretton Woods, New Hampshire. The parking area is located right at the end of the road about 6 miles east from US Route 302.</p>
+</blockquote>
+<p><img loading="lazy" src="images/cropped-cropped-SP01-550afdebv1_site_icon.png" alt=""  />
+<a href="https://srikanthperinkulam.com">Srikanth Perinkulam</a></p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Malabo on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/location/malabo/index.xml</link>
-    <description>Rexent content in Malabo on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Malabo on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/location/malabo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 May 2025 21:30:00 -0500</lastBuildDate><atom:link href="https://srikanthperinkulam.com/location/malabo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>15 May 2025 21:30</title>
+      <link>https://srikanthperinkulam.com/2025/05/15/malabo/</link>
+      <pubDate>Thu, 15 May 2025 21:30:00 -0500</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/05/15/malabo/</guid>
+      <description>&lt;p&gt;Back from a work trip in Malabo. Got there last Thursday and worked through the weekend. We completed a minor site upgrade and completed almost all of the planned work.&lt;/p&gt;
+&lt;p&gt;Didn&amp;rsquo;t quite get to explore any of the island since we were mostly shuttling back and forth from work. From what little I did get to see though, this place is beautiful. Between China&amp;rsquo;s belt and road initiative and the island&amp;rsquo;s oil money from the 90s, Infrastructure looked to be quite top notch. The airport terminal is quite spiffy.&lt;/p&gt;
+&lt;p&gt;Food was mediocre at best. The Magno hotel has a decent restaurant. Next time I&amp;rsquo;m here I should probably come over the weekend to explore the cafe&amp;rsquo;s and the boardwalk a bit.&lt;/p&gt;
+&lt;p&gt;The ~230 Ft towering Ceiba tree in the embassy compound is a terrific sight. Apparently this tree is quite prevalent all across Africa.&lt;/p&gt;
+&lt;p&gt;Internet in the hotel was barely functional - for call&amp;rsquo;s atleast. Looks like some port-blocking was definitely at play. Not having those daily calls back home maybe also made the trip feel a bit longer that it actually was? Need to go better prepared next time!
+&lt;a href=&#34;https://srikanthperinkulam.com/2025/05/15/malabo/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Back from a work trip in Malabo. Got there last Thursday and worked through the weekend. We completed a minor site upgrade and completed almost all of the planned work.</p>
+<p>Didn&rsquo;t quite get to explore any of the island since we were mostly shuttling back and forth from work. From what little I did get to see though, this place is beautiful. Between China&rsquo;s belt and road initiative and the island&rsquo;s oil money from the 90s, Infrastructure looked to be quite top notch. The airport terminal is quite spiffy.</p>
+<p>Food was mediocre at best. The Magno hotel has a decent restaurant. Next time I&rsquo;m here I should probably come over the weekend to explore the cafe&rsquo;s and the boardwalk a bit.</p>
+<p>The ~230 Ft towering Ceiba tree in the embassy compound is a terrific sight. Apparently this tree is quite prevalent all across Africa.</p>
+<p>Internet in the hotel was barely functional - for call&rsquo;s atleast. Looks like some port-blocking was definitely at play. Not having those daily calls back home maybe also made the trip feel a bit longer that it actually was? Need to go better prepared next time!
+<a href="https://srikanthperinkulam.com/2025/05/15/malabo/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>JMP on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/jmp/index.xml</link>
-    <description>Rexent content in JMP on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in JMP on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/jmp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Jun 2024 21:12:32 -0600</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/jmp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>09 Jun 2024 21:12</title>
+      <link>https://srikanthperinkulam.com/2024/06/09/jmp/</link>
+      <pubDate>Sun, 09 Jun 2024 21:12:32 -0600</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2024/06/09/jmp/</guid>
+      <description>&lt;p&gt;Been looking for a Google voice number replacement for sometime now and looks like I might have found one that meets most of my needs. Just got a &lt;a href=&#34;https://jmp.chat/&#34;&gt;JMP number&lt;/a&gt; and ordered a sim with a data plan. The cheogram app so far has been great and once I get the SIM I might slowly transition things out of GV.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Been looking for a Google voice number replacement for sometime now and looks like I might have found one that meets most of my needs. Just got a <a href="https://jmp.chat/">JMP number</a> and ordered a sim with a data plan. The cheogram app so far has been great and once I get the SIM I might slowly transition things out of GV.</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

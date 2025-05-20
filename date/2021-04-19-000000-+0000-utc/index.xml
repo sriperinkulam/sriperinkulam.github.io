@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2021-04-19 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2021-04-19-000000-&#43;0000-utc/index.xml</link>
-    <description>Rexent content in 2021-04-19 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2021-04-19 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2021-04-19-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2021-04-19-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>19 Apr 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/04/19/april-19-2021-2342/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/04/19/april-19-2021-2342/</guid>
+      <description>&lt;p&gt;I continue to be amazed at how hassle-free my Nextcloud setup on the RPi3 is! With automated upgrades on the NextxloudPi, I&amp;rsquo;ve barely had to login to the backend for maintenance. This has been my only file server since 2017 and the best &amp;rsquo;tech&amp;rsquo; investment so far! There&amp;rsquo;s absolutely no reason why anyone should be saving their photos/data on someone else&amp;rsquo;s machine these days!&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>I continue to be amazed at how hassle-free my Nextcloud setup on the RPi3 is! With automated upgrades on the NextxloudPi, I&rsquo;ve barely had to login to the backend for maintenance. This has been my only file server since 2017 and the best &rsquo;tech&rsquo; investment so far! There&rsquo;s absolutely no reason why anyone should be saving their photos/data on someone else&rsquo;s machine these days!</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

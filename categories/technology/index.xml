@@ -1,12 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Technology on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/categories/technology/index.xml</link>
-    <description>Rexent content in Technology on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Technology on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jan 2025 06:30:00 -0500</lastBuildDate><atom:link href="https://srikanthperinkulam.com/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>13 Jan 2025 06:30</title>
+      <link>https://srikanthperinkulam.com/2025/01/13/blue-dell-alert/</link>
+      <pubDate>Mon, 13 Jan 2025 06:30:00 -0500</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/01/13/blue-dell-alert/</guid>
+      <description>&lt;p&gt;Around 0300 today, I was woken up rudely to a blaring sound. For a moment I assumed it was from the Seismic City alert system that CDMX has. Turned out, it was from the old blue dell laptop that I currently use to run NextcloudPi. For some reason, looks like it rebooted and went into a huge panic mode because it lost time sync. Yanked all the cables and shut it down. Something to figure out over the next few days when I have time. &lt;a href=&#34;https://srikanthperinkulam.com/2025/01/13/blue-dell-alert/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Around 0300 today, I was woken up rudely to a blaring sound. For a moment I assumed it was from the Seismic City alert system that CDMX has. Turned out, it was from the old blue dell laptop that I currently use to run NextcloudPi. For some reason, looks like it rebooted and went into a huge panic mode because it lost time sync. Yanked all the cables and shut it down. Something to figure out over the next few days when I have time. <a href="https://srikanthperinkulam.com/2025/01/13/blue-dell-alert/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

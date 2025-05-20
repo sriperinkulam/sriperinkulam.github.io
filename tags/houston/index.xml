@@ -1,12 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Houston on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/houston/index.xml</link>
-    <description>Rexent content in Houston on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Houston on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/houston/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Jan 2025 21:30:00 -0500</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/houston/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>05 Jan 2025 21:30</title>
+      <link>https://srikanthperinkulam.com/2025/01/05/houston-calling/</link>
+      <pubDate>Sun, 05 Jan 2025 21:30:00 -0500</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/01/05/houston-calling/</guid>
+      <description>&lt;p&gt;We wanted to make it to Houston during S&amp;rsquo; Christmas break, because we very well knew we might not come here during our home leave. Oh boy, what a trip this has been in terms of travel snafus! On our way there we got routed to San Antonio and got grounded for a couple hours because of inclement weather en-route.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/houston.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;On the way back, we thought we missed our connection in Dallas because of a delayed departure from Houston, and re-booked for a later flight from Dallas. However, our connecting flight was delayed too and when I checked at the counter in Dallas if we could get switched back to our previous booking, the attendant said that wouldn&amp;rsquo;t be possible. M however was adamant and worked her magic. Looks like they had a &amp;lsquo;weight restriction&amp;rsquo; on the flight and M was able to convince them to flip back our reservations since we didn&amp;rsquo;t have anything to check-in.&lt;/p&gt;
+&lt;p&gt;The trip otherwise was pretty uneventful. Some good time with family, speckled with delicious home cooked food and some oh-so-okay outside food. Also note-to-self to make these trips shorter to just about two nights instead of week-long.&lt;a href=&#34;https://srikanthperinkulam.com/2025/01/05/houston-calling/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>We wanted to make it to Houston during S&rsquo; Christmas break, because we very well knew we might not come here during our home leave. Oh boy, what a trip this has been in terms of travel snafus! On our way there we got routed to San Antonio and got grounded for a couple hours because of inclement weather en-route.</p>
+<p><img loading="lazy" src="images/houston.jpg" alt=""  />
+</p>
+<p>On the way back, we thought we missed our connection in Dallas because of a delayed departure from Houston, and re-booked for a later flight from Dallas. However, our connecting flight was delayed too and when I checked at the counter in Dallas if we could get switched back to our previous booking, the attendant said that wouldn&rsquo;t be possible. M however was adamant and worked her magic. Looks like they had a &lsquo;weight restriction&rsquo; on the flight and M was able to convince them to flip back our reservations since we didn&rsquo;t have anything to check-in.</p>
+<p>The trip otherwise was pretty uneventful. Some good time with family, speckled with delicious home cooked food and some oh-so-okay outside food. Also note-to-self to make these trips shorter to just about two nights instead of week-long.<a href="https://srikanthperinkulam.com/2025/01/05/houston-calling/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

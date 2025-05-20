@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Rumors on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/rumors/index.xml</link>
-    <description>Rexent content in Rumors on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Rumors on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/rumors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 May 2008 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/rumors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>09 May 2008 00:00</title>
+      <link>https://srikanthperinkulam.com/2008/05/09/wheres-my-wife/</link>
+      <pubDate>Fri, 09 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2008/05/09/wheres-my-wife/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s been almost a month now that I&amp;rsquo;m married and I don&amp;rsquo;t even know who my wife is! :-)&lt;/p&gt;
+&lt;p&gt;Every junior who happens to talk to me asks the same question - Heard you&amp;rsquo;ve had a registered marriage! And you didn&amp;rsquo;t even tell me? All thanks to that wonderful person who&amp;rsquo;s started the rumour. And I wish I knew who that holy soul is!&lt;/p&gt;
+&lt;p&gt;Before the rumor does any more damage, This is just to officially declare that there was no registered marriage! I&amp;rsquo;m pretty much a bachelor! :-)&lt;/p&gt;
+&lt;p&gt;Ah! and if you happen to trace out that virtual wife of mine please do ask her to sign the same declaration here! :-)&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>It&rsquo;s been almost a month now that I&rsquo;m married and I don&rsquo;t even know who my wife is! :-)</p>
+<p>Every junior who happens to talk to me asks the same question - Heard you&rsquo;ve had a registered marriage! And you didn&rsquo;t even tell me? All thanks to that wonderful person who&rsquo;s started the rumour. And I wish I knew who that holy soul is!</p>
+<p>Before the rumor does any more damage, This is just to officially declare that there was no registered marriage! I&rsquo;m pretty much a bachelor! :-)</p>
+<p>Ah! and if you happen to trace out that virtual wife of mine please do ask her to sign the same declaration here! :-)</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2024-05-23 22:17:56 -0600 -0600 on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2024-05-23-221756--0600--0600/index.xml</link>
-    <description>Rexent content in 2024-05-23 22:17:56 -0600 -0600 on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2024-05-23 22:17:56 -0600 -0600 on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2024-05-23-221756--0600--0600/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 May 2024 22:17:56 -0600</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2024-05-23-221756--0600--0600/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>23 May 2024 22:17</title>
+      <link>https://srikanthperinkulam.com/2024/05/23/digital-photo-frame/</link>
+      <pubDate>Thu, 23 May 2024 22:17:56 -0600</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2024/05/23/digital-photo-frame/</guid>
+      <description>&lt;p&gt;Used the spare RPI3 I salvaged from the &lt;a href=&#34;https://srikanthperinkulam.com/posts/2024/05/nextcloudpi/&#34;&gt;NCP migration&lt;/a&gt; and made a decent digital photo frame. Ever since I consolidated all my photos, I’ve been wanting to setup a digital frame that would take us back in time on command. Some version of ‘On this day’ – but for photos. I think I have a solution that is close to what I had in mind. The photos are currently on a USB drive synced from my Nextcloud server via a cron job. I still need to work out how I choose what photos get displayed when. But so far, I am pretty happy with how this has turned out.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Used the spare RPI3 I salvaged from the <a href="https://srikanthperinkulam.com/posts/2024/05/nextcloudpi/">NCP migration</a> and made a decent digital photo frame. Ever since I consolidated all my photos, I’ve been wanting to setup a digital frame that would take us back in time on command. Some version of ‘On this day’ – but for photos. I think I have a solution that is close to what I had in mind. The photos are currently on a USB drive synced from my Nextcloud server via a cron job. I still need to work out how I choose what photos get displayed when. But so far, I am pretty happy with how this has turned out.</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

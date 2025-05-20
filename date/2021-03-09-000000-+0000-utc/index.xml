@@ -1,12 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2021-03-09 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2021-03-09-000000-&#43;0000-utc/index.xml</link>
-    <description>Rexent content in 2021-03-09 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2021-03-09 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2021-03-09-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2021-03-09-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>09 Mar 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/03/09/health-insurance-woes/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/03/09/health-insurance-woes/</guid>
+      <description>&lt;p&gt;Pleasantly surprised to read this piece from ProPublica/NPR. Michael Frank was my professor for a Health Insurance course I took while at Columbia and he was a terrific one at it. Though I moved on to Property and Casualty Insurance as an Actuarial Analyst, I continue to be intrigued by Health. Who wouldn&amp;rsquo;t be - Such an entangled mess that the U.S. Insurance space is!&lt;/p&gt;
+&lt;p&gt;Now, don&amp;rsquo;t get me wrong. I am a strong proponent of Insurance. I&amp;rsquo;ve spent years mining through claims data and have seen the tremendous benefits, a well structured Insurance plan provides - for both parties involved. Where we&amp;rsquo;re actually faltering is the policies and regulations that govern the Insurance markets. Profits drive decisions and the U.S. healthcare system is on an abysmal downward spiral latching on to just the monetary front. Why in this day and age is it unclear how much I might owe when I visit my Physician or undergo a procedure? I&amp;rsquo;d much rather pay higher taxes than live in eternal uncertainty.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s not going to happen anytime soon and till we even see that silver lining, all one can do is rely on things like &lt;a href=&#34;https://www.healthcarebluebook.com&#34;&gt;Healthcare Bluebook&lt;/a&gt; and make triple-sure every single doctor who&amp;rsquo;s going to be getting any close to you is in-network on your health plan!&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Pleasantly surprised to read this piece from ProPublica/NPR. Michael Frank was my professor for a Health Insurance course I took while at Columbia and he was a terrific one at it. Though I moved on to Property and Casualty Insurance as an Actuarial Analyst, I continue to be intrigued by Health. Who wouldn&rsquo;t be - Such an entangled mess that the U.S. Insurance space is!</p>
+<p>Now, don&rsquo;t get me wrong. I am a strong proponent of Insurance. I&rsquo;ve spent years mining through claims data and have seen the tremendous benefits, a well structured Insurance plan provides - for both parties involved. Where we&rsquo;re actually faltering is the policies and regulations that govern the Insurance markets. Profits drive decisions and the U.S. healthcare system is on an abysmal downward spiral latching on to just the monetary front. Why in this day and age is it unclear how much I might owe when I visit my Physician or undergo a procedure? I&rsquo;d much rather pay higher taxes than live in eternal uncertainty.</p>
+<p>That&rsquo;s not going to happen anytime soon and till we even see that silver lining, all one can do is rely on things like <a href="https://www.healthcarebluebook.com">Healthcare Bluebook</a> and make triple-sure every single doctor who&rsquo;s going to be getting any close to you is in-network on your health plan!</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

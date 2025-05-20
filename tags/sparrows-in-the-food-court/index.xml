@@ -1,12 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sparrows-in-the-Food-Court on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/sparrows-in-the-food-court/index.xml</link>
-    <description>Rexent content in Sparrows-in-the-Food-Court on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Sparrows-in-the-Food-Court on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/sparrows-in-the-food-court/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Apr 2008 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/sparrows-in-the-food-court/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>28 Apr 2008 00:00</title>
+      <link>https://srikanthperinkulam.com/2008/04/28/breakfast-at-800/</link>
+      <pubDate>Mon, 28 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2008/04/28/breakfast-at-800/</guid>
+      <description>&lt;p&gt;Breakfast here in the Pune DC is pretty fascinating! The huge food court with its high raised ceiling and the glass facades does make for a beautiful start.&lt;/p&gt;
+&lt;p&gt;The other day while Adi and I were having breakfast , I felt a strange sensation on my head. Someone was pulling my hair. It took me only a moment to realise there was a sparrow sitting on my head! :-) Oh Yes! We have sparrows in the food court! Nope..not caged one&amp;rsquo;s, these are left free to flutter all over and believe me, they totally use their freedom :-) !&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s real fun to see them have their breakfast from someone&amp;rsquo;s plate. You leave your plate unattended for sometime and you&amp;rsquo;re all set to have proper company! Almost every other day you get to see people running half the span of the court to shoo the sparrows feasting on their meal when they&amp;rsquo;d left it on the table to grab a cup of coffee at the other end :-) ! Even the most somber guy in the crowd starts smiling! Besides, the chirps they keep making make the whole ambience really plesant! What more of a refreshing start for a day could you ask for?&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Breakfast here in the Pune DC is pretty fascinating! The huge food court with its high raised ceiling and the glass facades does make for a beautiful start.</p>
+<p>The other day while Adi and I were having breakfast , I felt a strange sensation on my head. Someone was pulling my hair. It took me only a moment to realise there was a sparrow sitting on my head! :-) Oh Yes! We have sparrows in the food court! Nope..not caged one&rsquo;s, these are left free to flutter all over and believe me, they totally use their freedom :-) !</p>
+<p>It&rsquo;s real fun to see them have their breakfast from someone&rsquo;s plate. You leave your plate unattended for sometime and you&rsquo;re all set to have proper company! Almost every other day you get to see people running half the span of the court to shoo the sparrows feasting on their meal when they&rsquo;d left it on the table to grab a cup of coffee at the other end :-) ! Even the most somber guy in the crowd starts smiling! Besides, the chirps they keep making make the whole ambience really plesant! What more of a refreshing start for a day could you ask for?</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

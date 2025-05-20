@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Network on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/network/index.xml</link>
-    <description>Rexent content in Network on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Network on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/network/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/network/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>25 Oct 2019 00:00</title>
+      <link>https://srikanthperinkulam.com/2019/10/25/network-auto-latch/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2019/10/25/network-auto-latch/</guid>
+      <description>&lt;p&gt;I realised the raspberry pi that hosts my &lt;a href=&#34;https://srikanthperinkulam.com/?s=nextcloud&#34;&gt;nextcloud setup&lt;/a&gt; wasn&amp;rsquo;t quite latching back on to the network if the router was turned off or if the internet was sketchy. Was a pain to hard boot the device manually to reset it. Decided to write a short script to reset the network connection when it noticed something was off.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;
+ping -c4 192.168.0.1 &amp;gt; /dev/null
+if [ $? != 0 ] 
+then
+  echo &amp;#34;SOS..Restarting eth0 for network latch&amp;#34;
+  /sbin/ifdown &amp;#39;eth0&amp;#39;
+  sleep 5
+  /sbin/ifup --force &amp;#39;eth0&amp;#39;
+fi
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;A chron job runs every 10 minutes to take pulse of the network, runs the above code and picks up connectivity without manual intervention!&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>I realised the raspberry pi that hosts my <a href="https://srikanthperinkulam.com/?s=nextcloud">nextcloud setup</a> wasn&rsquo;t quite latching back on to the network if the router was turned off or if the internet was sketchy. Was a pain to hard boot the device manually to reset it. Decided to write a short script to reset the network connection when it noticed something was off.</p>
+<pre tabindex="0"><code>
+ping -c4 192.168.0.1 &gt; /dev/null
+if [ $? != 0 ] 
+then
+  echo &#34;SOS..Restarting eth0 for network latch&#34;
+  /sbin/ifdown &#39;eth0&#39;
+  sleep 5
+  /sbin/ifup --force &#39;eth0&#39;
+fi
+</code></pre><p>A chron job runs every 10 minutes to take pulse of the network, runs the above code and picks up connectivity without manual intervention!</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

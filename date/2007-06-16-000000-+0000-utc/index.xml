@@ -1,12 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2007-06-16 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2007-06-16-000000-&#43;0000-utc/index.xml</link>
-    <description>Rexent content in 2007-06-16 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2007-06-16 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2007-06-16-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jun 2007 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2007-06-16-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>16 Jun 2007 00:00</title>
+      <link>https://srikanthperinkulam.com/2007/06/16/the-440lx-is-no-more/</link>
+      <pubDate>Sat, 16 Jun 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2007/06/16/the-440lx-is-no-more/</guid>
+      <description>&lt;p&gt;My first off the system post from a friends machine.&lt;/p&gt;
+&lt;p&gt;My dear system buckled down totally today and looking at the symptoms there&amp;rsquo;s every reason for me to believe it has breathed it&amp;rsquo;s last! :-( The final moments it did throb to the core and when it missed the beat hell went loose.&lt;/p&gt;
+&lt;p&gt;Moments before entering the comatose state, it showed sporadic electrical activity. Dementia soon crept in and repetitive resuscitation techniques ;-) too failed. The arterial links on the MB paved way soon failing to identify not alone the HDD but also other vital devices.&lt;/p&gt;
+&lt;p&gt;Aged 9 when she passed out and survived by none technically, She&amp;rsquo;s been a wonderful piece of assembly by the years. A brief look up into her distant progenies reveals a number of branched out prospective replacements. Though due consideration is being given to the suitable replacement, it goes without saying, the memories that she leaves behind.&lt;/p&gt;
+&lt;p&gt;May her soul rest in peace! Amen!&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>My first off the system post from a friends machine.</p>
+<p>My dear system buckled down totally today and looking at the symptoms there&rsquo;s every reason for me to believe it has breathed it&rsquo;s last! :-( The final moments it did throb to the core and when it missed the beat hell went loose.</p>
+<p>Moments before entering the comatose state, it showed sporadic electrical activity. Dementia soon crept in and repetitive resuscitation techniques ;-) too failed. The arterial links on the MB paved way soon failing to identify not alone the HDD but also other vital devices.</p>
+<p>Aged 9 when she passed out and survived by none technically, She&rsquo;s been a wonderful piece of assembly by the years. A brief look up into her distant progenies reveals a number of branched out prospective replacements. Though due consideration is being given to the suitable replacement, it goes without saying, the memories that she leaves behind.</p>
+<p>May her soul rest in peace! Amen!</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

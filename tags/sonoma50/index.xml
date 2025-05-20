@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sonoma50 on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/sonoma50/index.xml</link>
-    <description>Rexent content in Sonoma50 on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Sonoma50 on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/sonoma50/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Sep 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/sonoma50/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>10 Sep 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/09/10/bookmarkwhy-not./</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/09/10/bookmarkwhy-not./</guid>
+      <description>&lt;p&gt;This guys is such an inspiration! [embed]https://www.youtube.com/watch?v=x6xz_dN16so[/embed]&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;
+&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>This guys is such an inspiration! [embed]https://www.youtube.com/watch?v=x6xz_dN16so[/embed]</p>
+<p> </p>
+<p><img loading="lazy" src="images/cropped-cropped-SP01-550afdebv1_site_icon.png" alt=""  />
+<a href="https://srikanthperinkulam.com">Srikanth Perinkulam</a></p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

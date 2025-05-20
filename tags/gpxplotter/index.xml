@@ -1,12 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Gpxplotter on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/gpxplotter/index.xml</link>
-    <description>Rexent content in Gpxplotter on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Gpxplotter on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/gpxplotter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/gpxplotter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>06 Feb 2022 00:00</title>
+      <link>https://srikanthperinkulam.com/2022/02/06/garmin/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2022/02/06/garmin/</guid>
+      <description>&lt;p&gt;As I slowly get back into running, I realized my &lt;a href=&#34;https://srikanthperinkulam.com/2021/05/30/owning-my-garmin-data/&#34;&gt;garmin plugin&lt;/a&gt; had a minor bug. When I built this last year, I had inadvertently hard-coded the years field in the &lt;a href=&#34;https://srikanthperinkulam.com/garmin-stats/&#34;&gt;summary&lt;/a&gt; and the totals for the current year where obviously messed up. For now I&amp;rsquo;ve patched it with a quick-fix. Will have to automate it when I have a bit more time and I think I already know what needs to be done.&lt;/p&gt;
+&lt;p&gt;On that note, I also chanced upon &lt;a href=&#34;https://www.andersle.no/posts/2018/gpxplot/gpxplot.html&#34;&gt;Anders&lt;/a&gt;&amp;rsquo; terrific &lt;a href=&#34;https://github.com/andersle/gpxplotter&#34;&gt;gpxplotter&lt;/a&gt;. With slight modifications I should be able to generate neat map tiles from the GPX files and incorporate it my plugin. Project for another day but I am pretty excited about this!&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>As I slowly get back into running, I realized my <a href="https://srikanthperinkulam.com/2021/05/30/owning-my-garmin-data/">garmin plugin</a> had a minor bug. When I built this last year, I had inadvertently hard-coded the years field in the <a href="https://srikanthperinkulam.com/garmin-stats/">summary</a> and the totals for the current year where obviously messed up. For now I&rsquo;ve patched it with a quick-fix. Will have to automate it when I have a bit more time and I think I already know what needs to be done.</p>
+<p>On that note, I also chanced upon <a href="https://www.andersle.no/posts/2018/gpxplot/gpxplot.html">Anders</a>&rsquo; terrific <a href="https://github.com/andersle/gpxplotter">gpxplotter</a>. With slight modifications I should be able to generate neat map tiles from the GPX files and incorporate it my plugin. Project for another day but I am pretty excited about this!</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

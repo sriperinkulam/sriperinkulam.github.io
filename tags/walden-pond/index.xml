@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Walden-Pond on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/walden-pond/index.xml</link>
-    <description>Rexent content in Walden-Pond on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Walden-Pond on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/walden-pond/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/walden-pond/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>03 Jun 2018 00:00</title>
+      <link>https://srikanthperinkulam.com/2018/06/03/kayaking-in-walden-pond/</link>
+      <pubDate>Sun, 03 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2018/06/03/kayaking-in-walden-pond/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/1528083335.jpg&#34; alt=&#34;Thoreau&amp;rsquo;d&#34;  /&gt;
+
+Photo taken at: Walden Pond State Reservation&lt;/p&gt;
+&lt;p&gt;Absolutely spell-bound. This is one place I would love to go back to!&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/1528083335.jpg" alt="Thoreau&rsquo;d"  />
+
+Photo taken at: Walden Pond State Reservation</p>
+<p>Absolutely spell-bound. This is one place I would love to go back to!</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

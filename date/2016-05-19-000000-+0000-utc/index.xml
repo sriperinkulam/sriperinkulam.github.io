@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2016-05-19 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2016-05-19-000000-&#43;0000-utc/index.xml</link>
-    <description>Rexent content in 2016-05-19 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2016-05-19 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2016-05-19-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 May 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2016-05-19-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>19 May 2016 00:00</title>
+      <link>https://srikanthperinkulam.com/2016/05/19/diving-into-the-unknown/</link>
+      <pubDate>Thu, 19 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2016/05/19/diving-into-the-unknown/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;After a terrible accident deep inside an underwater cave, the survivors are compelled to risk their own lives to bring the bodies of their friends home.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://www.divingintotheunknown.com/en&#34;&gt;Diving into the Unknown&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<blockquote>
+<p>After a terrible accident deep inside an underwater cave, the survivors are compelled to risk their own lives to bring the bodies of their friends home.</p>
+</blockquote>
+<p>Source: <em><a href="http://www.divingintotheunknown.com/en">Diving into the Unknown</a></em></p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

@@ -1,12 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2021-05-28 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2021-05-28-000000-&#43;0000-utc/index.xml</link>
-    <description>Rexent content in 2021-05-28 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2021-05-28 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2021-05-28-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2021-05-28-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>28 May 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/05/28/may-28-2021-2016/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/05/28/may-28-2021-2016/</guid>
+      <description>&lt;p&gt;It just struck me today how much I love writing crude, rewarding code. The type that is just sufficient to get the job done and that which &amp;lsquo;scratches your itch&amp;rsquo; and might probably be useful for someone else too.&lt;/p&gt;
+&lt;p&gt;I am not a software developer. Never been one. My day job is far, far from it. It&amp;rsquo;s been more than a decade that I&amp;rsquo;ve worked in a software firm. And even when I did, a good bunch of my time then was spent of mainframe code [Rexx / JCL] and Change Management.&lt;/p&gt;
+&lt;p&gt;All code that I write today is self-taught. Which is probably why it&amp;rsquo;s crude? But beautiful it is, because it challenges me to think of logic first and semantics next. It pushes me to find the quickest way possible because I know exactly what I want it to do. And most importantly it keeps my mind fired and active!&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>It just struck me today how much I love writing crude, rewarding code. The type that is just sufficient to get the job done and that which &lsquo;scratches your itch&rsquo; and might probably be useful for someone else too.</p>
+<p>I am not a software developer. Never been one. My day job is far, far from it. It&rsquo;s been more than a decade that I&rsquo;ve worked in a software firm. And even when I did, a good bunch of my time then was spent of mainframe code [Rexx / JCL] and Change Management.</p>
+<p>All code that I write today is self-taught. Which is probably why it&rsquo;s crude? But beautiful it is, because it challenges me to think of logic first and semantics next. It pushes me to find the quickest way possible because I know exactly what I want it to do. And most importantly it keeps my mind fired and active!</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

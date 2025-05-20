@@ -1,12 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2007-12-15 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2007-12-15-000000-&#43;0000-utc/index.xml</link>
-    <description>Rexent content in 2007-12-15 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2007-12-15 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2007-12-15-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Dec 2007 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2007-12-15-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>15 Dec 2007 00:00</title>
+      <link>https://srikanthperinkulam.com/2007/12/15/transition.../</link>
+      <pubDate>Sat, 15 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2007/12/15/transition.../</guid>
+      <description>&lt;p&gt;Two weeks and counting! :-)&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve got Ubuntu and Microsoft Xp installed on my system with dual boot configured. Still I haven&amp;rsquo;t logged into Windows for two weeks! The moment I&amp;rsquo;m in front of my desktop once I&amp;rsquo;m back from office, It&amp;rsquo;s Grub&amp;gt; modprobe&amp;gt; Ubuntu. I care a damn about windows now.&lt;/p&gt;
+&lt;p&gt;Last year connectivity and mouse issues held me up from shifting to Linux . Everything&amp;rsquo;s resolved now. Xp actually looks cheap dirt after two weeks of Ubuntu :-) .I&amp;rsquo;ve got Fiesty fawn for now and soon it&amp;rsquo;s gonna be Gutsy Gibbon! From a layman&amp;rsquo;s point of view, I&amp;rsquo;d say Fiesty is somewhere midway between XP and Vista. I&amp;rsquo;ve Heard exceptional reviews on Gutsy Gibbon. So i think it&amp;rsquo;s high time I say Good Bye to Windows!&lt;/p&gt;
+&lt;p&gt;A few snapshots of my desktop..&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://srikanthperinkulam.wordpress.com/2007/12/15/transition/97/&#34; title=&#34;3.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://srikanthperinkulam.wordpress.com/2007/12/15/transition/97/&#34; title=&#34;3.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Why should you purchase something when you can get a better one for free? Why should you pay or use a pirated copy when you can get the equivalent features without paying a dime? Help yourselves! Shift to Open Source.&lt;/p&gt;
+&lt;p&gt;Guys stop getting pirated copies! Help Microsoft! ;-)&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Two weeks and counting! :-)</p>
+<p>I&rsquo;ve got Ubuntu and Microsoft Xp installed on my system with dual boot configured. Still I haven&rsquo;t logged into Windows for two weeks! The moment I&rsquo;m in front of my desktop once I&rsquo;m back from office, It&rsquo;s Grub&gt; modprobe&gt; Ubuntu. I care a damn about windows now.</p>
+<p>Last year connectivity and mouse issues held me up from shifting to Linux . Everything&rsquo;s resolved now. Xp actually looks cheap dirt after two weeks of Ubuntu :-) .I&rsquo;ve got Fiesty fawn for now and soon it&rsquo;s gonna be Gutsy Gibbon! From a layman&rsquo;s point of view, I&rsquo;d say Fiesty is somewhere midway between XP and Vista. I&rsquo;ve Heard exceptional reviews on Gutsy Gibbon. So i think it&rsquo;s high time I say Good Bye to Windows!</p>
+<p>A few snapshots of my desktop..</p>
+<p><a href="http://srikanthperinkulam.wordpress.com/2007/12/15/transition/97/" title="3.png"></a></p>
+<p><a href="http://srikanthperinkulam.wordpress.com/2007/12/15/transition/97/" title="3.png"></a></p>
+<p>Why should you purchase something when you can get a better one for free? Why should you pay or use a pirated copy when you can get the equivalent features without paying a dime? Help yourselves! Shift to Open Source.</p>
+<p>Guys stop getting pirated copies! Help Microsoft! ;-)</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

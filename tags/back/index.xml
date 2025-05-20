@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Back on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/back/index.xml</link>
-    <description>Rexent content in Back on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Back on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/back/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/back/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>03 Feb 2024 00:00</title>
+      <link>https://srikanthperinkulam.com/2024/02/03/february-3-2024-0451/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2024/02/03/february-3-2024-0451/</guid>
+      <description>&lt;p&gt;After last weekends&amp;rsquo; hike, I threw my back out doing something super mundane. Had to take a day off work just to let it heal out. Tiny muscles I didn&amp;rsquo;t know existed were screaming out. If anything, it made me realise how incredibly complex our bodies are and a subtle reminder to strengthen the core.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>After last weekends&rsquo; hike, I threw my back out doing something super mundane. Had to take a day off work just to let it heal out. Tiny muscles I didn&rsquo;t know existed were screaming out. If anything, it made me realise how incredibly complex our bodies are and a subtle reminder to strengthen the core.</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

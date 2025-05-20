@@ -1,12 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Madras on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/madras/index.xml</link>
-    <description>Rexent content in Madras on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Madras on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/madras/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/madras/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>02 Feb 2022 00:00</title>
+      <link>https://srikanthperinkulam.com/2022/02/02/mc/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2022/02/02/mc/</guid>
+      <description>&lt;p&gt;Last evening we were at MC. The plan was to get a swim in and head back home. Been a while that we hung out here. 8 years? Nothing much has changed. Which is great, because it did bring back some great memories. I wish I chronicled these better then. The first time I was here, was to see if we wanted it to be a venue for the wedding. Thinking of which, wow it&amp;rsquo;s going to be 10 years soon! Time flies!&lt;/p&gt;
+&lt;p&gt;P and I decided to order some Orange Juice for ourselves. S joined and we got some snacks. In about twenty minutes rest of the family joined and we decided to go all in and have dinner here. Overlooking the greens and the river, this is one beautiful serene place. Nothing to beat an unplanned dinner together with the family. Should do this more often.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Last evening we were at MC. The plan was to get a swim in and head back home. Been a while that we hung out here. 8 years? Nothing much has changed. Which is great, because it did bring back some great memories. I wish I chronicled these better then. The first time I was here, was to see if we wanted it to be a venue for the wedding. Thinking of which, wow it&rsquo;s going to be 10 years soon! Time flies!</p>
+<p>P and I decided to order some Orange Juice for ourselves. S joined and we got some snacks. In about twenty minutes rest of the family joined and we decided to go all in and have dinner here. Overlooking the greens and the river, this is one beautiful serene place. Nothing to beat an unplanned dinner together with the family. Should do this more often.</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

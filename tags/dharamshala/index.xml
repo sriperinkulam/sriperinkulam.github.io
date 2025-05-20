@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Dharamshala on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/dharamshala/index.xml</link>
-    <description>Rexent content in Dharamshala on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Dharamshala on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/dharamshala/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Feb 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/dharamshala/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20 Feb 2012 00:00</title>
+      <link>https://srikanthperinkulam.com/2012/02/20/tour-of-kangra-ride/</link>
+      <pubDate>Mon, 20 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2012/02/20/tour-of-kangra-ride/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Day One 27th January, 2012&lt;/strong&gt; Dharamshala – Shahpur – Lunj – Masroor Rock Temples – Nagrota suriyan (Distance 85 kms)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Day Two 28th January, 2012&lt;/strong&gt; Nagrota suriyan – Ranital – Baroh – Nangni – Jaisinghpur – Andretta – Baijnath – Bir (103 kms)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Day Three 29th January, 2012&lt;/strong&gt; Bir – Baijnath – Palampur – Dharamshala (73 kms)&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+      <content:encoded><![CDATA[<p><strong>Day One 27th January, 2012</strong> Dharamshala – Shahpur – Lunj – Masroor Rock Temples – Nagrota suriyan (Distance 85 kms)</p>
+<p><strong>Day Two 28th January, 2012</strong> Nagrota suriyan – Ranital – Baroh – Nangni – Jaisinghpur – Andretta – Baijnath – Bir (103 kms)</p>
+<p><strong>Day Three 29th January, 2012</strong> Bir – Baijnath – Palampur – Dharamshala (73 kms)</p>
+<!-- raw HTML omitted -->
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

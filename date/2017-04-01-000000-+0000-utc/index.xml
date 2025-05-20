@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2017-04-01 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2017-04-01-000000-&#43;0000-utc/index.xml</link>
-    <description>Rexent content in 2017-04-01 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2017-04-01 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2017-04-01-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2017-04-01-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01 Apr 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/04/01/how-to-drink-wine/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/04/01/how-to-drink-wine/</guid>
+      <description>&lt;p&gt;Wine is pleasure and conviviality, it is culture and it makes food taste better. But wine can also be intimidating. This guide takes the anxiety out of shopping, buying and drinking wine.&lt;/p&gt;
+&lt;p&gt;Source: &lt;a href=&#34;https://cooking.nytimes.com/guides/41-how-to-drink-wine&#34;&gt;How to Drink Wine&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cooking.nytimes.com/guides/41-how-to-drink-wine&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Wine is pleasure and conviviality, it is culture and it makes food taste better. But wine can also be intimidating. This guide takes the anxiety out of shopping, buying and drinking wine.</p>
+<p>Source: <a href="https://cooking.nytimes.com/guides/41-how-to-drink-wine">How to Drink Wine</a></p>
+<p><a href="https://cooking.nytimes.com/guides/41-how-to-drink-wine"></a></p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>01 Apr 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/04/01/india-and-pakistan-escalate-nuclear-arms-race/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/04/01/india-and-pakistan-escalate-nuclear-arms-race/</guid>
+      <description>&lt;p&gt;ISLAMABAD, Pakistan—The nuclear arms race between India and Pakistan is intensifying, with new weaponry and more aggressive doctrines that are stoking tensions between two powers at growing risk of confrontation.&lt;/p&gt;
+&lt;p&gt;Just read: &lt;a href=&#34;https://www.wsj.com/articles/india-and-pakistan-escalate-nuclear-arms-race-1490983537?mod=e2tw&#34;&gt;India and Pakistan Escalate Nuclear Arms Race&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.wsj.com/articles/india-and-pakistan-escalate-nuclear-arms-race-1490983537?mod=e2tw&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>ISLAMABAD, Pakistan—The nuclear arms race between India and Pakistan is intensifying, with new weaponry and more aggressive doctrines that are stoking tensions between two powers at growing risk of confrontation.</p>
+<p>Just read: <a href="https://www.wsj.com/articles/india-and-pakistan-escalate-nuclear-arms-race-1490983537?mod=e2tw">India and Pakistan Escalate Nuclear Arms Race</a></p>
+<p><a href="https://www.wsj.com/articles/india-and-pakistan-escalate-nuclear-arms-race-1490983537?mod=e2tw"></a></p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

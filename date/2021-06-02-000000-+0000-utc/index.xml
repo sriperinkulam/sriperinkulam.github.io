@@ -1,12 +1,57 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2021-06-02 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2021-06-02-000000-&#43;0000-utc/index.xml</link>
-    <description>Rexent content in 2021-06-02 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2021-06-02 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2021-06-02-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2021-06-02-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>02 Jun 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/06/02/6900615478/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/06/02/6900615478/</guid>
+      <description>&lt;p&gt;Warmup,&lt;/p&gt;
+&lt;p&gt;8 rounds in 24 minutes:&lt;/p&gt;
+&lt;p&gt;{&lt;/p&gt;
+&lt;p&gt;Set 01: 10s Plank, 10s Cross-touches, 15s Burpees, rest&lt;/p&gt;
+&lt;p&gt;Set 02: 10s Hollow Hold, 10s Flutter kicks, 15s Laying down+Stand up, rest&lt;/p&gt;
+&lt;p&gt;Set 03: 10s Squat Parallel, 10s Partial Squats, 15s Squat jumps, rest&lt;/p&gt;
+&lt;p&gt;} x 8&lt;/p&gt;
+&lt;p&gt;Cool-down&lt;/p&gt;
+&lt;p&gt;2021-06-02 16:30:55 - &lt;strong&gt;The Quad 05/30&lt;/strong&gt; 🤸 Cardio for 00:35:58 Calories : 302 💓 : 135&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Warmup,</p>
+<p>8 rounds in 24 minutes:</p>
+<p>{</p>
+<p>Set 01: 10s Plank, 10s Cross-touches, 15s Burpees, rest</p>
+<p>Set 02: 10s Hollow Hold, 10s Flutter kicks, 15s Laying down+Stand up, rest</p>
+<p>Set 03: 10s Squat Parallel, 10s Partial Squats, 15s Squat jumps, rest</p>
+<p>} x 8</p>
+<p>Cool-down</p>
+<p>2021-06-02 16:30:55 - <strong>The Quad 05/30</strong> 🤸 Cardio for 00:35:58 Calories : 302 💓 : 135</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>02 Jun 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/06/02/june-2-2021-1013/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/06/02/june-2-2021-1013/</guid>
+      <description>&lt;p&gt;“You know, sometimes all you need is 20 seconds of insane courage, just literally 20 seconds of embarrassing bravery, and I promise you something great will come of it.”&lt;/p&gt;
+&lt;p&gt;– &lt;a href=&#34;https://www.dartmoorzoo.org.uk/ourstory/&#34;&gt;Benjamin Mee, (We Bought a Zoo, 2011)&lt;/a&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>“You know, sometimes all you need is 20 seconds of insane courage, just literally 20 seconds of embarrassing bravery, and I promise you something great will come of it.”</p>
+<p>– <a href="https://www.dartmoorzoo.org.uk/ourstory/">Benjamin Mee, (We Bought a Zoo, 2011)</a></p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

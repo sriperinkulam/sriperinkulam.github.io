@@ -1,12 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Lost-Generation on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/lost-generation/index.xml</link>
-    <description>Rexent content in Lost-Generation on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Lost-Generation on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/lost-generation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Apr 2009 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/lost-generation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>16 Apr 2009 00:00</title>
+      <link>https://srikanthperinkulam.com/2009/04/16/the-lost-generation/</link>
+      <pubDate>Thu, 16 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2009/04/16/the-lost-generation/</guid>
+      <description>&lt;p&gt;Came across this amazing video. Indeed creative!&lt;/p&gt;
+&lt;p&gt;[youtube=http://www.youtube.com/watch?v=42E2fAWM6rA&amp;amp;hl=en&amp;amp;fs=1]&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Came across this amazing video. Indeed creative!</p>
+<p>[youtube=http://www.youtube.com/watch?v=42E2fAWM6rA&amp;hl=en&amp;fs=1]</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

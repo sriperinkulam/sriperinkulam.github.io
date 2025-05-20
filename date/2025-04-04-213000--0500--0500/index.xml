@@ -1,12 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2025-04-04 21:30:00 -0500 -0500 on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2025-04-04-213000--0500--0500/index.xml</link>
-    <description>Rexent content in 2025-04-04 21:30:00 -0500 -0500 on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2025-04-04 21:30:00 -0500 -0500 on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2025-04-04-213000--0500--0500/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Apr 2025 21:30:00 -0500</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2025-04-04-213000--0500--0500/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>04 Apr 2025 21:30</title>
+      <link>https://srikanthperinkulam.com/2025/04/04/goli-soda/</link>
+      <pubDate>Fri, 04 Apr 2025 21:30:00 -0500</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/04/04/goli-soda/</guid>
+      <description>&lt;p&gt;S has developed a fascination for the GoliSoda! That thrill of popping the marble&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/GoliSoda.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;a href=&#34;https://srikanthperinkulam.com/2025/04/04/goli-soda/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+
+</description>
+      <content:encoded><![CDATA[<p>S has developed a fascination for the GoliSoda! That thrill of popping the marble&hellip;</p>
+<p><img loading="lazy" src="images/GoliSoda.jpg" alt=""  />
+</p>
+<a href="https://srikanthperinkulam.com/2025/04/04/goli-soda/" style="text-decoration: none !important;">🔗</a>
+
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

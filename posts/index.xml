@@ -1,12 +1,163 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/posts/index.xml</link>
-    <description>Rexent content in Posts on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Posts on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 May 2025 21:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>19 May 2025 21:30</title>
+      <link>https://srikanthperinkulam.com/2025/05/19/feeds/</link>
+      <pubDate>Mon, 19 May 2025 21:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/05/19/feeds/</guid>
+      <description>&lt;p&gt;I think I almost figured out how to have different feeds for tags and categories in Hugo! Modified the feed so the title is replaced with the publish date instead so feed readers display the content properly instead of just the title and a link to the post. Might still have a few kinks but I think we&amp;rsquo;re slowly getting there&amp;hellip;.
+&lt;a href=&#34;https://srikanthperinkulam.com/2025/05/19/feeds/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>I think I almost figured out how to have different feeds for tags and categories in Hugo! Modified the feed so the title is replaced with the publish date instead so feed readers display the content properly instead of just the title and a link to the post. Might still have a few kinks but I think we&rsquo;re slowly getting there&hellip;.
+<a href="https://srikanthperinkulam.com/2025/05/19/feeds/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>19 May 2025 21:30</title>
+      <link>https://srikanthperinkulam.com/2025/05/19/unbridged/</link>
+      <pubDate>Mon, 19 May 2025 21:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/05/19/unbridged/</guid>
+      <description>&lt;p&gt;Today was supposed to be a &amp;lsquo;Bridged&amp;rsquo; holiday. In this part of the world, the president apparently declares certain days to be holidays if they happen to fall adjacent to a previously declared public holiday and the weekend.&lt;/p&gt;
+&lt;p&gt;With tomorrow being Cameroon day, rumor was that today would be one of those bridged holidays. Sadly it wasn&amp;rsquo;t. Locally employed staff were definitely not happy. The Ambo did declare a 59 minute early release. Got the message while we were amidst a small project and not quite at a good stopping point. So we chugged along and head home when we were done. Will take it in spirit though. Merci Beaucoup! &lt;a href=&#34;https://srikanthperinkulam.com/2025/05/19/unbridged/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Today was supposed to be a &lsquo;Bridged&rsquo; holiday. In this part of the world, the president apparently declares certain days to be holidays if they happen to fall adjacent to a previously declared public holiday and the weekend.</p>
+<p>With tomorrow being Cameroon day, rumor was that today would be one of those bridged holidays. Sadly it wasn&rsquo;t. Locally employed staff were definitely not happy. The Ambo did declare a 59 minute early release. Got the message while we were amidst a small project and not quite at a good stopping point. So we chugged along and head home when we were done. Will take it in spirit though. Merci Beaucoup! <a href="https://srikanthperinkulam.com/2025/05/19/unbridged/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>15 May 2025 21:30</title>
+      <link>https://srikanthperinkulam.com/2025/05/15/malabo/</link>
+      <pubDate>Thu, 15 May 2025 21:30:00 -0500</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/05/15/malabo/</guid>
+      <description>&lt;p&gt;Back from a work trip in Malabo. Got there last Thursday and worked through the weekend. We completed a minor site upgrade and completed almost all of the planned work.&lt;/p&gt;
+&lt;p&gt;Didn&amp;rsquo;t quite get to explore any of the island since we were mostly shuttling back and forth from work. From what little I did get to see though, this place is beautiful. Between China&amp;rsquo;s belt and road initiative and the island&amp;rsquo;s oil money from the 90s, Infrastructure looked to be quite top notch. The airport terminal is quite spiffy.&lt;/p&gt;
+&lt;p&gt;Food was mediocre at best. The Magno hotel has a decent restaurant. Next time I&amp;rsquo;m here I should probably come over the weekend to explore the cafe&amp;rsquo;s and the boardwalk a bit.&lt;/p&gt;
+&lt;p&gt;The ~230 Ft towering Ceiba tree in the embassy compound is a terrific sight. Apparently this tree is quite prevalent all across Africa.&lt;/p&gt;
+&lt;p&gt;Internet in the hotel was barely functional - for call&amp;rsquo;s atleast. Looks like some port-blocking was definitely at play. Not having those daily calls back home maybe also made the trip feel a bit longer that it actually was? Need to go better prepared next time!
+&lt;a href=&#34;https://srikanthperinkulam.com/2025/05/15/malabo/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Back from a work trip in Malabo. Got there last Thursday and worked through the weekend. We completed a minor site upgrade and completed almost all of the planned work.</p>
+<p>Didn&rsquo;t quite get to explore any of the island since we were mostly shuttling back and forth from work. From what little I did get to see though, this place is beautiful. Between China&rsquo;s belt and road initiative and the island&rsquo;s oil money from the 90s, Infrastructure looked to be quite top notch. The airport terminal is quite spiffy.</p>
+<p>Food was mediocre at best. The Magno hotel has a decent restaurant. Next time I&rsquo;m here I should probably come over the weekend to explore the cafe&rsquo;s and the boardwalk a bit.</p>
+<p>The ~230 Ft towering Ceiba tree in the embassy compound is a terrific sight. Apparently this tree is quite prevalent all across Africa.</p>
+<p>Internet in the hotel was barely functional - for call&rsquo;s atleast. Looks like some port-blocking was definitely at play. Not having those daily calls back home maybe also made the trip feel a bit longer that it actually was? Need to go better prepared next time!
+<a href="https://srikanthperinkulam.com/2025/05/15/malabo/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>09 May 2025 21:30</title>
+      <link>https://srikanthperinkulam.com/2025/05/09/k-hotel/</link>
+      <pubDate>Fri, 09 May 2025 21:30:00 +0100</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/05/09/k-hotel/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/KHotelDouala.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Go big or go home! Love this beautiful photo on top of the headboard in this room. Also, Hello Pickles! &lt;a href=&#34;https://srikanthperinkulam.com/2025/05/09/k-hotel/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/KHotelDouala.jpg" alt=""  />
+</p>
+<p>Go big or go home! Love this beautiful photo on top of the headboard in this room. Also, Hello Pickles! <a href="https://srikanthperinkulam.com/2025/05/09/k-hotel/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>06 May 2025 21:30</title>
+      <link>https://srikanthperinkulam.com/2025/05/06/wtw/</link>
+      <pubDate>Tue, 06 May 2025 21:30:00 -0500</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/05/06/wtw/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/WTWDouala.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Spotted right in the same building as the Douala Embassy Branch Office. These folks are goddamn everywhere! There&amp;rsquo;s so little I knew about this firm back in 2015. Three good years doing some real fun work, but I&amp;rsquo;m so glad I walked out that April 1st ! &lt;a href=&#34;https://srikanthperinkulam.com/2025/05/06/wtw/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/WTWDouala.jpg" alt=""  />
+</p>
+<p>Spotted right in the same building as the Douala Embassy Branch Office. These folks are goddamn everywhere! There&rsquo;s so little I knew about this firm back in 2015. Three good years doing some real fun work, but I&rsquo;m so glad I walked out that April 1st ! <a href="https://srikanthperinkulam.com/2025/05/06/wtw/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>04 May 2025 20:30</title>
+      <link>https://srikanthperinkulam.com/2025/05/04/pinocchio/</link>
+      <pubDate>Sun, 04 May 2025 20:30:00 +0100</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/05/04/pinocchio/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/pinocchio.jpg&#34; alt=&#34;&#34;  /&gt;
+
+S wanted me to read Pinocchio out to her this afternoon. Later this night, right after she brushed her teeth, she innocently asked me if &amp;lsquo;wishing stars&amp;rsquo; were true. I of course, confirmed they did exist and that she had to patiently wait for the magic to come through. Now girl, not everything you read in books is true.&lt;/p&gt;
+&lt;p&gt;Not sure how long she&amp;rsquo;ll actually believe these things but I do hope to keep this awesome concept of &lt;a href=&#34;https://srikanthperinkulam.com/2023/12/26/magic/&#34;&gt;magic&lt;/a&gt; alive in her as much as I can.  &lt;a href=&#34;https://srikanthperinkulam.com/2025/05/04/pinocchio/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/pinocchio.jpg" alt=""  />
+
+S wanted me to read Pinocchio out to her this afternoon. Later this night, right after she brushed her teeth, she innocently asked me if &lsquo;wishing stars&rsquo; were true. I of course, confirmed they did exist and that she had to patiently wait for the magic to come through. Now girl, not everything you read in books is true.</p>
+<p>Not sure how long she&rsquo;ll actually believe these things but I do hope to keep this awesome concept of <a href="https://srikanthperinkulam.com/2023/12/26/magic/">magic</a> alive in her as much as I can.  <a href="https://srikanthperinkulam.com/2025/05/04/pinocchio/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>25 Apr 2025 21:30</title>
+      <link>https://srikanthperinkulam.com/2025/04/25/tailscale/</link>
+      <pubDate>Fri, 25 Apr 2025 21:30:00 -0500</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/04/25/tailscale/</guid>
+      <description>&lt;p&gt;After a good run with wireguard over the last four years, I switched over the devices on my home network to Tailscale today to lean-in on its mesh abilities. Technically I could have modified my wireguard setup to be a mesh network. But I just didn&amp;rsquo;t have the patience to tweak each configuration file!
+&lt;a href=&#34;https://srikanthperinkulam.com/2025/04/25/tailscale/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>After a good run with wireguard over the last four years, I switched over the devices on my home network to Tailscale today to lean-in on its mesh abilities. Technically I could have modified my wireguard setup to be a mesh network. But I just didn&rsquo;t have the patience to tweak each configuration file!
+<a href="https://srikanthperinkulam.com/2025/04/25/tailscale/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>16 Apr 2025 21:30</title>
+      <link>https://srikanthperinkulam.com/2025/04/16/yaounde/</link>
+      <pubDate>Wed, 16 Apr 2025 21:30:00 -0500</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/04/16/yaounde/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/G17C.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Home for the next two years! We just got here last night. Arrivals at the airport was super chaos. We do know what not to do next time though!&lt;/p&gt;
+&lt;p&gt;The city per se feels like a tier two city in India. Looks like we came in just in time for the short-rainy season. Walk to work is literally two minutes! &lt;a href=&#34;https://srikanthperinkulam.com/2025/04/16/yaounde/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/G17C.jpg" alt=""  />
+</p>
+<p>Home for the next two years! We just got here last night. Arrivals at the airport was super chaos. We do know what not to do next time though!</p>
+<p>The city per se feels like a tier two city in India. Looks like we came in just in time for the short-rainy season. Walk to work is literally two minutes! <a href="https://srikanthperinkulam.com/2025/04/16/yaounde/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

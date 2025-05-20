@@ -1,12 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Homesite on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/homesite/index.xml</link>
-    <description>Rexent content in Homesite on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Homesite on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/homesite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/homesite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>12 Jan 2020 00:00</title>
+      <link>https://srikanthperinkulam.com/2020/01/12/weeknote-02-snow-mischief/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2020/01/12/weeknote-02-snow-mischief/</guid>
+      <description>&lt;p&gt;&lt;em&gt;A glimpse of the past week and the few articles, podcasts, tools, videos and music that captivated my attention:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Earlier this week I helped Sharath setup a nextcloud instance on the RaspberryPi 4 that we got him for Christmas. Installed the DietPi OS, moved the user data over to a 5TB WD disk and while at it also setup a pi-hole for the network.&lt;/p&gt;
+&lt;p&gt;Weather wise, this was one odd week. Had a good dusting of snow on Tuesday night and a balmy 60 degrees for most of the weekend. The kids had early school closures and we made sure we hit the trails.&lt;/p&gt;
+&lt;p&gt;Gone are the crawling days. Shasta has moved on to walking and she&amp;rsquo;s getting pretty good at it. Also her mischief quotient is raising by the day!&lt;/p&gt;
+&lt;p&gt;Meena found an interesting course in Tufts and has applied for the 2020 Fall deadline. Fingers crossed that she makes it! Some other exciting developments through this week might take us back to Boston this spring.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Interesting podcasts this week:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Indicator from Planet Money: The Skyrocketing Cost Of Air Ambulances&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://play.podtrac.com/npr-510325/edge1.pod.npr.org/anon.npr-mp3/npr/indicator/2020/01/20200103&#34;&gt;https://play.podtrac.com/npr-510325/edge1.pod.npr.org/anon.npr-mp3/npr/indicator/2020/01/20200103&lt;/a&gt;_indicator_200103_air_ambulances_final.mp3&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Interesting reads this week:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://outline.com/XDFmDn&#34;&gt;Welcome to New Hollywood&lt;/a&gt;: Netflix has absolutely taken over the digital market. Oddly they rely on AWS!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.theguardian.com/lifeandstyle/2019/jun/04/why-parents-are-addicted-to-calpol&#34;&gt;Why parents are addicted to Calpol&lt;/a&gt;: So true! It struck me so starkly when we moved to the states several years back. It&amp;rsquo;s amazing how quickly my family pops in paracetamols without any second thoughts.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://outline.com/3FULea&#34;&gt;The Shadow Commander&lt;/a&gt;: Quite an interesting read on recent developments in Iran and it&amp;rsquo;s past.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><em>A glimpse of the past week and the few articles, podcasts, tools, videos and music that captivated my attention:</em></p>
+<p>Earlier this week I helped Sharath setup a nextcloud instance on the RaspberryPi 4 that we got him for Christmas. Installed the DietPi OS, moved the user data over to a 5TB WD disk and while at it also setup a pi-hole for the network.</p>
+<p>Weather wise, this was one odd week. Had a good dusting of snow on Tuesday night and a balmy 60 degrees for most of the weekend. The kids had early school closures and we made sure we hit the trails.</p>
+<p>Gone are the crawling days. Shasta has moved on to walking and she&rsquo;s getting pretty good at it. Also her mischief quotient is raising by the day!</p>
+<p>Meena found an interesting course in Tufts and has applied for the 2020 Fall deadline. Fingers crossed that she makes it! Some other exciting developments through this week might take us back to Boston this spring.</p>
+<p><strong>Interesting podcasts this week:</strong></p>
+<p>The Indicator from Planet Money: The Skyrocketing Cost Of Air Ambulances</p>
+<p><a href="https://play.podtrac.com/npr-510325/edge1.pod.npr.org/anon.npr-mp3/npr/indicator/2020/01/20200103">https://play.podtrac.com/npr-510325/edge1.pod.npr.org/anon.npr-mp3/npr/indicator/2020/01/20200103</a>_indicator_200103_air_ambulances_final.mp3</p>
+<p><strong>Interesting reads this week:</strong></p>
+<p><a href="https://outline.com/XDFmDn">Welcome to New Hollywood</a>: Netflix has absolutely taken over the digital market. Oddly they rely on AWS!</p>
+<p><a href="https://www.theguardian.com/lifeandstyle/2019/jun/04/why-parents-are-addicted-to-calpol">Why parents are addicted to Calpol</a>: So true! It struck me so starkly when we moved to the states several years back. It&rsquo;s amazing how quickly my family pops in paracetamols without any second thoughts.</p>
+<p><a href="https://outline.com/3FULea">The Shadow Commander</a>: Quite an interesting read on recent developments in Iran and it&rsquo;s past.</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

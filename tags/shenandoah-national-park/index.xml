@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Shenandoah-National-Park on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/shenandoah-national-park/index.xml</link>
-    <description>Rexent content in Shenandoah-National-Park on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Shenandoah-National-Park on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/shenandoah-national-park/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/shenandoah-national-park/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>11 Sep 2022 00:00</title>
+      <link>https://srikanthperinkulam.com/2022/09/11/luray/</link>
+      <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2022/09/11/luray/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/1663919905729-1200x900.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Appa&amp;rsquo;s been mentioning Luray Caverns for a while now, so we decided to head there this weekend. He did pretty well despite his knees giving him a tough time. &amp;lsquo;Oh so worth it. Simbly beautiful&amp;rsquo; - his words!&lt;/p&gt;
+&lt;p&gt;While at it, we got our annual national parks pass and decided to do the scenic drive in Shenandoah. S had a terrific time hopping on top of the car and addressing the wilderness at almost every pull-over area.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/1663919905729-1200x900.jpg" alt=""  />
+</p>
+<p>Appa&rsquo;s been mentioning Luray Caverns for a while now, so we decided to head there this weekend. He did pretty well despite his knees giving him a tough time. &lsquo;Oh so worth it. Simbly beautiful&rsquo; - his words!</p>
+<p>While at it, we got our annual national parks pass and decided to do the scenic drive in Shenandoah. S had a terrific time hopping on top of the car and addressing the wilderness at almost every pull-over area.</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

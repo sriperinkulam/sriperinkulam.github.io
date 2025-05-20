@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Girl-Scouts on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/girl-scouts/index.xml</link>
-    <description>Rexent content in Girl-Scouts on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Girl-Scouts on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/girl-scouts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/girl-scouts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>17 Oct 2024 00:00</title>
+      <link>https://srikanthperinkulam.com/2024/10/17/cascada-de-la-burbuja/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2024/10/17/cascada-de-la-burbuja/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;Burbuja.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Spent a good few hours out in the woods along with the girl scouts. M is not a leader this year so we took a step back and had a great time just enjoying the outdoors. S had a slow start and was heavily resisting for the first hour or so. She suddenly flipped once we reached the mid point and didn&amp;rsquo;t want to stop! She clocked around 5.2 miles in 3 hours and this would be one of her longest hikes in quite some time now! Super proud and she did earn her ramen!&lt;/p&gt;
+&lt;p&gt;The waterfall and the trail per se were beautiful with quite a few switchbacks on the stream fed by melt water from the Iztaccihuatl volcano. The approach road to the trail-head was quite beaten and the Vitara handled it real well.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="Burbuja.jpg" alt=""  />
+</p>
+<p>Spent a good few hours out in the woods along with the girl scouts. M is not a leader this year so we took a step back and had a great time just enjoying the outdoors. S had a slow start and was heavily resisting for the first hour or so. She suddenly flipped once we reached the mid point and didn&rsquo;t want to stop! She clocked around 5.2 miles in 3 hours and this would be one of her longest hikes in quite some time now! Super proud and she did earn her ramen!</p>
+<p>The waterfall and the trail per se were beautiful with quite a few switchbacks on the stream fed by melt water from the Iztaccihuatl volcano. The approach road to the trail-head was quite beaten and the Vitara handled it real well.</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

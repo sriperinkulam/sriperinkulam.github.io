@@ -1,12 +1,143 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2021-08-15 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2021-08-15-000000-&#43;0000-utc/index.xml</link>
-    <description>Rexent content in 2021-08-15 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2021-08-15 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2021-08-15-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2021-08-15-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>15 Aug 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/08/15/7306396986/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/08/15/7306396986/</guid>
+      <description>&lt;p&gt;Did want to head till N4 beach. Decided to turn around a bit earlier and grab a cup of tea at Santhome Sangeetha instead. Need to head out much earlier to beat the traffic and the smoke!&lt;/p&gt;
+&lt;p&gt;2021-08-15 06:05:17 - &lt;strong&gt;Independence N4&lt;/strong&gt; 🤸 Other 5.86 miles in 01:28:47 Pace : 15.15 min/mile. Elevation Gain : 299 ft. Elevation Loss : 275 ft. Calories : 1027 Location : Chennai 💓 : 171&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Did want to head till N4 beach. Decided to turn around a bit earlier and grab a cup of tea at Santhome Sangeetha instead. Need to head out much earlier to beat the traffic and the smoke!</p>
+<p>2021-08-15 06:05:17 - <strong>Independence N4</strong> 🤸 Other 5.86 miles in 01:28:47 Pace : 15.15 min/mile. Elevation Gain : 299 ft. Elevation Loss : 275 ft. Calories : 1027 Location : Chennai 💓 : 171</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>15 Aug 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/08/15/davids-farmhouse/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/08/15/davids-farmhouse/</guid>
+      <description>&lt;p&gt;Celebrations at the farmhouse.&lt;/p&gt;
+&lt;p&gt;&lt;div class=&#34;image-gallery&#34;&gt;
+    
+    
+    
+    
+    &lt;ul class=&#34;photo-list single-image&#34;&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2021/08/15/davids-farmhouse/images/Imagepipe_1.jpg&#34;&gt;&lt;img src=&#34;./images/Imagepipe_1.jpg&#34; alt=&#34;Imagepipe_1.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list &gt; li {
+    height: 40vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    flex-grow: 10;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image &gt; li {
+    height: auto;  
+}
+&lt;/style&gt;
+
+&lt;a href=&#34;https://srikanthperinkulam.com/2021/08/15/davids-farmhouse/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Celebrations at the farmhouse.</p>
+<p><div class="image-gallery">
+    
+    
+    
+    
+    <ul class="photo-list single-image">
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2021/08/15/davids-farmhouse/images/Imagepipe_1.jpg"><img src="./images/Imagepipe_1.jpg" alt="Imagepipe_1.jpg" /><a>
+            </li>
+        
+    </ul>
+</div>
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 40vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    flex-grow: 10;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image > li {
+    height: auto;  
+}
+</style>
+
+<a href="https://srikanthperinkulam.com/2021/08/15/davids-farmhouse/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

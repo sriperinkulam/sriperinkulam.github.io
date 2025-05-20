@@ -1,12 +1,189 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Maryland-Hikes on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/maryland-hikes/index.xml</link>
-    <description>Rexent content in Maryland-Hikes on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Maryland-Hikes on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/maryland-hikes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/maryland-hikes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>30 Dec 2018 00:00</title>
+      <link>https://srikanthperinkulam.com/2018/12/30/gun-powder-falls-hike/</link>
+      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2018/12/30/gun-powder-falls-hike/</guid>
+      <description>&lt;p&gt;Had my eyes on this trial ever since I saw the &amp;lsquo;Gun powder falls state park&amp;rsquo; sign on I95. Drove over for about 30mins with Sharath to get here this afternoon.&lt;/p&gt;
+&lt;p&gt;Pretty surprised not to find many folks on this trail. The weather was just right and this short 5 mile round trip hike was precisely what we needed to close out 2018. The short stream crossing at the end of the trail was an added bonus!&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Had my eyes on this trial ever since I saw the &lsquo;Gun powder falls state park&rsquo; sign on I95. Drove over for about 30mins with Sharath to get here this afternoon.</p>
+<p>Pretty surprised not to find many folks on this trail. The weather was just right and this short 5 mile round trip hike was precisely what we needed to close out 2018. The short stream crossing at the end of the trail was an added bonus!</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>23 Dec 2018 00:00</title>
+      <link>https://srikanthperinkulam.com/2018/12/23/liberty-dam-hike/</link>
+      <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2018/12/23/liberty-dam-hike/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;image-gallery&#34;&gt;
+    
+    
+    
+    
+    &lt;ul class=&#34;photo-list &#34;&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2018/12/23/liberty-dam-hike/images/IMG-20181223-WA0015.jpg&#34;&gt;&lt;img src=&#34;./images/IMG-20181223-WA0015.jpg&#34; alt=&#34;IMG-20181223-WA0015.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2018/12/23/liberty-dam-hike/images/IMG-20181223-WA0016.jpg&#34;&gt;&lt;img src=&#34;./images/IMG-20181223-WA0016.jpg&#34; alt=&#34;IMG-20181223-WA0016.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list &gt; li {
+    height: 40vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    flex-grow: 10;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image &gt; li {
+    height: auto;  
+}
+&lt;/style&gt;
+
+A bright December weekend calls for a quick hike with the brothers! Here for the third time this year, and it still mesmerizes me!&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><div class="image-gallery">
+    
+    
+    
+    
+    <ul class="photo-list ">
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2018/12/23/liberty-dam-hike/images/IMG-20181223-WA0015.jpg"><img src="./images/IMG-20181223-WA0015.jpg" alt="IMG-20181223-WA0015.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2018/12/23/liberty-dam-hike/images/IMG-20181223-WA0016.jpg"><img src="./images/IMG-20181223-WA0016.jpg" alt="IMG-20181223-WA0016.jpg" /><a>
+            </li>
+        
+    </ul>
+</div>
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 40vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    flex-grow: 10;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image > li {
+    height: auto;  
+}
+</style>
+
+A bright December weekend calls for a quick hike with the brothers! Here for the third time this year, and it still mesmerizes me!</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>03 Dec 2018 00:00</title>
+      <link>https://srikanthperinkulam.com/2018/12/03/billy-on-the-potomac/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2018/12/03/billy-on-the-potomac/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve had my eyes on the Billy goat trail for a while now. With a beautiful foggy forecast, this Sunday was a great day to head to the woods.  We reached the Chesapeake and Ohio National Historic park  in about an hour&amp;rsquo;s time, only to realise that the Billy Goat section A and B trails were closed due to flooding!&lt;/p&gt;
+&lt;p&gt;Having come this far, we decided to explore rest of the park. The short hike to Great Falls via the locks was insanely beautiful! So glad we decided to head this way!&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/billy-on-the-potomac.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;After that, we head all the way down the parking lot to hike the Ford mine trail. The trail runs parallel to the C&amp;amp;O canal for about a mile or so and loops back to the parking lot crossing several streams and small waterfalls. Though not quite comparable to the BG section A hike that I had visualized, this was a pretty decent hike.&lt;/p&gt;
+&lt;p&gt;This region totally calls for a revisit!&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>I&rsquo;ve had my eyes on the Billy goat trail for a while now. With a beautiful foggy forecast, this Sunday was a great day to head to the woods.  We reached the Chesapeake and Ohio National Historic park  in about an hour&rsquo;s time, only to realise that the Billy Goat section A and B trails were closed due to flooding!</p>
+<p>Having come this far, we decided to explore rest of the park. The short hike to Great Falls via the locks was insanely beautiful! So glad we decided to head this way!</p>
+<p><img loading="lazy" src="images/billy-on-the-potomac.jpg" alt=""  />
+</p>
+<p>After that, we head all the way down the parking lot to hike the Ford mine trail. The trail runs parallel to the C&amp;O canal for about a mile or so and loops back to the parking lot crossing several streams and small waterfalls. Though not quite comparable to the BG section A hike that I had visualized, this was a pretty decent hike.</p>
+<p>This region totally calls for a revisit!</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>23 Oct 2018 00:00</title>
+      <link>https://srikanthperinkulam.com/2018/10/23/honnold-attempt/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2018/10/23/honnold-attempt/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/honnold-attempt.jpg&#34; alt=&#34;&#34;  /&gt;
+A short morning hike to the Liberty Dam near home. Scouted a shorter trail but ended up hiking on a proper road up to the Dam. 3.6 miles round trip and a quick scrambling attempt on a rock face with N at the end.&lt;/p&gt;
+&lt;p&gt;Got back here via the trail the subsequent weekend. The trail was pretty picturesque. Winding by the North Patapsco river and eventually terminating at a beautiful vantage point right near the foot of the dam, this dirt trail made it totally worth coming back here again. A branch off this trail also seemed to lead back to the parking lot at the top. Will likely get back here while putting in some mileage for trail runs.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/honnold-attempt.jpg" alt=""  />
+A short morning hike to the Liberty Dam near home. Scouted a shorter trail but ended up hiking on a proper road up to the Dam. 3.6 miles round trip and a quick scrambling attempt on a rock face with N at the end.</p>
+<p>Got back here via the trail the subsequent weekend. The trail was pretty picturesque. Winding by the North Patapsco river and eventually terminating at a beautiful vantage point right near the foot of the dam, this dirt trail made it totally worth coming back here again. A branch off this trail also seemed to lead back to the parking lot at the top. Will likely get back here while putting in some mileage for trail runs.</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

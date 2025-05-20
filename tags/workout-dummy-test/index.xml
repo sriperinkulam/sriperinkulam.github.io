@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Workout-Dummy-Test on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/workout-dummy-test/index.xml</link>
-    <description>Rexent content in Workout-Dummy-Test on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Workout-Dummy-Test on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/workout-dummy-test/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/workout-dummy-test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>19 Sep 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/09/19/test-post/</link>
+      <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/09/19/test-post/</guid>
+      <description>&lt;p&gt;Testing front-end post publishing. This shouldn&amp;rsquo;t show-up in the feeds but should show-up under the Micro-posts page&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Testing front-end post publishing. This shouldn&rsquo;t show-up in the feeds but should show-up under the Micro-posts page</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

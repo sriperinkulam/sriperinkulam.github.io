@@ -1,12 +1,123 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2020-04-28 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2020-04-28-000000-&#43;0000-utc/index.xml</link>
-    <description>Rexent content in 2020-04-28 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2020-04-28 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2020-04-28-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2020-04-28-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>28 Apr 2020 00:00</title>
+      <link>https://srikanthperinkulam.com/2020/04/28/deploying-known-on-a-docker-stack/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2020/04/28/deploying-known-on-a-docker-stack/</guid>
+      <description>&lt;p&gt;To migrate my php applications that did not have a handy docker-compose available, I needed a vanilla setup for my stack-based docker environment. &lt;a href=&#34;https://withknown.com/opensource/&#34;&gt;Known&lt;/a&gt; is one of those apps and so the first step was to build that PHP environment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Setting up a Dockerhub repository and building a custom PHP image&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;[If you decide to use my image, you would not have to build this yourself. Skip ahead to the Deploying Known section]&lt;/p&gt;
+&lt;p&gt;Most php based apps also need specific extensions built-in. While I am sure they&amp;rsquo;re out there on the Docker hub repository, I was not able to easily find any images that met my specific needs [php extensions for gd, zip, pdo_mysql etc]. So I went ahead and &lt;a href=&#34;https://hub.docker.com/r/sriperinkulam/php-7.4.3-apache-buster-plus&#34;&gt;setup my own repository on Docker Hub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Something I learnt today was that a docker stack only accepts pre-built images. Which essentially means you cannot use the regular &lt;a href=&#34;https://docs.docker.com/engine/reference/commandline/build/&#34;&gt;build command&lt;/a&gt; on the fly in your docker-compose file. A quick work-around to that is to build the image locally and then publish it to a public repository from where the stack can easily access it.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a dockerfile: &lt;code&gt;sudo nano dockerfile&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Copy over contents from &lt;a href=&#34;https://gist.github.com/sriperinkulam/26d8702d946a8bad22d7623892be816c&#34;&gt;my dockerfile gist&lt;/a&gt;. Edit or update if you need any additional extensions. Do note that I am pulling a debian buster image here. An alpine image would be optimal but lets&amp;rsquo; run with this for now.&lt;/li&gt;
+&lt;li&gt;Build the image locally: &lt;code&gt;docker build -t sriperinkulam/php-7.4.3-apache-buster-plus:latest .&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Edit the image and tag name as needed. If your gist file is defined correctly, the image should be ready in a few minutes. It took me a few iterations to get this working with all the extensions I needed and shouldn&amp;rsquo;t give you any errors during the build process.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Login to your Dockerhub repo: &lt;code&gt;docker login&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Push your image over to your repository: &lt;code&gt;docker push sriperinkulam/php-7.4.3-apache-buster-plus:latest&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Within a few minutes, your image should be available for easy fetch whenever needed!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Setting up and deploying the Known install&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a folder for the known installation:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;sudo mkdir known &amp;amp;&amp;amp; cd known&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Copy over my &amp;lsquo;known.yml&amp;rsquo; gist from &lt;a href=&#34;https://gist.github.com/sriperinkulam/9ea9b57a052629ed5b75071c2bafdb00&#34;&gt;here&lt;/a&gt; and paste into a known.yml file.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;sudo nano known.yml&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;This is where we use the image we built earlier! Make sure you update the passwords there-in.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create an &amp;lsquo;app&amp;rsquo; folder. This is where we will copy in the core known package.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;sudo mkdir app &amp;amp;&amp;amp; cd app&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.marcus-povey.co.uk/known/&#34;&gt;Marcus Povey&lt;/a&gt; does the heavy lifting of packaging the known install &amp;lsquo;unofficially&amp;rsquo;. Download his latest pre-packaged release from &lt;a href=&#34;https://withknown.marcus-povey.co.uk/&#34;&gt;his portal&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;wget https://withknown.marcus-povey.co.uk/&amp;lt;package&amp;gt;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Finally unzip/untar the package.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Step back into the main &amp;lsquo;known&amp;rsquo; directory and deploy the stack that we defined in the known.yml file.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;cd ..&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;DOMAIN=known.domain.org SCHEME=https docker stack deploy -c known.yml known&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Assuming you&amp;rsquo;ve already setup the traefik container, as mentioned in my &lt;a href=&#34;https://srikanthperinkulam.com/2020/04/19/self-hosting-jitsi-video-conferencing/&#34;&gt;Jitsi post&lt;/a&gt;, you should now have Known up and running. Navigate to the domain and you should see the warmup page.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Key in the db credentials that you setup in the &lt;em&gt;known.yml&lt;/em&gt; file. The database would need to be set as &lt;em&gt;mariadb,&lt;/em&gt; since that&amp;rsquo;s how we&amp;rsquo;ve defined it in the known.yml file. Also make sure you have the &lt;em&gt;Uploads&lt;/em&gt; folder writable by www-data:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;sudo chown -R www-data /var/www/html/Uploads/&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Setup your user account and proceed with the regular administration controls!&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>To migrate my php applications that did not have a handy docker-compose available, I needed a vanilla setup for my stack-based docker environment. <a href="https://withknown.com/opensource/">Known</a> is one of those apps and so the first step was to build that PHP environment.</p>
+<p><strong>Setting up a Dockerhub repository and building a custom PHP image</strong></p>
+<p>[If you decide to use my image, you would not have to build this yourself. Skip ahead to the Deploying Known section]</p>
+<p>Most php based apps also need specific extensions built-in. While I am sure they&rsquo;re out there on the Docker hub repository, I was not able to easily find any images that met my specific needs [php extensions for gd, zip, pdo_mysql etc]. So I went ahead and <a href="https://hub.docker.com/r/sriperinkulam/php-7.4.3-apache-buster-plus">setup my own repository on Docker Hub</a>.</p>
+<p>Something I learnt today was that a docker stack only accepts pre-built images. Which essentially means you cannot use the regular <a href="https://docs.docker.com/engine/reference/commandline/build/">build command</a> on the fly in your docker-compose file. A quick work-around to that is to build the image locally and then publish it to a public repository from where the stack can easily access it.</p>
+<ul>
+<li>Create a dockerfile: <code>sudo nano dockerfile</code></li>
+<li>Copy over contents from <a href="https://gist.github.com/sriperinkulam/26d8702d946a8bad22d7623892be816c">my dockerfile gist</a>. Edit or update if you need any additional extensions. Do note that I am pulling a debian buster image here. An alpine image would be optimal but lets&rsquo; run with this for now.</li>
+<li>Build the image locally: <code>docker build -t sriperinkulam/php-7.4.3-apache-buster-plus:latest .</code></li>
+</ul>
+<p>Edit the image and tag name as needed. If your gist file is defined correctly, the image should be ready in a few minutes. It took me a few iterations to get this working with all the extensions I needed and shouldn&rsquo;t give you any errors during the build process.</p>
+<ul>
+<li>Login to your Dockerhub repo: <code>docker login</code></li>
+<li>Push your image over to your repository: <code>docker push sriperinkulam/php-7.4.3-apache-buster-plus:latest</code></li>
+<li>Within a few minutes, your image should be available for easy fetch whenever needed!</li>
+</ul>
+<p> </p>
+<p><strong>Setting up and deploying the Known install</strong></p>
+<ul>
+<li>Create a folder for the known installation:</li>
+</ul>
+<p><code>sudo mkdir known &amp;&amp; cd known</code></p>
+<ul>
+<li>Copy over my &lsquo;known.yml&rsquo; gist from <a href="https://gist.github.com/sriperinkulam/9ea9b57a052629ed5b75071c2bafdb00">here</a> and paste into a known.yml file.</li>
+</ul>
+<p><code>sudo nano known.yml</code></p>
+<p>This is where we use the image we built earlier! Make sure you update the passwords there-in.</p>
+<ul>
+<li>Create an &lsquo;app&rsquo; folder. This is where we will copy in the core known package.</li>
+</ul>
+<p><code>sudo mkdir app &amp;&amp; cd app</code></p>
+<p><a href="https://www.marcus-povey.co.uk/known/">Marcus Povey</a> does the heavy lifting of packaging the known install &lsquo;unofficially&rsquo;. Download his latest pre-packaged release from <a href="https://withknown.marcus-povey.co.uk/">his portal</a>.</p>
+<p><code>wget https://withknown.marcus-povey.co.uk/&lt;package&gt;</code></p>
+<p>Finally unzip/untar the package.</p>
+<ul>
+<li>Step back into the main &lsquo;known&rsquo; directory and deploy the stack that we defined in the known.yml file.</li>
+</ul>
+<p><code>cd ..</code></p>
+<p><code>DOMAIN=known.domain.org SCHEME=https docker stack deploy -c known.yml known</code></p>
+<ul>
+<li>
+<p>Assuming you&rsquo;ve already setup the traefik container, as mentioned in my <a href="https://srikanthperinkulam.com/2020/04/19/self-hosting-jitsi-video-conferencing/">Jitsi post</a>, you should now have Known up and running. Navigate to the domain and you should see the warmup page.</p>
+</li>
+<li>
+<p>Key in the db credentials that you setup in the <em>known.yml</em> file. The database would need to be set as <em>mariadb,</em> since that&rsquo;s how we&rsquo;ve defined it in the known.yml file. Also make sure you have the <em>Uploads</em> folder writable by www-data:</p>
+</li>
+</ul>
+<p><code>sudo chown -R www-data /var/www/html/Uploads/</code></p>
+<p>Setup your user account and proceed with the regular administration controls!</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

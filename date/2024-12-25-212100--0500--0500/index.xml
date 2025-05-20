@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2024-12-25 21:21:00 -0500 -0500 on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2024-12-25-212100--0500--0500/index.xml</link>
-    <description>Rexent content in 2024-12-25 21:21:00 -0500 -0500 on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2024-12-25 21:21:00 -0500 -0500 on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2024-12-25-212100--0500--0500/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Dec 2024 21:21:00 -0500</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2024-12-25-212100--0500--0500/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>25 Dec 2024 21:21</title>
+      <link>https://srikanthperinkulam.com/2024/12/25/manaw/</link>
+      <pubDate>Wed, 25 Dec 2024 21:21:00 -0500</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2024/12/25/manaw/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/manaw.jpg&#34; alt=&#34;&#34;  /&gt;
+
+Never fails to impress &lt;a href=&#34;https://srikanthperinkulam.com/2024/12/25/manaw/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/manaw.jpg" alt=""  />
+
+Never fails to impress <a href="https://srikanthperinkulam.com/2024/12/25/manaw/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

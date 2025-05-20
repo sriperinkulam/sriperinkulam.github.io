@@ -1,12 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Freedom on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/freedom/index.xml</link>
-    <description>Rexent content in Freedom on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Freedom on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/freedom/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/freedom/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>16 Jan 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/01/16/lifting-the-veil/</link>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/01/16/lifting-the-veil/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/signal-2021-01-17-045708_002-scaled.jpeg&#34; alt=&#34;&#34;  /&gt;
+
+Just about a decade ago, we leased a property on a pristine and desolate beach. The house didn&amp;rsquo;t have robust walls - It just had a few curtains to protect us from the elements. The rooms internally had walls full of transparent glass. It was a beautiful property with lots of cross-ventilation and something that was just right for our family. &lt;/p&gt;
+&lt;p&gt;Over time, more people moved in around us and it didn&amp;rsquo;t feel all that secluded. Visitors to the beach, neighbors and more so the property owner started getting more interested in our mundane lives. At times we felt, they were interested more in us than the pristine beach. The property owner started hiking the rent overtime and started charging us for random things. At one point, he even started deciding when we could actually use the beach. As much as we&amp;rsquo;d wanted to stay at that place and enjoy the neighbors company, we decided it was time to take things in control. &lt;/p&gt;
+&lt;p&gt;We got out of the lease and built our own property in the adjacent lot. This time though we had beautiful bamboo walls and lots of open windows with blinds. We had complete control on whom we could connect with and more importantly when we really wanted to. We still had nothing to hide. However we did have everything in the world to protect. Times have changed and it&amp;rsquo;s no outsiders business to benefit from your matter of regular affairs. Changing our lifestyle a bit was a small price to pay and though inconvenient at times, we&amp;rsquo;ve mastered the ropes and are now in a much better place. And quite honestly, we weren&amp;rsquo;t alone. Lots of people have made that shift and we&amp;rsquo;ve learnt a ton from each other&amp;rsquo;s experience. It&amp;rsquo;s in fact a lot more easier now than before. You just need to ask if your stuck!&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;ve read this far, you&amp;rsquo;d obviously realize for the most part, I&amp;rsquo;m referring to my digital life. No actually yours too. It&amp;rsquo;s high time we take more control and move out of these information sucking centralized systems. In this day and age there&amp;rsquo;s no reason why you should be tethered to the pseudo social construct of facebook, twitter, instagram and what-not. I urge you to revert to the old-school world of blogging. Use an &lt;a href=&#34;https://miniflux.app/&#34;&gt;RSS reader&lt;/a&gt; - let the information come to you on your terms and not on algorithms that mine your data for someone else. Privacy in the current form is a hoax and it is time we lift the veil and make those small changes for the network-effect to take place. And trust me, it is so absolutely worth it once you clear the veil. Over the last decade there have been fabulous movements [&lt;a href=&#34;https://indieweb.org/&#34;&gt;Indieweb&lt;/a&gt;, &lt;a href=&#34;https://fediverse.party/&#34;&gt;fediverse&lt;/a&gt;] that have risen to give you more control over your data. And then there are a ton of terrific options out there:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;E-mail: &lt;a href=&#34;https://www.fastmail.com/&#34;&gt;Fastmail&lt;/a&gt; / &lt;a href=&#34;https://protonmail.com/&#34;&gt;Protonmail&lt;/a&gt; / &lt;a href=&#34;https://postale.io/&#34;&gt;Postale.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Messaging: &lt;a href=&#34;https://delta.chat/en/&#34;&gt;Delta-chat&lt;/a&gt; / &lt;a href=&#34;https://signal.org/&#34;&gt;Signal&lt;/a&gt; / &lt;a href=&#34;https://blabber.im/en/&#34;&gt;Blabber.im&lt;/a&gt; / &lt;a href=&#34;https://matrix.org/&#34;&gt;Element&lt;/a&gt; / &lt;a href=&#34;https://wire.com/en/&#34;&gt;Wire&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Files: &lt;a href=&#34;https://nextcloud.com/&#34;&gt;Nextcloud&lt;/a&gt; / &lt;a href=&#34;https://www.seafile.com/en/home/&#34;&gt;Seafile&lt;/a&gt; / &lt;a href=&#34;https://syncthing.net/&#34;&gt;Syncthing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video calls: &lt;a href=&#34;https://jitsi.org/jitsi-meet/&#34;&gt;Jitsi&lt;/a&gt; / &lt;a href=&#34;https://jami.net/&#34;&gt;Jami&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Youtube: &lt;a href=&#34;http://invidious.snopyta.org/&#34;&gt;Invidious&lt;/a&gt; / &lt;a href=&#34;https://joinpeertube.org/&#34;&gt;Peertube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Evernote: &lt;a href=&#34;https://srikanthperinkulam.com/2020/05/07/migrating-over-to-trilium-notes/&#34;&gt;Trilium Notes&lt;/a&gt; / &lt;a href=&#34;https://joplinapp.org/&#34;&gt;Joplin&lt;/a&gt; / &lt;a href=&#34;https://standardnotes.org/&#34;&gt;Standard notes&lt;/a&gt; / &lt;a href=&#34;https://orgmode.org/features.html&#34;&gt;Org-mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Facebook: &lt;a href=&#34;https://micro.blog/&#34;&gt;Microblog&lt;/a&gt; / &lt;a href=&#34;https://withknown.com/&#34;&gt;Known&lt;/a&gt; / &lt;a href=&#34;https://diasporafoundation.org/&#34;&gt;Diaspora&lt;/a&gt; / &lt;a href=&#34;https://mewe.com/&#34;&gt;MeWe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Twitter: &lt;a href=&#34;https://joinmastodon.org/&#34;&gt;Mastodon&lt;/a&gt; / &lt;a href=&#34;https://www.minds.com/&#34;&gt;Minds&lt;/a&gt; / &lt;a href=&#34;https://gnu.io/social/&#34;&gt;GNU Social&lt;/a&gt; / &lt;a href=&#34;https://friendi.ca/&#34;&gt;Friendica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Reddit: &lt;a href=&#34;https://getaether.net/&#34;&gt;Aether&lt;/a&gt; / &lt;a href=&#34;https://lemmy.ml/&#34;&gt;Lemmy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Blogs: &lt;a href=&#34;https://wordpress.org/&#34;&gt;Wordpress&lt;/a&gt; / &lt;a href=&#34;https://write.as/&#34;&gt;Write.as&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Instagram: &lt;a href=&#34;https://pixelfed.org/&#34;&gt;Pixelfed&lt;/a&gt; / &lt;a href=&#34;https://sunlit.io/&#34;&gt;Sunlit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GoodReads: &lt;a href=&#34;https://www.librarything.com/&#34;&gt;Librarything&lt;/a&gt; / &lt;a href=&#34;https://www.thestorygraph.com/&#34;&gt;StoryGraph&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Phones: &lt;a href=&#34;https://www.sustaphones.com/&#34;&gt;Sustaphones&lt;/a&gt; / &lt;a href=&#34;https://www.pine64.org/pinephone/&#34;&gt;Pinephone&lt;/a&gt; / &lt;a href=&#34;https://puri.sm/products/librem-5/&#34;&gt;Librem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Most of the above apps work right out of the box. There&amp;rsquo;s so little that you really need to change or setup. If you&amp;rsquo;re still concerned about moving your extended communities over to the platform - Take that plunge and make the move. People who do want to stay in touch with you will follow!&lt;/p&gt;
+&lt;p&gt;And if anything seems ever barely daunting - Just ask! I&amp;rsquo;ll be super glad to set something up for you or point you in the right direction. &lt;strong&gt;What is it that is holding you back from making the switch?&lt;/strong&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/signal-2021-01-17-045708_002-scaled.jpeg" alt=""  />
+
+Just about a decade ago, we leased a property on a pristine and desolate beach. The house didn&rsquo;t have robust walls - It just had a few curtains to protect us from the elements. The rooms internally had walls full of transparent glass. It was a beautiful property with lots of cross-ventilation and something that was just right for our family. </p>
+<p>Over time, more people moved in around us and it didn&rsquo;t feel all that secluded. Visitors to the beach, neighbors and more so the property owner started getting more interested in our mundane lives. At times we felt, they were interested more in us than the pristine beach. The property owner started hiking the rent overtime and started charging us for random things. At one point, he even started deciding when we could actually use the beach. As much as we&rsquo;d wanted to stay at that place and enjoy the neighbors company, we decided it was time to take things in control. </p>
+<p>We got out of the lease and built our own property in the adjacent lot. This time though we had beautiful bamboo walls and lots of open windows with blinds. We had complete control on whom we could connect with and more importantly when we really wanted to. We still had nothing to hide. However we did have everything in the world to protect. Times have changed and it&rsquo;s no outsiders business to benefit from your matter of regular affairs. Changing our lifestyle a bit was a small price to pay and though inconvenient at times, we&rsquo;ve mastered the ropes and are now in a much better place. And quite honestly, we weren&rsquo;t alone. Lots of people have made that shift and we&rsquo;ve learnt a ton from each other&rsquo;s experience. It&rsquo;s in fact a lot more easier now than before. You just need to ask if your stuck!</p>
+<p>If you&rsquo;ve read this far, you&rsquo;d obviously realize for the most part, I&rsquo;m referring to my digital life. No actually yours too. It&rsquo;s high time we take more control and move out of these information sucking centralized systems. In this day and age there&rsquo;s no reason why you should be tethered to the pseudo social construct of facebook, twitter, instagram and what-not. I urge you to revert to the old-school world of blogging. Use an <a href="https://miniflux.app/">RSS reader</a> - let the information come to you on your terms and not on algorithms that mine your data for someone else. Privacy in the current form is a hoax and it is time we lift the veil and make those small changes for the network-effect to take place. And trust me, it is so absolutely worth it once you clear the veil. Over the last decade there have been fabulous movements [<a href="https://indieweb.org/">Indieweb</a>, <a href="https://fediverse.party/">fediverse</a>] that have risen to give you more control over your data. And then there are a ton of terrific options out there:</p>
+<ul>
+<li>E-mail: <a href="https://www.fastmail.com/">Fastmail</a> / <a href="https://protonmail.com/">Protonmail</a> / <a href="https://postale.io/">Postale.io</a></li>
+<li>Messaging: <a href="https://delta.chat/en/">Delta-chat</a> / <a href="https://signal.org/">Signal</a> / <a href="https://blabber.im/en/">Blabber.im</a> / <a href="https://matrix.org/">Element</a> / <a href="https://wire.com/en/">Wire</a></li>
+<li>Files: <a href="https://nextcloud.com/">Nextcloud</a> / <a href="https://www.seafile.com/en/home/">Seafile</a> / <a href="https://syncthing.net/">Syncthing</a></li>
+<li>Video calls: <a href="https://jitsi.org/jitsi-meet/">Jitsi</a> / <a href="https://jami.net/">Jami</a></li>
+<li>Youtube: <a href="http://invidious.snopyta.org/">Invidious</a> / <a href="https://joinpeertube.org/">Peertube</a></li>
+<li>Evernote: <a href="https://srikanthperinkulam.com/2020/05/07/migrating-over-to-trilium-notes/">Trilium Notes</a> / <a href="https://joplinapp.org/">Joplin</a> / <a href="https://standardnotes.org/">Standard notes</a> / <a href="https://orgmode.org/features.html">Org-mode</a></li>
+<li>Facebook: <a href="https://micro.blog/">Microblog</a> / <a href="https://withknown.com/">Known</a> / <a href="https://diasporafoundation.org/">Diaspora</a> / <a href="https://mewe.com/">MeWe</a></li>
+<li>Twitter: <a href="https://joinmastodon.org/">Mastodon</a> / <a href="https://www.minds.com/">Minds</a> / <a href="https://gnu.io/social/">GNU Social</a> / <a href="https://friendi.ca/">Friendica</a></li>
+<li>Reddit: <a href="https://getaether.net/">Aether</a> / <a href="https://lemmy.ml/">Lemmy</a></li>
+<li>Blogs: <a href="https://wordpress.org/">Wordpress</a> / <a href="https://write.as/">Write.as</a></li>
+<li>Instagram: <a href="https://pixelfed.org/">Pixelfed</a> / <a href="https://sunlit.io/">Sunlit</a></li>
+<li>GoodReads: <a href="https://www.librarything.com/">Librarything</a> / <a href="https://www.thestorygraph.com/">StoryGraph</a></li>
+<li>Phones: <a href="https://www.sustaphones.com/">Sustaphones</a> / <a href="https://www.pine64.org/pinephone/">Pinephone</a> / <a href="https://puri.sm/products/librem-5/">Librem</a></li>
+</ul>
+<p>Most of the above apps work right out of the box. There&rsquo;s so little that you really need to change or setup. If you&rsquo;re still concerned about moving your extended communities over to the platform - Take that plunge and make the move. People who do want to stay in touch with you will follow!</p>
+<p>And if anything seems ever barely daunting - Just ask! I&rsquo;ll be super glad to set something up for you or point you in the right direction. <strong>What is it that is holding you back from making the switch?</strong></p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

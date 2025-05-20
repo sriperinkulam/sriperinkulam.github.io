@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Todo on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/todo/index.xml</link>
-    <description>Rexent content in Todo on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Todo on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/todo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Jun 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/todo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>09 Jun 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/06/09/webmentions/</link>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/06/09/webmentions/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;
+ &lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Need to figure out why certain #webmentions from my site are being sent as anonymous. Adding that to my ever expanding list of to-do&amp;rsquo;s.&lt;/p&gt;
+&lt;p&gt;Since I started tweaking my portal and started getting deeper into the code, there&amp;rsquo;s been a constant fire in my brain to further tweak and tinker with things. This is addictive!&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/cropped-cropped-SP01-550afdebv1_site_icon.png" alt=""  />
+ <a href="https://srikanthperinkulam.com">Srikanth Perinkulam</a></p>
+<p>Need to figure out why certain #webmentions from my site are being sent as anonymous. Adding that to my ever expanding list of to-do&rsquo;s.</p>
+<p>Since I started tweaking my portal and started getting deeper into the code, there&rsquo;s been a constant fire in my brain to further tweak and tinker with things. This is addictive!</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

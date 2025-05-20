@@ -1,12 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2019-02-10 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2019-02-10-000000-&#43;0000-utc/index.xml</link>
-    <description>Rexent content in 2019-02-10 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2019-02-10 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2019-02-10-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2019-02-10-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>10 Feb 2019 00:00</title>
+      <link>https://srikanthperinkulam.com/2019/02/10/river-ridge-trail/</link>
+      <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2019/02/10/river-ridge-trail/</guid>
+      <description>&lt;p&gt;Shasta&amp;rsquo;s first visit to Patapsco state park. Sharath, Meena, Shasta and I planned to head out together initially. Was pretty breezy and cold. Shasta initially was showing signs of queasiness, so Meena suggested Sharath and I head out while she&amp;rsquo;d stroll closer to the car.&lt;/p&gt;
+&lt;p&gt;Started out on the downhill and entered the woods around the corner. Meena joined with Shasta as we were heading back covering about three miles. A wonderful, refreshing day out!&lt;/p&gt;
+&lt;p&gt;We head out to Hot Pot later that evening. Delicious food and some real good time with the whole family!&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Shasta&rsquo;s first visit to Patapsco state park. Sharath, Meena, Shasta and I planned to head out together initially. Was pretty breezy and cold. Shasta initially was showing signs of queasiness, so Meena suggested Sharath and I head out while she&rsquo;d stroll closer to the car.</p>
+<p>Started out on the downhill and entered the woods around the corner. Meena joined with Shasta as we were heading back covering about three miles. A wonderful, refreshing day out!</p>
+<p>We head out to Hot Pot later that evening. Delicious food and some real good time with the whole family!</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

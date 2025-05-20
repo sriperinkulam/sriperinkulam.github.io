@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Local-Cafes on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/local-cafes/index.xml</link>
-    <description>Rexent content in Local-Cafes on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Local-Cafes on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/local-cafes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/local-cafes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>02 Apr 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/04/02/broken-grounds/</link>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/04/02/broken-grounds/</guid>
+      <description>&lt;p&gt;A coffee date (read breakfast) at the Broken Grounds Cafe. Pretty tiny place with a small seating area. Food was pretty good and seemed to have quite a few vegan options. The house coffee I had was a bit on the bitter side. Should have checked before ordering. Highly likely we won&amp;rsquo;t be revisiting but definitely worth stopping by once&amp;hellip;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>A coffee date (read breakfast) at the Broken Grounds Cafe. Pretty tiny place with a small seating area. Food was pretty good and seemed to have quite a few vegan options. The house coffee I had was a bit on the bitter side. Should have checked before ordering. Highly likely we won&rsquo;t be revisiting but definitely worth stopping by once&hellip;</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

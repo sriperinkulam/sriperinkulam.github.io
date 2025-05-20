@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Linguistic-Jokes on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/linguistic-jokes/index.xml</link>
-    <description>Rexent content in Linguistic-Jokes on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Linguistic-Jokes on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/linguistic-jokes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Aug 2008 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/linguistic-jokes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>26 Aug 2008 00:00</title>
+      <link>https://srikanthperinkulam.com/2008/08/26/unlearning-english/</link>
+      <pubDate>Tue, 26 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2008/08/26/unlearning-english/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Garden_path_sentence&#34;&gt;Garden Path Sentence&lt;/a&gt; - A very interesting article on linguistic formulations, that I happened to come across. No wonder you thought you were right and the teacher was wrong in your fifth grade :-) !&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><a href="http://en.wikipedia.org/wiki/Garden_path_sentence">Garden Path Sentence</a> - A very interesting article on linguistic formulations, that I happened to come across. No wonder you thought you were right and the teacher was wrong in your fifth grade :-) !</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

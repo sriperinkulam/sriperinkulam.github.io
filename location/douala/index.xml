@@ -1,12 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Douala on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/location/douala/index.xml</link>
-    <description>Rexent content in Douala on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Douala on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/location/douala/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 May 2025 21:30:00 +0100</lastBuildDate><atom:link href="https://srikanthperinkulam.com/location/douala/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>09 May 2025 21:30</title>
+      <link>https://srikanthperinkulam.com/2025/05/09/k-hotel/</link>
+      <pubDate>Fri, 09 May 2025 21:30:00 +0100</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/05/09/k-hotel/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/KHotelDouala.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Go big or go home! Love this beautiful photo on top of the headboard in this room. Also, Hello Pickles! &lt;a href=&#34;https://srikanthperinkulam.com/2025/05/09/k-hotel/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/KHotelDouala.jpg" alt=""  />
+</p>
+<p>Go big or go home! Love this beautiful photo on top of the headboard in this room. Also, Hello Pickles! <a href="https://srikanthperinkulam.com/2025/05/09/k-hotel/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>06 May 2025 21:30</title>
+      <link>https://srikanthperinkulam.com/2025/05/06/wtw/</link>
+      <pubDate>Tue, 06 May 2025 21:30:00 -0500</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/05/06/wtw/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/WTWDouala.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Spotted right in the same building as the Douala Embassy Branch Office. These folks are goddamn everywhere! There&amp;rsquo;s so little I knew about this firm back in 2015. Three good years doing some real fun work, but I&amp;rsquo;m so glad I walked out that April 1st ! &lt;a href=&#34;https://srikanthperinkulam.com/2025/05/06/wtw/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/WTWDouala.jpg" alt=""  />
+</p>
+<p>Spotted right in the same building as the Douala Embassy Branch Office. These folks are goddamn everywhere! There&rsquo;s so little I knew about this firm back in 2015. Three good years doing some real fun work, but I&rsquo;m so glad I walked out that April 1st ! <a href="https://srikanthperinkulam.com/2025/05/06/wtw/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

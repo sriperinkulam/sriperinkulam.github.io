@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Octomom on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/octomom/index.xml</link>
-    <description>Rexent content in Octomom on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Octomom on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/octomom/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/octomom/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>21 Apr 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/04/21/april-21-2021-1856/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/04/21/april-21-2021-1856/</guid>
+      <description>&lt;p&gt;Watched &lt;a href=&#34;https://bag.srkn.org/share/60807589c3bfc4.76148451&#34;&gt;&lt;em&gt;My Octopus Teacher&lt;/em&gt;&lt;/a&gt; earlier this week. Some stunning underwater visuals and quite a fascinating documentary. Also reminded me of the terrific &lt;a href=&#34;https://srikanthperinkulam.com/2020/05/17/weeknote-20-trails-and-switches/#octomom&#34;&gt;&lt;em&gt;Octomom&lt;/em&gt;&lt;/a&gt; podcast from Radiolab last year.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Watched <a href="https://bag.srkn.org/share/60807589c3bfc4.76148451"><em>My Octopus Teacher</em></a> earlier this week. Some stunning underwater visuals and quite a fascinating documentary. Also reminded me of the terrific <a href="https://srikanthperinkulam.com/2020/05/17/weeknote-20-trails-and-switches/#octomom"><em>Octomom</em></a> podcast from Radiolab last year.</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

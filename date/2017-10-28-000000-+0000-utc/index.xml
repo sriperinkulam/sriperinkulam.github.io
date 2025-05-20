@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2017-10-28 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2017-10-28-000000-&#43;0000-utc/index.xml</link>
-    <description>Rexent content in 2017-10-28 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2017-10-28 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2017-10-28-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Oct 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2017-10-28-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>28 Oct 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/10/28/anthem/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/10/28/anthem/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/1509248865.jpg&#34; alt=&#34;&#34;  /&gt;
+
+Having heard about it way back in 2015 during a serendipitous visit to the campus, we were pretty excited to be here. With autumn just kicking in and absolutely no traffic, the drive up north from Boston should have been a cue to what the night had in store for us. As dusk set in and the temperatures dropped, the lamps already laid out on the Dartmouth Greens were lit. The National Anthem from the bell tower was a pleasant surprise. Darkness, fire, light and celebrations. Today was just so magical!&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;
+&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;
+&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/1509248865.jpg" alt=""  />
+
+Having heard about it way back in 2015 during a serendipitous visit to the campus, we were pretty excited to be here. With autumn just kicking in and absolutely no traffic, the drive up north from Boston should have been a cue to what the night had in store for us. As dusk set in and the temperatures dropped, the lamps already laid out on the Dartmouth Greens were lit. The National Anthem from the bell tower was a pleasant surprise. Darkness, fire, light and celebrations. Today was just so magical!</p>
+<p><img loading="lazy" src="images/cropped-cropped-SP01-550afdebv1_site_icon.png" alt=""  />
+<a href="https://srikanthperinkulam.com">Srikanth Perinkulam</a></p>
+<p><img loading="lazy" src="images/cropped-cropped-SP01-550afdebv1_site_icon.png" alt=""  />
+<a href="https://srikanthperinkulam.com">Srikanth Perinkulam</a></p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

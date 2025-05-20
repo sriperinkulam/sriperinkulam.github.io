@@ -1,12 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Elementary-Os-Wifi on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/elementary-os-wifi/index.xml</link>
-    <description>Rexent content in Elementary-Os-Wifi on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Elementary-Os-Wifi on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/elementary-os-wifi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Apr 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/elementary-os-wifi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>17 Apr 2015 00:00</title>
+      <link>https://srikanthperinkulam.com/2015/04/17/enabling-wifi-from-the-terminal/</link>
+      <pubDate>Fri, 17 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2015/04/17/enabling-wifi-from-the-terminal/</guid>
+      <description>&lt;p&gt;After a few rough beta installs of the OS, I decided to do a clean install of  &lt;a href=&#34;http://elementary.io/&#34;&gt;Freya&lt;/a&gt;. It&amp;rsquo;s been a smooth sail so far but for the intermittent WiFi disconnects. For some reason the WiFi gets soft disabled at times. Until I figure out what&amp;rsquo;s causing this to happen and for future reference here&amp;rsquo;s a nifty work-around:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Determine the current state of the radio transmitters using &lt;a href=&#34;https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Power_Management_Guide/RFKill.html&#34;&gt;rfkill&lt;/a&gt;. You&amp;rsquo;ll be able to see immediately If any of your devices are soft blocked.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[code] $ sudo rfkill list all [/code]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Unblock radio transmitters as needed. In my case, something was turning the Wi-Fi off. I just had to turn this on using the below command:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[code] $ rfkill unblock wifi [/code]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Note: In a few laptops the Wi-Fi  key is also mapped to the Bluetooth function, so to activate or deactivate you&amp;rsquo;ll just have to tap a few times to disable or enable wifi and/or bluetooth.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>After a few rough beta installs of the OS, I decided to do a clean install of  <a href="http://elementary.io/">Freya</a>. It&rsquo;s been a smooth sail so far but for the intermittent WiFi disconnects. For some reason the WiFi gets soft disabled at times. Until I figure out what&rsquo;s causing this to happen and for future reference here&rsquo;s a nifty work-around:</p>
+<ul>
+<li>Determine the current state of the radio transmitters using <a href="https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Power_Management_Guide/RFKill.html">rfkill</a>. You&rsquo;ll be able to see immediately If any of your devices are soft blocked.</li>
+</ul>
+<blockquote>
+<p>[code] $ sudo rfkill list all [/code]</p>
+</blockquote>
+<ul>
+<li>Unblock radio transmitters as needed. In my case, something was turning the Wi-Fi off. I just had to turn this on using the below command:</li>
+</ul>
+<blockquote>
+<p>[code] $ rfkill unblock wifi [/code]</p>
+</blockquote>
+<p>Note: In a few laptops the Wi-Fi  key is also mapped to the Bluetooth function, so to activate or deactivate you&rsquo;ll just have to tap a few times to disable or enable wifi and/or bluetooth.</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

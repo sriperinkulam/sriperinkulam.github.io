@@ -1,12 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Vishu on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/vishu/index.xml</link>
-    <description>Rexent content in Vishu on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Vishu on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/vishu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/vishu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>14 Apr 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/04/14/vishu-kani/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/04/14/vishu-kani/</guid>
+      <description>&lt;p&gt;Today I learnt, Vishu is not the &lt;a href=&#34;https://en.wikipedia.org/wiki/Kerala_New_Year&#34;&gt;Kerala New Year&lt;/a&gt; (Since 825 CE!) and it essentially is the celebration of the vernal equinox (at Kerala&amp;rsquo;s latitude?).&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/20210414_054059-scaled.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;I added in a few non-traditional items to the Kani this time: A watch to symbolize &amp;rsquo;time&amp;rsquo;, a USB stick to symbolize &amp;lsquo;memory&amp;rsquo;, different currencies to symbolize &amp;rsquo;travel&amp;rsquo;, nuts and dates to symbolize &amp;lsquo;health&amp;rsquo; and of course a digital card to purchase freedom. Towering radiant lamps in the darkness and tranquility - I could take this in everyday!&lt;/p&gt;
+&lt;p&gt;As always, Vishu and setting up the Kani brings up fond memories of Amma. This day is also a salient reminder for me to re-prioritize family before everything else. Happy Vishu and here&amp;rsquo;s to celebrating yet another Solar cycle!&lt;/p&gt;
+&lt;p&gt;Posted while listening to &lt;a href=&#34;https://en.wikipedia.org/wiki/We_Didn%27t_Start_the_Fire&#34;&gt;&lt;em&gt;We Didn&amp;rsquo;t Start the Fire&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Today I learnt, Vishu is not the <a href="https://en.wikipedia.org/wiki/Kerala_New_Year">Kerala New Year</a> (Since 825 CE!) and it essentially is the celebration of the vernal equinox (at Kerala&rsquo;s latitude?).</p>
+<p><img loading="lazy" src="images/20210414_054059-scaled.jpg" alt=""  />
+</p>
+<p>I added in a few non-traditional items to the Kani this time: A watch to symbolize &rsquo;time&rsquo;, a USB stick to symbolize &lsquo;memory&rsquo;, different currencies to symbolize &rsquo;travel&rsquo;, nuts and dates to symbolize &lsquo;health&rsquo; and of course a digital card to purchase freedom. Towering radiant lamps in the darkness and tranquility - I could take this in everyday!</p>
+<p>As always, Vishu and setting up the Kani brings up fond memories of Amma. This day is also a salient reminder for me to re-prioritize family before everything else. Happy Vishu and here&rsquo;s to celebrating yet another Solar cycle!</p>
+<p>Posted while listening to <a href="https://en.wikipedia.org/wiki/We_Didn%27t_Start_the_Fire"><em>We Didn&rsquo;t Start the Fire</em></a></p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

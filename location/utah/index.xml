@@ -1,12 +1,189 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Utah on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/location/utah/index.xml</link>
-    <description>Rexent content in Utah on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Utah on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/location/utah/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Mar 2025 21:30:00 -0500</lastBuildDate><atom:link href="https://srikanthperinkulam.com/location/utah/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>26 Mar 2025 21:30</title>
+      <link>https://srikanthperinkulam.com/2025/03/26/glen-canyon-nra/</link>
+      <pubDate>Wed, 26 Mar 2025 21:30:00 -0500</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/03/26/glen-canyon-nra/</guid>
+      <description>&lt;p&gt;Photos from our recent trip the Glen Canyon National Recreation area from &lt;a href=&#34;https://srikanthperinkulam.com/daynote/2025-mar-24/&#34;&gt;24th March&lt;/a&gt;, &lt;a href=&#34;https://srikanthperinkulam.com/daynote/2025-mar-25/&#34;&gt;25th March&lt;/a&gt; and &lt;a href=&#34;https://srikanthperinkulam.com/daynote/2025-mar-26/&#34;&gt;26th March&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;div class=&#34;image-gallery&#34;&gt;
+    
+    
+    
+    
+    &lt;ul class=&#34;photo-list &#34;&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2025/03/26/glen-canyon-nra/images/Canyon%20X.jpg&#34;&gt;&lt;img src=&#34;./images/Canyon%20X.jpg&#34; alt=&#34;Canyon X.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2025/03/26/glen-canyon-nra/images/GlenCanyon.jpg&#34;&gt;&lt;img src=&#34;./images/GlenCanyon.jpg&#34; alt=&#34;GlenCanyon.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2025/03/26/glen-canyon-nra/images/HorseshoeBend.jpg&#34;&gt;&lt;img src=&#34;./images/HorseshoeBend.jpg&#34; alt=&#34;HorseshoeBend.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2025/03/26/glen-canyon-nra/images/Petroglyphs%20Valley%20of%20fire.jpg&#34;&gt;&lt;img src=&#34;./images/Petroglyphs%20Valley%20of%20fire.jpg&#34; alt=&#34;Petroglyphs Valley of fire.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2025/03/26/glen-canyon-nra/images/ToadstoolHoodoos.jpg&#34;&gt;&lt;img src=&#34;./images/ToadstoolHoodoos.jpg&#34; alt=&#34;ToadstoolHoodoos.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2025/03/26/glen-canyon-nra/images/Wahweap.jpg&#34;&gt;&lt;img src=&#34;./images/Wahweap.jpg&#34; alt=&#34;Wahweap.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list &gt; li {
+    height: 40vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    flex-grow: 10;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image &gt; li {
+    height: auto;  
+}
+&lt;/style&gt;
+
+&lt;a href=&#34;https://srikanthperinkulam.com/2025/03/26/glen-canyon-nra/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Photos from our recent trip the Glen Canyon National Recreation area from <a href="https://srikanthperinkulam.com/daynote/2025-mar-24/">24th March</a>, <a href="https://srikanthperinkulam.com/daynote/2025-mar-25/">25th March</a> and <a href="https://srikanthperinkulam.com/daynote/2025-mar-26/">26th March</a>.</p>
+<p><div class="image-gallery">
+    
+    
+    
+    
+    <ul class="photo-list ">
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2025/03/26/glen-canyon-nra/images/Canyon%20X.jpg"><img src="./images/Canyon%20X.jpg" alt="Canyon X.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2025/03/26/glen-canyon-nra/images/GlenCanyon.jpg"><img src="./images/GlenCanyon.jpg" alt="GlenCanyon.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2025/03/26/glen-canyon-nra/images/HorseshoeBend.jpg"><img src="./images/HorseshoeBend.jpg" alt="HorseshoeBend.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2025/03/26/glen-canyon-nra/images/Petroglyphs%20Valley%20of%20fire.jpg"><img src="./images/Petroglyphs%20Valley%20of%20fire.jpg" alt="Petroglyphs Valley of fire.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2025/03/26/glen-canyon-nra/images/ToadstoolHoodoos.jpg"><img src="./images/ToadstoolHoodoos.jpg" alt="ToadstoolHoodoos.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2025/03/26/glen-canyon-nra/images/Wahweap.jpg"><img src="./images/Wahweap.jpg" alt="Wahweap.jpg" /><a>
+            </li>
+        
+    </ul>
+</div>
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 40vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    flex-grow: 10;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image > li {
+    height: auto;  
+}
+</style>
+
+<a href="https://srikanthperinkulam.com/2025/03/26/glen-canyon-nra/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

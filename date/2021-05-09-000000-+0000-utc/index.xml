@@ -1,12 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2021-05-09 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2021-05-09-000000-&#43;0000-utc/index.xml</link>
-    <description>Rexent content in 2021-05-09 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2021-05-09 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2021-05-09-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2021-05-09-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>09 May 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/05/09/6752559996/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/05/09/6752559996/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been struggling over the last year and a half to get back to a proper workout regimen that I like. Wanted ashtanga to be a part of it since that&amp;rsquo;s the only yoga practice I find exciting. Good to be back in the zone today. Did just the standing poses.&lt;/p&gt;
+&lt;p&gt;Ashtanga Standing : 🧘 Ashtanga for 00:35:00 Calories : 120&lt;/p&gt;
+&lt;p&gt;Also testing out my garmin plugin! :)&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>I&rsquo;ve been struggling over the last year and a half to get back to a proper workout regimen that I like. Wanted ashtanga to be a part of it since that&rsquo;s the only yoga practice I find exciting. Good to be back in the zone today. Did just the standing poses.</p>
+<p>Ashtanga Standing : 🧘 Ashtanga for 00:35:00 Calories : 120</p>
+<p>Also testing out my garmin plugin! :)</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>09 May 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/05/09/may-9-2021-2159/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/05/09/may-9-2021-2159/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Showcase on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/showcase/index.xml</link>
-    <description>Rexent content in Showcase on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Showcase on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/showcase/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Nov 2011 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/showcase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01 Nov 2011 00:00</title>
+      <link>https://srikanthperinkulam.com/2011/11/01/midway-to-the-supreme-showcase/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2011/11/01/midway-to-the-supreme-showcase/</guid>
+      <description>&lt;p&gt;This is it. We now have the data. We now have the proof. Two more units and we should be all set to perform in front of an audience 15000 strong. &lt;strong&gt;&lt;a href=&#34;http://theepiphanydynasty.wordpress.com/projects/unit-wise-projects/unit-iii-projects/&#34; title=&#34;Unit 3 Projects&#34;&gt;THIS&lt;/a&gt;&lt;/strong&gt; is the tipping point.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>This is it. We now have the data. We now have the proof. Two more units and we should be all set to perform in front of an audience 15000 strong. <strong><a href="http://theepiphanydynasty.wordpress.com/projects/unit-wise-projects/unit-iii-projects/" title="Unit 3 Projects">THIS</a></strong> is the tipping point.</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

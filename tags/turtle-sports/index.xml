@@ -1,12 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Turtle-Sports on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/turtle-sports/index.xml</link>
-    <description>Rexent content in Turtle-Sports on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Turtle-Sports on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/turtle-sports/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Jul 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/turtle-sports/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>02 Jul 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/07/02/replied-toopen-workout-tracking/</link>
+      <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/07/02/replied-toopen-workout-tracking/</guid>
+      <description>&lt;p&gt;I absolutely love the WP-GPX plugin! It takes an additional step to fetch the individual gpx file manually and upload it to your server to use the short code. However, the pain is absolutely worth it. And I&amp;rsquo;m sure there&amp;rsquo;s a way to automate this process. I also remember having an issue with it not displaying the HR graph for my uploads. Yet another thing that I need to work on!&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s no turning back, Ever since I moved on to using &lt;a href=&#34;https://elementary.io/&#34;&gt;Elementary OS&lt;/a&gt; and the &lt;a href=&#34;http://turtlesport.sourceforge.net/EN/home.html&#34;&gt;Turtle Sports app&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;in reply to: &lt;a href=&#34;https://www.philipbrewer.net/2017/07/01/open-workout-tracking/&#34;&gt;Open workout tracking&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I really like to gather and play with data from my workouts, but I dislike the way the tools I use to gather it tie me to their own websites for analysis and display—and in particular the way they always want to spin up their own scripts on my website when I want to display the data here.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;
+&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>I absolutely love the WP-GPX plugin! It takes an additional step to fetch the individual gpx file manually and upload it to your server to use the short code. However, the pain is absolutely worth it. And I&rsquo;m sure there&rsquo;s a way to automate this process. I also remember having an issue with it not displaying the HR graph for my uploads. Yet another thing that I need to work on!</p>
+<p>There&rsquo;s no turning back, Ever since I moved on to using <a href="https://elementary.io/">Elementary OS</a> and the <a href="http://turtlesport.sourceforge.net/EN/home.html">Turtle Sports app</a>!</p>
+<p>in reply to: <a href="https://www.philipbrewer.net/2017/07/01/open-workout-tracking/">Open workout tracking</a></p>
+<blockquote>
+<p>I really like to gather and play with data from my workouts, but I dislike the way the tools I use to gather it tie me to their own websites for analysis and display—and in particular the way they always want to spin up their own scripts on my website when I want to display the data here.</p>
+</blockquote>
+<p><img loading="lazy" src="images/cropped-cropped-SP01-550afdebv1_site_icon.png" alt=""  />
+<a href="https://srikanthperinkulam.com">Srikanth Perinkulam</a></p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

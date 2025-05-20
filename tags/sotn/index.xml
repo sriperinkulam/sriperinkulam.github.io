@@ -1,12 +1,217 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sotn on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/sotn/index.xml</link>
-    <description>Rexent content in Sotn on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Sotn on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/sotn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/sotn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>22 Feb 2022 00:00</title>
+      <link>https://srikanthperinkulam.com/2022/02/22/state-of-the-networks-feb-2022/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2022/02/22/state-of-the-networks-feb-2022/</guid>
+      <description>&lt;p&gt;&lt;em&gt;A bi-yearly rundown on the state of the home-servers I run and applications I host on the cloud.&lt;/em&gt; &lt;em&gt;Published while listening to: &lt;a href=&#34;https://invidious.snopyta.org/watch?v=zkvNnRjIhPE&#34;&gt;Mist of Capricorn ( Manavyalakincharadate ) | Agam&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/wireguard-2.drawio.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;A few major changes since the &lt;a href=&#34;https://srikanthperinkulam.com/2021/09/07/state-of-the-networks-sep-2021/&#34;&gt;last September update&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;During the Jan trip, I moved the Odroid XU4 and NCP over to MD. Thanks to WireGuard, I can still access these remotely super seamlessly!&lt;/li&gt;
+&lt;li&gt;Brought in the RPi4 NC to the same WireGuard network. Lesser maintenance!&lt;/li&gt;
+&lt;li&gt;Not quite using the Navidrome and Calibre-web setup as much. Definitely nice to have though.&lt;/li&gt;
+&lt;li&gt;Setup a couple &lt;a href=&#34;https://srikanthperinkulam.com/2022/02/20/bridged/&#34;&gt;Matrix Bridges&lt;/a&gt;. Ansible is pretty awesome! Need to front the &lt;a href=&#34;https://srikanthperinkulam.com/2022/01/25/snikket/&#34;&gt;Snikket instance&lt;/a&gt; I setup in Jan when I have the mind-space.&lt;/li&gt;
+&lt;li&gt;I think I&amp;rsquo;m liking Caddy better than Traefik!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Next few months, I&amp;rsquo;ll probably focus a bit more on SSH hardening, implement more robust Firewalls and automating the backups.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><em>A bi-yearly rundown on the state of the home-servers I run and applications I host on the cloud.</em> <em>Published while listening to: <a href="https://invidious.snopyta.org/watch?v=zkvNnRjIhPE">Mist of Capricorn ( Manavyalakincharadate ) | Agam</a></em></p>
+<p><img loading="lazy" src="images/wireguard-2.drawio.png" alt=""  />
+</p>
+<p>A few major changes since the <a href="https://srikanthperinkulam.com/2021/09/07/state-of-the-networks-sep-2021/">last September update</a>:</p>
+<ul>
+<li>During the Jan trip, I moved the Odroid XU4 and NCP over to MD. Thanks to WireGuard, I can still access these remotely super seamlessly!</li>
+<li>Brought in the RPi4 NC to the same WireGuard network. Lesser maintenance!</li>
+<li>Not quite using the Navidrome and Calibre-web setup as much. Definitely nice to have though.</li>
+<li>Setup a couple <a href="https://srikanthperinkulam.com/2022/02/20/bridged/">Matrix Bridges</a>. Ansible is pretty awesome! Need to front the <a href="https://srikanthperinkulam.com/2022/01/25/snikket/">Snikket instance</a> I setup in Jan when I have the mind-space.</li>
+<li>I think I&rsquo;m liking Caddy better than Traefik!</li>
+</ul>
+<p>Next few months, I&rsquo;ll probably focus a bit more on SSH hardening, implement more robust Firewalls and automating the backups.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>07 Sep 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/09/07/state-of-the-networks-sep-2021/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/09/07/state-of-the-networks-sep-2021/</guid>
+      <description>&lt;p&gt;Over the last few months, I was able to take some time to explore a few self-hostable options. I got to explore &lt;a href=&#34;https://srikanthperinkulam.com/2021/07/28/caddy-through-the-tunnel/&#34;&gt;caddy&lt;/a&gt; (Which is terrific by the way!), setup &lt;a href=&#34;https://srikanthperinkulam.com/2021/07/15/guacamole-clientless-remote-desktop-access/&#34;&gt;guacamole&lt;/a&gt; and I&amp;rsquo;m also absolutely loving &lt;a href=&#34;https://srikanthperinkulam.com/2021/07/28/july-27-2021-2105/&#34;&gt;Navidrome&lt;/a&gt;. I got rid of OSMC since we weren&amp;rsquo;t quite using it as much and setup pi-hole to block ads network wide. With these changes, I think I am able to put these devices to real good use. While at it, I also setup a WireGuard tunnel from a VPS to access my local devices securely outside my home network.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Screenshot-from-2021-09-07-13-25-42-600x296.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Since my &lt;a href=&#34;https://srikanthperinkulam.com/2021/02/05/state-of-the-networks-feb-2021/&#34;&gt;February update&lt;/a&gt;, I haven&amp;rsquo;t changed the services on the cloud much. I did get rid of Bookstack, Known and Signal-CLI since I wasn&amp;rsquo;t using them as much. I am however using &lt;a href=&#34;https://srikanthperinkulam.com/?s=trilium&#34;&gt;Trilium notes&lt;/a&gt; exhaustively as my go-to notes and knowledge-base application.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Over the last few months, I was able to take some time to explore a few self-hostable options. I got to explore <a href="https://srikanthperinkulam.com/2021/07/28/caddy-through-the-tunnel/">caddy</a> (Which is terrific by the way!), setup <a href="https://srikanthperinkulam.com/2021/07/15/guacamole-clientless-remote-desktop-access/">guacamole</a> and I&rsquo;m also absolutely loving <a href="https://srikanthperinkulam.com/2021/07/28/july-27-2021-2105/">Navidrome</a>. I got rid of OSMC since we weren&rsquo;t quite using it as much and setup pi-hole to block ads network wide. With these changes, I think I am able to put these devices to real good use. While at it, I also setup a WireGuard tunnel from a VPS to access my local devices securely outside my home network.</p>
+<p><img loading="lazy" src="images/Screenshot-from-2021-09-07-13-25-42-600x296.png" alt=""  />
+</p>
+<p>Since my <a href="https://srikanthperinkulam.com/2021/02/05/state-of-the-networks-feb-2021/">February update</a>, I haven&rsquo;t changed the services on the cloud much. I did get rid of Bookstack, Known and Signal-CLI since I wasn&rsquo;t using them as much. I am however using <a href="https://srikanthperinkulam.com/?s=trilium">Trilium notes</a> exhaustively as my go-to notes and knowledge-base application.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>05 Feb 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/02/05/state-of-the-networks-feb-2021/</link>
+      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/02/05/state-of-the-networks-feb-2021/</guid>
+      <description>&lt;p&gt;&lt;em&gt;A quick rundown on the state of the home-servers I run or applications I host on the cloud.&lt;/em&gt; &lt;em&gt;Published while listening to: &lt;a href=&#34;https://invidious.snopyta.org/watch?v=RlcY37n5j9M&#34;&gt;Malang&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;With our temporary relocation, I currently manage two &amp;lsquo;home-labs&amp;rsquo; - one which I remotely manage with a WireGuard tunnel and the other just a local-access only setup. The remote home-lab is essentially a Nextcloud server running on a &lt;a href=&#34;https://dietpi.com/&#34;&gt;DietPi OS&lt;/a&gt; spun on an RPi4. I pulled down the HAProxy config on the fronting server since that was no longer required.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Homelab-SoTN-Feb-2021-600x478.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;The local home-lab currently encompasses four units:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ownyourbits.com/nextcloudpi/&#34;&gt;NextcloudPi&lt;/a&gt; running on an RPi3 and connected to a 1TB main drive: This has been our primary document and media backup servers silently chugging along for close to three years now!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://osmc.tv/&#34;&gt;OSMC&lt;/a&gt; installed on another RPi3: With a 1TB media drive, Amazon video and Youtube addons this primarily serves as a secondary family Television. A bit on the sluggish end but does the job for now.&lt;/li&gt;
+&lt;li&gt;DietPi running on an &lt;a href=&#34;https://wiki.odroid.com/odroid-xu4/odroid-xu4&#34;&gt;Odroid-XU4&lt;/a&gt;: Pi-Hole for Ad control and WireGuard to access the remote home-lab.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pop.system76.com/&#34;&gt;PoPOS&lt;/a&gt; running on an Intel NUC7: My primary workstation! An attached 1TB drive acts as the secondary backup for my NC setup and then I run sync jobs to a 256GB flash drive for a cold backup of the really important files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And then, on a remote VM I run a slew of services that handle most of my social and productivity tools. Fronted by Traefik and running in docker containers, the following services run on the 8GB server:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bookstackapp.com/&#34;&gt;Bookstack&lt;/a&gt; – Wiki software which I am currently using to help publish my dad’s second book&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://known.srkn.org/&#34;&gt;Known&lt;/a&gt; – I mostly use this as a quick bookmarking tool. I also post short updates or status notes here infrequently.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.wallabag.it/en&#34;&gt;Wallabag&lt;/a&gt; – Read-later app&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://srikanthperinkulam.com/2020/06/14/guyon-flats-and-tuffys-tavern-trail/&#34;&gt;Pixelfed&lt;/a&gt; – Way better than Instagram and &lt;a href=&#34;https://pixel.srkn.org/sriperinkulam&#34;&gt;my go-to space&lt;/a&gt; to post individual images&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://selfoss.aditu.de/&#34;&gt;Minflux&lt;/a&gt; – The light-weight feed-reader that I pipe all my RSS subscriptions to&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/zadam/trilium&#34;&gt;Trilium Notes&lt;/a&gt; – A terrific Evernote alternative with awesome Markdown support&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bbernhard/signal-cli-rest-api&#34;&gt;Signal-CLI&lt;/a&gt; – I use this for server trigger notifications to be sent via SMS&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://etherpad.org/&#34;&gt;Etherpad&lt;/a&gt; – Quick, collaborative notes&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cryptpad.fr/&#34;&gt;CryptPad&lt;/a&gt; - Collaboration suite for documents&lt;/li&gt;
+&lt;li&gt;Calibre - I use this to manage &lt;a href=&#34;https://lib.srkn.org/&#34;&gt;my digital books collection&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lychee - A nifty photo gallery where I currently save my &lt;a href=&#34;https://srikanthperinkulam.com/2020/08/26/stamp-collection-digitized/&#34;&gt;digital stamps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;WordPress – I run 4 instances of WordPress – Portals for folks in my family&lt;/li&gt;
+&lt;li&gt;Nextcloud – This one’s more to test the recent releases before I deploy them on my home-lab&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sometime down the lane I would like to setup a &lt;a href=&#34;https://snikket.org/&#34;&gt;Snikket instance&lt;/a&gt; for family chats.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><em>A quick rundown on the state of the home-servers I run or applications I host on the cloud.</em> <em>Published while listening to: <a href="https://invidious.snopyta.org/watch?v=RlcY37n5j9M">Malang</a></em></p>
+<p>With our temporary relocation, I currently manage two &lsquo;home-labs&rsquo; - one which I remotely manage with a WireGuard tunnel and the other just a local-access only setup. The remote home-lab is essentially a Nextcloud server running on a <a href="https://dietpi.com/">DietPi OS</a> spun on an RPi4. I pulled down the HAProxy config on the fronting server since that was no longer required.</p>
+<p><img loading="lazy" src="images/Homelab-SoTN-Feb-2021-600x478.png" alt=""  />
+</p>
+<p>The local home-lab currently encompasses four units:</p>
+<ul>
+<li><a href="https://ownyourbits.com/nextcloudpi/">NextcloudPi</a> running on an RPi3 and connected to a 1TB main drive: This has been our primary document and media backup servers silently chugging along for close to three years now!</li>
+<li><a href="https://osmc.tv/">OSMC</a> installed on another RPi3: With a 1TB media drive, Amazon video and Youtube addons this primarily serves as a secondary family Television. A bit on the sluggish end but does the job for now.</li>
+<li>DietPi running on an <a href="https://wiki.odroid.com/odroid-xu4/odroid-xu4">Odroid-XU4</a>: Pi-Hole for Ad control and WireGuard to access the remote home-lab.</li>
+<li><a href="https://pop.system76.com/">PoPOS</a> running on an Intel NUC7: My primary workstation! An attached 1TB drive acts as the secondary backup for my NC setup and then I run sync jobs to a 256GB flash drive for a cold backup of the really important files.</li>
+</ul>
+<p>And then, on a remote VM I run a slew of services that handle most of my social and productivity tools. Fronted by Traefik and running in docker containers, the following services run on the 8GB server:</p>
+<ul>
+<li><a href="https://www.bookstackapp.com/">Bookstack</a> – Wiki software which I am currently using to help publish my dad’s second book</li>
+<li><a href="https://known.srkn.org/">Known</a> – I mostly use this as a quick bookmarking tool. I also post short updates or status notes here infrequently.</li>
+<li><a href="https://www.wallabag.it/en">Wallabag</a> – Read-later app</li>
+<li><a href="https://srikanthperinkulam.com/2020/06/14/guyon-flats-and-tuffys-tavern-trail/">Pixelfed</a> – Way better than Instagram and <a href="https://pixel.srkn.org/sriperinkulam">my go-to space</a> to post individual images</li>
+<li><a href="https://selfoss.aditu.de/">Minflux</a> – The light-weight feed-reader that I pipe all my RSS subscriptions to</li>
+<li><a href="https://github.com/zadam/trilium">Trilium Notes</a> – A terrific Evernote alternative with awesome Markdown support</li>
+<li><a href="https://github.com/bbernhard/signal-cli-rest-api">Signal-CLI</a> – I use this for server trigger notifications to be sent via SMS</li>
+<li><a href="https://etherpad.org/">Etherpad</a> – Quick, collaborative notes</li>
+<li><a href="https://cryptpad.fr/">CryptPad</a> - Collaboration suite for documents</li>
+<li>Calibre - I use this to manage <a href="https://lib.srkn.org/">my digital books collection</a></li>
+<li>Lychee - A nifty photo gallery where I currently save my <a href="https://srikanthperinkulam.com/2020/08/26/stamp-collection-digitized/">digital stamps</a></li>
+<li>WordPress – I run 4 instances of WordPress – Portals for folks in my family</li>
+<li>Nextcloud – This one’s more to test the recent releases before I deploy them on my home-lab</li>
+</ul>
+<p>Sometime down the lane I would like to setup a <a href="https://snikket.org/">Snikket instance</a> for family chats.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>18 Jun 2020 00:00</title>
+      <link>https://srikanthperinkulam.com/2020/06/18/state-of-the-networks-jun-2020/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2020/06/18/state-of-the-networks-jun-2020/</guid>
+      <description>&lt;p&gt;&lt;em&gt;A quick rundown on the state of the home-servers I run or applications I host on the cloud.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;My &amp;lsquo;Homelab&amp;rsquo; setup has not changed much since my &lt;a href=&#34;https://srikanthperinkulam.com/2020/02/04/state-of-the-networks-jan-2020/&#34;&gt;last update in January&lt;/a&gt;. I did add in a &lt;a href=&#34;https://srikanthperinkulam.com/2020/05/17/switched/&#34;&gt;switch&lt;/a&gt; and installed a wireguard vpn on the RPI 3B+ that fronts as a reverse proxy for the Nextcloud media devices. I also got a Seagate 2TB drive and built two partitions into it. One acts as a backup for my Nextcloud files and the other is a &amp;lsquo;cold backup&amp;rsquo; of my Hetzner cloud instance.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/State-of-the-Network-Jun-2020--1200x977.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;For personal use, I maintain two remote cloud servers on Hetzner:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hetzner 01&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;The first server essentially handles most of my social and productivity tools. Fronted by Traefik and running in docker containers, the following services run on the 8GB server:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bookstackapp.com/&#34;&gt;Bookstack&lt;/a&gt; - Wiki software which I am currently using to help publish my dad&amp;rsquo;s second book&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://known.srkn.org/&#34;&gt;Known&lt;/a&gt; - FB alternative. I mostly use this as a quick bookmarking tool. I also post short updates or status notes here infrequently.&lt;/li&gt;
+&lt;li&gt;Wordpress  - I run 4 instances of Wordpress - Portals for folks in my family.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.wallabag.it/en&#34;&gt;Wallabag&lt;/a&gt; - Read-later app&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://srikanthperinkulam.com/2020/06/14/guyon-flats-and-tuffys-tavern-trail/&#34;&gt;Pixelfed&lt;/a&gt; - My go-to space to post individual images.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://selfoss.aditu.de/&#34;&gt;Selfoss&lt;/a&gt; - The light-weight feed-reader that I pipe all my RSS subscriptions to.&lt;/li&gt;
+&lt;li&gt;Nextcloud - This one&amp;rsquo;s more to test the recent releases before I deploy them on my homelab.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/zadam/trilium&#34;&gt;Trilium Notes&lt;/a&gt; - My go-to place to save quick notes&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bbernhard/signal-cli-rest-api&#34;&gt;Signal-CLI&lt;/a&gt; - I use this for server trigger notifications to be sent via SMS&lt;/li&gt;
+&lt;li&gt;Mattermost - Slack alternative&lt;/li&gt;
+&lt;li&gt;Etherpad - Quick, collaborative notes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Hetzner 02:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This server hosts my Matrix and Jitsi Conference applications. While at it, I also have a Riot instance running in parallel that fronts the Synapse install.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><em>A quick rundown on the state of the home-servers I run or applications I host on the cloud.</em></p>
+<p>My &lsquo;Homelab&rsquo; setup has not changed much since my <a href="https://srikanthperinkulam.com/2020/02/04/state-of-the-networks-jan-2020/">last update in January</a>. I did add in a <a href="https://srikanthperinkulam.com/2020/05/17/switched/">switch</a> and installed a wireguard vpn on the RPI 3B+ that fronts as a reverse proxy for the Nextcloud media devices. I also got a Seagate 2TB drive and built two partitions into it. One acts as a backup for my Nextcloud files and the other is a &lsquo;cold backup&rsquo; of my Hetzner cloud instance.</p>
+<p><img loading="lazy" src="images/State-of-the-Network-Jun-2020--1200x977.jpg" alt=""  />
+</p>
+<p>For personal use, I maintain two remote cloud servers on Hetzner:</p>
+<p><strong>Hetzner 01</strong>:</p>
+<p>The first server essentially handles most of my social and productivity tools. Fronted by Traefik and running in docker containers, the following services run on the 8GB server:</p>
+<ul>
+<li><a href="https://www.bookstackapp.com/">Bookstack</a> - Wiki software which I am currently using to help publish my dad&rsquo;s second book</li>
+<li><a href="https://known.srkn.org/">Known</a> - FB alternative. I mostly use this as a quick bookmarking tool. I also post short updates or status notes here infrequently.</li>
+<li>Wordpress  - I run 4 instances of Wordpress - Portals for folks in my family.</li>
+<li><a href="https://www.wallabag.it/en">Wallabag</a> - Read-later app</li>
+<li><a href="https://srikanthperinkulam.com/2020/06/14/guyon-flats-and-tuffys-tavern-trail/">Pixelfed</a> - My go-to space to post individual images.</li>
+<li><a href="https://selfoss.aditu.de/">Selfoss</a> - The light-weight feed-reader that I pipe all my RSS subscriptions to.</li>
+<li>Nextcloud - This one&rsquo;s more to test the recent releases before I deploy them on my homelab.</li>
+<li><a href="https://github.com/zadam/trilium">Trilium Notes</a> - My go-to place to save quick notes</li>
+<li><a href="https://github.com/bbernhard/signal-cli-rest-api">Signal-CLI</a> - I use this for server trigger notifications to be sent via SMS</li>
+<li>Mattermost - Slack alternative</li>
+<li>Etherpad - Quick, collaborative notes</li>
+</ul>
+<p><strong>Hetzner 02:</strong></p>
+<p>This server hosts my Matrix and Jitsi Conference applications. While at it, I also have a Riot instance running in parallel that fronts the Synapse install.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>04 Feb 2020 00:00</title>
+      <link>https://srikanthperinkulam.com/2020/02/04/state-of-the-networks-jan-2020/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2020/02/04/state-of-the-networks-jan-2020/</guid>
+      <description>&lt;p&gt;&lt;em&gt;A quick rundown on the state of the home-servers I run or applications I host on the cloud.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Last week I opened up my Nextcloud instance for external access. Now, since my brother&amp;rsquo;s RPi4 was already exposed on the same network, I had to setup a reverse proxy on another RPi3 to access both simultaneously behind the router. Here&amp;rsquo;s the current setup:&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/State-of-the-Network-Jan-2020-.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Proxy server:&lt;/strong&gt; An RPi3 running on Raspbian Buster Lite with HAProxy installed to handle the reverse proxy. Here&amp;rsquo;s the &lt;a href=&#34;https://gist.github.com/sriperinkulam/23fee95d454fe3a9ff18a0555734e3ab&#34;&gt;gist of the code&lt;/a&gt; that&amp;rsquo;s handling all the heavy lifting. Since SSL is handled by the other servers themselves, all I needed was a quick pass-through handshake from HAProxy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Server 01:&lt;/strong&gt; An RPi3 running on NextcloudPi essentially serving Nextcloud for all my file needs. Data is simultaneously backed up on a couple machines within the network. Decided against a remote backup [S3/Backblaze] for now.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Server 02:&lt;/strong&gt; An RPi4 running on Diet-Pi and serving Pi-Hole and a Nextcloud instance. I&amp;rsquo;ve turned off DHCP on the Orbi router and delegated that to the Pi-Hole. Both the Pi-Hole and the router have static IPs assigned to the SBCs and my trusty Dell machine based on their MAC address. I&amp;rsquo;m debating if I should move the Pi-Hole over to the Proxy Server&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Beyond the home-lab, I have a droplet with DigitalOcean serving this website and a few other portals I manage. ServerPilot runs in the background on that droplet taking care of all the critical needs. I do intend to shift this over to a home-lab once I get hold of my ODroid XU4 which is currently in the Uganda shipment several thousand miles away in Chennai!&lt;/p&gt;
+&lt;p&gt;Early this year, I also procured a Hetzner cloud instance to test its stability and see if I could move over certain portals to it. Should say I&amp;rsquo;m pretty impressed! Running on Debian Stretch and powered by Yunohost, I installed &lt;a href=&#34;https://pixel.srkn.org/sriperinkulam&#34;&gt;PixelFed&lt;/a&gt; and Wallabag. Installation has never been any easier! One drawback for sure is that the code-base may be a bit lagged as it gets deployed on Yunohost. Nevertheless, it&amp;rsquo;s pure magic to see things getting installed with just a few clicks and not much back-end work.&lt;/p&gt;
+&lt;p&gt;And then, I manage a Moodle Bitnami instance running on an AWS instance. I intend to move it over to the Hetzner cloud over the next month or so.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><em>A quick rundown on the state of the home-servers I run or applications I host on the cloud.</em></p>
+<p>Last week I opened up my Nextcloud instance for external access. Now, since my brother&rsquo;s RPi4 was already exposed on the same network, I had to setup a reverse proxy on another RPi3 to access both simultaneously behind the router. Here&rsquo;s the current setup:</p>
+<p><img loading="lazy" src="images/State-of-the-Network-Jan-2020-.jpg" alt=""  />
+</p>
+<p><strong>Proxy server:</strong> An RPi3 running on Raspbian Buster Lite with HAProxy installed to handle the reverse proxy. Here&rsquo;s the <a href="https://gist.github.com/sriperinkulam/23fee95d454fe3a9ff18a0555734e3ab">gist of the code</a> that&rsquo;s handling all the heavy lifting. Since SSL is handled by the other servers themselves, all I needed was a quick pass-through handshake from HAProxy.</p>
+<p><strong>Server 01:</strong> An RPi3 running on NextcloudPi essentially serving Nextcloud for all my file needs. Data is simultaneously backed up on a couple machines within the network. Decided against a remote backup [S3/Backblaze] for now.</p>
+<p><strong>Server 02:</strong> An RPi4 running on Diet-Pi and serving Pi-Hole and a Nextcloud instance. I&rsquo;ve turned off DHCP on the Orbi router and delegated that to the Pi-Hole. Both the Pi-Hole and the router have static IPs assigned to the SBCs and my trusty Dell machine based on their MAC address. I&rsquo;m debating if I should move the Pi-Hole over to the Proxy Server&hellip;</p>
+<p>Beyond the home-lab, I have a droplet with DigitalOcean serving this website and a few other portals I manage. ServerPilot runs in the background on that droplet taking care of all the critical needs. I do intend to shift this over to a home-lab once I get hold of my ODroid XU4 which is currently in the Uganda shipment several thousand miles away in Chennai!</p>
+<p>Early this year, I also procured a Hetzner cloud instance to test its stability and see if I could move over certain portals to it. Should say I&rsquo;m pretty impressed! Running on Debian Stretch and powered by Yunohost, I installed <a href="https://pixel.srkn.org/sriperinkulam">PixelFed</a> and Wallabag. Installation has never been any easier! One drawback for sure is that the code-base may be a bit lagged as it gets deployed on Yunohost. Nevertheless, it&rsquo;s pure magic to see things getting installed with just a few clicks and not much back-end work.</p>
+<p>And then, I manage a Moodle Bitnami instance running on an AWS instance. I intend to move it over to the Hetzner cloud over the next month or so.</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

@@ -1,12 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hardy-Heron on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/hardy-heron/index.xml</link>
-    <description>Rexent content in Hardy-Heron on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Hardy-Heron on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/hardy-heron/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Apr 2008 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/hardy-heron/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>25 Apr 2008 00:00</title>
+      <link>https://srikanthperinkulam.com/2008/04/25/the-herons-up-there-in-the-servers/</link>
+      <pubDate>Fri, 25 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2008/04/25/the-herons-up-there-in-the-servers/</guid>
+      <description>&lt;p&gt;The Ubuntu family has now doled out their latest OS - Ubuntu 8.04 code named - Hardy Heron. This release is more than different when compared to it&amp;rsquo;s previous releases. Majorly because it&amp;rsquo;s got a Wubi installer which facilitates installation directly from a Windows platform. The OS gets installed on the same partition just like any other software application, thus relieving a linux noobie from all the hassles of partitioning a drive. It can also be uninstalled just like any other app. through the Add/ Remove programs. :-)&lt;/p&gt;
+&lt;p&gt;Hardy Heron is a Long term Support ( LTS ) version. The Ubuntu community release LTS versions once in every two years and I belive this version is going to be supported till 2011 ! For server editions the support is for Five years! :-)&lt;/p&gt;
+&lt;p&gt;Hardy comes in with the Firefox 3 ( Still in the Late stages of Beta ), Open Office 2.40 and the GIMP (2.4.5) . Early reviews suggest the OS is pretty stable and gels with a breeze in Windows.  Ubuntu 7.04 ( Gutsy Gibbon ) literally smirked at Vista. Wonder what Hardy has in store!&lt;/p&gt;
+&lt;p&gt;Any reasons why you shouldn&amp;rsquo;t be giving this  a shot? :-)&lt;/p&gt;
+&lt;p&gt;Rush and download it from here !&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>The Ubuntu family has now doled out their latest OS - Ubuntu 8.04 code named - Hardy Heron. This release is more than different when compared to it&rsquo;s previous releases. Majorly because it&rsquo;s got a Wubi installer which facilitates installation directly from a Windows platform. The OS gets installed on the same partition just like any other software application, thus relieving a linux noobie from all the hassles of partitioning a drive. It can also be uninstalled just like any other app. through the Add/ Remove programs. :-)</p>
+<p>Hardy Heron is a Long term Support ( LTS ) version. The Ubuntu community release LTS versions once in every two years and I belive this version is going to be supported till 2011 ! For server editions the support is for Five years! :-)</p>
+<p>Hardy comes in with the Firefox 3 ( Still in the Late stages of Beta ), Open Office 2.40 and the GIMP (2.4.5) . Early reviews suggest the OS is pretty stable and gels with a breeze in Windows.  Ubuntu 7.04 ( Gutsy Gibbon ) literally smirked at Vista. Wonder what Hardy has in store!</p>
+<p>Any reasons why you shouldn&rsquo;t be giving this  a shot? :-)</p>
+<p>Rush and download it from here !</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

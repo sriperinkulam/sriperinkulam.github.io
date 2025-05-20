@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Satabhishekam on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/satabhishekam/index.xml</link>
-    <description>Rexent content in Satabhishekam on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Satabhishekam on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/satabhishekam/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/satabhishekam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>26 Jun 2022 00:00</title>
+      <link>https://srikanthperinkulam.com/2022/06/26/86/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2022/06/26/86/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Satabhishekam.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;As I walked up from the basement this early morning, I got to capture this beautiful picture of the light from the laundry room &amp;rsquo;lighting&amp;rsquo; up the lamp from the Kolam. We performed Appa&amp;rsquo;s Satabhishekam today. His sisters could attend the ceremony in person and a good bunch of family zoomed in. Until yesterday, we weren&amp;rsquo;t even sure we&amp;rsquo;d make it in time for the event. Phew!&lt;/p&gt;
+&lt;p&gt;He&amp;rsquo;s turning 86 this year! Several circumstances pushed this celebration until now and we&amp;rsquo;re so glad we could make it happen today. Highlight of the event was undoubtedly the veda recital at the end of the ceremony. Wish we recorded it!&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/Satabhishekam.jpg" alt=""  />
+</p>
+<p>As I walked up from the basement this early morning, I got to capture this beautiful picture of the light from the laundry room &rsquo;lighting&rsquo; up the lamp from the Kolam. We performed Appa&rsquo;s Satabhishekam today. His sisters could attend the ceremony in person and a good bunch of family zoomed in. Until yesterday, we weren&rsquo;t even sure we&rsquo;d make it in time for the event. Phew!</p>
+<p>He&rsquo;s turning 86 this year! Several circumstances pushed this celebration until now and we&rsquo;re so glad we could make it happen today. Highlight of the event was undoubtedly the veda recital at the end of the ceremony. Wish we recorded it!</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

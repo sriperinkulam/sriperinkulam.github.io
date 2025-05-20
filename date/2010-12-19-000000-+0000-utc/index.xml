@@ -1,12 +1,159 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2010-12-19 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2010-12-19-000000-&#43;0000-utc/index.xml</link>
-    <description>Rexent content in 2010-12-19 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2010-12-19 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2010-12-19-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Dec 2010 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2010-12-19-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>19 Dec 2010 00:00</title>
+      <link>https://srikanthperinkulam.com/2010/12/19/goa-river-half-marathon/</link>
+      <pubDate>Sun, 19 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2010/12/19/goa-river-half-marathon/</guid>
+      <description>&lt;div class=&#34;image-gallery&#34;&gt;
+    
+    
+    
+    
+    &lt;ul class=&#34;photo-list &#34;&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2010/12/19/goa-river-half-marathon/images/162652_10150353547485182_7240200.jpg&#34;&gt;&lt;img src=&#34;./images/162652_10150353547485182_7240200.jpg&#34; alt=&#34;162652_10150353547485182_7240200.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2010/12/19/goa-river-half-marathon/images/162653_10150353542515182_4852571.jpg&#34;&gt;&lt;img src=&#34;./images/162653_10150353542515182_4852571.jpg&#34; alt=&#34;162653_10150353542515182_4852571.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2010/12/19/goa-river-half-marathon/images/163172_10150353549575182_6173020.jpg&#34;&gt;&lt;img src=&#34;./images/163172_10150353549575182_6173020.jpg&#34; alt=&#34;163172_10150353549575182_6173020.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2010/12/19/goa-river-half-marathon/images/165349_10150353548150182_2761398_n_16686320129_o.jpg&#34;&gt;&lt;img src=&#34;./images/165349_10150353548150182_2761398_n_16686320129_o.jpg&#34; alt=&#34;165349_10150353548150182_2761398_n_16686320129_o.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list &gt; li {
+    height: 40vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    flex-grow: 10;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image &gt; li {
+    height: auto;  
+}
+&lt;/style&gt;
+
+</description>
+      <content:encoded><![CDATA[<div class="image-gallery">
+    
+    
+    
+    
+    <ul class="photo-list ">
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2010/12/19/goa-river-half-marathon/images/162652_10150353547485182_7240200.jpg"><img src="./images/162652_10150353547485182_7240200.jpg" alt="162652_10150353547485182_7240200.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2010/12/19/goa-river-half-marathon/images/162653_10150353542515182_4852571.jpg"><img src="./images/162653_10150353542515182_4852571.jpg" alt="162653_10150353542515182_4852571.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2010/12/19/goa-river-half-marathon/images/163172_10150353549575182_6173020.jpg"><img src="./images/163172_10150353549575182_6173020.jpg" alt="163172_10150353549575182_6173020.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2010/12/19/goa-river-half-marathon/images/165349_10150353548150182_2761398_n_16686320129_o.jpg"><img src="./images/165349_10150353548150182_2761398_n_16686320129_o.jpg" alt="165349_10150353548150182_2761398_n_16686320129_o.jpg" /><a>
+            </li>
+        
+    </ul>
+</div>
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 40vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    flex-grow: 10;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image > li {
+    height: auto;  
+}
+</style>
+
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

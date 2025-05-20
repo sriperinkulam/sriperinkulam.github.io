@@ -1,12 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2017-05-02 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2017-05-02-000000-&#43;0000-utc/index.xml</link>
-    <description>Rexent content in 2017-05-02 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2017-05-02 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2017-05-02-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 May 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2017-05-02-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>02 May 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/05/02/6-awesome-uncrowded-national-parks/</link>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/05/02/6-awesome-uncrowded-national-parks/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://blog.theclymb.com/tips/6-awesome-uncrowded-national-parks/&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/iStock-471763505-e1494157795408.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Plan a trip to Yellowstone or Yosemite and you’re likely to see as many humans as animals, try one of the hidden treasures our NPS offers instead.&lt;/p&gt;
+&lt;p&gt;Source: &lt;em&gt;6 Awesome Uncrowded National Parks&lt;/em&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><a href="http://blog.theclymb.com/tips/6-awesome-uncrowded-national-parks/"><img loading="lazy" src="images/iStock-471763505-e1494157795408.jpg" alt=""  />
+</a></p>
+<p>Plan a trip to Yellowstone or Yosemite and you’re likely to see as many humans as animals, try one of the hidden treasures our NPS offers instead.</p>
+<p>Source: <em>6 Awesome Uncrowded National Parks</em></p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>02 May 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/05/02/seeing-theory/</link>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/05/02/seeing-theory/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;A visual introduction to probability and statistics.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://students.brown.edu/seeing-theory/&#34;&gt;Seeing Theory&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<blockquote>
+<p>A visual introduction to probability and statistics.</p>
+</blockquote>
+<p>Source: <em><a href="http://students.brown.edu/seeing-theory/">Seeing Theory</a></em></p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>02 May 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/05/02/sideways-dictionary/</link>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/05/02/sideways-dictionary/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Sideways dictionary — it&amp;rsquo;s like a dictionary, but using analogies instead of definitions. Use it as a tool for finding and sharing helpful analogies to explain technological ideas. Because if everyone understands technology better, we can make technology work better for everyone.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;https://sidewaysdictionary.com/#/&#34;&gt;Sideways Dictionary&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<blockquote>
+<p>Sideways dictionary — it&rsquo;s like a dictionary, but using analogies instead of definitions. Use it as a tool for finding and sharing helpful analogies to explain technological ideas. Because if everyone understands technology better, we can make technology work better for everyone.</p>
+</blockquote>
+<p>Source: <em><a href="https://sidewaysdictionary.com/#/">Sideways Dictionary</a></em></p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

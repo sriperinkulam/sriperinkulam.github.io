@@ -1,12 +1,57 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2017-02-23 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2017-02-23-000000-&#43;0000-utc/index.xml</link>
-    <description>Rexent content in 2017-02-23 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2017-02-23 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2017-02-23-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Feb 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2017-02-23-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>23 Feb 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/02/23/stranger-in-paradise/</link>
+      <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/02/23/stranger-in-paradise/</guid>
+      <description>&lt;p&gt;Back in 1911, a box with a dead raccoon in it showed up in Washington D.C., at the office of Gerrit S. Miller. After pulling it out and inspecting it, he realized this raccoon was from the Caribbean islands of Guadeloupe, and unlike anything he’d ever seen before.&lt;/p&gt;
+&lt;p&gt;Source: &lt;a href=&#34;https://overcast.fm/+KRL4uE&#34;&gt;Stranger in Paradise&lt;/a&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Back in 1911, a box with a dead raccoon in it showed up in Washington D.C., at the office of Gerrit S. Miller. After pulling it out and inspecting it, he realized this raccoon was from the Caribbean islands of Guadeloupe, and unlike anything he’d ever seen before.</p>
+<p>Source: <a href="https://overcast.fm/+KRL4uE">Stranger in Paradise</a></p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>23 Feb 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/02/23/week7day4/</link>
+      <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/02/23/week7day4/</guid>
+      <description>&lt;p&gt;A good 8mile run from the yoga studio to home. Clocked about 01:25.&lt;/p&gt;
+&lt;p&gt;As I was waiting at a signal near BWH a fellow runner who looked pretty shaken asked if she could tag along for a few blocks. Apparently some random guy on the road pushed her on to the wall and tried molesting her&amp;hellip;Disgusting! The roads were pretty well lit AND there were quite a few folks out there. Appalling that one has to be always on guard in Boston too.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>A good 8mile run from the yoga studio to home. Clocked about 01:25.</p>
+<p>As I was waiting at a signal near BWH a fellow runner who looked pretty shaken asked if she could tag along for a few blocks. Apparently some random guy on the road pushed her on to the wall and tried molesting her&hellip;Disgusting! The roads were pretty well lit AND there were quite a few folks out there. Appalling that one has to be always on guard in Boston too.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>23 Feb 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/02/23/youve-got-trail/</link>
+      <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/02/23/youve-got-trail/</guid>
+      <description>&lt;p&gt;150 Years!! The Canada park service is giving out passes all through 2017 for free entry to parks they govern. I guess it&amp;rsquo;s free for anyone visiting so technically their gates are open. But think of the number of folks they&amp;rsquo;d draw in and the awesome culture being subtly promoted..Awesomeness! &lt;img loading=&#34;lazy&#34; src=&#34;images/FullSizeRender.jpeg&#34; alt=&#34;FullSizeRender.jpeg&#34;  /&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>150 Years!! The Canada park service is giving out passes all through 2017 for free entry to parks they govern. I guess it&rsquo;s free for anyone visiting so technically their gates are open. But think of the number of folks they&rsquo;d draw in and the awesome culture being subtly promoted..Awesomeness! <img loading="lazy" src="images/FullSizeRender.jpeg" alt="FullSizeRender.jpeg"  />
+</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

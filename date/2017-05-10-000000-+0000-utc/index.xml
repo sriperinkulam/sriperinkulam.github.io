@@ -1,12 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2017-05-10 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2017-05-10-000000-&#43;0000-utc/index.xml</link>
-    <description>Rexent content in 2017-05-10 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2017-05-10 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2017-05-10-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 May 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2017-05-10-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>10 May 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/05/10/reply-to-its-alive/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/05/10/reply-to-its-alive/</guid>
+      <description>&lt;p&gt;I believe it might be something to do with the media endpoint. As a workaround, I use the dsgnwrks Instagram importer plugin which does a great job fetching posts from Instagram.&lt;/p&gt;
+&lt;p&gt;Responding to &lt;a href=&#34;https://dougbeal.com/2017/05/05/its-alive/&#34;&gt;It’s Alive&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I have WordPress with all the indie web fixings, using the SemPress theme. Not sure about viability. One important use case is Instagram crossposting here via OwnYourGram.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+      <content:encoded><![CDATA[<p>I believe it might be something to do with the media endpoint. As a workaround, I use the dsgnwrks Instagram importer plugin which does a great job fetching posts from Instagram.</p>
+<p>Responding to <a href="https://dougbeal.com/2017/05/05/its-alive/">It’s Alive</a></p>
+<blockquote>
+<p>I have WordPress with all the indie web fixings, using the SemPress theme. Not sure about viability. One important use case is Instagram crossposting here via OwnYourGram.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

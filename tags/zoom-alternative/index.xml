@@ -1,12 +1,77 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Zoom-Alternative on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/zoom-alternative/index.xml</link>
-    <description>Rexent content in Zoom-Alternative on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Zoom-Alternative on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/zoom-alternative/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/zoom-alternative/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>19 Apr 2020 00:00</title>
+      <link>https://srikanthperinkulam.com/2020/04/19/self-hosting-jitsi-video-conferencing/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2020/04/19/self-hosting-jitsi-video-conferencing/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://jitsi.org/&#34;&gt;Jit.si&lt;/a&gt; is a terrific, secure video-conferencing #alternative to #Zoom and obviously comes with all the open-source awesomeness. Call clarity is amazing and with a room capacity of 100+ (and potentially much more, driven by network and server capabilities), it&amp;rsquo;s an absolute no-brainer to switch over. Use &lt;a href=&#34;https://meet.jit.si/&#34;&gt;Jitsi Meet&lt;/a&gt; on the desktop or use one of their slick android, F-droid or iPhone apps on hand-held devices to organise your video conferences.&lt;/p&gt;
+&lt;p&gt;With the recent push to video-conferencing most meetings, I decided to setup my own instance. This was way more straightforward than I thought! I am currenty running it as a docker container, fronted with #Traefik for encryption. Configuration and installation steps mentioned below assume you have access to a domain name and server with docker already installed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Setting up the server:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A records:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Create a new A record with your hosting provider to point your subdomain to the IP address of your server&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/image.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SSH into server and install&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;It should cost you only about 5$ per month for a decent server configuration. I already had an account with Hetzner, so I deployed my instance there.&lt;/p&gt;
+&lt;p&gt;SSH into your server: &lt;code&gt;sudo ssh user@xx.xx.xx.xx&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Initialise a swarm: &lt;code&gt;sudo docker swarm init&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Create the traefik network: &lt;code&gt;sudo docker network create --driver=overlay traefik-net&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Create two new yml files - one for traefik-ssl and another for jitsi, copy over the contents from the respective files &lt;a href=&#34;https://github.com/ethibox/stacks&#34;&gt;available here from ethibox&lt;/a&gt; and make edits as needed:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;sudo nano traefik-ssl.yml&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;sudo nano jitsi.yml&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Deploy the Traefik stack: &lt;code&gt;sudo docker stack deploy -c traefik-ssl.yml traefik&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Deploy the Jitsi stack: &lt;code&gt;DOMAIN=meet.srkn.org SCHEME=https docker stack deploy -c jitsi.yml jitsi&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;If all goes well, you should now have a Jitsi instance running on your server with routing and ssl taken care of by Traefik.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Configuring Jitsi:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You now need to setup the admin account. Login to the Jitsi prosody container. (Update command to reflect your container name):&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;docker exec -it jitsi_prosody_1.xxxxxx bash&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Set as many host credentials as you need:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;prosodyctl --config /config/prosody.cfg.lua register host meet.jitsi usejitsi&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Exit out of the console! You now have a fully functional self-hosted Video-conference running! Do note that the recording feature currently does not work outright. Will have to sort that out over the next few days.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Desktop and Mobile clients:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I decided to go the &lt;a href=&#34;https://github.com/jitsi/jitsi-meet-electron/#jitsi-meet-electron&#34;&gt;electron route&lt;/a&gt; for the desktop client. Jitsi has apps for both android and iOS that work out of the box. Just make sure you set the domains to yours.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><a href="https://jitsi.org/">Jit.si</a> is a terrific, secure video-conferencing #alternative to #Zoom and obviously comes with all the open-source awesomeness. Call clarity is amazing and with a room capacity of 100+ (and potentially much more, driven by network and server capabilities), it&rsquo;s an absolute no-brainer to switch over. Use <a href="https://meet.jit.si/">Jitsi Meet</a> on the desktop or use one of their slick android, F-droid or iPhone apps on hand-held devices to organise your video conferences.</p>
+<p>With the recent push to video-conferencing most meetings, I decided to setup my own instance. This was way more straightforward than I thought! I am currenty running it as a docker container, fronted with #Traefik for encryption. Configuration and installation steps mentioned below assume you have access to a domain name and server with docker already installed.</p>
+<p><strong>Setting up the server:</strong></p>
+<p><strong>A records:</strong></p>
+<p>Create a new A record with your hosting provider to point your subdomain to the IP address of your server</p>
+<p><img loading="lazy" src="images/image.png" alt=""  />
+</p>
+<p><strong>SSH into server and install</strong>:</p>
+<p>It should cost you only about 5$ per month for a decent server configuration. I already had an account with Hetzner, so I deployed my instance there.</p>
+<p>SSH into your server: <code>sudo ssh user@xx.xx.xx.xx</code></p>
+<p>Initialise a swarm: <code>sudo docker swarm init</code></p>
+<p>Create the traefik network: <code>sudo docker network create --driver=overlay traefik-net</code></p>
+<p>Create two new yml files - one for traefik-ssl and another for jitsi, copy over the contents from the respective files <a href="https://github.com/ethibox/stacks">available here from ethibox</a> and make edits as needed:</p>
+<p><code>sudo nano traefik-ssl.yml</code></p>
+<p><code>sudo nano jitsi.yml</code></p>
+<p>Deploy the Traefik stack: <code>sudo docker stack deploy -c traefik-ssl.yml traefik</code></p>
+<p>Deploy the Jitsi stack: <code>DOMAIN=meet.srkn.org SCHEME=https docker stack deploy -c jitsi.yml jitsi</code></p>
+<p>If all goes well, you should now have a Jitsi instance running on your server with routing and ssl taken care of by Traefik.</p>
+<p><strong>Configuring Jitsi:</strong></p>
+<p>You now need to setup the admin account. Login to the Jitsi prosody container. (Update command to reflect your container name):</p>
+<p><code>docker exec -it jitsi_prosody_1.xxxxxx bash</code></p>
+<p>Set as many host credentials as you need:</p>
+<p><code>prosodyctl --config /config/prosody.cfg.lua register host meet.jitsi usejitsi</code></p>
+<p>Exit out of the console! You now have a fully functional self-hosted Video-conference running! Do note that the recording feature currently does not work outright. Will have to sort that out over the next few days.</p>
+<p><strong>Desktop and Mobile clients:</strong></p>
+<p>I decided to go the <a href="https://github.com/jitsi/jitsi-meet-electron/#jitsi-meet-electron">electron route</a> for the desktop client. Jitsi has apps for both android and iOS that work out of the box. Just make sure you set the domains to yours.</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

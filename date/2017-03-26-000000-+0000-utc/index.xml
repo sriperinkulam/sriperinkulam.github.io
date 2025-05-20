@@ -1,12 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2017-03-26 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2017-03-26-000000-&#43;0000-utc/index.xml</link>
-    <description>Rexent content in 2017-03-26 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2017-03-26 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2017-03-26-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2017-03-26-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>26 Mar 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/03/26/arnold-ride/</link>
+      <pubDate>Sun, 26 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/03/26/arnold-ride/</guid>
+      <description>&lt;p&gt;Arnold Arboretum and back. 12 miles in total in mild rain and sub 30F temps. Getting back to this after a while now. Feels so good! &lt;img loading=&#34;lazy&#34; src=&#34;images/IMG_3893.jpeg&#34; alt=&#34;IMG_3893.jpeg&#34;  /&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Arnold Arboretum and back. 12 miles in total in mild rain and sub 30F temps. Getting back to this after a while now. Feels so good! <img loading="lazy" src="images/IMG_3893.jpeg" alt="IMG_3893.jpeg"  />
+</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>26 Mar 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/03/26/bunker-hill/</link>
+      <pubDate>Sun, 26 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/03/26/bunker-hill/</guid>
+      <description>&lt;p&gt;300 steps to the top! True fun! &lt;img loading=&#34;lazy&#34; src=&#34;images/IMG_3887.jpeg&#34; alt=&#34;IMG_3887.jpeg&#34;  /&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>300 steps to the top! True fun! <img loading="lazy" src="images/IMG_3887.jpeg" alt="IMG_3887.jpeg"  />
+</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

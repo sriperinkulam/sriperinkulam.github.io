@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Merida on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/merida/index.xml</link>
-    <description>Rexent content in Merida on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Merida on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/merida/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Dec 2024 21:30:00 -0500</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/merida/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20 Dec 2024 21:30</title>
+      <link>https://srikanthperinkulam.com/2024/12/20/merida/</link>
+      <pubDate>Fri, 20 Dec 2024 21:30:00 -0500</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2024/12/20/merida/</guid>
+      <description>&lt;p&gt;Back from a productive work trip in Merida. Overall, I think it went great. Most of the planning over the last few months paid off and but for a few minor issues, we were able top wrap up coring the NCC in about three days.&lt;/p&gt;
+&lt;p&gt;Also found a few fantastic food options through the week. For lunch we mostly had to do an Uber eats since there weren&amp;rsquo;t many options around the new consulate. &lt;a href=&#34;https://habaneros.com.mx/&#34;&gt;Habaneros&lt;/a&gt; was the find of the week though. Their &lt;em&gt;Pimitos&lt;/em&gt; was on point!&lt;/p&gt;
+&lt;p&gt;This would most likely be my last work-trip to Merida. Time for some transition planning to hand the baton over.&lt;a href=&#34;https://srikanthperinkulam.com/2024/12/20/merida/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Back from a productive work trip in Merida. Overall, I think it went great. Most of the planning over the last few months paid off and but for a few minor issues, we were able top wrap up coring the NCC in about three days.</p>
+<p>Also found a few fantastic food options through the week. For lunch we mostly had to do an Uber eats since there weren&rsquo;t many options around the new consulate. <a href="https://habaneros.com.mx/">Habaneros</a> was the find of the week though. Their <em>Pimitos</em> was on point!</p>
+<p>This would most likely be my last work-trip to Merida. Time for some transition planning to hand the baton over.<a href="https://srikanthperinkulam.com/2024/12/20/merida/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

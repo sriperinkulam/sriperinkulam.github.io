@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Check on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/check/index.xml</link>
-    <description>Rexent content in Check on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Check on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/check/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/check/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>04 Mar 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/03/04/tarc-tweet/</link>
+      <pubDate>Sat, 04 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/03/04/tarc-tweet/</guid>
+      <description>&lt;p&gt;@sriperinkulam Responding via workflow. Thoughts on Wapack?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/sriperinkulam/status/835627227039600641&#34;&gt;&lt;/a&gt;&lt;a href=&#34;https://brid.gy/publish/twitter&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/sriperinkulam/status/835627227039600641%5D(https://brid.gy/publish/twitter)&#34;&gt;https://twitter.com/sriperinkulam/status/835627227039600641](https://brid.gy/publish/twitter)&lt;/a&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>@sriperinkulam Responding via workflow. Thoughts on Wapack?</p>
+<p><a href="https://twitter.com/sriperinkulam/status/835627227039600641"></a><a href="https://brid.gy/publish/twitter"></a></p>
+<p>[</p>
+<p><a href="https://twitter.com/sriperinkulam/status/835627227039600641%5D(https://brid.gy/publish/twitter)">https://twitter.com/sriperinkulam/status/835627227039600641](https://brid.gy/publish/twitter)</a></p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

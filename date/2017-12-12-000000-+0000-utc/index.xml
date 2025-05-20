@@ -1,12 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2017-12-12 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2017-12-12-000000-&#43;0000-utc/index.xml</link>
-    <description>Rexent content in 2017-12-12 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2017-12-12 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2017-12-12-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Dec 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2017-12-12-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>12 Dec 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/12/12/32-and-onwards/</link>
+      <pubDate>Tue, 12 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/12/12/32-and-onwards/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/1513812908.jpg&#34; alt=&#34;&#34;  /&gt;
+
+Miss Me gifted me a months rock climbing pass for my birthday. Been at it for a few weeks now and we&amp;rsquo;re thoroughly loving it! Something that we&amp;rsquo;ve been wanting to do for a while now and I&amp;rsquo;m psyched we got to start it on my birthday.&lt;/p&gt;
+&lt;p&gt;We try and make it to the gym almost every day. After a long day at work it&amp;rsquo;s amazing how just entering that space helps clear your mind altogether! An hour in and though you&amp;rsquo;re physically tired, you walk out with so much more energy. Goes without saying, it also aligns  with one of my resolutions this year to work on my upper body strength.&lt;/p&gt;
+&lt;p&gt;Last birthday, we went for an &lt;a href=&#34;https://srikanthperinkulam.com/2016/12/12/flying-31-with-the-reindeer/&#34;&gt;indoor diving class&lt;/a&gt;, six months later we &lt;a href=&#34;https://srikanthperinkulam.com/2017/06/12/ashtanga/&#34;&gt;started ashtanga&lt;/a&gt; and now this! Loving the trend!&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/1513812908.jpg" alt=""  />
+
+Miss Me gifted me a months rock climbing pass for my birthday. Been at it for a few weeks now and we&rsquo;re thoroughly loving it! Something that we&rsquo;ve been wanting to do for a while now and I&rsquo;m psyched we got to start it on my birthday.</p>
+<p>We try and make it to the gym almost every day. After a long day at work it&rsquo;s amazing how just entering that space helps clear your mind altogether! An hour in and though you&rsquo;re physically tired, you walk out with so much more energy. Goes without saying, it also aligns  with one of my resolutions this year to work on my upper body strength.</p>
+<p>Last birthday, we went for an <a href="https://srikanthperinkulam.com/2016/12/12/flying-31-with-the-reindeer/">indoor diving class</a>, six months later we <a href="https://srikanthperinkulam.com/2017/06/12/ashtanga/">started ashtanga</a> and now this! Loving the trend!</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

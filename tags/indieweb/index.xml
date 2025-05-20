@@ -1,12 +1,293 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Indieweb on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/indieweb/index.xml</link>
-    <description>Rexent content in Indieweb on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Indieweb on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/indieweb/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/indieweb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>30 Apr 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/04/30/april-30-2021-1807/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/04/30/april-30-2021-1807/</guid>
+      <description>&lt;p&gt;Switched over to consuming Twitter via RSS feeds. For now I am using Yarns on WP to collect the feeds and the Indigenous app / Monocle-web social reader to read/interact with tweets. With this setup, I get to stay clear of the tracking and ads [Last time I checked uBlock Origin blocked 90 trackers/ads in 3 minutes!] and more importantly use my website as the primary place where I post. While I am not quite active on twitter, this should be a great go-between to reconnect with folks who use it for their primary digital presence.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Switched over to consuming Twitter via RSS feeds. For now I am using Yarns on WP to collect the feeds and the Indigenous app / Monocle-web social reader to read/interact with tweets. With this setup, I get to stay clear of the tracking and ads [Last time I checked uBlock Origin blocked 90 trackers/ads in 3 minutes!] and more importantly use my website as the primary place where I post. While I am not quite active on twitter, this should be a great go-between to reconnect with folks who use it for their primary digital presence.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>28 Apr 2020 00:00</title>
+      <link>https://srikanthperinkulam.com/2020/04/28/deploying-known-on-a-docker-stack/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2020/04/28/deploying-known-on-a-docker-stack/</guid>
+      <description>&lt;p&gt;To migrate my php applications that did not have a handy docker-compose available, I needed a vanilla setup for my stack-based docker environment. &lt;a href=&#34;https://withknown.com/opensource/&#34;&gt;Known&lt;/a&gt; is one of those apps and so the first step was to build that PHP environment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Setting up a Dockerhub repository and building a custom PHP image&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;[If you decide to use my image, you would not have to build this yourself. Skip ahead to the Deploying Known section]&lt;/p&gt;
+&lt;p&gt;Most php based apps also need specific extensions built-in. While I am sure they&amp;rsquo;re out there on the Docker hub repository, I was not able to easily find any images that met my specific needs [php extensions for gd, zip, pdo_mysql etc]. So I went ahead and &lt;a href=&#34;https://hub.docker.com/r/sriperinkulam/php-7.4.3-apache-buster-plus&#34;&gt;setup my own repository on Docker Hub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Something I learnt today was that a docker stack only accepts pre-built images. Which essentially means you cannot use the regular &lt;a href=&#34;https://docs.docker.com/engine/reference/commandline/build/&#34;&gt;build command&lt;/a&gt; on the fly in your docker-compose file. A quick work-around to that is to build the image locally and then publish it to a public repository from where the stack can easily access it.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a dockerfile: &lt;code&gt;sudo nano dockerfile&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Copy over contents from &lt;a href=&#34;https://gist.github.com/sriperinkulam/26d8702d946a8bad22d7623892be816c&#34;&gt;my dockerfile gist&lt;/a&gt;. Edit or update if you need any additional extensions. Do note that I am pulling a debian buster image here. An alpine image would be optimal but lets&amp;rsquo; run with this for now.&lt;/li&gt;
+&lt;li&gt;Build the image locally: &lt;code&gt;docker build -t sriperinkulam/php-7.4.3-apache-buster-plus:latest .&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Edit the image and tag name as needed. If your gist file is defined correctly, the image should be ready in a few minutes. It took me a few iterations to get this working with all the extensions I needed and shouldn&amp;rsquo;t give you any errors during the build process.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Login to your Dockerhub repo: &lt;code&gt;docker login&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Push your image over to your repository: &lt;code&gt;docker push sriperinkulam/php-7.4.3-apache-buster-plus:latest&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Within a few minutes, your image should be available for easy fetch whenever needed!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Setting up and deploying the Known install&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a folder for the known installation:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;sudo mkdir known &amp;amp;&amp;amp; cd known&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Copy over my &amp;lsquo;known.yml&amp;rsquo; gist from &lt;a href=&#34;https://gist.github.com/sriperinkulam/9ea9b57a052629ed5b75071c2bafdb00&#34;&gt;here&lt;/a&gt; and paste into a known.yml file.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;sudo nano known.yml&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;This is where we use the image we built earlier! Make sure you update the passwords there-in.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create an &amp;lsquo;app&amp;rsquo; folder. This is where we will copy in the core known package.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;sudo mkdir app &amp;amp;&amp;amp; cd app&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.marcus-povey.co.uk/known/&#34;&gt;Marcus Povey&lt;/a&gt; does the heavy lifting of packaging the known install &amp;lsquo;unofficially&amp;rsquo;. Download his latest pre-packaged release from &lt;a href=&#34;https://withknown.marcus-povey.co.uk/&#34;&gt;his portal&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;wget https://withknown.marcus-povey.co.uk/&amp;lt;package&amp;gt;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Finally unzip/untar the package.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Step back into the main &amp;lsquo;known&amp;rsquo; directory and deploy the stack that we defined in the known.yml file.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;cd ..&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;DOMAIN=known.domain.org SCHEME=https docker stack deploy -c known.yml known&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Assuming you&amp;rsquo;ve already setup the traefik container, as mentioned in my &lt;a href=&#34;https://srikanthperinkulam.com/2020/04/19/self-hosting-jitsi-video-conferencing/&#34;&gt;Jitsi post&lt;/a&gt;, you should now have Known up and running. Navigate to the domain and you should see the warmup page.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Key in the db credentials that you setup in the &lt;em&gt;known.yml&lt;/em&gt; file. The database would need to be set as &lt;em&gt;mariadb,&lt;/em&gt; since that&amp;rsquo;s how we&amp;rsquo;ve defined it in the known.yml file. Also make sure you have the &lt;em&gt;Uploads&lt;/em&gt; folder writable by www-data:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;sudo chown -R www-data /var/www/html/Uploads/&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Setup your user account and proceed with the regular administration controls!&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>To migrate my php applications that did not have a handy docker-compose available, I needed a vanilla setup for my stack-based docker environment. <a href="https://withknown.com/opensource/">Known</a> is one of those apps and so the first step was to build that PHP environment.</p>
+<p><strong>Setting up a Dockerhub repository and building a custom PHP image</strong></p>
+<p>[If you decide to use my image, you would not have to build this yourself. Skip ahead to the Deploying Known section]</p>
+<p>Most php based apps also need specific extensions built-in. While I am sure they&rsquo;re out there on the Docker hub repository, I was not able to easily find any images that met my specific needs [php extensions for gd, zip, pdo_mysql etc]. So I went ahead and <a href="https://hub.docker.com/r/sriperinkulam/php-7.4.3-apache-buster-plus">setup my own repository on Docker Hub</a>.</p>
+<p>Something I learnt today was that a docker stack only accepts pre-built images. Which essentially means you cannot use the regular <a href="https://docs.docker.com/engine/reference/commandline/build/">build command</a> on the fly in your docker-compose file. A quick work-around to that is to build the image locally and then publish it to a public repository from where the stack can easily access it.</p>
+<ul>
+<li>Create a dockerfile: <code>sudo nano dockerfile</code></li>
+<li>Copy over contents from <a href="https://gist.github.com/sriperinkulam/26d8702d946a8bad22d7623892be816c">my dockerfile gist</a>. Edit or update if you need any additional extensions. Do note that I am pulling a debian buster image here. An alpine image would be optimal but lets&rsquo; run with this for now.</li>
+<li>Build the image locally: <code>docker build -t sriperinkulam/php-7.4.3-apache-buster-plus:latest .</code></li>
+</ul>
+<p>Edit the image and tag name as needed. If your gist file is defined correctly, the image should be ready in a few minutes. It took me a few iterations to get this working with all the extensions I needed and shouldn&rsquo;t give you any errors during the build process.</p>
+<ul>
+<li>Login to your Dockerhub repo: <code>docker login</code></li>
+<li>Push your image over to your repository: <code>docker push sriperinkulam/php-7.4.3-apache-buster-plus:latest</code></li>
+<li>Within a few minutes, your image should be available for easy fetch whenever needed!</li>
+</ul>
+<p> </p>
+<p><strong>Setting up and deploying the Known install</strong></p>
+<ul>
+<li>Create a folder for the known installation:</li>
+</ul>
+<p><code>sudo mkdir known &amp;&amp; cd known</code></p>
+<ul>
+<li>Copy over my &lsquo;known.yml&rsquo; gist from <a href="https://gist.github.com/sriperinkulam/9ea9b57a052629ed5b75071c2bafdb00">here</a> and paste into a known.yml file.</li>
+</ul>
+<p><code>sudo nano known.yml</code></p>
+<p>This is where we use the image we built earlier! Make sure you update the passwords there-in.</p>
+<ul>
+<li>Create an &lsquo;app&rsquo; folder. This is where we will copy in the core known package.</li>
+</ul>
+<p><code>sudo mkdir app &amp;&amp; cd app</code></p>
+<p><a href="https://www.marcus-povey.co.uk/known/">Marcus Povey</a> does the heavy lifting of packaging the known install &lsquo;unofficially&rsquo;. Download his latest pre-packaged release from <a href="https://withknown.marcus-povey.co.uk/">his portal</a>.</p>
+<p><code>wget https://withknown.marcus-povey.co.uk/&lt;package&gt;</code></p>
+<p>Finally unzip/untar the package.</p>
+<ul>
+<li>Step back into the main &lsquo;known&rsquo; directory and deploy the stack that we defined in the known.yml file.</li>
+</ul>
+<p><code>cd ..</code></p>
+<p><code>DOMAIN=known.domain.org SCHEME=https docker stack deploy -c known.yml known</code></p>
+<ul>
+<li>
+<p>Assuming you&rsquo;ve already setup the traefik container, as mentioned in my <a href="https://srikanthperinkulam.com/2020/04/19/self-hosting-jitsi-video-conferencing/">Jitsi post</a>, you should now have Known up and running. Navigate to the domain and you should see the warmup page.</p>
+</li>
+<li>
+<p>Key in the db credentials that you setup in the <em>known.yml</em> file. The database would need to be set as <em>mariadb,</em> since that&rsquo;s how we&rsquo;ve defined it in the known.yml file. Also make sure you have the <em>Uploads</em> folder writable by www-data:</p>
+</li>
+</ul>
+<p><code>sudo chown -R www-data /var/www/html/Uploads/</code></p>
+<p>Setup your user account and proceed with the regular administration controls!</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>04 Nov 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/11/04/fired-up/</link>
+      <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/11/04/fired-up/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/1509819219.jpg&#34; alt=&#34;&#34;  /&gt;
+
+Finally got around procuring a &lt;a href=&#34;https://www.raspberrypi.org/products/raspberry-pi-3-model-b/&#34;&gt;pi3&lt;/a&gt; and setup the &lt;a href=&#34;https://nextcloud.com/box&#34;&gt;Nextcloud Box&lt;/a&gt;! Getting this up and running was super fun and pretty straight forward.&lt;/p&gt;
+&lt;p&gt;The OS Image that was delivered with the box was built for the pi2. So I had to format the drive with Gparted and flashed the pi3 image with &lt;a href=&#34;https://etcher.io/&#34;&gt;Etcher&lt;/a&gt; (One nifty piece of software!). Once the hardware was fired up, it just took care of itself. The web install was a 1-click setup.&lt;/p&gt;
+&lt;p&gt;Early this year as I initiated taking more control over my data, I also setup a &lt;a href=&#34;https://meandsri.ddns.net&#34;&gt;Nextcloud server on the cloud&lt;/a&gt;. It&amp;rsquo;s been about eight months now and am thoroughly impressed with it. With the incredible iOS and android apps and the nifty client for linux I&amp;rsquo;m more than convinced the take this a step further and setup my personal home server.&lt;/p&gt;
+&lt;p&gt;Over the next few weeks as I tinker more with this, I need to make this a more robust setup and make full use of the snappy Ubuntu core.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;
+&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;
+&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/intent/favorite?tweet_id=926942668512428032&#34;&gt;like&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/tweet?tweet_id=926942668512428032&#34;&gt;reply&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/retweet?tweet_id=926942668512428032&#34;&gt;repost&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/intent/favorite?tweet_id=926942668512428032&#34;&gt;like&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/tweet?tweet_id=926942668512428032&#34;&gt;reply&lt;/a&gt; &lt;a href=&#34;https://twitter.com/intent/retweet?tweet_id=926942668512428032&#34;&gt;repost&lt;/a&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/1509819219.jpg" alt=""  />
+
+Finally got around procuring a <a href="https://www.raspberrypi.org/products/raspberry-pi-3-model-b/">pi3</a> and setup the <a href="https://nextcloud.com/box">Nextcloud Box</a>! Getting this up and running was super fun and pretty straight forward.</p>
+<p>The OS Image that was delivered with the box was built for the pi2. So I had to format the drive with Gparted and flashed the pi3 image with <a href="https://etcher.io/">Etcher</a> (One nifty piece of software!). Once the hardware was fired up, it just took care of itself. The web install was a 1-click setup.</p>
+<p>Early this year as I initiated taking more control over my data, I also setup a <a href="https://meandsri.ddns.net">Nextcloud server on the cloud</a>. It&rsquo;s been about eight months now and am thoroughly impressed with it. With the incredible iOS and android apps and the nifty client for linux I&rsquo;m more than convinced the take this a step further and setup my personal home server.</p>
+<p>Over the next few weeks as I tinker more with this, I need to make this a more robust setup and make full use of the snappy Ubuntu core.</p>
+<p><img loading="lazy" src="images/cropped-cropped-SP01-550afdebv1_site_icon.png" alt=""  />
+<a href="https://srikanthperinkulam.com">Srikanth Perinkulam</a></p>
+<p><img loading="lazy" src="images/cropped-cropped-SP01-550afdebv1_site_icon.png" alt=""  />
+<a href="https://srikanthperinkulam.com">Srikanth Perinkulam</a></p>
+<p><a href="https://twitter.com/intent/favorite?tweet_id=926942668512428032">like</a> <a href="https://twitter.com/intent/tweet?tweet_id=926942668512428032">reply</a> <a href="https://twitter.com/intent/retweet?tweet_id=926942668512428032">repost</a></p>
+<p><a href="https://twitter.com/intent/favorite?tweet_id=926942668512428032">like</a> <a href="https://twitter.com/intent/tweet?tweet_id=926942668512428032">reply</a> <a href="https://twitter.com/intent/retweet?tweet_id=926942668512428032">repost</a></p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>12 Jul 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/07/12/debugging-and-feeds/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/07/12/debugging-and-feeds/</guid>
+      <description>&lt;p&gt;Realized today that a &lt;a href=&#34;https://srikanthperinkulam.com/2017/06/30/squashing-the-bug/&#34;&gt;code fix&lt;/a&gt; that I had implemented sometime back, inadvertently introduced a minor bug in my workflow. Will have to get around fixing this sometime later this week.&lt;/p&gt;
+&lt;p&gt;On another note, I decided to temporarily suspend my self-hosted &lt;a href=&#34;https://freshrss.org/&#34;&gt;freshRSS&lt;/a&gt; installation and moved my feeds to &lt;a href=&#34;https://theoldreader.com/&#34;&gt;The Old Reader&lt;/a&gt;. Currently I don&amp;rsquo;t see a huge benefit of self hosting it unless I&amp;rsquo;m able to implement responding directly from that interface.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;
+&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Realized today that a <a href="https://srikanthperinkulam.com/2017/06/30/squashing-the-bug/">code fix</a> that I had implemented sometime back, inadvertently introduced a minor bug in my workflow. Will have to get around fixing this sometime later this week.</p>
+<p>On another note, I decided to temporarily suspend my self-hosted <a href="https://freshrss.org/">freshRSS</a> installation and moved my feeds to <a href="https://theoldreader.com/">The Old Reader</a>. Currently I don&rsquo;t see a huge benefit of self hosting it unless I&rsquo;m able to implement responding directly from that interface.</p>
+<p><img loading="lazy" src="images/cropped-cropped-SP01-550afdebv1_site_icon.png" alt=""  />
+<a href="https://srikanthperinkulam.com">Srikanth Perinkulam</a></p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>10 Jul 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/07/10/replied-tohyannis-notes-srikanth-perinkulam/</link>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/07/10/replied-tohyannis-notes-srikanth-perinkulam/</guid>
+      <description>&lt;p&gt;Philip, I dynamically add the &amp;lsquo;Liked:&amp;rsquo; and &amp;lsquo;Replied to:&amp;rsquo; phrase to the title of the post using some crude code in my back-end. Essentially, I use a couple of &lt;a href=&#34;https://workflow.is/&#34;&gt;workflows&lt;/a&gt; to fetch the link/article details and then add the markup et al using a custom functions in my wp install. Would be more than happy to share them if you&amp;rsquo;re interested in taking a look.&lt;/p&gt;
+&lt;p&gt;Also I noticed your posts are not marked up with microformats for &lt;a href=&#34;http://indieweb.org/like&#34;&gt;like&lt;/a&gt; and &lt;a href=&#34;https://indieweb.org/reply&#34;&gt;replies&lt;/a&gt;. The &lt;a href=&#34;https://github.com/indieweb/wordpress-indieweb-press-this&#34;&gt;Indieweb PressThis&lt;/a&gt; bookmarklet should ideally add the necessary microformat markup to your posts. For some reason, It doesn&amp;rsquo;t seem to be doing so. I&amp;rsquo;ll take a look later today to see what&amp;rsquo;s transpiring there.&lt;/p&gt;
+&lt;p&gt;Depending on your publishing preference there are a few other alternatives. Not sure if you&amp;rsquo;ve explored these already:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://quill.p3k.io/&#34;&gt;Quill&lt;/a&gt; : Aaron&amp;rsquo;s posting interface works great on both desktop and mobile devices&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://indieweb.org/Omnibear&#34;&gt;Omnibear&lt;/a&gt; : Keith&amp;rsquo;s Chrome bookmarklet&lt;/li&gt;
+&lt;li&gt;Using the Bookmarklet Free or URL Forwarder apps on android and tweaking the settings mentioned in one of Chris Aldrich&amp;rsquo;s &lt;a href=&#34;http://stream.boffosocko.com/2016/sharing-from-the-indieweb-on-mobile-android-with-apps-and&#34;&gt;notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;https://github.com/colin-walker/wordpress-likes-and-replies/tree/master/includes&#34;&gt;Wordpress plugin&lt;/a&gt; developed by &lt;a href=&#34;http://colinwalker.blog/&#34;&gt;Colin Walker&lt;/a&gt; which coupled with his workflows could be used to post from an apple device.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;in reply to: &lt;a href=&#34;https://www.philipbrewer.net/2017/07/09/hyannis-notes-srikanth-perinkulam-2/&#34;&gt;Hyannis notes | Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;That previous post was an attempt to “like” this post using IndieWeb Press This. I’d used the tool successfully earlier, but this time I didn’t see the “Liked:” prefix on the post (and I don’t see the “Reply:” prefix on this one).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;
+&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Philip, I dynamically add the &lsquo;Liked:&rsquo; and &lsquo;Replied to:&rsquo; phrase to the title of the post using some crude code in my back-end. Essentially, I use a couple of <a href="https://workflow.is/">workflows</a> to fetch the link/article details and then add the markup et al using a custom functions in my wp install. Would be more than happy to share them if you&rsquo;re interested in taking a look.</p>
+<p>Also I noticed your posts are not marked up with microformats for <a href="http://indieweb.org/like">like</a> and <a href="https://indieweb.org/reply">replies</a>. The <a href="https://github.com/indieweb/wordpress-indieweb-press-this">Indieweb PressThis</a> bookmarklet should ideally add the necessary microformat markup to your posts. For some reason, It doesn&rsquo;t seem to be doing so. I&rsquo;ll take a look later today to see what&rsquo;s transpiring there.</p>
+<p>Depending on your publishing preference there are a few other alternatives. Not sure if you&rsquo;ve explored these already:</p>
+<ul>
+<li><a href="https://quill.p3k.io/">Quill</a> : Aaron&rsquo;s posting interface works great on both desktop and mobile devices</li>
+<li><a href="https://indieweb.org/Omnibear">Omnibear</a> : Keith&rsquo;s Chrome bookmarklet</li>
+<li>Using the Bookmarklet Free or URL Forwarder apps on android and tweaking the settings mentioned in one of Chris Aldrich&rsquo;s <a href="http://stream.boffosocko.com/2016/sharing-from-the-indieweb-on-mobile-android-with-apps-and">notes</a></li>
+<li>The <a href="https://github.com/colin-walker/wordpress-likes-and-replies/tree/master/includes">Wordpress plugin</a> developed by <a href="http://colinwalker.blog/">Colin Walker</a> which coupled with his workflows could be used to post from an apple device.</li>
+</ul>
+<p>in reply to: <a href="https://www.philipbrewer.net/2017/07/09/hyannis-notes-srikanth-perinkulam-2/">Hyannis notes | Srikanth Perinkulam</a></p>
+<blockquote>
+<p>That previous post was an attempt to “like” this post using IndieWeb Press This. I’d used the tool successfully earlier, but this time I didn’t see the “Liked:” prefix on the post (and I don’t see the “Reply:” prefix on this one).</p>
+</blockquote>
+<p><img loading="lazy" src="images/cropped-cropped-SP01-550afdebv1_site_icon.png" alt=""  />
+<a href="https://srikanthperinkulam.com">Srikanth Perinkulam</a></p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>07 Jul 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/07/07/replied-toindieweb-for-journalism/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/07/07/replied-toindieweb-for-journalism/</guid>
+      <description>&lt;p&gt;Thanks for setting this up, Chris! Some interesting plugins out there on the WP front.&lt;/p&gt;
+&lt;p&gt;in reply to: &lt;a href=&#34;http://boffosocko.com/2017/07/06/indieweb-wiki-and-journalism/&#34;&gt;Indieweb for Journalism&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I’ve been meaning to do it for quite a while, but I’ve finally started a stub in the Indieweb wiki for the topic . There is a rapidly growing group of writers and journalists who have been joining the Indieweb movement, and it’s long overdue to create a list of resources specific to the topic to help out ourselves and others in the future.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;
+&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Thanks for setting this up, Chris! Some interesting plugins out there on the WP front.</p>
+<p>in reply to: <a href="http://boffosocko.com/2017/07/06/indieweb-wiki-and-journalism/">Indieweb for Journalism</a></p>
+<blockquote>
+<p>I’ve been meaning to do it for quite a while, but I’ve finally started a stub in the Indieweb wiki for the topic . There is a rapidly growing group of writers and journalists who have been joining the Indieweb movement, and it’s long overdue to create a list of resources specific to the topic to help out ourselves and others in the future.</p>
+</blockquote>
+<p><img loading="lazy" src="images/cropped-cropped-SP01-550afdebv1_site_icon.png" alt=""  />
+<a href="https://srikanthperinkulam.com">Srikanth Perinkulam</a></p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>30 Jun 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/06/30/squashing-the-bug/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/06/30/squashing-the-bug/</guid>
+      <description>&lt;p&gt;Squashed a minor bug in my code for &amp;lsquo;favorite&amp;rsquo; posts. The post wasn&amp;rsquo;t getting marked up with Microformats when the content (response) was blank.&lt;/p&gt;
+&lt;p&gt;The way it&amp;rsquo;s currently setup, I have just one workflow for all &amp;rsquo;types&amp;rsquo; of post (podcast, reply, like, repost, bookmark, read etc.) and looks like I missed a logic flow that &amp;rsquo;like&amp;rsquo; posts may not necessarily have a note from me. A quick conditional check and the workflow works like a charm!&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;
+&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Squashed a minor bug in my code for &lsquo;favorite&rsquo; posts. The post wasn&rsquo;t getting marked up with Microformats when the content (response) was blank.</p>
+<p>The way it&rsquo;s currently setup, I have just one workflow for all &rsquo;types&rsquo; of post (podcast, reply, like, repost, bookmark, read etc.) and looks like I missed a logic flow that &rsquo;like&rsquo; posts may not necessarily have a note from me. A quick conditional check and the workflow works like a charm!</p>
+<p><img loading="lazy" src="images/cropped-cropped-SP01-550afdebv1_site_icon.png" alt=""  />
+<a href="https://srikanthperinkulam.com">Srikanth Perinkulam</a></p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>22 Jun 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/06/22/replied-tothis-year-active-community-members-are-blogging-on/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/06/22/replied-tothis-year-active-community-members-are-blogging-on/</guid>
+      <description>&lt;p&gt;Wow, didn&amp;rsquo;t realize this was 12 years in the making! Hats off for all the efforts!&lt;/p&gt;
+&lt;p&gt;in reply to: &lt;a href=&#34;http://tantek.com/2017/171/t1/microformats-community-blogging&#34;&gt;This year: active community members are blogging on&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;🎂 #microformats.org turned 12 today! This year: active community members are blogging on microformats.org&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;
+&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Wow, didn&rsquo;t realize this was 12 years in the making! Hats off for all the efforts!</p>
+<p>in reply to: <a href="http://tantek.com/2017/171/t1/microformats-community-blogging">This year: active community members are blogging on</a></p>
+<blockquote>
+<p>🎂 #microformats.org turned 12 today! This year: active community members are blogging on microformats.org</p>
+</blockquote>
+<p><img loading="lazy" src="images/cropped-cropped-SP01-550afdebv1_site_icon.png" alt=""  />
+<a href="https://srikanthperinkulam.com">Srikanth Perinkulam</a></p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

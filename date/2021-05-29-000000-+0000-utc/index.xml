@@ -1,12 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2021-05-29 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2021-05-29-000000-&#43;0000-utc/index.xml</link>
-    <description>Rexent content in 2021-05-29 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2021-05-29 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2021-05-29-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2021-05-29-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>29 May 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/05/29/6861452106/</link>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/05/29/6861452106/</guid>
+      <description>&lt;p&gt;Warmup, {30 seconds each, 30 seconds break - Planks, Hollow hold, Burpees, Plank touches, Squat jumps, Flutter kicks, Knee-to-elbow, Ab cycles, Lying down-standing up} x 3, Cool-down&lt;/p&gt;
+&lt;p&gt;2021-05-29 15:41:03 - &lt;strong&gt;The Quad 03/30&lt;/strong&gt; 🤸 Cardio for 00:45:02 Calories : 246 💓 : 113&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Warmup, {30 seconds each, 30 seconds break - Planks, Hollow hold, Burpees, Plank touches, Squat jumps, Flutter kicks, Knee-to-elbow, Ab cycles, Lying down-standing up} x 3, Cool-down</p>
+<p>2021-05-29 15:41:03 - <strong>The Quad 03/30</strong> 🤸 Cardio for 00:45:02 Calories : 246 💓 : 113</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>29 May 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/05/29/6873189300/</link>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/05/29/6873189300/</guid>
+      <description>&lt;p&gt;2021-05-30 04:58:28 - &lt;strong&gt;Ashtanga&lt;/strong&gt; 🧘 Ashtanga Primary Standing Poses for 00:28:31 Calories : 145 💓 : 108&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>2021-05-30 04:58:28 - <strong>Ashtanga</strong> 🧘 Ashtanga Primary Standing Poses for 00:28:31 Calories : 145 💓 : 108</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>29 May 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/05/29/owning-my-garmin-data/</link>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/05/29/owning-my-garmin-data/</guid>
+      <description>&lt;p&gt;Over the last month, I took some time to build a tiny WordPress plugin that fetches data from my Garmin Connect platform and displays it on my website. Currently the workflow only pulls activity data from the platform - which was my focus for this month. With modifications to the python script, I think this can be extended further to fetch any type of data from the platform. Here&amp;rsquo;s a rundown of the publishing workflow so far:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bluetooth Sync data from the watch to the Garmin connect portal. This is manual since I see no point in having Bluetooth turned on 24/7&lt;/li&gt;
+&lt;li&gt;Edit the activity in the Garmin connect app for say activity title, activity type or just add some more context to the workout&lt;/li&gt;
+&lt;li&gt;A cron job runs on my website twice every week to trigger &lt;a href=&#34;https://github.com/johannesh83/garmin-connect-export&#34;&gt;this python script&lt;/a&gt; in my WordPress plugin. I made slight modifications to the script so as to tie-in with my workflow.&lt;/li&gt;
+&lt;li&gt;The python script connects to my Garmin connect account, pulls the latest three activities and saves them as JSON files on my server.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;https://srikanthperinkulam.com/garmin-stats/&#34;&gt;garmin-stats page&lt;/a&gt; when requested by a client, parses the JSON file for each activity and displays the content in a predefined format. There&amp;rsquo;s also a provision to publish a specific activity as an individual post. If I&amp;rsquo;m logged in WordPress, a &amp;lsquo;Publish this&amp;rsquo; button is displayed for activities that have not been posted yet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/image.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Currently I am assigning all of these posts to the &amp;lsquo;workout&amp;rsquo; category and I&amp;rsquo;ve disabled these from showing up on my main RSS feed. These posts however do show up on my &lt;a href=&#34;https://srikanthperinkulam.com/micro/&#34;&gt;micro-posts&lt;/a&gt; page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;To-do&amp;rsquo;s:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The script currently triggers a &amp;lsquo;Garmin login alert&amp;rsquo; email for my account. Most likely because of locale settings. Would be good to mute these.&lt;/li&gt;
+&lt;li&gt;The plugin code currently dynamically generates the summary page on 200+ JSON files. I&amp;rsquo;ll probably limit this to just 20 or so.&lt;/li&gt;
+&lt;li&gt;Fetch non activity data too.&lt;/li&gt;
+&lt;li&gt;Maps, charts, visualizations!&lt;/li&gt;
+&lt;li&gt;Always scope for cosmetic tweaks!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Micro updates:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://srikanthperinkulam.com/2021/05/08/may-7-2021-1431/&#34;&gt;&lt;strong&gt;May 7, 2021 14:31&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://srikanthperinkulam.com/2021/05/12/garmin-plugin/&#34;&gt;&lt;strong&gt;May 11, 2021 19:19&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <content:encoded><![CDATA[<p>Over the last month, I took some time to build a tiny WordPress plugin that fetches data from my Garmin Connect platform and displays it on my website. Currently the workflow only pulls activity data from the platform - which was my focus for this month. With modifications to the python script, I think this can be extended further to fetch any type of data from the platform. Here&rsquo;s a rundown of the publishing workflow so far:</p>
+<ul>
+<li>Bluetooth Sync data from the watch to the Garmin connect portal. This is manual since I see no point in having Bluetooth turned on 24/7</li>
+<li>Edit the activity in the Garmin connect app for say activity title, activity type or just add some more context to the workout</li>
+<li>A cron job runs on my website twice every week to trigger <a href="https://github.com/johannesh83/garmin-connect-export">this python script</a> in my WordPress plugin. I made slight modifications to the script so as to tie-in with my workflow.</li>
+<li>The python script connects to my Garmin connect account, pulls the latest three activities and saves them as JSON files on my server.</li>
+<li>The <a href="https://srikanthperinkulam.com/garmin-stats/">garmin-stats page</a> when requested by a client, parses the JSON file for each activity and displays the content in a predefined format. There&rsquo;s also a provision to publish a specific activity as an individual post. If I&rsquo;m logged in WordPress, a &lsquo;Publish this&rsquo; button is displayed for activities that have not been posted yet.</li>
+</ul>
+<p><img loading="lazy" src="images/image.png" alt=""  />
+</p>
+<ul>
+<li>Currently I am assigning all of these posts to the &lsquo;workout&rsquo; category and I&rsquo;ve disabled these from showing up on my main RSS feed. These posts however do show up on my <a href="https://srikanthperinkulam.com/micro/">micro-posts</a> page.</li>
+</ul>
+<p><strong>To-do&rsquo;s:</strong></p>
+<ul>
+<li>The script currently triggers a &lsquo;Garmin login alert&rsquo; email for my account. Most likely because of locale settings. Would be good to mute these.</li>
+<li>The plugin code currently dynamically generates the summary page on 200+ JSON files. I&rsquo;ll probably limit this to just 20 or so.</li>
+<li>Fetch non activity data too.</li>
+<li>Maps, charts, visualizations!</li>
+<li>Always scope for cosmetic tweaks!</li>
+</ul>
+<p><strong>Micro updates:</strong></p>
+<ul>
+<li><a href="https://srikanthperinkulam.com/2021/05/08/may-7-2021-1431/"><strong>May 7, 2021 14:31</strong></a></li>
+<li><a href="https://srikanthperinkulam.com/2021/05/12/garmin-plugin/"><strong>May 11, 2021 19:19</strong></a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

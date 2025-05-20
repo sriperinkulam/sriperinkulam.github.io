@@ -1,12 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2024-12-16 21:30:00 -0500 -0500 on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2024-12-16-213000--0500--0500/index.xml</link>
-    <description>Rexent content in 2024-12-16 21:30:00 -0500 -0500 on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2024-12-16 21:30:00 -0500 -0500 on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2024-12-16-213000--0500--0500/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Dec 2024 21:30:00 -0500</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2024-12-16-213000--0500--0500/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>16 Dec 2024 21:30</title>
+      <link>https://srikanthperinkulam.com/2024/12/16/the-memory-palace/</link>
+      <pubDate>Mon, 16 Dec 2024 21:30:00 -0500</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2024/12/16/the-memory-palace/</guid>
+      <description>&lt;p&gt;A recent &lt;a href=&#34;https://99percentinvisible.org/episode/603-the-memory-palace-book/&#34;&gt;podcast from 99% invisible&lt;/a&gt; nudged me to get Nate DiMeo&amp;rsquo;s book - &lt;a href=&#34;https://bookshop.org/p/books/the-memory-palace-true-short-stories-of-the-past-nate-dimeo/21177599?ean=9780593446157&#34;&gt;The Memory Palace&lt;/a&gt;. I&amp;rsquo;ve always loved the Memory Palace podcast. Super intrigued to see how Nate carries over the suspense in written form. &lt;a href=&#34;https://srikanthperinkulam.com/2024/12/16/the-memory-palace/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>A recent <a href="https://99percentinvisible.org/episode/603-the-memory-palace-book/">podcast from 99% invisible</a> nudged me to get Nate DiMeo&rsquo;s book - <a href="https://bookshop.org/p/books/the-memory-palace-true-short-stories-of-the-past-nate-dimeo/21177599?ean=9780593446157">The Memory Palace</a>. I&rsquo;ve always loved the Memory Palace podcast. Super intrigued to see how Nate carries over the suspense in written form. <a href="https://srikanthperinkulam.com/2024/12/16/the-memory-palace/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

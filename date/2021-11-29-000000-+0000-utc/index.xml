@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2021-11-29 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2021-11-29-000000-&#43;0000-utc/index.xml</link>
-    <description>Rexent content in 2021-11-29 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2021-11-29 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2021-11-29-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2021-11-29-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>29 Nov 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/11/29/3-2-1-backup/</link>
+      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/11/29/3-2-1-backup/</guid>
+      <description>&lt;p&gt;Ouch! After a &lt;a href=&#34;https://srikanthperinkulam.com/2021/06/13/maps-and-files/&#34;&gt;good&lt;/a&gt; &lt;a href=&#34;https://srikanthperinkulam.com/2021/04/19/april-19-2021-2342/&#34;&gt;couple&lt;/a&gt; years of unhindered access, I&amp;rsquo;ve lost (remote) access to my RPI server. I&amp;rsquo;m guessing an auto upgrade might have disabled wireguard or flushed the  ip table rules. I should have had a secondary connection to the remote network since I did anticipate this happening sometime! Well, until I have physical access to the server, I&amp;rsquo;ll have to bank on my cold flash drive backups! So glad I have multiple accessible copies of the data files!&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Ouch! After a <a href="https://srikanthperinkulam.com/2021/06/13/maps-and-files/">good</a> <a href="https://srikanthperinkulam.com/2021/04/19/april-19-2021-2342/">couple</a> years of unhindered access, I&rsquo;ve lost (remote) access to my RPI server. I&rsquo;m guessing an auto upgrade might have disabled wireguard or flushed the  ip table rules. I should have had a secondary connection to the remote network since I did anticipate this happening sometime! Well, until I have physical access to the server, I&rsquo;ll have to bank on my cold flash drive backups! So glad I have multiple accessible copies of the data files!</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

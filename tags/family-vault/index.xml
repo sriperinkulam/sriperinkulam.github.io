@@ -1,12 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Family-Vault on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/family-vault/index.xml</link>
-    <description>Rexent content in Family-Vault on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Family-Vault on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/family-vault/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/family-vault/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>06 Aug 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/08/06/building-the-end-plan/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/08/06/building-the-end-plan/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Leave a comment if any of this doesn&amp;rsquo;t make sense. I&amp;rsquo;ll be more than happy to help.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Over the last few years, I&amp;rsquo;ve been wanting to setup a comprehensive and secure ‘handover’ document for my family - In case I cease to exist. My key priorities were it should :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;be easy to update and maintain when I am alive&lt;/li&gt;
+&lt;li&gt;be easy to reference and access when I am dead&lt;/li&gt;
+&lt;li&gt;have multiple fall-back points&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Now, the most straightforward way to do this would be to have all the information on a secure spreadsheet or document. But that&amp;rsquo;s not fun! So I decided to use Trilium Notes for it. When it&amp;rsquo;s time, my wife has three options to access the support checklist a) Online via a secure portal/app b) Using a secure flash-drive c) Old school printed sheets&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Screenshot-from-2021-08-06-15-05-32-1200x600.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;I think this is something super easy to replicate. Leaving this out here should someone find it useful.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s get up and running:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Grab the &lt;a href=&#34;https://www.electronjs.org/apps/trilium-notes&#34;&gt;Trilium desktop app from here&lt;/a&gt; and install it on your machine. If it&amp;rsquo;s the first time you are using it, it should prompt you to create a local account. You can sync this with the &lt;a href=&#34;https://srikanthperinkulam.com/2021/04/06/installing-trilium-notes/&#34;&gt;server app&lt;/a&gt; later if you need one.&lt;/li&gt;
+&lt;li&gt;On first install, Trilium also installs a demo document. This is super helpful to understand how Trilium works. But for now, collapse the &amp;lsquo;&lt;em&gt;Trilium Demo&lt;/em&gt;&amp;rsquo; folder in the left sidebar.&lt;/li&gt;
+&lt;li&gt;Download my  &amp;lsquo;&lt;a href=&#34;https://github.com/sriperinkulam/closeout/raw/main/Closeout%20Template.zip&#34;&gt;Closeout html&lt;/a&gt;&amp;rsquo; template zip file. Right click on the &amp;lsquo;root&amp;rsquo; folder on the left sidebar and click &amp;lsquo;Import into&amp;rsquo;. Select the zip file you just downloaded and click on &amp;lsquo;Import&amp;rsquo;. That&amp;rsquo;s it! Update the template to your needs and export for backups.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Maintaining and backups:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;To encrypt the folder, just right click on  and select &amp;lsquo;protect subtree&amp;rsquo;.&lt;/li&gt;
+&lt;li&gt;Trilium provides you three modes of export - Zipped HTML, Zipped markdown and OPML. I prefer the HTML export since it can be used in isolation. Do note however that all notes lose their encryption when they&amp;rsquo;re exported out!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Generic notes:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I&amp;rsquo;ve used Trilium notes since it fits into my workflow. You should be able to import the template into any note-taking app.&lt;/li&gt;
+&lt;li&gt;The template is obviously bare minimum and generic. Tweak/add based on your personal situation.&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;ve intentionally kept my guidance instructions and passwords isolated since I don&amp;rsquo;t want to be printing them on paper. You could have them all in one place here in Trilium and secure the folder.&lt;/li&gt;
+&lt;li&gt;If saving the files/backups on a flash drive, I&amp;rsquo;d strongly recommend you use &lt;a href=&#34;https://srikanthperinkulam.com/2020/11/01/encrypting-drives/&#34;&gt;VeraCrypt&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I am a reasonably healthy person with no alarming issues. But hey, you never know! I think it&amp;rsquo;s critical that your family has good guidance on how best to pick up where you left off. Think of this as the last parting gift. It took me about four years of procrastination and few spurts of action to get here. And I am so glad I did. If not anything, it&amp;rsquo;s helping me document these critical pieces in one place.&lt;/p&gt;
+&lt;p&gt;What&amp;rsquo;s your life closeout plan?&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><em>Leave a comment if any of this doesn&rsquo;t make sense. I&rsquo;ll be more than happy to help.</em></p>
+<p>Over the last few years, I&rsquo;ve been wanting to setup a comprehensive and secure ‘handover’ document for my family - In case I cease to exist. My key priorities were it should :</p>
+<ul>
+<li>be easy to update and maintain when I am alive</li>
+<li>be easy to reference and access when I am dead</li>
+<li>have multiple fall-back points</li>
+</ul>
+<p>Now, the most straightforward way to do this would be to have all the information on a secure spreadsheet or document. But that&rsquo;s not fun! So I decided to use Trilium Notes for it. When it&rsquo;s time, my wife has three options to access the support checklist a) Online via a secure portal/app b) Using a secure flash-drive c) Old school printed sheets</p>
+<p><img loading="lazy" src="images/Screenshot-from-2021-08-06-15-05-32-1200x600.png" alt=""  />
+</p>
+<p>I think this is something super easy to replicate. Leaving this out here should someone find it useful.</p>
+<p>Let&rsquo;s get up and running:</p>
+<ol>
+<li>Grab the <a href="https://www.electronjs.org/apps/trilium-notes">Trilium desktop app from here</a> and install it on your machine. If it&rsquo;s the first time you are using it, it should prompt you to create a local account. You can sync this with the <a href="https://srikanthperinkulam.com/2021/04/06/installing-trilium-notes/">server app</a> later if you need one.</li>
+<li>On first install, Trilium also installs a demo document. This is super helpful to understand how Trilium works. But for now, collapse the &lsquo;<em>Trilium Demo</em>&rsquo; folder in the left sidebar.</li>
+<li>Download my  &lsquo;<a href="https://github.com/sriperinkulam/closeout/raw/main/Closeout%20Template.zip">Closeout html</a>&rsquo; template zip file. Right click on the &lsquo;root&rsquo; folder on the left sidebar and click &lsquo;Import into&rsquo;. Select the zip file you just downloaded and click on &lsquo;Import&rsquo;. That&rsquo;s it! Update the template to your needs and export for backups.</li>
+</ol>
+<p>Maintaining and backups:</p>
+<ol>
+<li>To encrypt the folder, just right click on  and select &lsquo;protect subtree&rsquo;.</li>
+<li>Trilium provides you three modes of export - Zipped HTML, Zipped markdown and OPML. I prefer the HTML export since it can be used in isolation. Do note however that all notes lose their encryption when they&rsquo;re exported out!</li>
+</ol>
+<p>Generic notes:</p>
+<ol>
+<li>I&rsquo;ve used Trilium notes since it fits into my workflow. You should be able to import the template into any note-taking app.</li>
+<li>The template is obviously bare minimum and generic. Tweak/add based on your personal situation.</li>
+<li>I&rsquo;ve intentionally kept my guidance instructions and passwords isolated since I don&rsquo;t want to be printing them on paper. You could have them all in one place here in Trilium and secure the folder.</li>
+<li>If saving the files/backups on a flash drive, I&rsquo;d strongly recommend you use <a href="https://srikanthperinkulam.com/2020/11/01/encrypting-drives/">VeraCrypt</a></li>
+</ol>
+<p>I am a reasonably healthy person with no alarming issues. But hey, you never know! I think it&rsquo;s critical that your family has good guidance on how best to pick up where you left off. Think of this as the last parting gift. It took me about four years of procrastination and few spurts of action to get here. And I am so glad I did. If not anything, it&rsquo;s helping me document these critical pieces in one place.</p>
+<p>What&rsquo;s your life closeout plan?</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

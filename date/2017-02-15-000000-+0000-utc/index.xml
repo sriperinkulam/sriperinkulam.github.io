@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2017-02-15 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2017-02-15-000000-&#43;0000-utc/index.xml</link>
-    <description>Rexent content in 2017-02-15 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2017-02-15 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2017-02-15-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Feb 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2017-02-15-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>15 Feb 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/02/15/week6day2/</link>
+      <pubDate>Wed, 15 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/02/15/week6day2/</guid>
+      <description>&lt;p&gt;5 miles at the Y and 5 miles later in the evening on the road. Couldn&amp;rsquo;t fit in the planned swim session after the morning run. Snowy/icy sidewalks led to a slower run.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>5 miles at the Y and 5 miles later in the evening on the road. Couldn&rsquo;t fit in the planned swim session after the morning run. Snowy/icy sidewalks led to a slower run.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>15 Feb 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/02/15/week6day3/</link>
+      <pubDate>Wed, 15 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/02/15/week6day3/</guid>
+      <description>&lt;p&gt;8 miles at blast fitness while Miss Me was teaching her yoga class. Knocked it in 1.5hrs. 2.8, 2.6, 2.6 splits. Probably the dad(?) training his kid was entertaining enough!&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>8 miles at blast fitness while Miss Me was teaching her yoga class. Knocked it in 1.5hrs. 2.8, 2.6, 2.6 splits. Probably the dad(?) training his kid was entertaining enough!</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

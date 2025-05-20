@@ -1,12 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2021-02-28 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2021-02-28-000000-&#43;0000-utc/index.xml</link>
-    <description>Rexent content in 2021-02-28 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2021-02-28 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2021-02-28-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2021-02-28-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>28 Feb 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/02/28/february-28-2021-1725/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/02/28/february-28-2021-1725/</guid>
+      <description>&lt;p&gt;Met a couple friends and their familes on a short hike up the Pallavaram hills. Was good catching up after a while! Despite temperature being in the high 80s, the kids had a terrific time.&lt;/p&gt;
+&lt;p&gt;On the organizing front though, I could have done better. We initially planned to meet at 10:00 but ended up climbing around 11:30 due to travel delays. I wasn&amp;rsquo;t carrying my first-aid kit and the usual pick-me-up edibles/tailwind. I missed checking on everybody&amp;rsquo;s general health condition prior to the climb. Had the trail been a few more miles longer, with the rising temps, things could have escalated pretty quickly&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Well, thankfully all went well. Time to get back into those planning shoes and dust off my hike leaders hat.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Met a couple friends and their familes on a short hike up the Pallavaram hills. Was good catching up after a while! Despite temperature being in the high 80s, the kids had a terrific time.</p>
+<p>On the organizing front though, I could have done better. We initially planned to meet at 10:00 but ended up climbing around 11:30 due to travel delays. I wasn&rsquo;t carrying my first-aid kit and the usual pick-me-up edibles/tailwind. I missed checking on everybody&rsquo;s general health condition prior to the climb. Had the trail been a few more miles longer, with the rising temps, things could have escalated pretty quickly&hellip;</p>
+<p>Well, thankfully all went well. Time to get back into those planning shoes and dust off my hike leaders hat.</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

@@ -1,12 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Popo on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/popo/index.xml</link>
-    <description>Rexent content in Popo on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Popo on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/popo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/popo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>10 Mar 2024 00:00</title>
+      <link>https://srikanthperinkulam.com/2024/03/10/popo/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2024/03/10/popo/</guid>
+      <description>&lt;p&gt;We didn&amp;rsquo;t quite get to visit &lt;a href=&#34;https://en.wikipedia.org/wiki/Masaya_Volcano&#34;&gt;Volcán Masaya&lt;/a&gt; during last week&amp;rsquo;s trip to Managua since it was deemed unsafe. Popo on the flight back to CDMX though was in full form!&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/image_20240310023050.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>We didn&rsquo;t quite get to visit <a href="https://en.wikipedia.org/wiki/Masaya_Volcano">Volcán Masaya</a> during last week&rsquo;s trip to Managua since it was deemed unsafe. Popo on the flight back to CDMX though was in full form!</p>
+<p><img loading="lazy" src="images/image_20240310023050.jpg" alt=""  />
+</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

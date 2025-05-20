@@ -1,12 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2025-01-10 21:30:00 -0500 -0500 on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2025-01-10-213000--0500--0500/index.xml</link>
-    <description>Rexent content in 2025-01-10 21:30:00 -0500 -0500 on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2025-01-10 21:30:00 -0500 -0500 on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2025-01-10-213000--0500--0500/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jan 2025 21:30:00 -0500</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2025-01-10-213000--0500--0500/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>10 Jan 2025 21:30</title>
+      <link>https://srikanthperinkulam.com/2025/01/10/clara/</link>
+      <pubDate>Fri, 10 Jan 2025 21:30:00 -0500</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/01/10/clara/</guid>
+      <description>&lt;p&gt;/s This turned out to be simpler than I thought. All I had to do was add all the libraries to the overdriive account on the desktop. And then login to that overdrive account on the Kobo. By design, only one card shows on the Kobo. To borrow books from a library not shown on the Kobo, you&amp;rsquo;ll have to fetch that on a separate device. So simple!  &lt;a href=&#34;https://srikanthperinkulam.com/2025/01/10/clara/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>/s This turned out to be simpler than I thought. All I had to do was add all the libraries to the overdriive account on the desktop. And then login to that overdrive account on the Kobo. By design, only one card shows on the Kobo. To borrow books from a library not shown on the Kobo, you&rsquo;ll have to fetch that on a separate device. So simple!  <a href="https://srikanthperinkulam.com/2025/01/10/clara/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

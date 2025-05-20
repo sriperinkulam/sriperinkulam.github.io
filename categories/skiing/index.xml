@@ -1,12 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Skiing on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/categories/skiing/index.xml</link>
-    <description>Rexent content in Skiing on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Skiing on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/categories/skiing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Mar 2025 00:00:03 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/categories/skiing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>24 Feb 2019 00:00</title>
+      <link>https://srikanthperinkulam.com/2019/02/24/skiing-at-liberty/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2019/02/24/skiing-at-liberty/</guid>
+      <description>&lt;p&gt;Sneaked in a day at Liberty at the very end of the skiing season. Was so totally worth it!&lt;/p&gt;
+&lt;p&gt;Meena didn&amp;rsquo;t get around taking the slopes since Shasta was pretty much tethered to her. Kids and I had a blast! Last time we were here [Dec 2017] I barely made it down the hill. This time around, I followed Nik&amp;rsquo;s strategy of letting gravity do it&amp;rsquo;s job and maneuvering only when I had to. Totally see how this could be addictive!&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Sneaked in a day at Liberty at the very end of the skiing season. Was so totally worth it!</p>
+<p>Meena didn&rsquo;t get around taking the slopes since Shasta was pretty much tethered to her. Kids and I had a blast! Last time we were here [Dec 2017] I barely made it down the hill. This time around, I followed Nik&rsquo;s strategy of letting gravity do it&rsquo;s job and maneuvering only when I had to. Totally see how this could be addictive!</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

@@ -1,12 +1,343 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Update on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/update/index.xml</link>
-    <description>Rexent content in Update on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Update on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>06 Apr 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/04/06/installing-trilium-notes/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/04/06/installing-trilium-notes/</guid>
+      <description>&lt;p&gt;&lt;em&gt;I wrote this guide &lt;a href=&#34;https://community.hetzner.com/tutorials/install-trilium-notes-using-docker&#34;&gt;initially for the Hetzner community&lt;/a&gt;. Posting here for posterity.&lt;/em&gt; Leave a comment if any of this doesn&amp;rsquo;t make sense. I&amp;rsquo;ll be more than happy to help.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases. See the &lt;a href=&#34;https://github.com/zadam/trilium&#34;&gt;Trilium Github&lt;/a&gt; page for more details. In this tutorial we will deploy a Trilium instance to install this open source and self-hosted alternative to Evernote on a fresh Debian server.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To get this running you would need&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A server with Docker and Docker-compose installed. There&amp;rsquo;s &lt;a href=&#34;https://community.hetzner.com/tutorials/debian-base-configuration-docker&#34;&gt;an easy step-by-step tutorial&lt;/a&gt; that you could follow.&lt;/li&gt;
+&lt;li&gt;A domain pointing to the IP address of your server instance. The tutorial assumes you have pointed the domain &lt;code&gt;notes.example.com&lt;/code&gt; to your server IP address.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;step-1---setup-docker-network-and-our-work-folder&#34;&gt;Step 1 - Setup Docker network and our work folder&lt;/h2&gt;
+&lt;p&gt;For ease of deployment and maintenance, we will use Docker in &lt;a href=&#34;https://docs.docker.com/engine/swarm/&#34;&gt;swarm mode&lt;/a&gt;. For security certificates and application mapping we will use &lt;a href=&#34;https://docs.traefik.io/&#34;&gt;Traefik&lt;/a&gt; as a reverse proxy. It&amp;rsquo;s perfectly fine if you&amp;rsquo;ve not used these services before. All necessary steps to get them working are outlined in detail below.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Initialise the docker swarm: &lt;code&gt;sudo docker swarm init&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Setup a &lt;a href=&#34;https://docs.docker.com/engine/reference/commandline/network/&#34;&gt;network&lt;/a&gt; for the Traefik container: &lt;code&gt;sudo docker network create --driver=overlay traefik-net&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Create a directory where we will save all our stack yml files and navigate to that directory: &lt;code&gt;mkdir stacks &amp;amp;&amp;amp; cd stacks&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;httpscommunityhetznercomtutorialsinstall-trilium-notes-using-dockerstep-2---&#34;&gt;[](&lt;a href=&#34;https://community.hetzner.com/tutorials/install-trilium-notes-using-docker#step-2---&#34;&gt;https://community.hetzner.com/tutorials/install-trilium-notes-using-docker#step-2---&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;categories:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Guides
+coverImage: Trilium01.png
+date: &amp;ldquo;2021-04-06&amp;rdquo;
+tags:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;evernote-alternative&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;trilium-docker&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;update
+title: Installing Trilium Notes
+&amp;mdash;create-the-yml-file-for-traefik)Step 2.1 - Create the yml file for Traefik&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Create a yml file for traefik: &lt;code&gt;nano traefik-ssl.yml&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Copy over the following contents into the yml file:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;version: &amp;#34;3.7&amp;#34;
+
+services:
+  traefik:
+    image: traefik:${VERSION:-v1.7.24-alpine}
+    ports:
+      - { target: 80, published: 80, mode: host, protocol: tcp }
+      - { target: 443, published: 443, mode: host, protocol: tcp }
+    command:
+      # - --debug
+      # - --loglevel=INFO
+      - --entryPoints=Name:http Address::80 Compress:true Redirect.EntryPoint:https
+      - --entryPoints=Name:https Address::443 Compress:true TLS
+      - --defaultEntryPoints=https,http
+      - --providers.docker.endpoint=tcp://socket-proxy:2375
+      - --docker.swarmmode=true
+      - --docker.exposedbydefault=false
+      - --docker.network=traefik-net
+      - --metrics.prometheus=true
+      - --consul
+      - --consul.endpoint=consul:8500
+      - --consul.prefix=traefik
+      - --acme
+      - --acme.onHostRule=true
+      - --acme.storage=traefik/acme/account
+      - --acme.acmeLogging=true
+      - --acme.entryPoint=https
+      - --acme.httpChallenge.entryPoint=http
+     # - --update email
+      - --acme.email=${ACME_EMAIL:-noreply@example.com} 
+      - --api
+    deploy:
+      mode: ${MODE:-replicated}
+      placement:
+        constraints: [node.role==manager]
+    networks:
+      - internal
+      - traefik
+
+  socket-proxy:
+    image: tecnativa/docker-socket-proxy
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+    environment:
+      CONTAINERS: 1
+    networks:
+      - internal
+      - traefik
+
+  consul:
+    image: consul:1.7.2
+    command: agent -server -bootstrap-expect=1 -client=0.0.0.0
+    environment:
+      CONSUL_BIND_INTERFACE: eth0
+      CONSUL_CLIENT_INTERFACE: eth0
+      CONSUL_LOCAL_CONFIG: &amp;#39;{ &amp;#34;limits&amp;#34;: { &amp;#34;txn_max_req_len&amp;#34;: 2048000, &amp;#34;kv_max_value_size&amp;#34;: 2048000 } }&amp;#39;
+    volumes:
+      - ${VOLUME_PATH}consul:/consul/data
+    networks:
+      - traefik
+      - internal
+
+volumes:
+  consul:
+
+networks:
+  internal:
+    driver: overlay
+    attachable: true
+  traefik:
+    external: true
+    name: traefik-net
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;step-22---create-the-yml-file-for-trilium&#34;&gt;Step 2.2 - Create the yml file for Trilium&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a yml file for trilium: &lt;code&gt;nano trilium.yml&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Copy over the following contents into the yml file:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;version: &amp;#39;3.7&amp;#39;
+services:
+  web:
+    image: zadam/trilium:0.46.7
+    volumes:
+      - ${VOLUME_PATH}trilium-data:/root/trilium-data
+    deploy:
+      labels:
+        - traefik.port=8080
+        - traefik.enable=true
+        - traefik.frontend.rule=Host:${DOMAIN:-notes.localhost}
+    networks:
+      - traefik
+volumes:
+  trilium-data:
+networks:
+  traefik:
+    external: true
+    name: traefik-net
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;httpscommunityhetznercomtutorialsinstall-trilium-notes-using-dockerstep-3---deploy-the-stacks&#34;&gt;&lt;a href=&#34;https://community.hetzner.com/tutorials/install-trilium-notes-using-docker#step-3---deploy-the-stacks&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;step-3---deploy-the-stacks&#34;&gt;Step 3 - Deploy the stacks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Deploy the Traefik stack: &lt;code&gt;sudo docker stack deploy -c traefik-ssl.yml traefik&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Deploy the Trilium stack: &lt;code&gt;DOMAIN=notes.example.com SCHEME=https docker stack deploy -c trilium.yml trilium&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Give the system a few minutes to fetch the docker images and setup and run the containers in the background. To check the status of the containers you can run the command: &lt;code&gt;docker ps -a&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;step-4---finish-the-setup-in-your-browser&#34;&gt;Step 4 - Finish the setup in your browser&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Navigate to &lt;code&gt;notes.example.com&lt;/code&gt; in your browser. You should now be presented with the following options as shown in the image below:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Trilium01.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Select the first option and click &amp;lsquo;Next&amp;rsquo;&lt;/li&gt;
+&lt;li&gt;Create a user account for your Trilium Notes instance in the next screen and you should be all set now!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;httpscommunityhetznercomtutorialsinstall-trilium-notes-using-dockerconclusionconclusion&#34;&gt;&lt;a href=&#34;https://community.hetzner.com/tutorials/install-trilium-notes-using-docker#conclusion&#34;&gt;&lt;/a&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;With a few simple steps we were able to setup and run a good alternative to Evernote. You can even import your notes from Evernote if you&amp;rsquo;d like.&lt;/p&gt;
+&lt;p&gt;Go ahead and explore your new setup! The &lt;a href=&#34;https://github.com/zadam/trilium/wiki&#34;&gt;Wiki&lt;/a&gt; is also very informative for what you can do next.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><em>I wrote this guide <a href="https://community.hetzner.com/tutorials/install-trilium-notes-using-docker">initially for the Hetzner community</a>. Posting here for posterity.</em> Leave a comment if any of this doesn&rsquo;t make sense. I&rsquo;ll be more than happy to help.</p>
+<hr>
+<p>Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases. See the <a href="https://github.com/zadam/trilium">Trilium Github</a> page for more details. In this tutorial we will deploy a Trilium instance to install this open source and self-hosted alternative to Evernote on a fresh Debian server.</p>
+<p><strong>Prerequisites</strong></p>
+<p>To get this running you would need</p>
+<ul>
+<li>A server with Docker and Docker-compose installed. There&rsquo;s <a href="https://community.hetzner.com/tutorials/debian-base-configuration-docker">an easy step-by-step tutorial</a> that you could follow.</li>
+<li>A domain pointing to the IP address of your server instance. The tutorial assumes you have pointed the domain <code>notes.example.com</code> to your server IP address.</li>
+</ul>
+<h2 id="step-1---setup-docker-network-and-our-work-folder">Step 1 - Setup Docker network and our work folder</h2>
+<p>For ease of deployment and maintenance, we will use Docker in <a href="https://docs.docker.com/engine/swarm/">swarm mode</a>. For security certificates and application mapping we will use <a href="https://docs.traefik.io/">Traefik</a> as a reverse proxy. It&rsquo;s perfectly fine if you&rsquo;ve not used these services before. All necessary steps to get them working are outlined in detail below.</p>
+<ul>
+<li>Initialise the docker swarm: <code>sudo docker swarm init</code></li>
+<li>Setup a <a href="https://docs.docker.com/engine/reference/commandline/network/">network</a> for the Traefik container: <code>sudo docker network create --driver=overlay traefik-net</code></li>
+<li>Create a directory where we will save all our stack yml files and navigate to that directory: <code>mkdir stacks &amp;&amp; cd stacks</code></li>
+</ul>
+<h2 id="httpscommunityhetznercomtutorialsinstall-trilium-notes-using-dockerstep-2---">[](<a href="https://community.hetzner.com/tutorials/install-trilium-notes-using-docker#step-2---">https://community.hetzner.com/tutorials/install-trilium-notes-using-docker#step-2---</a></h2>
+<p>categories:</p>
+<ul>
+<li>
+<p>Guides
+coverImage: Trilium01.png
+date: &ldquo;2021-04-06&rdquo;
+tags:</p>
+</li>
+<li>
+<p>evernote-alternative</p>
+</li>
+<li>
+<p>trilium-docker</p>
+</li>
+<li>
+<p>update
+title: Installing Trilium Notes
+&mdash;create-the-yml-file-for-traefik)Step 2.1 - Create the yml file for Traefik</p>
+</li>
+<li>
+<p>Create a yml file for traefik: <code>nano traefik-ssl.yml</code></p>
+</li>
+<li>
+<p>Copy over the following contents into the yml file:</p>
+</li>
+</ul>
+<pre tabindex="0"><code>version: &#34;3.7&#34;
+
+services:
+  traefik:
+    image: traefik:${VERSION:-v1.7.24-alpine}
+    ports:
+      - { target: 80, published: 80, mode: host, protocol: tcp }
+      - { target: 443, published: 443, mode: host, protocol: tcp }
+    command:
+      # - --debug
+      # - --loglevel=INFO
+      - --entryPoints=Name:http Address::80 Compress:true Redirect.EntryPoint:https
+      - --entryPoints=Name:https Address::443 Compress:true TLS
+      - --defaultEntryPoints=https,http
+      - --providers.docker.endpoint=tcp://socket-proxy:2375
+      - --docker.swarmmode=true
+      - --docker.exposedbydefault=false
+      - --docker.network=traefik-net
+      - --metrics.prometheus=true
+      - --consul
+      - --consul.endpoint=consul:8500
+      - --consul.prefix=traefik
+      - --acme
+      - --acme.onHostRule=true
+      - --acme.storage=traefik/acme/account
+      - --acme.acmeLogging=true
+      - --acme.entryPoint=https
+      - --acme.httpChallenge.entryPoint=http
+     # - --update email
+      - --acme.email=${ACME_EMAIL:-noreply@example.com} 
+      - --api
+    deploy:
+      mode: ${MODE:-replicated}
+      placement:
+        constraints: [node.role==manager]
+    networks:
+      - internal
+      - traefik
+
+  socket-proxy:
+    image: tecnativa/docker-socket-proxy
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+    environment:
+      CONTAINERS: 1
+    networks:
+      - internal
+      - traefik
+
+  consul:
+    image: consul:1.7.2
+    command: agent -server -bootstrap-expect=1 -client=0.0.0.0
+    environment:
+      CONSUL_BIND_INTERFACE: eth0
+      CONSUL_CLIENT_INTERFACE: eth0
+      CONSUL_LOCAL_CONFIG: &#39;{ &#34;limits&#34;: { &#34;txn_max_req_len&#34;: 2048000, &#34;kv_max_value_size&#34;: 2048000 } }&#39;
+    volumes:
+      - ${VOLUME_PATH}consul:/consul/data
+    networks:
+      - traefik
+      - internal
+
+volumes:
+  consul:
+
+networks:
+  internal:
+    driver: overlay
+    attachable: true
+  traefik:
+    external: true
+    name: traefik-net
+</code></pre><h3 id="step-22---create-the-yml-file-for-trilium">Step 2.2 - Create the yml file for Trilium</h3>
+<ul>
+<li>Create a yml file for trilium: <code>nano trilium.yml</code></li>
+<li>Copy over the following contents into the yml file:</li>
+</ul>
+<pre tabindex="0"><code>version: &#39;3.7&#39;
+services:
+  web:
+    image: zadam/trilium:0.46.7
+    volumes:
+      - ${VOLUME_PATH}trilium-data:/root/trilium-data
+    deploy:
+      labels:
+        - traefik.port=8080
+        - traefik.enable=true
+        - traefik.frontend.rule=Host:${DOMAIN:-notes.localhost}
+    networks:
+      - traefik
+volumes:
+  trilium-data:
+networks:
+  traefik:
+    external: true
+    name: traefik-net
+</code></pre><h2 id="httpscommunityhetznercomtutorialsinstall-trilium-notes-using-dockerstep-3---deploy-the-stacks"><a href="https://community.hetzner.com/tutorials/install-trilium-notes-using-docker#step-3---deploy-the-stacks"></a></h2>
+<h2 id="step-3---deploy-the-stacks">Step 3 - Deploy the stacks</h2>
+<ul>
+<li>Deploy the Traefik stack: <code>sudo docker stack deploy -c traefik-ssl.yml traefik</code></li>
+<li>Deploy the Trilium stack: <code>DOMAIN=notes.example.com SCHEME=https docker stack deploy -c trilium.yml trilium</code></li>
+</ul>
+<p>Give the system a few minutes to fetch the docker images and setup and run the containers in the background. To check the status of the containers you can run the command: <code>docker ps -a</code></p>
+<h2 id="step-4---finish-the-setup-in-your-browser">Step 4 - Finish the setup in your browser</h2>
+<ul>
+<li>Navigate to <code>notes.example.com</code> in your browser. You should now be presented with the following options as shown in the image below:</li>
+</ul>
+<p><img loading="lazy" src="images/Trilium01.png" alt=""  />
+</p>
+<ul>
+<li>Select the first option and click &lsquo;Next&rsquo;</li>
+<li>Create a user account for your Trilium Notes instance in the next screen and you should be all set now!</li>
+</ul>
+<h2 id="httpscommunityhetznercomtutorialsinstall-trilium-notes-using-dockerconclusionconclusion"><a href="https://community.hetzner.com/tutorials/install-trilium-notes-using-docker#conclusion"></a>Conclusion</h2>
+<p>With a few simple steps we were able to setup and run a good alternative to Evernote. You can even import your notes from Evernote if you&rsquo;d like.</p>
+<p>Go ahead and explore your new setup! The <a href="https://github.com/zadam/trilium/wiki">Wiki</a> is also very informative for what you can do next.</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

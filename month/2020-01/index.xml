@@ -1,12 +1,141 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2020-01 on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/month/2020-01/index.xml</link>
-    <description>Rexent content in 2020-01 on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2020-01 on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/month/2020-01/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/month/2020-01/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>26 Jan 2020 00:00</title>
+      <link>https://srikanthperinkulam.com/2020/01/26/weeknote-04-puzzled-pixels/</link>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2020/01/26/weeknote-04-puzzled-pixels/</guid>
+      <description>&lt;p&gt;&lt;em&gt;A glimpse of the past week and the few articles, podcasts, tools, videos and music that captivated my attention:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Finally got around installing &lt;a href=&#34;https://pixel.srkn.org/sriperinkulam&#34;&gt;PixelFed&lt;/a&gt; on a Hetzner server. Absolutely love it! It&amp;rsquo;s truly an Instagram clone sans the tracking. The lead developer has some interesting updates up his sleeve and I am very keen to see how this project shapes up as it evolves out of beta.&lt;/p&gt;
+&lt;p&gt;Meena suggested Nik and I work on the 3D puzzle Nik&amp;rsquo;s had for quite sometime now. Worked on it till about 0200 the next day morning and finished setting up this beautiful musical box puzzle. The engineering could have been a bit more nuanced. However, had a terrific time working on this.&lt;/p&gt;
+&lt;p&gt;Managed to fit in a short 4.5mile hike along the Thru trail in Patapsco State Park. With dusk setting in and absolutely nobody else on the trail, it did feel a bit spooky being out there. Spotted a few Deers and a fox on the way back. The old Woodstock bar and the huge empty parking lot for the trail right beside the railway line was probably something that added to the eeriness of the evening!&lt;/p&gt;
+&lt;p&gt;Watched &lt;a href=&#34;https://en.wikipedia.org/wiki/Kon-Tiki_(2012_film)&#34;&gt;Kon-Tiki&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/The_Lighthouse_of_the_Orcas&#34;&gt;The Lighthouse of the Orcas&lt;/a&gt;. Both terrific movies leaving you with the urge to do more meaningful things in life.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Interesting podcasts this week&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Quanta &lt;a href=&#34;https://outline.com/YKCpZr&#34;&gt;recently announced&lt;/a&gt; they&amp;rsquo;re launching a new podcast! Super excited to see how this shapes up.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Interesting tools this week&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://roamresearch.com/&#34;&gt;Roam Research&lt;/a&gt; : Note-taking tool for graphed thoughts&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Interesting reads this week&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://outline.com/K9K4dy&#34;&gt;Why you should introduce your child to dangerous sports&lt;/a&gt;: Free-diving in the Caribbean&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://outline.com/5ypZKX&#34;&gt;America&amp;rsquo;s search and rescue is in a state of emergency&lt;/a&gt;: The curse of supply and demand, and the dearth of funding and volunteers&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.instapaper.com/read/1270425039&#34;&gt;The secretive company that might end privacy as we know it&lt;/a&gt;: As London moves towards introducing Facial recognition in its already present street cameras and more and more companies coming up with technology to give out personal information at the click of a button; With lack of regulation and oversight, the future is going to be one hell of a mess.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><em>A glimpse of the past week and the few articles, podcasts, tools, videos and music that captivated my attention:</em></p>
+<p>Finally got around installing <a href="https://pixel.srkn.org/sriperinkulam">PixelFed</a> on a Hetzner server. Absolutely love it! It&rsquo;s truly an Instagram clone sans the tracking. The lead developer has some interesting updates up his sleeve and I am very keen to see how this project shapes up as it evolves out of beta.</p>
+<p>Meena suggested Nik and I work on the 3D puzzle Nik&rsquo;s had for quite sometime now. Worked on it till about 0200 the next day morning and finished setting up this beautiful musical box puzzle. The engineering could have been a bit more nuanced. However, had a terrific time working on this.</p>
+<p>Managed to fit in a short 4.5mile hike along the Thru trail in Patapsco State Park. With dusk setting in and absolutely nobody else on the trail, it did feel a bit spooky being out there. Spotted a few Deers and a fox on the way back. The old Woodstock bar and the huge empty parking lot for the trail right beside the railway line was probably something that added to the eeriness of the evening!</p>
+<p>Watched <a href="https://en.wikipedia.org/wiki/Kon-Tiki_(2012_film)">Kon-Tiki</a> and <a href="https://en.wikipedia.org/wiki/The_Lighthouse_of_the_Orcas">The Lighthouse of the Orcas</a>. Both terrific movies leaving you with the urge to do more meaningful things in life.</p>
+<p><strong>Interesting podcasts this week</strong></p>
+<p>Quanta <a href="https://outline.com/YKCpZr">recently announced</a> they&rsquo;re launching a new podcast! Super excited to see how this shapes up.</p>
+<p><strong>Interesting tools this week</strong></p>
+<p><a href="https://roamresearch.com/">Roam Research</a> : Note-taking tool for graphed thoughts</p>
+<p><strong>Interesting reads this week</strong></p>
+<p><a href="https://outline.com/K9K4dy">Why you should introduce your child to dangerous sports</a>: Free-diving in the Caribbean</p>
+<p><a href="https://outline.com/5ypZKX">America&rsquo;s search and rescue is in a state of emergency</a>: The curse of supply and demand, and the dearth of funding and volunteers</p>
+<p><a href="https://www.instapaper.com/read/1270425039">The secretive company that might end privacy as we know it</a>: As London moves towards introducing Facial recognition in its already present street cameras and more and more companies coming up with technology to give out personal information at the click of a button; With lack of regulation and oversight, the future is going to be one hell of a mess.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>12 Jan 2020 00:00</title>
+      <link>https://srikanthperinkulam.com/2020/01/12/weeknote-02-snow-mischief/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2020/01/12/weeknote-02-snow-mischief/</guid>
+      <description>&lt;p&gt;&lt;em&gt;A glimpse of the past week and the few articles, podcasts, tools, videos and music that captivated my attention:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Earlier this week I helped Sharath setup a nextcloud instance on the RaspberryPi 4 that we got him for Christmas. Installed the DietPi OS, moved the user data over to a 5TB WD disk and while at it also setup a pi-hole for the network.&lt;/p&gt;
+&lt;p&gt;Weather wise, this was one odd week. Had a good dusting of snow on Tuesday night and a balmy 60 degrees for most of the weekend. The kids had early school closures and we made sure we hit the trails.&lt;/p&gt;
+&lt;p&gt;Gone are the crawling days. Shasta has moved on to walking and she&amp;rsquo;s getting pretty good at it. Also her mischief quotient is raising by the day!&lt;/p&gt;
+&lt;p&gt;Meena found an interesting course in Tufts and has applied for the 2020 Fall deadline. Fingers crossed that she makes it! Some other exciting developments through this week might take us back to Boston this spring.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Interesting podcasts this week:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Indicator from Planet Money: The Skyrocketing Cost Of Air Ambulances&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://play.podtrac.com/npr-510325/edge1.pod.npr.org/anon.npr-mp3/npr/indicator/2020/01/20200103&#34;&gt;https://play.podtrac.com/npr-510325/edge1.pod.npr.org/anon.npr-mp3/npr/indicator/2020/01/20200103&lt;/a&gt;_indicator_200103_air_ambulances_final.mp3&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Interesting reads this week:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://outline.com/XDFmDn&#34;&gt;Welcome to New Hollywood&lt;/a&gt;: Netflix has absolutely taken over the digital market. Oddly they rely on AWS!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.theguardian.com/lifeandstyle/2019/jun/04/why-parents-are-addicted-to-calpol&#34;&gt;Why parents are addicted to Calpol&lt;/a&gt;: So true! It struck me so starkly when we moved to the states several years back. It&amp;rsquo;s amazing how quickly my family pops in paracetamols without any second thoughts.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://outline.com/3FULea&#34;&gt;The Shadow Commander&lt;/a&gt;: Quite an interesting read on recent developments in Iran and it&amp;rsquo;s past.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><em>A glimpse of the past week and the few articles, podcasts, tools, videos and music that captivated my attention:</em></p>
+<p>Earlier this week I helped Sharath setup a nextcloud instance on the RaspberryPi 4 that we got him for Christmas. Installed the DietPi OS, moved the user data over to a 5TB WD disk and while at it also setup a pi-hole for the network.</p>
+<p>Weather wise, this was one odd week. Had a good dusting of snow on Tuesday night and a balmy 60 degrees for most of the weekend. The kids had early school closures and we made sure we hit the trails.</p>
+<p>Gone are the crawling days. Shasta has moved on to walking and she&rsquo;s getting pretty good at it. Also her mischief quotient is raising by the day!</p>
+<p>Meena found an interesting course in Tufts and has applied for the 2020 Fall deadline. Fingers crossed that she makes it! Some other exciting developments through this week might take us back to Boston this spring.</p>
+<p><strong>Interesting podcasts this week:</strong></p>
+<p>The Indicator from Planet Money: The Skyrocketing Cost Of Air Ambulances</p>
+<p><a href="https://play.podtrac.com/npr-510325/edge1.pod.npr.org/anon.npr-mp3/npr/indicator/2020/01/20200103">https://play.podtrac.com/npr-510325/edge1.pod.npr.org/anon.npr-mp3/npr/indicator/2020/01/20200103</a>_indicator_200103_air_ambulances_final.mp3</p>
+<p><strong>Interesting reads this week:</strong></p>
+<p><a href="https://outline.com/XDFmDn">Welcome to New Hollywood</a>: Netflix has absolutely taken over the digital market. Oddly they rely on AWS!</p>
+<p><a href="https://www.theguardian.com/lifeandstyle/2019/jun/04/why-parents-are-addicted-to-calpol">Why parents are addicted to Calpol</a>: So true! It struck me so starkly when we moved to the states several years back. It&rsquo;s amazing how quickly my family pops in paracetamols without any second thoughts.</p>
+<p><a href="https://outline.com/3FULea">The Shadow Commander</a>: Quite an interesting read on recent developments in Iran and it&rsquo;s past.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>05 Jan 2020 00:00</title>
+      <link>https://srikanthperinkulam.com/2020/01/05/weeknote-01-memories-liberty-and-freedom/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2020/01/05/weeknote-01-memories-liberty-and-freedom/</guid>
+      <description>&lt;p&gt;&lt;em&gt;A glimpse of the past week and the few articles, podcasts, tools, videos and music that captivated my attention:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Convincing their parents last minute, Divyaa and Raaghuv drove up to Maryland with us. The kids had a ball of a time in the last row of the Sienna. We stopped over at Durham for the night and met Uncle Lou the next day for breakfast. Of course also visited Fuqua school of Business. Rajesh graduated from here and we so wished he was alive to show us around this campus. A gentle reminder to check-in with everyone near and dear every once in a while&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Meena and I took the kids Skiing at Liberty on Thursday night. This has become more of a tradition now at year-end(beginning). A first for Raaghuv and Divyaa though. Just before we left, the boys decided to take on the &lt;a href=&#34;https://www.libertymountainresort.com/interactive-map#close&#34;&gt;Lower blue streak&lt;/a&gt;, and I joined them. Absolutely reminded me of my first day at skiing! Need to work on that nuanced braking!&lt;/p&gt;
+&lt;p&gt;Oh and of course, Happy New Year! Last year I chose to be a bit more free, a privilege I am so glad I had and thankful for. Looking forward to what we chart in 2020.&lt;/p&gt;
+&lt;p&gt;Listening to: &lt;a href=&#34;https://genius.com/Maroon-5-memories-lyrics&#34;&gt;Memories&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Interesting podcasts this week:&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;The great American tax haven: why the super-rich love South Dakota&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Episode 216: How Four Drinking Buddies Saved Brazil&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;strong&gt;Interesting tools this week:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://obsproject.com/&#34;&gt;OBS Studio&lt;/a&gt;: Video recording and live-streaming&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Interesting reads this week:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://outline.com/EtuykY&#34;&gt;Why more kids are learning — and enjoying — yoga&lt;/a&gt;: While yoga has become a fad now in the western world, I&amp;rsquo;d go further out to expand it to any activity that gets them out of a &amp;lsquo;controlled&amp;rsquo; space. My dream classroom would be one out in the open with minimal teacher intervention.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://outline.com/sBdxWP&#34;&gt;Why the French Don’t Show Excitement&lt;/a&gt;: While I like the idea of “&lt;em&gt;on est bien, là&lt;/em&gt;”, I&amp;rsquo;ll probably have a tough time getting that perceived cold shoulder in response.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://outline.com/eHNn4g&#34;&gt;‘For five years we dreaded every meal’: my infant son’s struggle with food&lt;/a&gt;: They&amp;rsquo;re just so many things that could go wrong&amp;hellip;I&amp;rsquo;m so thankful Meena and Shasta are doing terrific.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://outline.com/krJguV&#34;&gt;Don’t just criticise the police. They’re constrained&lt;/a&gt;: As the world&amp;rsquo;s largest democracy comes to grips with the weight of the existence of more than a billion people, more so now as the youth are engaging and reacting to state and national politics, It&amp;rsquo;s key that funding and training is adequately increased to maintain law and order. And then there&amp;rsquo;s corruption to deal with&amp;hellip;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><em>A glimpse of the past week and the few articles, podcasts, tools, videos and music that captivated my attention:</em></p>
+<p>Convincing their parents last minute, Divyaa and Raaghuv drove up to Maryland with us. The kids had a ball of a time in the last row of the Sienna. We stopped over at Durham for the night and met Uncle Lou the next day for breakfast. Of course also visited Fuqua school of Business. Rajesh graduated from here and we so wished he was alive to show us around this campus. A gentle reminder to check-in with everyone near and dear every once in a while&hellip;</p>
+<p>Meena and I took the kids Skiing at Liberty on Thursday night. This has become more of a tradition now at year-end(beginning). A first for Raaghuv and Divyaa though. Just before we left, the boys decided to take on the <a href="https://www.libertymountainresort.com/interactive-map#close">Lower blue streak</a>, and I joined them. Absolutely reminded me of my first day at skiing! Need to work on that nuanced braking!</p>
+<p>Oh and of course, Happy New Year! Last year I chose to be a bit more free, a privilege I am so glad I had and thankful for. Looking forward to what we chart in 2020.</p>
+<p>Listening to: <a href="https://genius.com/Maroon-5-memories-lyrics">Memories</a></p>
+<p><strong>Interesting podcasts this week:</strong></p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p>The great American tax haven: why the super-rich love South Dakota</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p>Episode 216: How Four Drinking Buddies Saved Brazil</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p><strong>Interesting tools this week:</strong></p>
+<p><a href="https://obsproject.com/">OBS Studio</a>: Video recording and live-streaming</p>
+<p><strong>Interesting reads this week:</strong></p>
+<p><a href="https://outline.com/EtuykY">Why more kids are learning — and enjoying — yoga</a>: While yoga has become a fad now in the western world, I&rsquo;d go further out to expand it to any activity that gets them out of a &lsquo;controlled&rsquo; space. My dream classroom would be one out in the open with minimal teacher intervention.</p>
+<p><a href="https://outline.com/sBdxWP">Why the French Don’t Show Excitement</a>: While I like the idea of “<em>on est bien, là</em>”, I&rsquo;ll probably have a tough time getting that perceived cold shoulder in response.</p>
+<p><a href="https://outline.com/eHNn4g">‘For five years we dreaded every meal’: my infant son’s struggle with food</a>: They&rsquo;re just so many things that could go wrong&hellip;I&rsquo;m so thankful Meena and Shasta are doing terrific.</p>
+<p><a href="https://outline.com/krJguV">Don’t just criticise the police. They’re constrained</a>: As the world&rsquo;s largest democracy comes to grips with the weight of the existence of more than a billion people, more so now as the youth are engaging and reacting to state and national politics, It&rsquo;s key that funding and training is adequately increased to maintain law and order. And then there&rsquo;s corruption to deal with&hellip;</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

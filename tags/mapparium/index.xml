@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mapparium on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/mapparium/index.xml</link>
-    <description>Rexent content in Mapparium on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Mapparium on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/mapparium/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Jul 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/mapparium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>02 Jul 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/07/02/alchemist/</link>
+      <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/07/02/alchemist/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/IMG_4381.jpeg&#34; alt=&#34;&#34;  /&gt;
+
+A &amp;lsquo;slow&amp;rsquo; Saturday morning with the family. It&amp;rsquo;s been long that we&amp;rsquo;ve all been together and today morning was one of those days when I&amp;rsquo;m reminded how lucky we are to have such a wonderful support structure around us. A good cup of coffee, a simple breakfast and time just spent waiting for other folks in the family to wake up and join&amp;hellip;bliss.&lt;/p&gt;
+&lt;p&gt;Took the kids out to see the &lt;a href=&#34;https://www.marybakereddylibrary.org/project/mapparium/&#34;&gt;Mapparium&lt;/a&gt;. They absolutely loved it! This is something that doesn&amp;rsquo;t quite show up in the must visit lists. However, one of our good finds and highly recommended for all age groups. Also got them to walk over the Harvard bridge and then over to the MIT campus. The Alchemist never fails to mesmerize!&lt;/p&gt;
+&lt;p&gt;Needless to say, There&amp;rsquo;s this deep sense of pride I get in getting these kids outdoors and off their electronic devices. Also pushes me to get more hours out than in! Works both ways I guess!&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;
+&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/IMG_4381.jpeg" alt=""  />
+
+A &lsquo;slow&rsquo; Saturday morning with the family. It&rsquo;s been long that we&rsquo;ve all been together and today morning was one of those days when I&rsquo;m reminded how lucky we are to have such a wonderful support structure around us. A good cup of coffee, a simple breakfast and time just spent waiting for other folks in the family to wake up and join&hellip;bliss.</p>
+<p>Took the kids out to see the <a href="https://www.marybakereddylibrary.org/project/mapparium/">Mapparium</a>. They absolutely loved it! This is something that doesn&rsquo;t quite show up in the must visit lists. However, one of our good finds and highly recommended for all age groups. Also got them to walk over the Harvard bridge and then over to the MIT campus. The Alchemist never fails to mesmerize!</p>
+<p>Needless to say, There&rsquo;s this deep sense of pride I get in getting these kids outdoors and off their electronic devices. Also pushes me to get more hours out than in! Works both ways I guess!</p>
+<p><img loading="lazy" src="images/cropped-cropped-SP01-550afdebv1_site_icon.png" alt=""  />
+<a href="https://srikanthperinkulam.com">Srikanth Perinkulam</a></p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

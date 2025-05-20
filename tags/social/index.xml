@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Social on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/social/index.xml</link>
-    <description>Rexent content in Social on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Social on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/social/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/social/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>23 Jan 2022 00:00</title>
+      <link>https://srikanthperinkulam.com/2022/01/23/january-23-2022-1445/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2022/01/23/january-23-2022-1445/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://micro.blog/Alligator&#34;&gt;@Alligator&lt;/a&gt; I&amp;rsquo;m glad I got most of my family off apple a few years ago.The ecosystem and apps are great but there&amp;rsquo;s so little room for fun tweaking. I&amp;rsquo;ve had my eyes on Dex and Ubuntu&amp;rsquo;s convergence for a while too. For now though, I&amp;rsquo;m happy with my modular workstation setup. Another stream of thought is to port the fam to a Snikket/XMPP/matrix ecosystem so we&amp;rsquo;re lesser dependent on external networks. That&amp;rsquo;s going to take a bit of planning and coaxing though untill the &lt;a href=&#34;https://matrix.org/bridges/&#34;&gt;matrix bridges&lt;/a&gt; are a bit more robust :).&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><a href="https://micro.blog/Alligator">@Alligator</a> I&rsquo;m glad I got most of my family off apple a few years ago.The ecosystem and apps are great but there&rsquo;s so little room for fun tweaking. I&rsquo;ve had my eyes on Dex and Ubuntu&rsquo;s convergence for a while too. For now though, I&rsquo;m happy with my modular workstation setup. Another stream of thought is to port the fam to a Snikket/XMPP/matrix ecosystem so we&rsquo;re lesser dependent on external networks. That&rsquo;s going to take a bit of planning and coaxing though untill the <a href="https://matrix.org/bridges/">matrix bridges</a> are a bit more robust :).</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>06 Apr 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/04/06/discourse/</link>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/04/06/discourse/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.discourse.org/&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/logo.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/a&gt;Learn about Discourse, the 100% open source discussion platform built for the next decade of the Internet.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Source: &lt;em&gt;&lt;a href=&#34;http://www.discourse.org/&#34;&gt;Discourse&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<blockquote>
+<p><a href="http://www.discourse.org/"><img loading="lazy" src="images/logo.png" alt=""  />
+</a>Learn about Discourse, the 100% open source discussion platform built for the next decade of the Internet.</p>
+</blockquote>
+<p>Source: <em><a href="http://www.discourse.org/">Discourse</a></em></p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

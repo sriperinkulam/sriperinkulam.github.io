@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2025-05-19 21:30:00 &#43;0000 UTC on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2025-05-19-213000-&#43;0000-utc/index.xml</link>
-    <description>Rexent content in 2025-05-19 21:30:00 &#43;0000 UTC on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2025-05-19 21:30:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2025-05-19-213000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 May 2025 21:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2025-05-19-213000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>19 May 2025 21:30</title>
+      <link>https://srikanthperinkulam.com/2025/05/19/feeds/</link>
+      <pubDate>Mon, 19 May 2025 21:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/05/19/feeds/</guid>
+      <description>&lt;p&gt;I think I almost figured out how to have different feeds for tags and categories in Hugo! Modified the feed so the title is replaced with the publish date instead so feed readers display the content properly instead of just the title and a link to the post. Might still have a few kinks but I think we&amp;rsquo;re slowly getting there&amp;hellip;.
+&lt;a href=&#34;https://srikanthperinkulam.com/2025/05/19/feeds/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>I think I almost figured out how to have different feeds for tags and categories in Hugo! Modified the feed so the title is replaced with the publish date instead so feed readers display the content properly instead of just the title and a link to the post. Might still have a few kinks but I think we&rsquo;re slowly getting there&hellip;.
+<a href="https://srikanthperinkulam.com/2025/05/19/feeds/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>19 May 2025 21:30</title>
+      <link>https://srikanthperinkulam.com/2025/05/19/unbridged/</link>
+      <pubDate>Mon, 19 May 2025 21:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/05/19/unbridged/</guid>
+      <description>&lt;p&gt;Today was supposed to be a &amp;lsquo;Bridged&amp;rsquo; holiday. In this part of the world, the president apparently declares certain days to be holidays if they happen to fall adjacent to a previously declared public holiday and the weekend.&lt;/p&gt;
+&lt;p&gt;With tomorrow being Cameroon day, rumor was that today would be one of those bridged holidays. Sadly it wasn&amp;rsquo;t. Locally employed staff were definitely not happy. The Ambo did declare a 59 minute early release. Got the message while we were amidst a small project and not quite at a good stopping point. So we chugged along and head home when we were done. Will take it in spirit though. Merci Beaucoup! &lt;a href=&#34;https://srikanthperinkulam.com/2025/05/19/unbridged/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Today was supposed to be a &lsquo;Bridged&rsquo; holiday. In this part of the world, the president apparently declares certain days to be holidays if they happen to fall adjacent to a previously declared public holiday and the weekend.</p>
+<p>With tomorrow being Cameroon day, rumor was that today would be one of those bridged holidays. Sadly it wasn&rsquo;t. Locally employed staff were definitely not happy. The Ambo did declare a 59 minute early release. Got the message while we were amidst a small project and not quite at a good stopping point. So we chugged along and head home when we were done. Will take it in spirit though. Merci Beaucoup! <a href="https://srikanthperinkulam.com/2025/05/19/unbridged/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

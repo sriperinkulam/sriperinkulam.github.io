@@ -1,12 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2022-08-21 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/date/2022-08-21-000000-&#43;0000-utc/index.xml</link>
-    <description>Rexent content in 2022-08-21 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in 2022-08-21 00:00:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/date/2022-08-21-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2022-08-21-000000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>21 Aug 2022 00:00</title>
+      <link>https://srikanthperinkulam.com/2022/08/21/dc-saturdays/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2022/08/21/dc-saturdays/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Imagepipe_19.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Between moving, on-boarding, never-ending-checklists and spurts of laziness the last few months have been ridiculously busy. Visited the Museum of Natural History yesterday. Couldn&amp;rsquo;t do the Butterfly pavilion since tickets were sold-out. Could have planned this better! Nevertheless, had a great time out!&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/Imagepipe_19.jpg" alt=""  />
+</p>
+<p>Between moving, on-boarding, never-ending-checklists and spurts of laziness the last few months have been ridiculously busy. Visited the Museum of Natural History yesterday. Couldn&rsquo;t do the Butterfly pavilion since tickets were sold-out. Could have planned this better! Nevertheless, had a great time out!</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

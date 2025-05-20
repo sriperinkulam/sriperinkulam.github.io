@@ -1,12 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Infento on Srikanth Perinkulam</title>
     <link>https://srikanthperinkulam.com/tags/infento/index.xml</link>
-    <description>Rexent content in Infento on Srikanth Perinkulam</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Infento on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://srikanthperinkulam.com/tags/infento/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/infento/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>29 May 2023 00:00</title>
+      <link>https://srikanthperinkulam.com/2023/05/29/breezy/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2023/05/29/breezy/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Imagepipe_4.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Built out this cool scooter for S. Kinda neat how they&amp;rsquo;ve designed this - To turn, the rider needs to lean in the direction of the turn. Not sure if the kiddo will appreciate it. It sure did keep me busy for a couple hours!&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/Imagepipe_4.jpg" alt=""  />
+</p>
+<p>Built out this cool scooter for S. Kinda neat how they&rsquo;ve designed this - To turn, the rider needs to lean in the direction of the turn. Not sure if the kiddo will appreciate it. It sure did keep me busy for a couple hours!</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>05 Jan 2022 00:00</title>
+      <link>https://srikanthperinkulam.com/2022/01/05/january-6-2022-0609/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2022/01/05/january-6-2022-0609/</guid>
+      <description>&lt;p&gt;Built this robust scooter for little S last evening. Absolutely love how intricate these infento kits can get. Kept both of us engaged for more than four hours. The scooter should keep her occupied for a few days&amp;hellip;or not&amp;hellip;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Built this robust scooter for little S last evening. Absolutely love how intricate these infento kits can get. Kept both of us engaged for more than four hours. The scooter should keep her occupied for a few days&hellip;or not&hellip;</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>
