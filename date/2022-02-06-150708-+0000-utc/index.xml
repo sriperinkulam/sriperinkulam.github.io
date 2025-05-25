@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>2022-02-06 15:07:08 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>https://srikanthperinkulam.com/date/2022-02-06-150708-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2022-02-06 15:07:08 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Feb 2022 15:07:08 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2022-02-06-150708-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>06 Feb 2022 15:07</title>
+      <link>https://srikanthperinkulam.com/2022/02/06/as-i-slowly-get-back-into-running-i-realized-my-g/</link>
+      <pubDate>Sun, 06 Feb 2022 15:07:08 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2022/02/06/as-i-slowly-get-back-into-running-i-realized-my-g/</guid>
+      <description>&lt;p&gt;As I slowly get back into running, I realized my garmin plugin had a minor bug. When I built this last year, I had inadvertently hard-coded the years field in the summary and the totals for the current year where obviously messed up. For now I’ve &amp;hellip; &lt;a href=&#34;https://t.co/WCwVZWWzTj&#34;&gt;https://t.co/WCwVZWWzTj&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/user/status/1490341292655710209&#34;&gt;Link to Tweet&lt;/a&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>As I slowly get back into running, I realized my garmin plugin had a minor bug. When I built this last year, I had inadvertently hard-coded the years field in the summary and the totals for the current year where obviously messed up. For now I’ve &hellip; <a href="https://t.co/WCwVZWWzTj">https://t.co/WCwVZWWzTj</a></p>
+<p><a href="https://twitter.com/user/status/1490341292655710209">Link to Tweet</a></p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

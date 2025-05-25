@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>2021-02-06 00:03:51 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>https://srikanthperinkulam.com/date/2021-02-06-000351-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2021-02-06 00:03:51 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 06 Feb 2021 00:03:51 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2021-02-06-000351-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>06 Feb 2021 00:03</title>
+      <link>https://srikanthperinkulam.com/2021/02/06/state-of-the-networks-with-our-temporary-relocati/</link>
+      <pubDate>Sat, 06 Feb 2021 00:03:51 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/02/06/state-of-the-networks-with-our-temporary-relocati/</guid>
+      <description>&lt;p&gt;State of the networks: With our temporary relocation, I currently manage two ‘home-labs’ – one which I remotely manage with a WireGuard tunnel and the other just a local-access only setup&amp;hellip;&lt;a href=&#34;https://t.co/0yxpnh9VgP&#34;&gt;https://t.co/0yxpnh9VgP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/user/status/1357842405697835010&#34;&gt;Link to Tweet&lt;/a&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>State of the networks: With our temporary relocation, I currently manage two ‘home-labs’ – one which I remotely manage with a WireGuard tunnel and the other just a local-access only setup&hellip;<a href="https://t.co/0yxpnh9VgP">https://t.co/0yxpnh9VgP</a></p>
+<p><a href="https://twitter.com/user/status/1357842405697835010">Link to Tweet</a></p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

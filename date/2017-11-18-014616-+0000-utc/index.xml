@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>2017-11-18 01:46:16 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>https://srikanthperinkulam.com/date/2017-11-18-014616-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2017-11-18 01:46:16 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Nov 2017 01:46:16 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2017-11-18-014616-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>18 Nov 2017 01:46</title>
+      <link>https://srikanthperinkulam.com/2017/11/18/known-unknown-issues-got-back-to-firing-.../</link>
+      <pubDate>Sat, 18 Nov 2017 01:46:16 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/11/18/known-unknown-issues-got-back-to-firing-.../</guid>
+      <description>&lt;p&gt;Known unknown issues! Got back to firing up a known instance after about a year. Had to spend sometime today trying to figure out why Known wasn&#39;t let me enable plugins that I fetched from Github. The folder unzipped as &#39;Twitter-master&#39; and only after some random shots in the dark, I figured the folder had to be renamed &#39;Twitter&#39; for it to work.  Oh, #Indieweb!
+&lt;a href=&#34;https://srikanthperinkulam.com/2017/11/18/known-unknown-issues-got-back-to-firing-.../&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+)&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Known unknown issues! Got back to firing up a known instance after about a year. Had to spend sometime today trying to figure out why Known wasn't let me enable plugins that I fetched from Github. The folder unzipped as 'Twitter-master' and only after some random shots in the dark, I figured the folder had to be renamed 'Twitter' for it to work.  Oh, #Indieweb!
+<a href="https://srikanthperinkulam.com/2017/11/18/known-unknown-issues-got-back-to-firing-.../" style="text-decoration: none !important;">🔗</a>
+)</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

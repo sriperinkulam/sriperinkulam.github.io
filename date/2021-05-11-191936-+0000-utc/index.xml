@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>2021-05-11 19:19:36 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>https://srikanthperinkulam.com/date/2021-05-11-191936-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2021-05-11 19:19:36 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 May 2021 19:19:36 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2021-05-11-191936-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>11 May 2021 19:19</title>
+      <link>https://srikanthperinkulam.com/2021/05/11/tweaked-this-setup-further-to-make-it-a-bit-more-s/</link>
+      <pubDate>Tue, 11 May 2021 19:19:36 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/05/11/tweaked-this-setup-further-to-make-it-a-bit-more-s/</guid>
+      <description>&lt;p&gt;Tweaked this setup further to make it a bit more seamless. I used a different but more reliable script to fetch the activity json files and setup a cron job to run twice every week. Next-up: 01. Make the parsing and data display theme agnostic. 02. &amp;hellip; &lt;a href=&#34;https://t.co/V0C73ukHFC&#34;&gt;https://t.co/V0C73ukHFC&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/user/status/1392197718680932362&#34;&gt;Link to Tweet&lt;/a&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Tweaked this setup further to make it a bit more seamless. I used a different but more reliable script to fetch the activity json files and setup a cron job to run twice every week. Next-up: 01. Make the parsing and data display theme agnostic. 02. &hellip; <a href="https://t.co/V0C73ukHFC">https://t.co/V0C73ukHFC</a></p>
+<p><a href="https://twitter.com/user/status/1392197718680932362">Link to Tweet</a></p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>2011-01-18 18:34:39 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>https://srikanthperinkulam.com/date/2011-01-18-183439-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2011-01-18 18:34:39 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 18 Jan 2011 18:34:39 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2011-01-18-183439-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>18 Jan 2011 18:34</title>
+      <link>https://srikanthperinkulam.com/2011/01/18/@varunbansal84-the-link-runs-into-a-django-admin-p/</link>
+      <pubDate>Tue, 18 Jan 2011 18:34:39 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2011/01/18/@varunbansal84-the-link-runs-into-a-django-admin-p/</guid>
+      <description>&lt;p&gt;@varunbansal84 The link runs into a django admin page.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/user/status/27433703944749056&#34;&gt;Link to Tweet&lt;/a&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>@varunbansal84 The link runs into a django admin page.</p>
+<p><a href="https://twitter.com/user/status/27433703944749056">Link to Tweet</a></p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

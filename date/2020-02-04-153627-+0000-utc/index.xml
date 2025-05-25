@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>2020-02-04 15:36:27 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>https://srikanthperinkulam.com/date/2020-02-04-153627-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2020-02-04 15:36:27 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 Feb 2020 15:36:27 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2020-02-04-153627-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>04 Feb 2020 15:36</title>
+      <link>https://srikanthperinkulam.com/2020/02/04/a-quick-rundown-on-the-state-of-the-home-servers-i/</link>
+      <pubDate>Tue, 04 Feb 2020 15:36:27 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2020/02/04/a-quick-rundown-on-the-state-of-the-home-servers-i/</guid>
+      <description>&lt;p&gt;A quick rundown on the state of the home-servers I run or  applications I host on the cloud.&lt;/p&gt;
+&lt;p&gt;Last week I opened up my Nextcloud instance for external access. Now, since my brother&amp;rsquo;s RPi4 was already exposed on the same network, I had to &amp;hellip; | &lt;a href=&#34;https://t.co/iRPyx6f020&#34;&gt;https://t.co/iRPyx6f020&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/user/status/1224718367820517376&#34;&gt;Link to Tweet&lt;/a&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>A quick rundown on the state of the home-servers I run or  applications I host on the cloud.</p>
+<p>Last week I opened up my Nextcloud instance for external access. Now, since my brother&rsquo;s RPi4 was already exposed on the same network, I had to &hellip; | <a href="https://t.co/iRPyx6f020">https://t.co/iRPyx6f020</a></p>
+<p><a href="https://twitter.com/user/status/1224718367820517376">Link to Tweet</a></p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
