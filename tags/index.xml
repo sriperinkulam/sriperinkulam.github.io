@@ -10,23 +10,33 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Jun 2025 20:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Jul 2025 21:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>26 Jun 2025 20:30</title>
-      <link>https://srikanthperinkulam.com/tags/fss/index.xml</link>
-      <pubDate>Thu, 26 Jun 2025 20:30:00 +0000</pubDate>
+      <title>19 Jul 2025 21:30</title>
+      <link>https://srikanthperinkulam.com/tags/micro/index.xml</link>
+      <pubDate>Sat, 19 Jul 2025 21:30:00 +0000</pubDate>
       
-      <guid>https://srikanthperinkulam.com/tags/fss/index.xml</guid>
+      <guid>https://srikanthperinkulam.com/tags/micro/index.xml</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>04 Jul 2025 21:30</title>
+      <link>https://srikanthperinkulam.com/tags/macro/index.xml</link>
+      <pubDate>Fri, 04 Jul 2025 21:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/tags/macro/index.xml</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>26 Jun 2025 20:30</title>
-      <link>https://srikanthperinkulam.com/tags/micro/index.xml</link>
+      <link>https://srikanthperinkulam.com/tags/fss/index.xml</link>
       <pubDate>Thu, 26 Jun 2025 20:30:00 +0000</pubDate>
       
-      <guid>https://srikanthperinkulam.com/tags/micro/index.xml</guid>
+      <guid>https://srikanthperinkulam.com/tags/fss/index.xml</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
@@ -77,16 +87,6 @@
       <pubDate>Tue, 25 Mar 2025 00:00:03 +0000</pubDate>
       
       <guid>https://srikanthperinkulam.com/tags/glen-canyon-nra/index.xml</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>25 Mar 2025 00:00</title>
-      <link>https://srikanthperinkulam.com/tags/hiking/index.xml</link>
-      <pubDate>Tue, 25 Mar 2025 00:00:03 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/tags/hiking/index.xml</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
