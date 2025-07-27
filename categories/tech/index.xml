@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Nov 2024 22:41:00 -0500</lastBuildDate><atom:link href="https://srikanthperinkulam.com/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Jul 2025 21:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>26 Jul 2025 21:30</title>
+      <link>https://srikanthperinkulam.com/2025/07/26/meshtastic/</link>
+      <pubDate>Sat, 26 Jul 2025 21:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/07/26/meshtastic/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/meshtastic.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Setup these three &lt;a href=&#34;https://meshtastic.org/&#34;&gt;meshtastic&lt;/a&gt; T1000-E radio&amp;rsquo;s today. Amazed at how tiny yet powerful these are. They seem to last for about three days with GPS and telemetry on. Until Meshtastic enables all the sensors I might probably box these up. In a pinch these can always be used for mesh&amp;rsquo;d comms if needed. &lt;a href=&#34;https://srikanthperinkulam.com/2025/07/26/meshtastic/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/meshtastic.jpg" alt=""  />
+</p>
+<p>Setup these three <a href="https://meshtastic.org/">meshtastic</a> T1000-E radio&rsquo;s today. Amazed at how tiny yet powerful these are. They seem to last for about three days with GPS and telemetry on. Until Meshtastic enables all the sensors I might probably box these up. In a pinch these can always be used for mesh&rsquo;d comms if needed. <a href="https://srikanthperinkulam.com/2025/07/26/meshtastic/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>29 Nov 2024 22:41</title>
       <link>https://srikanthperinkulam.com/2024/11/29/2024-11-29/</link>
@@ -152,24 +170,6 @@
 </ul>
 <p>Setting this up took me barely 30 minutes - thanks to this exceptionally well documented <a href="https://github.com/spantaleev/matrix-docker-ansible-deploy/">ansible playbook</a> . Sounds and reads terse but it is super straightforward to follow through. At this point, calls are not bridged. It otherwise works absolutely seamless. Not quite sure how long I&rsquo;d use this. It started off more from the perspective of testing out matrix and the surrounding ecosystem and it&rsquo;s been a fun ride so far.</p>
 <p>Walk over that bridge. Will ya? Now, if you do not want to set this all up yourselves, you could for a small price, use the service provided by either <a href="https://element.io/element-one">element</a> or <a href="https://www.beeper.com/">Beeper</a> . I think they offer it at at a fantastic price-point.</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>07 Sep 2021 00:00</title>
-      <link>https://srikanthperinkulam.com/2021/09/07/state-of-the-networks-sep-2021/</link>
-      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2021/09/07/state-of-the-networks-sep-2021/</guid>
-      <description>&lt;p&gt;Over the last few months, I was able to take some time to explore a few self-hostable options. I got to explore &lt;a href=&#34;https://srikanthperinkulam.com/2021/07/28/caddy-through-the-tunnel/&#34;&gt;caddy&lt;/a&gt; (Which is terrific by the way!), setup &lt;a href=&#34;https://srikanthperinkulam.com/2021/07/15/guacamole-clientless-remote-desktop-access/&#34;&gt;guacamole&lt;/a&gt; and I&amp;rsquo;m also absolutely loving &lt;a href=&#34;https://srikanthperinkulam.com/2021/07/28/july-27-2021-2105/&#34;&gt;Navidrome&lt;/a&gt;. I got rid of OSMC since we weren&amp;rsquo;t quite using it as much and setup pi-hole to block ads network wide. With these changes, I think I am able to put these devices to real good use. While at it, I also setup a WireGuard tunnel from a VPS to access my local devices securely outside my home network.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Screenshot-from-2021-09-07-13-25-42-600x296.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Since my &lt;a href=&#34;https://srikanthperinkulam.com/2021/02/05/state-of-the-networks-feb-2021/&#34;&gt;February update&lt;/a&gt;, I haven&amp;rsquo;t changed the services on the cloud much. I did get rid of Bookstack, Known and Signal-CLI since I wasn&amp;rsquo;t using them as much. I am however using &lt;a href=&#34;https://srikanthperinkulam.com/?s=trilium&#34;&gt;Trilium notes&lt;/a&gt; exhaustively as my go-to notes and knowledge-base application.&lt;/p&gt;
-</description>
-      <content:encoded><![CDATA[<p>Over the last few months, I was able to take some time to explore a few self-hostable options. I got to explore <a href="https://srikanthperinkulam.com/2021/07/28/caddy-through-the-tunnel/">caddy</a> (Which is terrific by the way!), setup <a href="https://srikanthperinkulam.com/2021/07/15/guacamole-clientless-remote-desktop-access/">guacamole</a> and I&rsquo;m also absolutely loving <a href="https://srikanthperinkulam.com/2021/07/28/july-27-2021-2105/">Navidrome</a>. I got rid of OSMC since we weren&rsquo;t quite using it as much and setup pi-hole to block ads network wide. With these changes, I think I am able to put these devices to real good use. While at it, I also setup a WireGuard tunnel from a VPS to access my local devices securely outside my home network.</p>
-<p><img loading="lazy" src="images/Screenshot-from-2021-09-07-13-25-42-600x296.png" alt=""  />
-</p>
-<p>Since my <a href="https://srikanthperinkulam.com/2021/02/05/state-of-the-networks-feb-2021/">February update</a>, I haven&rsquo;t changed the services on the cloud much. I did get rid of Bookstack, Known and Signal-CLI since I wasn&rsquo;t using them as much. I am however using <a href="https://srikanthperinkulam.com/?s=trilium">Trilium notes</a> exhaustively as my go-to notes and knowledge-base application.</p>
 ]]></content:encoded>
     </item>
     
