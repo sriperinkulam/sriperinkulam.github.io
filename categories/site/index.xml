@@ -10,7 +10,23 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 May 2025 21:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/categories/site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Aug 2025 00:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/categories/site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>03 Aug 2025 00:30</title>
+      <link>https://srikanthperinkulam.com/2025/08/03/maps/</link>
+      <pubDate>Sun, 03 Aug 2025 00:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/08/03/maps/</guid>
+      <description>&lt;p&gt;Tweaked the &lt;a href=&#34;https://srikanthperinkulam.com/map&#34;&gt;maps&lt;/a&gt; page to reflect posts that have a set location. Currently this is a super vanilla layout and I think I should cluster these by region. I do like how it&amp;rsquo;s turned out though!&lt;/p&gt;
+&lt;p&gt;While at it, I realised I missed downloading pictures from my old Flickr account to Nextcloud. Brought those in and nuked the Flickr account. &lt;a href=&#34;https://srikanthperinkulam.com/2025/08/03/maps/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Tweaked the <a href="/map">maps</a> page to reflect posts that have a set location. Currently this is a super vanilla layout and I think I should cluster these by region. I do like how it&rsquo;s turned out though!</p>
+<p>While at it, I realised I missed downloading pictures from my old Flickr account to Nextcloud. Brought those in and nuked the Flickr account. <a href="https://srikanthperinkulam.com/2025/08/03/maps/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>25 May 2025 21:30</title>
       <link>https://srikanthperinkulam.com/2025/05/25/silo-migration/</link>
@@ -123,20 +139,6 @@
 <p>Looking around a bit, I decided to give <a href="https://isso-comments.de/">ISSO</a> a chance. It seemed to have all the features I was looking for and was reasonably easy to setup. As with most things tech though, I had quite some difficulty tweaking it to work the way I wanted it to. Taking a break and getting back to it after a few days, did get me to approach this from a different perspective and I think it&rsquo;s super close to where I&rsquo;d like it to be.</p>
 <p>On certain things, I am perfectly okay leaving things half baked and cutting my losses. On most things though, I do like seeing things to closure. There&rsquo;s so much thrill in figuring out why something is not working the way it is supposed to. Most often it&rsquo;s because of something ridiculously silly or because of minor oversights. Trials and tribulations of the last mile closures, I guess?</p>
 <p>For now, this site has a basic commenting system and that gives me enough momentum to pursue other things to tweak. <a href="https://srikanthperinkulam.com/2024/12/09/last-mile-closures/" style="text-decoration: none !important;">🔗</a>
-</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>06 Dec 2024 21:39</title>
-      <link>https://srikanthperinkulam.com/2024/12/06/flexibility/</link>
-      <pubDate>Fri, 06 Dec 2024 21:39:00 -0500</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2024/12/06/flexibility/</guid>
-      <description>&lt;p&gt;Absolutely loving the flexibility of fast-tweaking markdown files in GO. I&amp;rsquo;m far from being a programmer/developer, but with a dash of AI and some bare minimum logic sense, I&amp;rsquo;ve been able to build scripts to do a bunch of modifications on this site on the go. &lt;a href=&#34;https://srikanthperinkulam.com/2024/12/06/flexibility/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
-&lt;/p&gt;
-</description>
-      <content:encoded><![CDATA[<p>Absolutely loving the flexibility of fast-tweaking markdown files in GO. I&rsquo;m far from being a programmer/developer, but with a dash of AI and some bare minimum logic sense, I&rsquo;ve been able to build scripts to do a bunch of modifications on this site on the go. <a href="https://srikanthperinkulam.com/2024/12/06/flexibility/" style="text-decoration: none !important;">🔗</a>
 </p>
 ]]></content:encoded>
     </item>
