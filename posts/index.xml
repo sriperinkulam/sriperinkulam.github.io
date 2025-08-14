@@ -10,7 +10,169 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 03 Aug 2025 00:32:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Aug 2025 21:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>09 Aug 2025 21:30</title>
+      <link>https://srikanthperinkulam.com/2025/08/09/malabo-north-paseo/</link>
+      <pubDate>Sat, 09 Aug 2025 21:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/08/09/malabo-north-paseo/</guid>
+      <description>&lt;p&gt;Amazed at how well this &amp;lsquo;Paseo&amp;rsquo; is maintained!
+&lt;div class=&#34;image-gallery&#34;&gt;
+    
+    
+    
+    
+    &lt;ul class=&#34;photo-list &#34;&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2025/08/09/malabo-north-paseo/images/Imagepipe_11.jpg&#34;&gt;&lt;img src=&#34;./images/Imagepipe_11.jpg&#34; alt=&#34;Imagepipe_11.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2025/08/09/malabo-north-paseo/images/Imagepipe_12.jpg&#34;&gt;&lt;img src=&#34;./images/Imagepipe_12.jpg&#34; alt=&#34;Imagepipe_12.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2025/08/09/malabo-north-paseo/images/Imagepipe_13.jpg&#34;&gt;&lt;img src=&#34;./images/Imagepipe_13.jpg&#34; alt=&#34;Imagepipe_13.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2025/08/09/malabo-north-paseo/images/Imagepipe_14.jpg&#34;&gt;&lt;img src=&#34;./images/Imagepipe_14.jpg&#34; alt=&#34;Imagepipe_14.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2025/08/09/malabo-north-paseo/images/Imagepipe_15.jpg&#34;&gt;&lt;img src=&#34;./images/Imagepipe_15.jpg&#34; alt=&#34;Imagepipe_15.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list &gt; li {
+    height: 40vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    flex-grow: 10;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image &gt; li {
+    height: auto;  
+}
+&lt;/style&gt;
+&lt;/p&gt;
+&lt;a href=&#34;https://srikanthperinkulam.com/2025/08/09/malabo-north-paseo/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+
+</description>
+      <content:encoded><![CDATA[<p>Amazed at how well this &lsquo;Paseo&rsquo; is maintained!
+<div class="image-gallery">
+    
+    
+    
+    
+    <ul class="photo-list ">
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2025/08/09/malabo-north-paseo/images/Imagepipe_11.jpg"><img src="./images/Imagepipe_11.jpg" alt="Imagepipe_11.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2025/08/09/malabo-north-paseo/images/Imagepipe_12.jpg"><img src="./images/Imagepipe_12.jpg" alt="Imagepipe_12.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2025/08/09/malabo-north-paseo/images/Imagepipe_13.jpg"><img src="./images/Imagepipe_13.jpg" alt="Imagepipe_13.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2025/08/09/malabo-north-paseo/images/Imagepipe_14.jpg"><img src="./images/Imagepipe_14.jpg" alt="Imagepipe_14.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2025/08/09/malabo-north-paseo/images/Imagepipe_15.jpg"><img src="./images/Imagepipe_15.jpg" alt="Imagepipe_15.jpg" /><a>
+            </li>
+        
+    </ul>
+</div>
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 40vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    flex-grow: 10;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image > li {
+    height: auto;  
+}
+</style>
+</p>
+<a href="https://srikanthperinkulam.com/2025/08/09/malabo-north-paseo/" style="text-decoration: none !important;">🔗</a>
+
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>03 Aug 2025 00:32</title>
       <link>https://srikanthperinkulam.com/2025/08/03/maps/</link>
@@ -149,26 +311,6 @@ month ago. Yay! Pleasantly surprised. This doesn&amp;rsquo;t really mean much, I
       <content:encoded><![CDATA[<p>Got an official notification confirming that I was tenured a
 month ago. Yay! Pleasantly surprised. This doesn&rsquo;t really mean much, I guess, under the current administration. The recent RIF plans don&rsquo;t quite bode well for domestic folks and rumor is that overseas positions are up next. Should have more clarity over the next few days. All I need though is just a few more weeks to clock in those three years and get the whole benefit of the TSP.
 <a href="https://srikanthperinkulam.com/2025/06/26/10ured/" style="text-decoration: none !important;">🔗</a>
-</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>19 Jun 2025 18:30</title>
-      <link>https://srikanthperinkulam.com/2025/06/19/numb/</link>
-      <pubDate>Thu, 19 Jun 2025 18:30:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2025/06/19/numb/</guid>
-      <description>&lt;p&gt;To the recent air-crash. To the Iran-Israel escalation. To the Israel-Palestine conflict. To the massive layoffs happening all over the federal space. To the incessant pollution on the roads. To the mindless spending all over. To the massive disparity across realms.&lt;/p&gt;
-&lt;p&gt;Walking over to &lt;em&gt;Masks&lt;/em&gt; for a couple drinks and that falafel burger. Playing &lt;em&gt;Breath of the WIld&lt;/em&gt; like nobody&amp;rsquo;s business. Debating pros and cons of a neuro program in UCL. Ordering multiple T1000Es to tinker with. Planning future travel across waters. Living in this messed up world, raising a kid just like those gazillion out there who&amp;rsquo;re going to wonder what the heck their parents and ancestors did and did&amp;rsquo;nt do.&lt;/p&gt;
-&lt;p&gt;All of this does not compute. Numb at so many levels&amp;hellip;
-&lt;a href=&#34;https://srikanthperinkulam.com/2025/06/19/numb/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
-&lt;/p&gt;
-</description>
-      <content:encoded><![CDATA[<p>To the recent air-crash. To the Iran-Israel escalation. To the Israel-Palestine conflict. To the massive layoffs happening all over the federal space. To the incessant pollution on the roads. To the mindless spending all over. To the massive disparity across realms.</p>
-<p>Walking over to <em>Masks</em> for a couple drinks and that falafel burger. Playing <em>Breath of the WIld</em> like nobody&rsquo;s business. Debating pros and cons of a neuro program in UCL. Ordering multiple T1000Es to tinker with. Planning future travel across waters. Living in this messed up world, raising a kid just like those gazillion out there who&rsquo;re going to wonder what the heck their parents and ancestors did and did&rsquo;nt do.</p>
-<p>All of this does not compute. Numb at so many levels&hellip;
-<a href="https://srikanthperinkulam.com/2025/06/19/numb/" style="text-decoration: none !important;">🔗</a>
 </p>
 ]]></content:encoded>
     </item>
