@@ -23,7 +23,7 @@
     
     
     
-    &lt;ul class=&#34;photo-list single-image&#34;&gt;
+    &lt;ol class=&#34;photo-list single-image&#34;&gt;
         
              
              
@@ -31,7 +31,7 @@
                 &lt;a href=&#34;https://srikanthperinkulam.com/2021/02/18/shumee/images/29.jpg&#34;&gt;&lt;img src=&#34;./images/29.jpg&#34; alt=&#34;29.jpg&#34; /&gt;&lt;a&gt;
             &lt;/li&gt;
         
-    &lt;/ul&gt;
+    &lt;/ol&gt;
 &lt;/div&gt;
 
 &lt;style&gt;
@@ -42,7 +42,7 @@
 }
 
 .photo-list &gt; li {
-    height: 40vh;  
+    height: 22vh;  
     flex-grow: 1;  
     list-style-type: none;  
     margin: 1px;  
@@ -76,7 +76,7 @@
     
     
     
-    <ul class="photo-list single-image">
+    <ol class="photo-list single-image">
         
              
              
@@ -84,7 +84,7 @@
                 <a href="https://srikanthperinkulam.com/2021/02/18/shumee/images/29.jpg"><img src="./images/29.jpg" alt="29.jpg" /><a>
             </li>
         
-    </ul>
+    </ol>
 </div>
 
 <style>
@@ -95,7 +95,7 @@
 }
 
 .photo-list > li {
-    height: 40vh;  
+    height: 22vh;  
     flex-grow: 1;  
     list-style-type: none;  
     margin: 1px;  
@@ -137,7 +137,7 @@
     
     
     
-    &lt;ul class=&#34;photo-list &#34;&gt;
+    &lt;ol class=&#34;photo-list &#34;&gt;
         
              
              
@@ -163,7 +163,7 @@
                 &lt;a href=&#34;https://srikanthperinkulam.com/2021/02/13/the-adyar-river-trail/images/signal-2021-02-13-133413_001-scaled.jpeg&#34;&gt;&lt;img src=&#34;./images/signal-2021-02-13-133413_001-scaled.jpeg&#34; alt=&#34;signal-2021-02-13-133413_001-scaled.jpeg&#34; /&gt;&lt;a&gt;
             &lt;/li&gt;
         
-    &lt;/ul&gt;
+    &lt;/ol&gt;
 &lt;/div&gt;
 
 &lt;style&gt;
@@ -174,7 +174,7 @@
 }
 
 .photo-list &gt; li {
-    height: 40vh;  
+    height: 22vh;  
     flex-grow: 1;  
     list-style-type: none;  
     margin: 1px;  
@@ -207,7 +207,7 @@
     
     
     
-    <ul class="photo-list ">
+    <ol class="photo-list ">
         
              
              
@@ -233,7 +233,7 @@
                 <a href="https://srikanthperinkulam.com/2021/02/13/the-adyar-river-trail/images/signal-2021-02-13-133413_001-scaled.jpeg"><img src="./images/signal-2021-02-13-133413_001-scaled.jpeg" alt="signal-2021-02-13-133413_001-scaled.jpeg" /><a>
             </li>
         
-    </ul>
+    </ol>
 </div>
 
 <style>
@@ -244,7 +244,7 @@
 }
 
 .photo-list > li {
-    height: 40vh;  
+    height: 22vh;  
     flex-grow: 1;  
     list-style-type: none;  
     margin: 1px;  
@@ -285,7 +285,7 @@
     
     
     
-    &lt;ul class=&#34;photo-list single-image&#34;&gt;
+    &lt;ol class=&#34;photo-list single-image&#34;&gt;
         
              
              
@@ -293,7 +293,7 @@
                 &lt;a href=&#34;https://srikanthperinkulam.com/2021/02/09/i-see-you/images/27.jpg&#34;&gt;&lt;img src=&#34;./images/27.jpg&#34; alt=&#34;27.jpg&#34; /&gt;&lt;a&gt;
             &lt;/li&gt;
         
-    &lt;/ul&gt;
+    &lt;/ol&gt;
 &lt;/div&gt;
 
 &lt;style&gt;
@@ -304,7 +304,7 @@
 }
 
 .photo-list &gt; li {
-    height: 40vh;  
+    height: 22vh;  
     flex-grow: 1;  
     list-style-type: none;  
     margin: 1px;  
@@ -338,7 +338,7 @@
     
     
     
-    <ul class="photo-list single-image">
+    <ol class="photo-list single-image">
         
              
              
@@ -346,7 +346,7 @@
                 <a href="https://srikanthperinkulam.com/2021/02/09/i-see-you/images/27.jpg"><img src="./images/27.jpg" alt="27.jpg" /><a>
             </li>
         
-    </ul>
+    </ol>
 </div>
 
 <style>
@@ -357,7 +357,7 @@
 }
 
 .photo-list > li {
-    height: 40vh;  
+    height: 22vh;  
     flex-grow: 1;  
     list-style-type: none;  
     margin: 1px;  
@@ -404,7 +404,7 @@
     
     
     
-    &lt;ul class=&#34;photo-list &#34;&gt;
+    &lt;ol class=&#34;photo-list &#34;&gt;
         
              
              
@@ -418,7 +418,7 @@
                 &lt;a href=&#34;https://srikanthperinkulam.com/2021/01/01/covelong-riders/images/20210102_040253-scaled.jpg&#34;&gt;&lt;img src=&#34;./images/20210102_040253-scaled.jpg&#34; alt=&#34;20210102_040253-scaled.jpg&#34; /&gt;&lt;a&gt;
             &lt;/li&gt;
         
-    &lt;/ul&gt;
+    &lt;/ol&gt;
 &lt;/div&gt;
 
 &lt;style&gt;
@@ -429,7 +429,7 @@
 }
 
 .photo-list &gt; li {
-    height: 40vh;  
+    height: 22vh;  
     flex-grow: 1;  
     list-style-type: none;  
     margin: 1px;  
@@ -466,7 +466,7 @@
     
     
     
-    <ul class="photo-list ">
+    <ol class="photo-list ">
         
              
              
@@ -480,7 +480,7 @@
                 <a href="https://srikanthperinkulam.com/2021/01/01/covelong-riders/images/20210102_040253-scaled.jpg"><img src="./images/20210102_040253-scaled.jpg" alt="20210102_040253-scaled.jpg" /><a>
             </li>
         
-    </ul>
+    </ol>
 </div>
 
 <style>
@@ -491,7 +491,7 @@
 }
 
 .photo-list > li {
-    height: 40vh;  
+    height: 22vh;  
     flex-grow: 1;  
     list-style-type: none;  
     margin: 1px;  

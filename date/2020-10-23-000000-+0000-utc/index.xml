@@ -39,7 +39,7 @@
     
     
     
-    &lt;ul class=&#34;photo-list single-image&#34;&gt;
+    &lt;ol class=&#34;photo-list single-image&#34;&gt;
         
              
              
@@ -47,7 +47,7 @@
                 &lt;a href=&#34;https://srikanthperinkulam.com/2020/10/23/microsoft/images/21.jpeg&#34;&gt;&lt;img src=&#34;./images/21.jpeg&#34; alt=&#34;21.jpeg&#34; /&gt;&lt;a&gt;
             &lt;/li&gt;
         
-    &lt;/ul&gt;
+    &lt;/ol&gt;
 &lt;/div&gt;
 
 &lt;style&gt;
@@ -58,7 +58,7 @@
 }
 
 .photo-list &gt; li {
-    height: 40vh;  
+    height: 22vh;  
     flex-grow: 1;  
     list-style-type: none;  
     margin: 1px;  
@@ -92,7 +92,7 @@
     
     
     
-    <ul class="photo-list single-image">
+    <ol class="photo-list single-image">
         
              
              
@@ -100,7 +100,7 @@
                 <a href="https://srikanthperinkulam.com/2020/10/23/microsoft/images/21.jpeg"><img src="./images/21.jpeg" alt="21.jpeg" /><a>
             </li>
         
-    </ul>
+    </ol>
 </div>
 
 <style>
@@ -111,7 +111,7 @@
 }
 
 .photo-list > li {
-    height: 40vh;  
+    height: 22vh;  
     flex-grow: 1;  
     list-style-type: none;  
     margin: 1px;  

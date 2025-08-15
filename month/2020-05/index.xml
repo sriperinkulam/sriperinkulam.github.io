@@ -89,7 +89,7 @@
     
     
     
-    &lt;ul class=&#34;photo-list &#34;&gt;
+    &lt;ol class=&#34;photo-list &#34;&gt;
         
              
              
@@ -163,7 +163,7 @@
                 &lt;a href=&#34;https://srikanthperinkulam.com/2020/05/17/number-nine-trolley-trail-hike/images/20200517_124707-scaled.jpg&#34;&gt;&lt;img src=&#34;./images/20200517_124707-scaled.jpg&#34; alt=&#34;20200517_124707-scaled.jpg&#34; /&gt;&lt;a&gt;
             &lt;/li&gt;
         
-    &lt;/ul&gt;
+    &lt;/ol&gt;
 &lt;/div&gt;
 
 &lt;style&gt;
@@ -174,7 +174,7 @@
 }
 
 .photo-list &gt; li {
-    height: 40vh;  
+    height: 22vh;  
     flex-grow: 1;  
     list-style-type: none;  
     margin: 1px;  
@@ -208,7 +208,7 @@
     
     
     
-    <ul class="photo-list ">
+    <ol class="photo-list ">
         
              
              
@@ -282,7 +282,7 @@
                 <a href="https://srikanthperinkulam.com/2020/05/17/number-nine-trolley-trail-hike/images/20200517_124707-scaled.jpg"><img src="./images/20200517_124707-scaled.jpg" alt="20200517_124707-scaled.jpg" /><a>
             </li>
         
-    </ul>
+    </ol>
 </div>
 
 <style>
@@ -293,7 +293,7 @@
 }
 
 .photo-list > li {
-    height: 40vh;  
+    height: 22vh;  
     flex-grow: 1;  
     list-style-type: none;  
     margin: 1px;  

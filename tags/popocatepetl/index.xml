@@ -23,7 +23,7 @@
     
     
     
-    &lt;ul class=&#34;photo-list &#34;&gt;
+    &lt;ol class=&#34;photo-list &#34;&gt;
         
              
              
@@ -43,7 +43,7 @@
                 &lt;a href=&#34;https://srikanthperinkulam.com/2024/01/28/la-joya-izta-volcan-hike/images/Imagepipe_61.jpg&#34;&gt;&lt;img src=&#34;./images/Imagepipe_61.jpg&#34; alt=&#34;Imagepipe_61.jpg&#34; /&gt;&lt;a&gt;
             &lt;/li&gt;
         
-    &lt;/ul&gt;
+    &lt;/ol&gt;
 &lt;/div&gt;
 
 &lt;style&gt;
@@ -54,7 +54,7 @@
 }
 
 .photo-list &gt; li {
-    height: 40vh;  
+    height: 22vh;  
     flex-grow: 1;  
     list-style-type: none;  
     margin: 1px;  
@@ -88,7 +88,7 @@
     
     
     
-    <ul class="photo-list ">
+    <ol class="photo-list ">
         
              
              
@@ -108,7 +108,7 @@
                 <a href="https://srikanthperinkulam.com/2024/01/28/la-joya-izta-volcan-hike/images/Imagepipe_61.jpg"><img src="./images/Imagepipe_61.jpg" alt="Imagepipe_61.jpg" /><a>
             </li>
         
-    </ul>
+    </ol>
 </div>
 
 <style>
@@ -119,7 +119,7 @@
 }
 
 .photo-list > li {
-    height: 40vh;  
+    height: 22vh;  
     flex-grow: 1;  
     list-style-type: none;  
     margin: 1px;  

@@ -27,7 +27,7 @@
     
     
     
-    &lt;ul class=&#34;photo-list &#34;&gt;
+    &lt;ol class=&#34;photo-list &#34;&gt;
         
              
              
@@ -77,7 +77,7 @@
                 &lt;a href=&#34;https://srikanthperinkulam.com/2025/02/08/pico-de-%C3%A1guila-sur/images/Imagepipe_9.jpg&#34;&gt;&lt;img src=&#34;./images/Imagepipe_9.jpg&#34; alt=&#34;Imagepipe_9.jpg&#34; /&gt;&lt;a&gt;
             &lt;/li&gt;
         
-    &lt;/ul&gt;
+    &lt;/ol&gt;
 &lt;/div&gt;
 
 &lt;style&gt;
@@ -88,7 +88,7 @@
 }
 
 .photo-list &gt; li {
-    height: 40vh;  
+    height: 22vh;  
     flex-grow: 1;  
     list-style-type: none;  
     margin: 1px;  
@@ -124,7 +124,7 @@
     
     
     
-    <ul class="photo-list ">
+    <ol class="photo-list ">
         
              
              
@@ -174,7 +174,7 @@
                 <a href="https://srikanthperinkulam.com/2025/02/08/pico-de-%C3%A1guila-sur/images/Imagepipe_9.jpg"><img src="./images/Imagepipe_9.jpg" alt="Imagepipe_9.jpg" /><a>
             </li>
         
-    </ul>
+    </ol>
 </div>
 
 <style>
@@ -185,7 +185,7 @@
 }
 
 .photo-list > li {
-    height: 40vh;  
+    height: 22vh;  
     flex-grow: 1;  
     list-style-type: none;  
     margin: 1px;  
@@ -277,7 +277,7 @@
     
     
     
-    &lt;ul class=&#34;photo-list single-image&#34;&gt;
+    &lt;ol class=&#34;photo-list single-image&#34;&gt;
         
              
              
@@ -285,7 +285,7 @@
                 &lt;a href=&#34;https://srikanthperinkulam.com/2020/10/16/reisterstown-lake/images/20.jpeg&#34;&gt;&lt;img src=&#34;./images/20.jpeg&#34; alt=&#34;20.jpeg&#34; /&gt;&lt;a&gt;
             &lt;/li&gt;
         
-    &lt;/ul&gt;
+    &lt;/ol&gt;
 &lt;/div&gt;
 
 &lt;style&gt;
@@ -296,7 +296,7 @@
 }
 
 .photo-list &gt; li {
-    height: 40vh;  
+    height: 22vh;  
     flex-grow: 1;  
     list-style-type: none;  
     margin: 1px;  
@@ -330,7 +330,7 @@
     
     
     
-    <ul class="photo-list single-image">
+    <ol class="photo-list single-image">
         
              
              
@@ -338,7 +338,7 @@
                 <a href="https://srikanthperinkulam.com/2020/10/16/reisterstown-lake/images/20.jpeg"><img src="./images/20.jpeg" alt="20.jpeg" /><a>
             </li>
         
-    </ul>
+    </ol>
 </div>
 
 <style>
@@ -349,7 +349,7 @@
 }
 
 .photo-list > li {
-    height: 40vh;  
+    height: 22vh;  
     flex-grow: 1;  
     list-style-type: none;  
     margin: 1px;  
@@ -391,7 +391,7 @@
     
     
     
-    &lt;ul class=&#34;photo-list &#34;&gt;
+    &lt;ol class=&#34;photo-list &#34;&gt;
         
              
              
@@ -429,7 +429,7 @@
                 &lt;a href=&#34;https://srikanthperinkulam.com/2020/09/09/maryland-heights-hike/images/17.6.jpeg&#34;&gt;&lt;img src=&#34;./images/17.6.jpeg&#34; alt=&#34;17.6.jpeg&#34; /&gt;&lt;a&gt;
             &lt;/li&gt;
         
-    &lt;/ul&gt;
+    &lt;/ol&gt;
 &lt;/div&gt;
 
 &lt;style&gt;
@@ -440,7 +440,7 @@
 }
 
 .photo-list &gt; li {
-    height: 40vh;  
+    height: 22vh;  
     flex-grow: 1;  
     list-style-type: none;  
     margin: 1px;  
@@ -474,7 +474,7 @@
     
     
     
-    <ul class="photo-list ">
+    <ol class="photo-list ">
         
              
              
@@ -512,7 +512,7 @@
                 <a href="https://srikanthperinkulam.com/2020/09/09/maryland-heights-hike/images/17.6.jpeg"><img src="./images/17.6.jpeg" alt="17.6.jpeg" /><a>
             </li>
         
-    </ul>
+    </ol>
 </div>
 
 <style>
@@ -523,7 +523,7 @@
 }
 
 .photo-list > li {
-    height: 40vh;  
+    height: 22vh;  
     flex-grow: 1;  
     list-style-type: none;  
     margin: 1px;  
@@ -565,7 +565,7 @@
     
     
     
-    &lt;ul class=&#34;photo-list &#34;&gt;
+    &lt;ol class=&#34;photo-list &#34;&gt;
         
              
              
@@ -585,7 +585,7 @@
                 &lt;a href=&#34;https://srikanthperinkulam.com/2020/08/31/potomac-tales/images/14.jpeg&#34;&gt;&lt;img src=&#34;./images/14.jpeg&#34; alt=&#34;14.jpeg&#34; /&gt;&lt;a&gt;
             &lt;/li&gt;
         
-    &lt;/ul&gt;
+    &lt;/ol&gt;
 &lt;/div&gt;
 
 &lt;style&gt;
@@ -596,7 +596,7 @@
 }
 
 .photo-list &gt; li {
-    height: 40vh;  
+    height: 22vh;  
     flex-grow: 1;  
     list-style-type: none;  
     margin: 1px;  
@@ -630,7 +630,7 @@
     
     
     
-    <ul class="photo-list ">
+    <ol class="photo-list ">
         
              
              
@@ -650,7 +650,7 @@
                 <a href="https://srikanthperinkulam.com/2020/08/31/potomac-tales/images/14.jpeg"><img src="./images/14.jpeg" alt="14.jpeg" /><a>
             </li>
         
-    </ul>
+    </ol>
 </div>
 
 <style>
@@ -661,7 +661,7 @@
 }
 
 .photo-list > li {
-    height: 40vh;  
+    height: 22vh;  
     flex-grow: 1;  
     list-style-type: none;  
     margin: 1px;  
@@ -703,7 +703,7 @@
     
     
     
-    &lt;ul class=&#34;photo-list &#34;&gt;
+    &lt;ol class=&#34;photo-list &#34;&gt;
         
              
              
@@ -717,7 +717,7 @@
                 &lt;a href=&#34;https://srikanthperinkulam.com/2020/08/16/annapolis-rock-hike-at/images/11.2.jpeg&#34;&gt;&lt;img src=&#34;./images/11.2.jpeg&#34; alt=&#34;11.2.jpeg&#34; /&gt;&lt;a&gt;
             &lt;/li&gt;
         
-    &lt;/ul&gt;
+    &lt;/ol&gt;
 &lt;/div&gt;
 
 &lt;style&gt;
@@ -728,7 +728,7 @@
 }
 
 .photo-list &gt; li {
-    height: 40vh;  
+    height: 22vh;  
     flex-grow: 1;  
     list-style-type: none;  
     margin: 1px;  
@@ -762,7 +762,7 @@
     
     
     
-    <ul class="photo-list ">
+    <ol class="photo-list ">
         
              
              
@@ -776,7 +776,7 @@
                 <a href="https://srikanthperinkulam.com/2020/08/16/annapolis-rock-hike-at/images/11.2.jpeg"><img src="./images/11.2.jpeg" alt="11.2.jpeg" /><a>
             </li>
         
-    </ul>
+    </ol>
 </div>
 
 <style>
@@ -787,7 +787,7 @@
 }
 
 .photo-list > li {
-    height: 40vh;  
+    height: 22vh;  
     flex-grow: 1;  
     list-style-type: none;  
     margin: 1px;  
