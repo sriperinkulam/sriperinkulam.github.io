@@ -28,7 +28,7 @@
              
              
             &lt;li&gt;
-                &lt;a href=&#34;https://srikanthperinkulam.com/2020/09/24/bleppa/images/18.jpeg&#34;&gt;&lt;img src=&#34;./images/18.jpeg&#34; alt=&#34;18.jpeg&#34; /&gt;&lt;a&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2020/09/24/bleppa/images/18.jpeg&#34;&gt;&lt;img src=&#34;./images/18.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;18.jpeg&#34; /&gt;&lt;a&gt;
             &lt;/li&gt;
         
     &lt;/ol&gt;
@@ -81,7 +81,7 @@
              
              
             <li>
-                <a href="https://srikanthperinkulam.com/2020/09/24/bleppa/images/18.jpeg"><img src="./images/18.jpeg" alt="18.jpeg" /><a>
+                <a href="https://srikanthperinkulam.com/2020/09/24/bleppa/images/18.jpeg"><img src="./images/18.jpeg" loading="lazy" alt="18.jpeg" /><a>
             </li>
         
     </ol>

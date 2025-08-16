@@ -44,7 +44,7 @@
              
              
             &lt;li&gt;
-                &lt;a href=&#34;https://srikanthperinkulam.com/2020/10/23/microsoft/images/21.jpeg&#34;&gt;&lt;img src=&#34;./images/21.jpeg&#34; alt=&#34;21.jpeg&#34; /&gt;&lt;a&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2020/10/23/microsoft/images/21.jpeg&#34;&gt;&lt;img src=&#34;./images/21.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;21.jpeg&#34; /&gt;&lt;a&gt;
             &lt;/li&gt;
         
     &lt;/ol&gt;
@@ -97,7 +97,7 @@
              
              
             <li>
-                <a href="https://srikanthperinkulam.com/2020/10/23/microsoft/images/21.jpeg"><img src="./images/21.jpeg" alt="21.jpeg" /><a>
+                <a href="https://srikanthperinkulam.com/2020/10/23/microsoft/images/21.jpeg"><img src="./images/21.jpeg" loading="lazy" alt="21.jpeg" /><a>
             </li>
         
     </ol>

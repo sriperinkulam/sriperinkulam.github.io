@@ -28,7 +28,7 @@
              
              
             &lt;li&gt;
-                &lt;a href=&#34;https://srikanthperinkulam.com/2020/08/26/traefik/images/12%20Fix%20me%20to%20jpg.png&#34;&gt;&lt;img src=&#34;./images/12%20Fix%20me%20to%20jpg.png&#34; alt=&#34;12 Fix me to jpg.png&#34; /&gt;&lt;a&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2020/08/26/traefik/images/12%20Fix%20me%20to%20jpg.png&#34;&gt;&lt;img src=&#34;./images/12%20Fix%20me%20to%20jpg.png&#34; loading=&#34;lazy&#34; alt=&#34;12 Fix me to jpg.png&#34; /&gt;&lt;a&gt;
             &lt;/li&gt;
         
     &lt;/ol&gt;
@@ -81,7 +81,7 @@
              
              
             <li>
-                <a href="https://srikanthperinkulam.com/2020/08/26/traefik/images/12%20Fix%20me%20to%20jpg.png"><img src="./images/12%20Fix%20me%20to%20jpg.png" alt="12 Fix me to jpg.png" /><a>
+                <a href="https://srikanthperinkulam.com/2020/08/26/traefik/images/12%20Fix%20me%20to%20jpg.png"><img src="./images/12%20Fix%20me%20to%20jpg.png" loading="lazy" alt="12 Fix me to jpg.png" /><a>
             </li>
         
     </ol>

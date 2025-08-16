@@ -28,7 +28,7 @@
              
              
             &lt;li&gt;
-                &lt;a href=&#34;https://srikanthperinkulam.com/2020/07/22/sts-it-is/images/04.jpeg&#34;&gt;&lt;img src=&#34;./images/04.jpeg&#34; alt=&#34;04.jpeg&#34; /&gt;&lt;a&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2020/07/22/sts-it-is/images/04.jpeg&#34;&gt;&lt;img src=&#34;./images/04.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;04.jpeg&#34; /&gt;&lt;a&gt;
             &lt;/li&gt;
         
     &lt;/ol&gt;
@@ -81,7 +81,7 @@
              
              
             <li>
-                <a href="https://srikanthperinkulam.com/2020/07/22/sts-it-is/images/04.jpeg"><img src="./images/04.jpeg" alt="04.jpeg" /><a>
+                <a href="https://srikanthperinkulam.com/2020/07/22/sts-it-is/images/04.jpeg"><img src="./images/04.jpeg" loading="lazy" alt="04.jpeg" /><a>
             </li>
         
     </ol>

@@ -28,7 +28,7 @@
              
              
             &lt;li&gt;
-                &lt;a href=&#34;https://srikanthperinkulam.com/2020/09/02/masked/images/16.png&#34;&gt;&lt;img src=&#34;./images/16.png&#34; alt=&#34;16.png&#34; /&gt;&lt;a&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2020/09/02/masked/images/16.png&#34;&gt;&lt;img src=&#34;./images/16.png&#34; loading=&#34;lazy&#34; alt=&#34;16.png&#34; /&gt;&lt;a&gt;
             &lt;/li&gt;
         
     &lt;/ol&gt;
@@ -81,7 +81,7 @@
              
              
             <li>
-                <a href="https://srikanthperinkulam.com/2020/09/02/masked/images/16.png"><img src="./images/16.png" alt="16.png" /><a>
+                <a href="https://srikanthperinkulam.com/2020/09/02/masked/images/16.png"><img src="./images/16.png" loading="lazy" alt="16.png" /><a>
             </li>
         
     </ol>
