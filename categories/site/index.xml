@@ -10,7 +10,23 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 16 Aug 2025 05:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/categories/site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Aug 2025 10:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/categories/site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>16 Aug 2025 10:30</title>
+      <link>https://srikanthperinkulam.com/2025/08/16/coins-loaded/</link>
+      <pubDate>Sat, 16 Aug 2025 10:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/08/16/coins-loaded/</guid>
+      <description>&lt;p&gt;On a roll today! Also digitized our &lt;a href=&#34;https://srikanthperinkulam.com/coin&#34;&gt;coin collection&lt;/a&gt;. This was so much fun putting together!
+&lt;a href=&#34;https://srikanthperinkulam.com/2025/08/16/coins-loaded/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>On a roll today! Also digitized our <a href="/coin">coin collection</a>. This was so much fun putting together!
+<a href="https://srikanthperinkulam.com/2025/08/16/coins-loaded/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>16 Aug 2025 05:00</title>
       <link>https://srikanthperinkulam.com/2025/08/16/stamps-reloaded/</link>
@@ -117,20 +133,6 @@
       <content:encoded><![CDATA[<p><img loading="lazy" src="images/GPXmapping.png" alt=""  />
 </p>
 <p>Took me a bit but I finally got a decent handle on displaying the gpx summary on the gpx map. Still a bunch of tweaks to make this look better but super happy with how this is shaping. <a href="https://srikanthperinkulam.com/2025/01/24/mapping-gpx/" style="text-decoration: none !important;">🔗</a>
-</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>12 Dec 2024 21:25</title>
-      <link>https://srikanthperinkulam.com/2024/12/12/rewind/</link>
-      <pubDate>Thu, 12 Dec 2024 21:25:00 -0500</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2024/12/12/rewind/</guid>
-      <description>&lt;p&gt;Built a &lt;a href=&#34;https://srikanthperinkulam.com/rewind&#34;&gt;Rewind&lt;/a&gt; page to nudge me to read my older posts. Interesting to see how my thought processes and writing has shifted over the years. This might also serve as a tool to fix any issues that might have crept in when I migrated over to Hugo. While at it, I also tweaked the &lt;a href=&#34;https://srikanthperinkulam.com/archives&#34;&gt;archives&lt;/a&gt; page a bit to make it less dense.&lt;a href=&#34;https://srikanthperinkulam.com/2024/12/12/rewind/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
-&lt;/p&gt;
-</description>
-      <content:encoded><![CDATA[<p>Built a <a href="/rewind">Rewind</a> page to nudge me to read my older posts. Interesting to see how my thought processes and writing has shifted over the years. This might also serve as a tool to fix any issues that might have crept in when I migrated over to Hugo. While at it, I also tweaked the <a href="/archives">archives</a> page a bit to make it less dense.<a href="https://srikanthperinkulam.com/2024/12/12/rewind/" style="text-decoration: none !important;">🔗</a>
 </p>
 ]]></content:encoded>
     </item>
