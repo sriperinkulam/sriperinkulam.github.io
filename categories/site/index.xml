@@ -10,7 +10,21 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 16 Aug 2025 10:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/categories/site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Sep 2025 21:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/categories/site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>06 Sep 2025 21:30</title>
+      <link>https://srikanthperinkulam.com/2025/09/06/firefly/</link>
+      <pubDate>Sat, 06 Sep 2025 21:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/09/06/firefly/</guid>
+      <description>&lt;p&gt;I use the &lt;a href=&#34;https://github.com/dreautall/waterfly-iii&#34;&gt;Waterfly III&lt;/a&gt; app along with a selfhosted &lt;a href=&#34;https://www.firefly-iii.org/&#34;&gt;Firefly III&lt;/a&gt; install. Takes a few minutes to set it up but the flexibility it provides is amazing. Think of it as investment for long term rewards! &lt;a href=&#34;https://srikanthperinkulam.com/2025/09/06/firefly/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>I use the <a href="https://github.com/dreautall/waterfly-iii">Waterfly III</a> app along with a selfhosted <a href="https://www.firefly-iii.org/">Firefly III</a> install. Takes a few minutes to set it up but the flexibility it provides is amazing. Think of it as investment for long term rewards! <a href="https://srikanthperinkulam.com/2025/09/06/firefly/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>16 Aug 2025 10:30</title>
       <link>https://srikanthperinkulam.com/2025/08/16/coins-loaded/</link>
@@ -115,24 +129,6 @@
       <content:encoded><![CDATA[<p><img loading="lazy" src="images/comments.png" alt=""  />
 </p>
 <p>I bit the bullet and setup a rudimentary comment system for this site. For the last few months, I relied on <a href="https://github.com/isso-comments/isso/">ISSO</a>, but it kinda felt a bit too heavy. Finally scratched the itch and switched over to a basic form and some javascript to push comments over to my self-hosted ntfy server. For now, I&rsquo;ve left the moderation to manual mode - I have to copy over the comments manually from NTFY to a comments.json file. A GO script that usually publishes this site also builds the comments for each of the posts as needed  based on the posts&rsquo; permalink. Pretty friction-less and nifty! <a href="https://srikanthperinkulam.com/2025/02/05/implementing-static-comments/" style="text-decoration: none !important;">🔗</a>
-</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>24 Jan 2025 21:30</title>
-      <link>https://srikanthperinkulam.com/2025/01/24/mapping-gpx/</link>
-      <pubDate>Fri, 24 Jan 2025 21:30:00 -0500</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2025/01/24/mapping-gpx/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/GPXmapping.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Took me a bit but I finally got a decent handle on displaying the gpx summary on the gpx map. Still a bunch of tweaks to make this look better but super happy with how this is shaping. &lt;a href=&#34;https://srikanthperinkulam.com/2025/01/24/mapping-gpx/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
-&lt;/p&gt;
-</description>
-      <content:encoded><![CDATA[<p><img loading="lazy" src="images/GPXmapping.png" alt=""  />
-</p>
-<p>Took me a bit but I finally got a decent handle on displaying the gpx summary on the gpx map. Still a bunch of tweaks to make this look better but super happy with how this is shaping. <a href="https://srikanthperinkulam.com/2025/01/24/mapping-gpx/" style="text-decoration: none !important;">🔗</a>
 </p>
 ]]></content:encoded>
     </item>

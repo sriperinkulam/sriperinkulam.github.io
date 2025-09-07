@@ -10,7 +10,21 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Sep 2025 21:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Sep 2025 21:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>06 Sep 2025 21:30</title>
+      <link>https://srikanthperinkulam.com/2025/09/06/firefly/</link>
+      <pubDate>Sat, 06 Sep 2025 21:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/09/06/firefly/</guid>
+      <description>&lt;p&gt;I use the &lt;a href=&#34;https://github.com/dreautall/waterfly-iii&#34;&gt;Waterfly III&lt;/a&gt; app along with a selfhosted &lt;a href=&#34;https://www.firefly-iii.org/&#34;&gt;Firefly III&lt;/a&gt; install. Takes a few minutes to set it up but the flexibility it provides is amazing. Think of it as investment for long term rewards! &lt;a href=&#34;https://srikanthperinkulam.com/2025/09/06/firefly/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>I use the <a href="https://github.com/dreautall/waterfly-iii">Waterfly III</a> app along with a selfhosted <a href="https://www.firefly-iii.org/">Firefly III</a> install. Takes a few minutes to set it up but the flexibility it provides is amazing. Think of it as investment for long term rewards! <a href="https://srikanthperinkulam.com/2025/09/06/firefly/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>01 Sep 2025 21:30</title>
       <link>https://srikanthperinkulam.com/2025/09/01/august-endings/</link>
@@ -269,24 +283,6 @@
 </description>
       <content:encoded><![CDATA[<p>Tweaked the <a href="/map">maps</a> page to reflect posts that have a set location. Currently this is a super vanilla layout and I think I should cluster these by region. I do like how it&rsquo;s turned out though!</p>
 <p>While at it, I realised I missed downloading pictures from my old Flickr account to Nextcloud. Brought those in and nuked the Flickr account. <a href="https://srikanthperinkulam.com/2025/08/03/maps/" style="text-decoration: none !important;">🔗</a>
-</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>26 Jul 2025 21:30</title>
-      <link>https://srikanthperinkulam.com/2025/07/26/meshtastic/</link>
-      <pubDate>Sat, 26 Jul 2025 21:30:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2025/07/26/meshtastic/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/meshtastic.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Setup these three &lt;a href=&#34;https://meshtastic.org/&#34;&gt;meshtastic&lt;/a&gt; T1000-E radio&amp;rsquo;s today. Amazed at how tiny yet powerful these are. They seem to last for about three days with GPS and telemetry on. Until Meshtastic enables all the sensors I might probably box these up. In a pinch these can always be used for mesh&amp;rsquo;d comms if needed. &lt;a href=&#34;https://srikanthperinkulam.com/2025/07/26/meshtastic/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
-&lt;/p&gt;
-</description>
-      <content:encoded><![CDATA[<p><img loading="lazy" src="images/meshtastic.jpg" alt=""  />
-</p>
-<p>Setup these three <a href="https://meshtastic.org/">meshtastic</a> T1000-E radio&rsquo;s today. Amazed at how tiny yet powerful these are. They seem to last for about three days with GPS and telemetry on. Until Meshtastic enables all the sensors I might probably box these up. In a pinch these can always be used for mesh&rsquo;d comms if needed. <a href="https://srikanthperinkulam.com/2025/07/26/meshtastic/" style="text-decoration: none !important;">🔗</a>
 </p>
 ]]></content:encoded>
     </item>
