@@ -17,7 +17,9 @@
       <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://srikanthperinkulam.com/2019/10/12/weeknote-41-networks-and-carnatic-notes/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;State of the network:&lt;/strong&gt; With better access to the router and some re-wiring in the house, I got around rejigging my server setup. This will change once I get my Odroid shipped over. For now though, here&amp;rsquo;s my current setup:&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/pihole.png&#34; alt=&#34;&#34;  /&gt;
+
+&lt;strong&gt;State of the network:&lt;/strong&gt; With better access to the router and some re-wiring in the house, I got around rejigging my server setup. This will change once I get my Odroid shipped over. For now though, here&amp;rsquo;s my current setup:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;ol&gt;
@@ -52,7 +54,9 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <content:encoded><![CDATA[<p><strong>State of the network:</strong> With better access to the router and some re-wiring in the house, I got around rejigging my server setup. This will change once I get my Odroid shipped over. For now though, here&rsquo;s my current setup:</p>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/pihole.png" alt=""  />
+
+<strong>State of the network:</strong> With better access to the router and some re-wiring in the house, I got around rejigging my server setup. This will change once I get my Odroid shipped over. For now though, here&rsquo;s my current setup:</p>
 <ol>
 <li>
 <ol>
