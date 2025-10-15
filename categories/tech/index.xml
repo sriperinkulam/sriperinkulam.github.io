@@ -46,6 +46,20 @@
     </item>
     
     <item>
+      <title>13 Jan 2025 06:30</title>
+      <link>https://srikanthperinkulam.com/2025/01/13/blue-dell-alert/</link>
+      <pubDate>Mon, 13 Jan 2025 06:30:00 -0500</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/01/13/blue-dell-alert/</guid>
+      <description>&lt;p&gt;Around 0300 today, I was woken up rudely to a blaring sound. For a moment I assumed it was from the Seismic City alert system that CDMX has. Turned out, it was from the old blue dell laptop that I currently use to run NextcloudPi. For some reason, looks like it rebooted and went into a huge panic mode because it lost time sync. Yanked all the cables and shut it down. Something to figure out over the next few days when I have time. &lt;a href=&#34;https://srikanthperinkulam.com/2025/01/13/blue-dell-alert/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Around 0300 today, I was woken up rudely to a blaring sound. For a moment I assumed it was from the Seismic City alert system that CDMX has. Turned out, it was from the old blue dell laptop that I currently use to run NextcloudPi. For some reason, looks like it rebooted and went into a huge panic mode because it lost time sync. Yanked all the cables and shut it down. Something to figure out over the next few days when I have time. <a href="https://srikanthperinkulam.com/2025/01/13/blue-dell-alert/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
       <title>29 Nov 2024 22:41</title>
       <link>https://srikanthperinkulam.com/2024/11/29/2024-11-29/</link>
       <pubDate>Fri, 29 Nov 2024 22:41:00 -0500</pubDate>
@@ -122,40 +136,6 @@
 <p>For now, I installed the <strong>cpupower-gui</strong> tool and set the Governor to &lsquo;powersave&rsquo; mode. Does seem to have done the trick for now. I might have to open up the unit and see if it needs some deep cleaning with some compressed air. Sometime soon I guess!</p>
 <p><img loading="lazy" src="images/governor-1200x608.png" alt=""  />
 </p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>22 Feb 2022 00:00</title>
-      <link>https://srikanthperinkulam.com/2022/02/22/state-of-the-networks-feb-2022/</link>
-      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2022/02/22/state-of-the-networks-feb-2022/</guid>
-      <description>&lt;p&gt;&lt;em&gt;A bi-yearly rundown on the state of the home-servers I run and applications I host on the cloud.&lt;/em&gt; &lt;em&gt;Published while listening to: &lt;a href=&#34;https://invidious.snopyta.org/watch?v=zkvNnRjIhPE&#34;&gt;Mist of Capricorn ( Manavyalakincharadate ) | Agam&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/wireguard-2.drawio.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;A few major changes since the &lt;a href=&#34;https://srikanthperinkulam.com/2021/09/07/state-of-the-networks-sep-2021/&#34;&gt;last September update&lt;/a&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;During the Jan trip, I moved the Odroid XU4 and NCP over to MD. Thanks to WireGuard, I can still access these remotely super seamlessly!&lt;/li&gt;
-&lt;li&gt;Brought in the RPi4 NC to the same WireGuard network. Lesser maintenance!&lt;/li&gt;
-&lt;li&gt;Not quite using the Navidrome and Calibre-web setup as much. Definitely nice to have though.&lt;/li&gt;
-&lt;li&gt;Setup a couple &lt;a href=&#34;https://srikanthperinkulam.com/2022/02/20/bridged/&#34;&gt;Matrix Bridges&lt;/a&gt;. Ansible is pretty awesome! Need to front the &lt;a href=&#34;https://srikanthperinkulam.com/2022/01/25/snikket/&#34;&gt;Snikket instance&lt;/a&gt; I setup in Jan when I have the mind-space.&lt;/li&gt;
-&lt;li&gt;I think I&amp;rsquo;m liking Caddy better than Traefik!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Next few months, I&amp;rsquo;ll probably focus a bit more on SSH hardening, implement more robust Firewalls and automating the backups.&lt;/p&gt;
-</description>
-      <content:encoded><![CDATA[<p><em>A bi-yearly rundown on the state of the home-servers I run and applications I host on the cloud.</em> <em>Published while listening to: <a href="https://invidious.snopyta.org/watch?v=zkvNnRjIhPE">Mist of Capricorn ( Manavyalakincharadate ) | Agam</a></em></p>
-<p><img loading="lazy" src="images/wireguard-2.drawio.png" alt=""  />
-</p>
-<p>A few major changes since the <a href="https://srikanthperinkulam.com/2021/09/07/state-of-the-networks-sep-2021/">last September update</a>:</p>
-<ul>
-<li>During the Jan trip, I moved the Odroid XU4 and NCP over to MD. Thanks to WireGuard, I can still access these remotely super seamlessly!</li>
-<li>Brought in the RPi4 NC to the same WireGuard network. Lesser maintenance!</li>
-<li>Not quite using the Navidrome and Calibre-web setup as much. Definitely nice to have though.</li>
-<li>Setup a couple <a href="https://srikanthperinkulam.com/2022/02/20/bridged/">Matrix Bridges</a>. Ansible is pretty awesome! Need to front the <a href="https://srikanthperinkulam.com/2022/01/25/snikket/">Snikket instance</a> I setup in Jan when I have the mind-space.</li>
-<li>I think I&rsquo;m liking Caddy better than Traefik!</li>
-</ul>
-<p>Next few months, I&rsquo;ll probably focus a bit more on SSH hardening, implement more robust Firewalls and automating the backups.</p>
 ]]></content:encoded>
     </item>
     
