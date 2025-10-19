@@ -10,7 +10,23 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Oct 2025 14:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/categories/site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Oct 2025 10:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/categories/site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>19 Oct 2025 10:30</title>
+      <link>https://srikanthperinkulam.com/2025/10/19/about/</link>
+      <pubDate>Sun, 19 Oct 2025 10:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/10/19/about/</guid>
+      <description>&lt;p&gt;Finally got around adding an &lt;a href=&#34;https://srikanthperinkulam.com/about&#34;&gt;about&lt;/a&gt; page on this site. Can&amp;rsquo;t believe it took my twenty years for this! Maybe I&amp;rsquo;ve found myself!
+&lt;a href=&#34;https://srikanthperinkulam.com/2025/10/19/about/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Finally got around adding an <a href="https://srikanthperinkulam.com/about">about</a> page on this site. Can&rsquo;t believe it took my twenty years for this! Maybe I&rsquo;ve found myself!
+<a href="https://srikanthperinkulam.com/2025/10/19/about/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>05 Oct 2025 14:30</title>
       <link>https://srikanthperinkulam.com/2025/10/05/radicale/</link>
@@ -275,22 +291,6 @@
 </description>
       <content:encoded><![CDATA[<p>Tweaked the <a href="/map">maps</a> page to reflect posts that have a set location. Currently this is a super vanilla layout and I think I should cluster these by region. I do like how it&rsquo;s turned out though!</p>
 <p>While at it, I realised I missed downloading pictures from my old Flickr account to Nextcloud. Brought those in and nuked the Flickr account. <a href="https://srikanthperinkulam.com/2025/08/03/maps/" style="text-decoration: none !important;">🔗</a>
-</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>25 May 2025 21:30</title>
-      <link>https://srikanthperinkulam.com/2025/05/25/silo-migration/</link>
-      <pubDate>Sun, 25 May 2025 21:30:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2025/05/25/silo-migration/</guid>
-      <description>&lt;p&gt;I used &lt;a href=&#34;https://withknown.com/&#34;&gt;WithKnown&lt;/a&gt; for about a minute several years ago. Loved the interface and software but it never really stood the test of time. Yesterday, while searching for older posts related to Uganda, I realized, I never quite moved those posts over. Spent about an hour yesterday and migrated those over to this portal. While at it, I also migrated my old twitter posts over. And with that I think all content is now present on this portal. Since the feed settings are limited to 10 most recent posts, I&amp;rsquo;m pretty sure this shouldn&amp;rsquo;t spam the RSS feeds.
-&lt;a href=&#34;https://srikanthperinkulam.com/2025/05/25/silo-migration/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
-&lt;/p&gt;
-</description>
-      <content:encoded><![CDATA[<p>I used <a href="https://withknown.com/">WithKnown</a> for about a minute several years ago. Loved the interface and software but it never really stood the test of time. Yesterday, while searching for older posts related to Uganda, I realized, I never quite moved those posts over. Spent about an hour yesterday and migrated those over to this portal. While at it, I also migrated my old twitter posts over. And with that I think all content is now present on this portal. Since the feed settings are limited to 10 most recent posts, I&rsquo;m pretty sure this shouldn&rsquo;t spam the RSS feeds.
-<a href="https://srikanthperinkulam.com/2025/05/25/silo-migration/" style="text-decoration: none !important;">🔗</a>
 </p>
 ]]></content:encoded>
     </item>

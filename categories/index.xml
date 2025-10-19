@@ -10,11 +10,21 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Oct 2025 17:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Oct 2025 10:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>14 Oct 2025 17:30</title>
+      <title>19 Oct 2025 10:30</title>
+      <link>https://srikanthperinkulam.com/categories/site/index.xml</link>
+      <pubDate>Sun, 19 Oct 2025 10:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/categories/site/index.xml</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>19 Oct 2025 10:30</title>
       <link>https://srikanthperinkulam.com/categories/status/index.xml</link>
-      <pubDate>Tue, 14 Oct 2025 17:30:00 +0000</pubDate>
+      <pubDate>Sun, 19 Oct 2025 10:30:00 +0000</pubDate>
       
       <guid>https://srikanthperinkulam.com/categories/status/index.xml</guid>
       <description></description>
@@ -27,16 +37,6 @@
       <pubDate>Mon, 13 Oct 2025 10:30:00 +0000</pubDate>
       
       <guid>https://srikanthperinkulam.com/categories/tech/index.xml</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>05 Oct 2025 14:30</title>
-      <link>https://srikanthperinkulam.com/categories/site/index.xml</link>
-      <pubDate>Sun, 05 Oct 2025 14:30:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/categories/site/index.xml</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
