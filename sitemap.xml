@@ -29,10 +29,13 @@
     <loc>https://srikanthperinkulam.com/categories/site/</loc>
     <lastmod>2025-10-26T07:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://srikanthperinkulam.com/categories/sotn/</loc>
+    <loc>https://srikanthperinkulam.com/tags/sotn/</loc>
     <lastmod>2025-10-26T07:30:00+00:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/tags/</loc>
+    <lastmod>2025-10-26T07:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://srikanthperinkulam.com/categories/tech/</loc>
     <lastmod>2025-10-26T07:30:00+00:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/date/2025-10-25-103000-&#43;0000-utc/</loc>
@@ -126,9 +129,6 @@
     <lastmod>2025-10-13T10:30:00+00:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/2025/10/13/scanner/</loc>
-    <lastmod>2025-10-13T10:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://srikanthperinkulam.com/categories/tech/</loc>
     <lastmod>2025-10-13T10:30:00+00:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/date/2025-10-11-000010-&#43;0000-utc/</loc>
@@ -2286,9 +2286,6 @@
     <lastmod>2022-02-22T17:28:49+00:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/date/2022-02-22-000000-&#43;0000-utc/</loc>
-    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://srikanthperinkulam.com/tags/sotn/</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/2022/02/22/state-of-the-networks-feb-2022/</loc>
