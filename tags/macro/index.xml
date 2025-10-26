@@ -10,7 +10,23 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Oct 2025 21:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/macro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Oct 2025 07:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/macro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>26 Oct 2025 07:30</title>
+      <link>https://srikanthperinkulam.com/2025/10/26/caddy-not-caddying/</link>
+      <pubDate>Sun, 26 Oct 2025 07:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/10/26/caddy-not-caddying/</guid>
+      <description>&lt;p&gt;Earlier this week in Malabo, I discovered that none of my self-hosted services were working. Initially, I thought it was due to my home internet connection. However, upon returning last night, I realized that wasn’t the case at all. My tiny reverse proxy, Caddy, had encountered an issue during an automated security upgrade.&lt;/p&gt;
+&lt;p&gt;Over the past few years, I’ve adopted a hands-off approach to self-hosting, setting up auto-updates for all my services. I only intervene when something breaks. Today, I decided to give my setup a little TLC, upgrading my passthrough VPS and Odroid XU4 to Bookworm. Remarkably, the process took less than 30 minutes! Thanks to Docker and Tailscale, everything connects seamlessly and just works. Love it! &lt;a href=&#34;https://srikanthperinkulam.com/2025/10/26/caddy-not-caddying/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Earlier this week in Malabo, I discovered that none of my self-hosted services were working. Initially, I thought it was due to my home internet connection. However, upon returning last night, I realized that wasn’t the case at all. My tiny reverse proxy, Caddy, had encountered an issue during an automated security upgrade.</p>
+<p>Over the past few years, I’ve adopted a hands-off approach to self-hosting, setting up auto-updates for all my services. I only intervene when something breaks. Today, I decided to give my setup a little TLC, upgrading my passthrough VPS and Odroid XU4 to Bookworm. Remarkably, the process took less than 30 minutes! Thanks to Docker and Tailscale, everything connects seamlessly and just works. Love it! <a href="https://srikanthperinkulam.com/2025/10/26/caddy-not-caddying/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>24 Oct 2025 21:30</title>
       <link>https://srikanthperinkulam.com/2025/10/24/missing/</link>
@@ -19,14 +35,14 @@
       <guid>https://srikanthperinkulam.com/2025/10/24/missing/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s friday night and Magno has their regular DJ blasting music downstairs by the restaurant. My room is right above the restaurant and there&amp;rsquo;s zero sound proofing. I plug my earphones in and turn on the noise cancellation. Works just as it is supposed to.
 It&amp;rsquo;s been a long few days. I&amp;rsquo;ll maybe listen to a podcast and fall asleep. Maybe read some?&lt;/p&gt;
-&lt;p&gt;Sifting through my blogroll I land on &lt;a href=&#34;https://greaterkashmir.com/article/every-mother-visits-but-mine/406927&#34;&gt;Every mother visits but mine&lt;/a&gt; via &lt;a href=&#34;https://azan-n.com/library/&#34;&gt;Azan&lt;/a&gt;. &lt;a href=&#34;https://pineappleexpressmusic.bandcamp.com/track/find-you&#34;&gt;Finding you&lt;/a&gt; starts playing from my playlist. And from nowhere all memories of amma flash in my mind. Tears well up my eyes. I hold them back and pause the music. Doesn&amp;rsquo;t really help though. The post and the music maybe triggered those emotions? Or was it me thinking about her earlier this week during Diwali? Memories flash forward and backward like an old photo reel. I read somewhere memories are fickle. Each time you recollect something, it&amp;rsquo;s a variant of the actual. Your mind alters the recall very so finely that over time, your recall and what actually happened are way different.&lt;/p&gt;
+&lt;p&gt;Sifting through my blogroll I land on &lt;a href=&#34;https://bag.srkn.org/share/68fe2d14911b63.94312147&#34;&gt;Every mother visits but mine&lt;/a&gt; via &lt;a href=&#34;https://azan-n.com/library/&#34;&gt;Azan&lt;/a&gt;. &lt;a href=&#34;https://pineappleexpressmusic.bandcamp.com/track/find-you&#34;&gt;Finding you&lt;/a&gt; starts playing from my playlist. And from nowhere all memories of amma flash in my mind. Tears well up my eyes. I hold them back and pause the music. Doesn&amp;rsquo;t really help though. The post and the music maybe triggered those emotions? Or was it me thinking about her earlier this week during Diwali? Memories flash forward and backward like an old photo reel. I read somewhere memories are fickle. Each time you recollect something, it&amp;rsquo;s a variant of the actual. Your mind alters the recall very so finely that over time, your recall and what actually happened are way different.&lt;/p&gt;
 &lt;p&gt;I don&amp;rsquo;t want that to happen. Memories are all I have of her.  And I don&amp;rsquo;t think I have any pictures of just her and me. I want to remember things the way they were at that moment. This is probably why I write about these fleeting moments?&lt;/p&gt;
 &lt;p&gt;When your close ones pass away, you don&amp;rsquo;t really miss them that very moment. You miss them at random moments and it whacks you real hard every single time. You&amp;rsquo;d think over time it&amp;rsquo;ll pass. But it fucking never does. &lt;a href=&#34;https://srikanthperinkulam.com/2025/10/24/missing/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
 &lt;/p&gt;
 </description>
       <content:encoded><![CDATA[<p>It&rsquo;s friday night and Magno has their regular DJ blasting music downstairs by the restaurant. My room is right above the restaurant and there&rsquo;s zero sound proofing. I plug my earphones in and turn on the noise cancellation. Works just as it is supposed to.
 It&rsquo;s been a long few days. I&rsquo;ll maybe listen to a podcast and fall asleep. Maybe read some?</p>
-<p>Sifting through my blogroll I land on <a href="https://greaterkashmir.com/article/every-mother-visits-but-mine/406927">Every mother visits but mine</a> via <a href="https://azan-n.com/library/">Azan</a>. <a href="https://pineappleexpressmusic.bandcamp.com/track/find-you">Finding you</a> starts playing from my playlist. And from nowhere all memories of amma flash in my mind. Tears well up my eyes. I hold them back and pause the music. Doesn&rsquo;t really help though. The post and the music maybe triggered those emotions? Or was it me thinking about her earlier this week during Diwali? Memories flash forward and backward like an old photo reel. I read somewhere memories are fickle. Each time you recollect something, it&rsquo;s a variant of the actual. Your mind alters the recall very so finely that over time, your recall and what actually happened are way different.</p>
+<p>Sifting through my blogroll I land on <a href="https://bag.srkn.org/share/68fe2d14911b63.94312147">Every mother visits but mine</a> via <a href="https://azan-n.com/library/">Azan</a>. <a href="https://pineappleexpressmusic.bandcamp.com/track/find-you">Finding you</a> starts playing from my playlist. And from nowhere all memories of amma flash in my mind. Tears well up my eyes. I hold them back and pause the music. Doesn&rsquo;t really help though. The post and the music maybe triggered those emotions? Or was it me thinking about her earlier this week during Diwali? Memories flash forward and backward like an old photo reel. I read somewhere memories are fickle. Each time you recollect something, it&rsquo;s a variant of the actual. Your mind alters the recall very so finely that over time, your recall and what actually happened are way different.</p>
 <p>I don&rsquo;t want that to happen. Memories are all I have of her.  And I don&rsquo;t think I have any pictures of just her and me. I want to remember things the way they were at that moment. This is probably why I write about these fleeting moments?</p>
 <p>When your close ones pass away, you don&rsquo;t really miss them that very moment. You miss them at random moments and it whacks you real hard every single time. You&rsquo;d think over time it&rsquo;ll pass. But it fucking never does. <a href="https://srikanthperinkulam.com/2025/10/24/missing/" style="text-decoration: none !important;">🔗</a>
 </p>
@@ -313,208 +329,6 @@ It&rsquo;s been a long few days. I&rsquo;ll maybe listen to a podcast and fall a
 <p>With that bullet thwarted, I think we&rsquo;d be remiss if we didn&rsquo;t take some actionable steps. Need to get those baseline health checks in place. We&rsquo;re going to stall anybody from visiting us until they have a Medevac insurance sorted out. I need to plan for more liquidity in my emergency funds given how cash-dependent this country is.</p>
 <p>This has probably been the most stressful thing that&rsquo;s happened to me in a while. Even when Amma was sick, I think I knew what to expect. We were sort of in a Catch22 situation here. The medical facilities weren&rsquo;t quite kitted to handle cardiac issues and we had to stabilise her before we could even consider medevacing her for further care. Thankfully we had doctors in the family who were able to provide remote assistance and guided us with questions to ask. But for those vital family and friend connections, this could have ended up way differently&hellip;So many things to be grateful for!</p>
 <a href="https://srikanthperinkulam.com/2025/07/04/stented/" style="text-decoration: none !important;">🔗</a>
-
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>08 Feb 2025 20:30</title>
-      <link>https://srikanthperinkulam.com/2025/02/08/pico-de-%C3%A1guila-sur/</link>
-      <pubDate>Sat, 08 Feb 2025 20:30:00 -0500</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2025/02/08/pico-de-%C3%A1guila-sur/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Imagepipe_7.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;I wanted to get some miles and alts in before we head to Orizaba next weekend. Decided on climbing Pico de Aguila since it&amp;rsquo;s just an hour from home. Hit the road around 0700 towards Ajusco. Since we didn&amp;rsquo;t quite have a working toll pass, Google maps took us through some inner roads. Boy, what a ride it was! Had we not had a local bus meandering ahead of us, I&amp;rsquo;m pretty sure, I would have chosen a different route. Having &lt;em&gt;tope&amp;rsquo;s&lt;/em&gt; on a 80 gradient uphill didn&amp;rsquo;t help either. Just thankful we made it safely to the trailhead around 0830.&lt;/p&gt;
-&lt;p&gt;The moment we got there, I realised this was a different spot from when I&amp;rsquo;d done this &lt;a href=&#34;https://srikanthperinkulam.com/2024/04/14/pico-de-%C3%A1guila/&#34;&gt;hike with Mauricio&lt;/a&gt; earlier in 2024. We hit the trail soon and as expected we were huffing just a few minutes in. The trail, though well marked, was also misleading in quite a few spots. So glad I had the offline maps pulled up in AllTrails. At around 1017 we summited the peak @12,496 ft. The sky was super clear and we could get some real neat views of Iztachiuatl and Popocatepetl. Also maybe Malinche in the distance? We decide to turn around and take the same route back. After a bunch of wrong turns, we get back to the trailhead around 1200. Grab a quick bite by the quaint restaurant and make our way back to base by 1430. Great short hike with some rewarding views! &lt;a href=&#34;https://srikanthperinkulam.com/2025/02/08/pico-de-%C3%A1guila-sur/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
-&lt;/p&gt;
-&lt;div class=&#34;image-gallery&#34;&gt;
-    
-    
-    
-    
-    &lt;ol class=&#34;photo-list &#34;&gt;
-        
-             
-             
-            &lt;li&gt;
-                &lt;a href=&#34;https://srikanthperinkulam.com/2025/02/08/pico-de-%C3%A1guila-sur/images/Imagepipe_10.jpg&#34;&gt;&lt;img src=&#34;./images/Imagepipe_10.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Imagepipe_10.jpg&#34; /&gt;&lt;a&gt;
-            &lt;/li&gt;
-        
-             
-             
-            &lt;li&gt;
-                &lt;a href=&#34;https://srikanthperinkulam.com/2025/02/08/pico-de-%C3%A1guila-sur/images/Imagepipe_11.jpg&#34;&gt;&lt;img src=&#34;./images/Imagepipe_11.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Imagepipe_11.jpg&#34; /&gt;&lt;a&gt;
-            &lt;/li&gt;
-        
-             
-             
-            &lt;li&gt;
-                &lt;a href=&#34;https://srikanthperinkulam.com/2025/02/08/pico-de-%C3%A1guila-sur/images/Imagepipe_12.jpg&#34;&gt;&lt;img src=&#34;./images/Imagepipe_12.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Imagepipe_12.jpg&#34; /&gt;&lt;a&gt;
-            &lt;/li&gt;
-        
-             
-             
-            &lt;li&gt;
-                &lt;a href=&#34;https://srikanthperinkulam.com/2025/02/08/pico-de-%C3%A1guila-sur/images/Imagepipe_13.jpg&#34;&gt;&lt;img src=&#34;./images/Imagepipe_13.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Imagepipe_13.jpg&#34; /&gt;&lt;a&gt;
-            &lt;/li&gt;
-        
-             
-             
-            &lt;li&gt;
-                &lt;a href=&#34;https://srikanthperinkulam.com/2025/02/08/pico-de-%C3%A1guila-sur/images/Imagepipe_6.jpg&#34;&gt;&lt;img src=&#34;./images/Imagepipe_6.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Imagepipe_6.jpg&#34; /&gt;&lt;a&gt;
-            &lt;/li&gt;
-        
-             
-             
-            &lt;li&gt;
-                &lt;a href=&#34;https://srikanthperinkulam.com/2025/02/08/pico-de-%C3%A1guila-sur/images/Imagepipe_7.jpg&#34;&gt;&lt;img src=&#34;./images/Imagepipe_7.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Imagepipe_7.jpg&#34; /&gt;&lt;a&gt;
-            &lt;/li&gt;
-        
-             
-             
-            &lt;li&gt;
-                &lt;a href=&#34;https://srikanthperinkulam.com/2025/02/08/pico-de-%C3%A1guila-sur/images/Imagepipe_8.jpg&#34;&gt;&lt;img src=&#34;./images/Imagepipe_8.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Imagepipe_8.jpg&#34; /&gt;&lt;a&gt;
-            &lt;/li&gt;
-        
-             
-             
-            &lt;li&gt;
-                &lt;a href=&#34;https://srikanthperinkulam.com/2025/02/08/pico-de-%C3%A1guila-sur/images/Imagepipe_9.jpg&#34;&gt;&lt;img src=&#34;./images/Imagepipe_9.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Imagepipe_9.jpg&#34; /&gt;&lt;a&gt;
-            &lt;/li&gt;
-        
-    &lt;/ol&gt;
-&lt;/div&gt;
-
-&lt;style&gt;
-.photo-list {
-    display: flex;  
-    flex-wrap: wrap;  
-    margin: -1px;  
-}
-
-.photo-list &gt; li {
-    height: 22vh;  
-    flex-grow: 1;  
-    list-style-type: none;  
-    margin: 1px;  
-}
-
-.photo-list li img {
-    max-height: 100%;  
-    min-width: 100%;  
-    object-fit: cover;  
-    vertical-align: bottom;  
-    border: 2px solid gray;  
-}
-
-.photo-list li:last-child {
-    flex-grow: 10;  
-    border: none;  
-}
-
- 
-.photo-list.single-image &gt; li {
-    height: auto;  
-}
-&lt;/style&gt;
-
-</description>
-      <content:encoded><![CDATA[<p><img loading="lazy" src="images/Imagepipe_7.jpg" alt=""  />
-</p>
-<p>I wanted to get some miles and alts in before we head to Orizaba next weekend. Decided on climbing Pico de Aguila since it&rsquo;s just an hour from home. Hit the road around 0700 towards Ajusco. Since we didn&rsquo;t quite have a working toll pass, Google maps took us through some inner roads. Boy, what a ride it was! Had we not had a local bus meandering ahead of us, I&rsquo;m pretty sure, I would have chosen a different route. Having <em>tope&rsquo;s</em> on a 80 gradient uphill didn&rsquo;t help either. Just thankful we made it safely to the trailhead around 0830.</p>
-<p>The moment we got there, I realised this was a different spot from when I&rsquo;d done this <a href="https://srikanthperinkulam.com/2024/04/14/pico-de-%C3%A1guila/">hike with Mauricio</a> earlier in 2024. We hit the trail soon and as expected we were huffing just a few minutes in. The trail, though well marked, was also misleading in quite a few spots. So glad I had the offline maps pulled up in AllTrails. At around 1017 we summited the peak @12,496 ft. The sky was super clear and we could get some real neat views of Iztachiuatl and Popocatepetl. Also maybe Malinche in the distance? We decide to turn around and take the same route back. After a bunch of wrong turns, we get back to the trailhead around 1200. Grab a quick bite by the quaint restaurant and make our way back to base by 1430. Great short hike with some rewarding views! <a href="https://srikanthperinkulam.com/2025/02/08/pico-de-%C3%A1guila-sur/" style="text-decoration: none !important;">🔗</a>
-</p>
-<div class="image-gallery">
-    
-    
-    
-    
-    <ol class="photo-list ">
-        
-             
-             
-            <li>
-                <a href="https://srikanthperinkulam.com/2025/02/08/pico-de-%C3%A1guila-sur/images/Imagepipe_10.jpg"><img src="./images/Imagepipe_10.jpg" loading="lazy" alt="Imagepipe_10.jpg" /><a>
-            </li>
-        
-             
-             
-            <li>
-                <a href="https://srikanthperinkulam.com/2025/02/08/pico-de-%C3%A1guila-sur/images/Imagepipe_11.jpg"><img src="./images/Imagepipe_11.jpg" loading="lazy" alt="Imagepipe_11.jpg" /><a>
-            </li>
-        
-             
-             
-            <li>
-                <a href="https://srikanthperinkulam.com/2025/02/08/pico-de-%C3%A1guila-sur/images/Imagepipe_12.jpg"><img src="./images/Imagepipe_12.jpg" loading="lazy" alt="Imagepipe_12.jpg" /><a>
-            </li>
-        
-             
-             
-            <li>
-                <a href="https://srikanthperinkulam.com/2025/02/08/pico-de-%C3%A1guila-sur/images/Imagepipe_13.jpg"><img src="./images/Imagepipe_13.jpg" loading="lazy" alt="Imagepipe_13.jpg" /><a>
-            </li>
-        
-             
-             
-            <li>
-                <a href="https://srikanthperinkulam.com/2025/02/08/pico-de-%C3%A1guila-sur/images/Imagepipe_6.jpg"><img src="./images/Imagepipe_6.jpg" loading="lazy" alt="Imagepipe_6.jpg" /><a>
-            </li>
-        
-             
-             
-            <li>
-                <a href="https://srikanthperinkulam.com/2025/02/08/pico-de-%C3%A1guila-sur/images/Imagepipe_7.jpg"><img src="./images/Imagepipe_7.jpg" loading="lazy" alt="Imagepipe_7.jpg" /><a>
-            </li>
-        
-             
-             
-            <li>
-                <a href="https://srikanthperinkulam.com/2025/02/08/pico-de-%C3%A1guila-sur/images/Imagepipe_8.jpg"><img src="./images/Imagepipe_8.jpg" loading="lazy" alt="Imagepipe_8.jpg" /><a>
-            </li>
-        
-             
-             
-            <li>
-                <a href="https://srikanthperinkulam.com/2025/02/08/pico-de-%C3%A1guila-sur/images/Imagepipe_9.jpg"><img src="./images/Imagepipe_9.jpg" loading="lazy" alt="Imagepipe_9.jpg" /><a>
-            </li>
-        
-    </ol>
-</div>
-
-<style>
-.photo-list {
-    display: flex;  
-    flex-wrap: wrap;  
-    margin: -1px;  
-}
-
-.photo-list > li {
-    height: 22vh;  
-    flex-grow: 1;  
-    list-style-type: none;  
-    margin: 1px;  
-}
-
-.photo-list li img {
-    max-height: 100%;  
-    min-width: 100%;  
-    object-fit: cover;  
-    vertical-align: bottom;  
-    border: 2px solid gray;  
-}
-
-.photo-list li:last-child {
-    flex-grow: 10;  
-    border: none;  
-}
-
- 
-.photo-list.single-image > li {
-    height: auto;  
-}
-</style>
 
 ]]></content:encoded>
     </item>

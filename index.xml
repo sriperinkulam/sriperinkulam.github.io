@@ -12,6 +12,22 @@
     <language>en</language>
     <lastBuildDate>Wed, 31 Dec 2025 00:00:12 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Caddy, not Caddying</title>
+      <link>https://srikanthperinkulam.com/2025/10/26/caddy-not-caddying/</link>
+      <pubDate>Sun, 26 Oct 2025 07:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/10/26/caddy-not-caddying/</guid>
+      <description>&lt;p&gt;Earlier this week in Malabo, I discovered that none of my self-hosted services were working. Initially, I thought it was due to my home internet connection. However, upon returning last night, I realized that wasn’t the case at all. My tiny reverse proxy, Caddy, had encountered an issue during an automated security upgrade.&lt;/p&gt;
+&lt;p&gt;Over the past few years, I’ve adopted a hands-off approach to self-hosting, setting up auto-updates for all my services. I only intervene when something breaks. Today, I decided to give my setup a little TLC, upgrading my passthrough VPS and Odroid XU4 to Bookworm. Remarkably, the process took less than 30 minutes! Thanks to Docker and Tailscale, everything connects seamlessly and just works. Love it! &lt;a href=&#34;https://srikanthperinkulam.com/2025/10/26/caddy-not-caddying/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Earlier this week in Malabo, I discovered that none of my self-hosted services were working. Initially, I thought it was due to my home internet connection. However, upon returning last night, I realized that wasn’t the case at all. My tiny reverse proxy, Caddy, had encountered an issue during an automated security upgrade.</p>
+<p>Over the past few years, I’ve adopted a hands-off approach to self-hosting, setting up auto-updates for all my services. I only intervene when something breaks. Today, I decided to give my setup a little TLC, upgrading my passthrough VPS and Odroid XU4 to Bookworm. Remarkably, the process took less than 30 minutes! Thanks to Docker and Tailscale, everything connects seamlessly and just works. Love it! <a href="https://srikanthperinkulam.com/2025/10/26/caddy-not-caddying/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
       <title>Skipping seconds</title>
       <link>https://srikanthperinkulam.com/2025/10/25/skipping-seconds/</link>
       <pubDate>Sat, 25 Oct 2025 10:30:00 +0000</pubDate>
@@ -33,14 +49,14 @@
       <guid>https://srikanthperinkulam.com/2025/10/24/missing/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s friday night and Magno has their regular DJ blasting music downstairs by the restaurant. My room is right above the restaurant and there&amp;rsquo;s zero sound proofing. I plug my earphones in and turn on the noise cancellation. Works just as it is supposed to.
 It&amp;rsquo;s been a long few days. I&amp;rsquo;ll maybe listen to a podcast and fall asleep. Maybe read some?&lt;/p&gt;
-&lt;p&gt;Sifting through my blogroll I land on &lt;a href=&#34;https://greaterkashmir.com/article/every-mother-visits-but-mine/406927&#34;&gt;Every mother visits but mine&lt;/a&gt; via &lt;a href=&#34;https://azan-n.com/library/&#34;&gt;Azan&lt;/a&gt;. &lt;a href=&#34;https://pineappleexpressmusic.bandcamp.com/track/find-you&#34;&gt;Finding you&lt;/a&gt; starts playing from my playlist. And from nowhere all memories of amma flash in my mind. Tears well up my eyes. I hold them back and pause the music. Doesn&amp;rsquo;t really help though. The post and the music maybe triggered those emotions? Or was it me thinking about her earlier this week during Diwali? Memories flash forward and backward like an old photo reel. I read somewhere memories are fickle. Each time you recollect something, it&amp;rsquo;s a variant of the actual. Your mind alters the recall very so finely that over time, your recall and what actually happened are way different.&lt;/p&gt;
+&lt;p&gt;Sifting through my blogroll I land on &lt;a href=&#34;https://bag.srkn.org/share/68fe2d14911b63.94312147&#34;&gt;Every mother visits but mine&lt;/a&gt; via &lt;a href=&#34;https://azan-n.com/library/&#34;&gt;Azan&lt;/a&gt;. &lt;a href=&#34;https://pineappleexpressmusic.bandcamp.com/track/find-you&#34;&gt;Finding you&lt;/a&gt; starts playing from my playlist. And from nowhere all memories of amma flash in my mind. Tears well up my eyes. I hold them back and pause the music. Doesn&amp;rsquo;t really help though. The post and the music maybe triggered those emotions? Or was it me thinking about her earlier this week during Diwali? Memories flash forward and backward like an old photo reel. I read somewhere memories are fickle. Each time you recollect something, it&amp;rsquo;s a variant of the actual. Your mind alters the recall very so finely that over time, your recall and what actually happened are way different.&lt;/p&gt;
 &lt;p&gt;I don&amp;rsquo;t want that to happen. Memories are all I have of her.  And I don&amp;rsquo;t think I have any pictures of just her and me. I want to remember things the way they were at that moment. This is probably why I write about these fleeting moments?&lt;/p&gt;
 &lt;p&gt;When your close ones pass away, you don&amp;rsquo;t really miss them that very moment. You miss them at random moments and it whacks you real hard every single time. You&amp;rsquo;d think over time it&amp;rsquo;ll pass. But it fucking never does. &lt;a href=&#34;https://srikanthperinkulam.com/2025/10/24/missing/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
 &lt;/p&gt;
 </description>
       <content:encoded><![CDATA[<p>It&rsquo;s friday night and Magno has their regular DJ blasting music downstairs by the restaurant. My room is right above the restaurant and there&rsquo;s zero sound proofing. I plug my earphones in and turn on the noise cancellation. Works just as it is supposed to.
 It&rsquo;s been a long few days. I&rsquo;ll maybe listen to a podcast and fall asleep. Maybe read some?</p>
-<p>Sifting through my blogroll I land on <a href="https://greaterkashmir.com/article/every-mother-visits-but-mine/406927">Every mother visits but mine</a> via <a href="https://azan-n.com/library/">Azan</a>. <a href="https://pineappleexpressmusic.bandcamp.com/track/find-you">Finding you</a> starts playing from my playlist. And from nowhere all memories of amma flash in my mind. Tears well up my eyes. I hold them back and pause the music. Doesn&rsquo;t really help though. The post and the music maybe triggered those emotions? Or was it me thinking about her earlier this week during Diwali? Memories flash forward and backward like an old photo reel. I read somewhere memories are fickle. Each time you recollect something, it&rsquo;s a variant of the actual. Your mind alters the recall very so finely that over time, your recall and what actually happened are way different.</p>
+<p>Sifting through my blogroll I land on <a href="https://bag.srkn.org/share/68fe2d14911b63.94312147">Every mother visits but mine</a> via <a href="https://azan-n.com/library/">Azan</a>. <a href="https://pineappleexpressmusic.bandcamp.com/track/find-you">Finding you</a> starts playing from my playlist. And from nowhere all memories of amma flash in my mind. Tears well up my eyes. I hold them back and pause the music. Doesn&rsquo;t really help though. The post and the music maybe triggered those emotions? Or was it me thinking about her earlier this week during Diwali? Memories flash forward and backward like an old photo reel. I read somewhere memories are fickle. Each time you recollect something, it&rsquo;s a variant of the actual. Your mind alters the recall very so finely that over time, your recall and what actually happened are way different.</p>
 <p>I don&rsquo;t want that to happen. Memories are all I have of her.  And I don&rsquo;t think I have any pictures of just her and me. I want to remember things the way they were at that moment. This is probably why I write about these fleeting moments?</p>
 <p>When your close ones pass away, you don&rsquo;t really miss them that very moment. You miss them at random moments and it whacks you real hard every single time. You&rsquo;d think over time it&rsquo;ll pass. But it fucking never does. <a href="https://srikanthperinkulam.com/2025/10/24/missing/" style="text-decoration: none !important;">🔗</a>
 </p>
@@ -141,26 +157,6 @@ It&rsquo;s been a long few days. I&rsquo;ll maybe listen to a podcast and fall a
       <content:encoded><![CDATA[<p>For a day.</p>
 <p>Switched off my phone from airplane mode first thing this morning to check on the &lsquo;Shutdown&rsquo; status and as expected congress did fail to secure those 60 votes. Also received a couple emails mentioning my position was <em>non-excepted</em> and hence I was effectively furloughed.</p>
 <p>Received another email around 2200 stating my position is now considered <em>excepted</em> and I need to report back to work the next working day. Alrighty, we&rsquo;re back in business. <a href="https://srikanthperinkulam.com/2025/10/01/furloughed/" style="text-decoration: none !important;">🔗</a>
-</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Themocracy</title>
-      <link>https://srikanthperinkulam.com/2025/09/29/themocracy/</link>
-      <pubDate>Mon, 29 Sep 2025 16:30:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2025/09/29/themocracy/</guid>
-      <description>&lt;p&gt;And just like that three-quarters of 2025 is in the books!&lt;/p&gt;
-&lt;p&gt;Cameroon is gearing for its Presidential elections. They go to polls on October 12th and it&amp;rsquo;s almost given that Paul Biya, who&amp;rsquo;s been in power since 1982, will be elected as the next president. He&amp;rsquo;s rocking it at 92 years. Of the 30 million populace only about 8 million are eligible to vote (20 years and older). Historically, these elections have been mired with civil unrest&amp;rsquo;s and protests. The next few weeks will be interesting.&lt;/p&gt;
-&lt;p&gt;By tomorrow night, if the Congress fails to  reach an agreement, we&amp;rsquo;re potentially looking at a shutdown. Beyond ridiculous that we seem to be at this juncture so frequently and living on continuing resolutions. This time around possibility of furloughs and RIFs [Reduction in Force] are highly likely. And then there&amp;rsquo;s also the drama that comes with it&amp;hellip;.&lt;/p&gt;
-&lt;p&gt;M most likely received her LNA invite. Yay! Looks like a training in December is a serious possibility. But again it&amp;rsquo;s never a given until she gets there and completes it. Adds a wrench to our planned December R&amp;amp;R and then a bigger wrench to how we handle bidding. 2026 is going to be beyond interesting. Choices, options, decisions and happy problems. &lt;a href=&#34;https://srikanthperinkulam.com/2025/09/29/themocracy/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
-&lt;/p&gt;
-</description>
-      <content:encoded><![CDATA[<p>And just like that three-quarters of 2025 is in the books!</p>
-<p>Cameroon is gearing for its Presidential elections. They go to polls on October 12th and it&rsquo;s almost given that Paul Biya, who&rsquo;s been in power since 1982, will be elected as the next president. He&rsquo;s rocking it at 92 years. Of the 30 million populace only about 8 million are eligible to vote (20 years and older). Historically, these elections have been mired with civil unrest&rsquo;s and protests. The next few weeks will be interesting.</p>
-<p>By tomorrow night, if the Congress fails to  reach an agreement, we&rsquo;re potentially looking at a shutdown. Beyond ridiculous that we seem to be at this juncture so frequently and living on continuing resolutions. This time around possibility of furloughs and RIFs [Reduction in Force] are highly likely. And then there&rsquo;s also the drama that comes with it&hellip;.</p>
-<p>M most likely received her LNA invite. Yay! Looks like a training in December is a serious possibility. But again it&rsquo;s never a given until she gets there and completes it. Adds a wrench to our planned December R&amp;R and then a bigger wrench to how we handle bidding. 2026 is going to be beyond interesting. Choices, options, decisions and happy problems. <a href="https://srikanthperinkulam.com/2025/09/29/themocracy/" style="text-decoration: none !important;">🔗</a>
 </p>
 ]]></content:encoded>
     </item>
