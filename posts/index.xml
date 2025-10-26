@@ -10,7 +10,21 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Oct 2025 07:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Oct 2025 10:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>26 Oct 2025 10:30</title>
+      <link>https://srikanthperinkulam.com/2025/10/26/gadget-bridge/</link>
+      <pubDate>Sun, 26 Oct 2025 10:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/10/26/gadget-bridge/</guid>
+      <description>&lt;p&gt;This is fantastic, @hund@fosstodon.org ! Thanks for the nudge! I did try Gadgetbridge a few years ago. They didn&amp;rsquo;t quite support Garmin then. Gave it a spin just now and looks like they&amp;rsquo;ve come a long way! So far I&amp;rsquo;ve been exporting my garmin to my site but nothing like a full fledged app with all the bells and whistles. &lt;a href=&#34;https://srikanthperinkulam.com/2025/10/26/gadget-bridge/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>This is fantastic, @hund@fosstodon.org ! Thanks for the nudge! I did try Gadgetbridge a few years ago. They didn&rsquo;t quite support Garmin then. Gave it a spin just now and looks like they&rsquo;ve come a long way! So far I&rsquo;ve been exporting my garmin to my site but nothing like a full fledged app with all the bells and whistles. <a href="https://srikanthperinkulam.com/2025/10/26/gadget-bridge/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>26 Oct 2025 07:30</title>
       <link>https://srikanthperinkulam.com/2025/10/26/caddy-not-caddying/</link>
@@ -139,24 +153,6 @@ It&rsquo;s been a long few days. I&rsquo;ll maybe listen to a podcast and fall a
 <p>Have had barely any time to tinker with stuff this weekend. S&rsquo;s swim meet sucked most of Saturday and M was out almost all of Sunday for various things.</p>
 <p>Prepped the two SSDs that I bought earlier this week. Should RSYNC backup my data files from the now <a href="https://srikanthperinkulam.com/2024/11/29/2024-11-29/">almost 10 year old</a> hard drive before it goes kaput.</p>
 <p>Setup a <a href="https://radicale.org/v3.html">Radicale</a> instance in my homeserver and configured <a href="https://www.davx5.com/">DAVx5</a> on my phone to tidy up all my contacts and calendars. While at it, I also installed and setup the FOSS Calendar app as the primary calendar app on my phone. Super slick and tidy! Should have made this switch way before&hellip;<a href="https://srikanthperinkulam.com/2025/10/05/radicale/" style="text-decoration: none !important;">🔗</a>
-</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>01 Oct 2025 09:30</title>
-      <link>https://srikanthperinkulam.com/2025/10/01/furloughed/</link>
-      <pubDate>Wed, 01 Oct 2025 09:30:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2025/10/01/furloughed/</guid>
-      <description>&lt;p&gt;For a day.&lt;/p&gt;
-&lt;p&gt;Switched off my phone from airplane mode first thing this morning to check on the &amp;lsquo;Shutdown&amp;rsquo; status and as expected congress did fail to secure those 60 votes. Also received a couple emails mentioning my position was &lt;em&gt;non-excepted&lt;/em&gt; and hence I was effectively furloughed.&lt;/p&gt;
-&lt;p&gt;Received another email around 2200 stating my position is now considered &lt;em&gt;excepted&lt;/em&gt; and I need to report back to work the next working day. Alrighty, we&amp;rsquo;re back in business. &lt;a href=&#34;https://srikanthperinkulam.com/2025/10/01/furloughed/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
-&lt;/p&gt;
-</description>
-      <content:encoded><![CDATA[<p>For a day.</p>
-<p>Switched off my phone from airplane mode first thing this morning to check on the &lsquo;Shutdown&rsquo; status and as expected congress did fail to secure those 60 votes. Also received a couple emails mentioning my position was <em>non-excepted</em> and hence I was effectively furloughed.</p>
-<p>Received another email around 2200 stating my position is now considered <em>excepted</em> and I need to report back to work the next working day. Alrighty, we&rsquo;re back in business. <a href="https://srikanthperinkulam.com/2025/10/01/furloughed/" style="text-decoration: none !important;">🔗</a>
 </p>
 ]]></content:encoded>
     </item>
