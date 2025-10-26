@@ -10,7 +10,23 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Oct 2025 07:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Oct 2025 10:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>26 Oct 2025 10:30</title>
+      <link>https://srikanthperinkulam.com/2025/10/26/immich/</link>
+      <pubDate>Sun, 26 Oct 2025 10:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/10/26/immich/</guid>
+      <description>&lt;p&gt;Immich is pretty neat! It does hog /need a decent machine to run though. I briefly dabbled  installing it on an RPi3 a year ago and figured the juice wasn&amp;rsquo;t worth the squeeze for what I was looking at. I&amp;rsquo;m pretty content with having all my media on a Nextcloud server where rest of my files reside. This seven year old repurposed laptop on which NC runs In tandem with Tailscale and a digital frame, serves most of my needs for now.&lt;/p&gt;
+&lt;p&gt;Also love that subtle clink you have going on in the comment form! Pretty crafty! &lt;a href=&#34;https://srikanthperinkulam.com/2025/10/26/immich/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Immich is pretty neat! It does hog /need a decent machine to run though. I briefly dabbled  installing it on an RPi3 a year ago and figured the juice wasn&rsquo;t worth the squeeze for what I was looking at. I&rsquo;m pretty content with having all my media on a Nextcloud server where rest of my files reside. This seven year old repurposed laptop on which NC runs In tandem with Tailscale and a digital frame, serves most of my needs for now.</p>
+<p>Also love that subtle clink you have going on in the comment form! Pretty crafty! <a href="https://srikanthperinkulam.com/2025/10/26/immich/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>26 Oct 2025 07:30</title>
       <link>https://srikanthperinkulam.com/2025/10/26/caddy-not-caddying/</link>
@@ -112,22 +128,6 @@
       <content:encoded><![CDATA[<p><img loading="lazy" src="images/20240105_223326623482290447895837.jpg" alt=""  />
 </p>
 <p>Bought a desk organizer a few weeks ago to arrange all my micro systems. The NUC, RPi NCP, Odroid and routers all now sit neatly in one space. The sliding shelves are an added bonus and the open back and sides give a lot of space for air circulation and cable management.</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>22 Jul 2023 00:00</title>
-      <link>https://srikanthperinkulam.com/2023/07/22/cable-talk/</link>
-      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2023/07/22/cable-talk/</guid>
-      <description>&lt;p&gt;Over the last couple weeks, a colleague and I have been trying to clean up the cable mismanagement behind our racks. To work on the equipment you&amp;rsquo;re literally standing on about 1 feet of coiled cable mess. This issue has probably been there over the last several years and nobody has paid much attention to it. Likely because it does not affect the actual functioning of the equipment? And also, this is painstakingly unrewarding work.&lt;/p&gt;
-&lt;p&gt;Every single day we&amp;rsquo;ve been behind those racks, we keep thinking - why would someone leave so much of surplus cable and more importantly leave it so disorganized? I believe the reasons are multi-fold. Experience (or lack thereof), workmanship issues, time constraints, personnel turnovers and culmination of several unintentional judgement calls is what comes to mind. And then it also strikes me that I&amp;rsquo;m probably making a heavy judgement without having exposure to the situation my predecessors were dealing with? There was probably a solid reason why they had left so much slack in the cable. We will never know. Ultimately we&amp;rsquo;re here and we&amp;rsquo;re working on this ‘mess’. A few years down the lane my successors would probably think why the cables were so short and didn&amp;rsquo;t have much surplus. I guess you just take a call on what&amp;rsquo;s right at this moment and hope it works for the next few years…&lt;/p&gt;
-&lt;p&gt;In work environments where there&amp;rsquo;s heavy turnover - either because of the nature of the job or because of the team dynamics, how do you set the bar for quality workmanship?&lt;/p&gt;
-</description>
-      <content:encoded><![CDATA[<p>Over the last couple weeks, a colleague and I have been trying to clean up the cable mismanagement behind our racks. To work on the equipment you&rsquo;re literally standing on about 1 feet of coiled cable mess. This issue has probably been there over the last several years and nobody has paid much attention to it. Likely because it does not affect the actual functioning of the equipment? And also, this is painstakingly unrewarding work.</p>
-<p>Every single day we&rsquo;ve been behind those racks, we keep thinking - why would someone leave so much of surplus cable and more importantly leave it so disorganized? I believe the reasons are multi-fold. Experience (or lack thereof), workmanship issues, time constraints, personnel turnovers and culmination of several unintentional judgement calls is what comes to mind. And then it also strikes me that I&rsquo;m probably making a heavy judgement without having exposure to the situation my predecessors were dealing with? There was probably a solid reason why they had left so much slack in the cable. We will never know. Ultimately we&rsquo;re here and we&rsquo;re working on this ‘mess’. A few years down the lane my successors would probably think why the cables were so short and didn&rsquo;t have much surplus. I guess you just take a call on what&rsquo;s right at this moment and hope it works for the next few years…</p>
-<p>In work environments where there&rsquo;s heavy turnover - either because of the nature of the job or because of the team dynamics, how do you set the bar for quality workmanship?</p>
 ]]></content:encoded>
     </item>
     

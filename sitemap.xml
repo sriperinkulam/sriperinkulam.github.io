@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://srikanthperinkulam.com/daynote/</loc>
-    <lastmod>2025-12-31T00:00:12+00:00</lastmod>
+    <loc>https://srikanthperinkulam.com/posts/</loc>
+    <lastmod>2025-12-31T10:30:00+00:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/</loc>
+    <lastmod>2025-12-31T10:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://srikanthperinkulam.com/daynote/</loc>
     <lastmod>2025-12-31T00:00:12+00:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/date/2025-10-26-103000-&#43;0000-utc/</loc>
@@ -20,16 +23,19 @@
     <loc>https://srikanthperinkulam.com/2025/10/26/gadget-bridge/</loc>
     <lastmod>2025-10-26T10:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://srikanthperinkulam.com/tags/micro/</loc>
+    <loc>https://srikanthperinkulam.com/2025/10/26/immich/</loc>
     <lastmod>2025-10-26T10:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://srikanthperinkulam.com/posts/</loc>
+    <loc>https://srikanthperinkulam.com/tags/micro/</loc>
     <lastmod>2025-10-26T10:30:00+00:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/categories/site/</loc>
     <lastmod>2025-10-26T10:30:00+00:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/tags/</loc>
+    <lastmod>2025-10-26T10:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://srikanthperinkulam.com/categories/tech/</loc>
     <lastmod>2025-10-26T10:30:00+00:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/date/2025-10-26-073000-&#43;0000-utc/</loc>
@@ -42,9 +48,6 @@
     <lastmod>2025-10-26T07:30:00+00:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/tags/sotn/</loc>
-    <lastmod>2025-10-26T07:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://srikanthperinkulam.com/categories/tech/</loc>
     <lastmod>2025-10-26T07:30:00+00:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/date/2025-10-25-103000-&#43;0000-utc/</loc>
@@ -1301,10 +1304,10 @@
     <loc>https://srikanthperinkulam.com/year/</loc>
     <lastmod>2024-12-01T22:26:00-05:00</lastmod>
   </url><url>
-    <loc>https://srikanthperinkulam.com/2024/12/01/2024-12-01-003000/</loc>
+    <loc>https://srikanthperinkulam.com/date/2024-12-01-003000--0500--0500/</loc>
     <lastmod>2024-12-01T00:30:00-05:00</lastmod>
   </url><url>
-    <loc>https://srikanthperinkulam.com/date/2024-12-01-003000--0500--0500/</loc>
+    <loc>https://srikanthperinkulam.com/2024/12/01/fedi-syndication/</loc>
     <lastmod>2024-12-01T00:30:00-05:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/month/2024-11/</loc>
