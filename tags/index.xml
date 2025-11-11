@@ -10,13 +10,23 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Nov 2025 10:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Nov 2025 00:00:11 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>07 Nov 2025 10:30</title>
+      <title>11 Nov 2025 00:00</title>
       <link>https://srikanthperinkulam.com/tags/micro/index.xml</link>
-      <pubDate>Fri, 07 Nov 2025 10:30:00 +0000</pubDate>
+      <pubDate>Tue, 11 Nov 2025 00:00:11 +0000</pubDate>
       
       <guid>https://srikanthperinkulam.com/tags/micro/index.xml</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>02 Nov 2025 00:00</title>
+      <link>https://srikanthperinkulam.com/tags/pesos/index.xml</link>
+      <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/tags/pesos/index.xml</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
@@ -77,16 +87,6 @@
       <pubDate>Thu, 26 Jun 2025 20:30:00 +0000</pubDate>
       
       <guid>https://srikanthperinkulam.com/tags/fss/index.xml</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>26 Jun 2025 20:30</title>
-      <link>https://srikanthperinkulam.com/tags/sts/index.xml</link>
-      <pubDate>Thu, 26 Jun 2025 20:30:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/tags/sts/index.xml</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
