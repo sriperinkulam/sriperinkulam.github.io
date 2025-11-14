@@ -12,6 +12,24 @@
     <language>en</language>
     <lastBuildDate>Wed, 31 Dec 2025 10:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Campost</title>
+      <link>https://srikanthperinkulam.com/2025/11/14/campost/</link>
+      <pubDate>Fri, 14 Nov 2025 10:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/11/14/campost/</guid>
+      <description>&lt;p&gt;Stopped by the Campost office earlier this Monday and bought a good ton of stamps. Added them to my digital &lt;a href=&#34;https://srikanthperinkulam.com/stamp/#cameroon&#34;&gt;stamp collection&lt;/a&gt;. The Post office received a fresh coat of paint last month for the Presidential election. Staff were super welcoming and were super curious as to why we were purchasing that many stamps.&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s barely anybody I know that collects stamps still. Someday maybe I&amp;rsquo;ll mail these out to someone who&amp;rsquo;s genuinely interested.
+&lt;a href=&#34;https://srikanthperinkulam.com/2025/11/14/campost/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Stopped by the Campost office earlier this Monday and bought a good ton of stamps. Added them to my digital <a href="/stamp/#cameroon">stamp collection</a>. The Post office received a fresh coat of paint last month for the Presidential election. Staff were super welcoming and were super curious as to why we were purchasing that many stamps.</p>
+<p>There&rsquo;s barely anybody I know that collects stamps still. Someday maybe I&rsquo;ll mail these out to someone who&rsquo;s genuinely interested.
+<a href="https://srikanthperinkulam.com/2025/11/14/campost/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
       <title>shutdown</title>
       <link>https://srikanthperinkulam.com/2025/11/07/shutdown/</link>
       <pubDate>Fri, 07 Nov 2025 10:30:00 +0000</pubDate>
@@ -191,22 +209,6 @@ app before. Maybe i&rsquo;ll just port that over to the kindle one of these days
 </description>
       <content:encoded><![CDATA[<p>Immich is pretty neat! It does hog /need a decent machine to run though. I briefly dabbled  installing it on an RPi3 a year ago and figured the juice wasn&rsquo;t worth the squeeze for what I was looking at. I&rsquo;m pretty content with having all my media on a Nextcloud server where rest of my files reside. This seven year old repurposed laptop on which NC runs In tandem with Tailscale and a digital frame, serves most of my needs for now.</p>
 <p>Also love that subtle clink you have going on in the comment form! Pretty crafty! <a href="https://srikanthperinkulam.com/2025/10/26/immich/" style="text-decoration: none !important;">🔗</a>
-</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Caddy, not Caddying</title>
-      <link>https://srikanthperinkulam.com/2025/10/26/caddy-not-caddying/</link>
-      <pubDate>Sun, 26 Oct 2025 07:30:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2025/10/26/caddy-not-caddying/</guid>
-      <description>&lt;p&gt;Earlier this week in Malabo, I discovered that none of my self-hosted services were working. Initially, I thought it was due to my home internet connection. However, upon returning last night, I realized that wasn’t the case at all. My tiny reverse proxy, Caddy, had encountered an issue during an automated security upgrade.&lt;/p&gt;
-&lt;p&gt;Over the past few years, I’ve adopted a hands-off approach to self-hosting, setting up auto-updates for all my services. I only intervene when something breaks. Today, I decided to give my setup a little TLC, upgrading my passthrough VPS and Odroid XU4 to Bookworm. Remarkably, the process took less than 30 minutes! Thanks to Docker and Tailscale, everything connects seamlessly and just works. Love it! &lt;a href=&#34;https://srikanthperinkulam.com/2025/10/26/caddy-not-caddying/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
-&lt;/p&gt;
-</description>
-      <content:encoded><![CDATA[<p>Earlier this week in Malabo, I discovered that none of my self-hosted services were working. Initially, I thought it was due to my home internet connection. However, upon returning last night, I realized that wasn’t the case at all. My tiny reverse proxy, Caddy, had encountered an issue during an automated security upgrade.</p>
-<p>Over the past few years, I’ve adopted a hands-off approach to self-hosting, setting up auto-updates for all my services. I only intervene when something breaks. Today, I decided to give my setup a little TLC, upgrading my passthrough VPS and Odroid XU4 to Bookworm. Remarkably, the process took less than 30 minutes! Thanks to Docker and Tailscale, everything connects seamlessly and just works. Love it! <a href="https://srikanthperinkulam.com/2025/10/26/caddy-not-caddying/" style="text-decoration: none !important;">🔗</a>
 </p>
 ]]></content:encoded>
     </item>
