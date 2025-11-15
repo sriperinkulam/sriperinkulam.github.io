@@ -26,3 +26,10 @@
 2025-08-31 20:45:43,676 [INFO   ] Userstats page https://connect.garmin.com/userstats-service/statistics/sriperinkulam
 2025-08-31 20:45:46,537 [INFO   ] Activity list URL https://connect.garmin.com/activitylist-service/activities/search/activities?start=0&limit=8
 2025-08-31 20:46:22,097 [INFO   ] CSV file written.
+2025-11-15 09:59:43,000 [INFO   ] Starting /media/peri/320GB/Garmin/garmin-connect-export/gcexport.py version 4.2.0, using Python version 3.11.2
+2025-11-15 09:59:43,001 [INFO   ] New logfile level: INFO
+2025-11-15 09:59:43,001 [WARNING] Output directory /home/peri/stacks/hugo/ssp/static/data/garmin/activities/gpx/ already exists. Will skip already-downloaded files and append to the CSV file.
+2025-11-15 09:59:49,598 [INFO   ] Profile page https://connect.garmin.com/userprofile-service/socialProfile
+2025-11-15 09:59:50,510 [INFO   ] Userstats page https://connect.garmin.com/userstats-service/statistics/sriperinkulam
+2025-11-15 09:59:53,321 [INFO   ] Activity list URL https://connect.garmin.com/activitylist-service/activities/search/activities?start=0&limit=8
+2025-11-15 10:00:20,282 [INFO   ] CSV file written.
