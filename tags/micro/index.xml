@@ -10,7 +10,23 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Nov 2025 00:00:11 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/micro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Nov 2025 10:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/micro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>23 Nov 2025 10:30</title>
+      <link>https://srikanthperinkulam.com/2025/11/23/notes/</link>
+      <pubDate>Sun, 23 Nov 2025 10:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/11/23/notes/</guid>
+      <description>&lt;p&gt;On the phone, I use Signal&amp;rsquo;s note-to-self to record on-the-go thoughts or to  quickly bookmark stuff. Later when on the laptop, I migrate these to my Trilium notes. After years of dabbling between multiple &amp;rsquo;notes&amp;rsquo; applications, this has stuck. Using the default messaging app as my notes &amp;lsquo;filter&amp;rsquo; definitely streamlined the process.
+&lt;a href=&#34;https://srikanthperinkulam.com/2025/11/23/notes/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>On the phone, I use Signal&rsquo;s note-to-self to record on-the-go thoughts or to  quickly bookmark stuff. Later when on the laptop, I migrate these to my Trilium notes. After years of dabbling between multiple &rsquo;notes&rsquo; applications, this has stuck. Using the default messaging app as my notes &lsquo;filter&rsquo; definitely streamlined the process.
+<a href="https://srikanthperinkulam.com/2025/11/23/notes/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>22 Nov 2025 10:30</title>
       <link>https://srikanthperinkulam.com/2025/11/22/mbankolo-unlocked/</link>
@@ -337,20 +353,6 @@
 </description>
       <content:encoded><![CDATA[<p>Immich is pretty neat! It does hog /need a decent machine to run though. I briefly dabbled  installing it on an RPi3 a year ago and figured the juice wasn&rsquo;t worth the squeeze for what I was looking at. I&rsquo;m pretty content with having all my media on a Nextcloud server where rest of my files reside. This seven year old repurposed laptop on which NC runs In tandem with Tailscale and a digital frame, serves most of my needs for now.</p>
 <p>Also love that subtle clink you have going on in the comment form! Pretty crafty! <a href="https://srikanthperinkulam.com/2025/10/26/immich/" style="text-decoration: none !important;">🔗</a>
-</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>25 Oct 2025 10:30</title>
-      <link>https://srikanthperinkulam.com/2025/10/25/skipping-seconds/</link>
-      <pubDate>Sat, 25 Oct 2025 10:30:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2025/10/25/skipping-seconds/</guid>
-      <description>&lt;p&gt;TIL certain watches &amp;lsquo;skip seconds&amp;rsquo; to conserve battery and to indicate that they are almost out of charge. Noticed this in my Fossil watch a few weeks ago and didn&amp;rsquo;t bother finding out why. Today, it went dead and only then did I connect the dots! Super neat! Skip a second, warn but still keep time. This is similar to a vehicle&amp;rsquo;s indicator light flashing quicker when the bulb&amp;rsquo;s blown. &lt;a href=&#34;https://srikanthperinkulam.com/2025/10/25/skipping-seconds/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
-&lt;/p&gt;
-</description>
-      <content:encoded><![CDATA[<p>TIL certain watches &lsquo;skip seconds&rsquo; to conserve battery and to indicate that they are almost out of charge. Noticed this in my Fossil watch a few weeks ago and didn&rsquo;t bother finding out why. Today, it went dead and only then did I connect the dots! Super neat! Skip a second, warn but still keep time. This is similar to a vehicle&rsquo;s indicator light flashing quicker when the bulb&rsquo;s blown. <a href="https://srikanthperinkulam.com/2025/10/25/skipping-seconds/" style="text-decoration: none !important;">🔗</a>
 </p>
 ]]></content:encoded>
     </item>
