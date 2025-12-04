@@ -10,7 +10,21 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Nov 2025 10:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/categories/site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Dec 2025 10:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/categories/site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>03 Dec 2025 10:30</title>
+      <link>https://srikanthperinkulam.com/2025/12/03/insurance/</link>
+      <pubDate>Wed, 03 Dec 2025 10:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/12/03/insurance/</guid>
+      <description>&lt;p&gt;My wife and I still haven&amp;rsquo;t figured where/when we want to retire yet, but sadly the U.S. seems to be a bleaker option with every passing day. I don&amp;rsquo;t think any country has really figured out their healthcare system well and those that had a decent stab at it seem to be hell bent on breaking it. For now, thankfully our Foreign service benefit plan does an okay job and we&amp;rsquo;re at an okay premium-benefit ratio. Only a question of time before that buckles though. As a former actuary, I do subscribe to the concept of having good insurance. However, the good ones are so few and stretched so thin. I keep telling my wife if we want to stay in the U.S. I should get back to teaching - Not just because I love it, but because it might also keep our premiums low in retirement. &lt;a href=&#34;https://srikanthperinkulam.com/2025/12/03/insurance/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>My wife and I still haven&rsquo;t figured where/when we want to retire yet, but sadly the U.S. seems to be a bleaker option with every passing day. I don&rsquo;t think any country has really figured out their healthcare system well and those that had a decent stab at it seem to be hell bent on breaking it. For now, thankfully our Foreign service benefit plan does an okay job and we&rsquo;re at an okay premium-benefit ratio. Only a question of time before that buckles though. As a former actuary, I do subscribe to the concept of having good insurance. However, the good ones are so few and stretched so thin. I keep telling my wife if we want to stay in the U.S. I should get back to teaching - Not just because I love it, but because it might also keep our premiums low in retirement. <a href="https://srikanthperinkulam.com/2025/12/03/insurance/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>23 Nov 2025 10:30</title>
       <link>https://srikanthperinkulam.com/2025/11/23/notes/</link>
@@ -119,22 +133,6 @@
 </description>
       <content:encoded><![CDATA[<p>Earlier this week in Malabo, I discovered that none of my self-hosted services were working. Initially, I thought it was due to my home internet connection. However, upon returning last night, I realized that wasn’t the case at all. My tiny reverse proxy, Caddy, had encountered an issue during an automated security upgrade.</p>
 <p>Over the past few years, I’ve adopted a hands-off approach to self-hosting, setting up auto-updates for all my services. I only intervene when something breaks. Today, I decided to give my setup a little TLC, upgrading my passthrough VPS and Odroid XU4 to Bookworm. Remarkably, the process took less than 30 minutes! Thanks to Docker and Tailscale, everything connects seamlessly and just works. Love it! <a href="https://srikanthperinkulam.com/2025/10/26/caddy-not-caddying/" style="text-decoration: none !important;">🔗</a>
-</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>19 Oct 2025 10:30</title>
-      <link>https://srikanthperinkulam.com/2025/10/19/about/</link>
-      <pubDate>Sun, 19 Oct 2025 10:30:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2025/10/19/about/</guid>
-      <description>&lt;p&gt;Finally got around adding an &lt;a href=&#34;https://srikanthperinkulam.com/about&#34;&gt;about&lt;/a&gt; page on this site. Can&amp;rsquo;t believe it took me twenty years for this! Maybe I&amp;rsquo;ve found myself!
-&lt;a href=&#34;https://srikanthperinkulam.com/2025/10/19/about/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
-&lt;/p&gt;
-</description>
-      <content:encoded><![CDATA[<p>Finally got around adding an <a href="https://srikanthperinkulam.com/about">about</a> page on this site. Can&rsquo;t believe it took me twenty years for this! Maybe I&rsquo;ve found myself!
-<a href="https://srikanthperinkulam.com/2025/10/19/about/" style="text-decoration: none !important;">🔗</a>
 </p>
 ]]></content:encoded>
     </item>
