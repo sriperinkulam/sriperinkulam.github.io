@@ -17,7 +17,9 @@
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://srikanthperinkulam.com/2019/02/26/bringing-the-cloud-home/</guid>
-      <description>&lt;p&gt;I finally got my Shoebox server setup working! I now have three Single board Computer [SBC] working in tandem behind my home router to accomplish what I&amp;rsquo;ve been wanting to do for quite sometime now - Setting up an easy-to-maintain, in-house server for all my data and web hosting needs. Fixing this all together has been a tremendous learning experience. I still need to weed out some pesky issues but I believe I have the bearing right now.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/20190226_143422.jpg&#34; alt=&#34;&#34;  /&gt;
+
+I finally got my Shoebox server setup working! I now have three Single board Computer [SBC] working in tandem behind my home router to accomplish what I&amp;rsquo;ve been wanting to do for quite sometime now - Setting up an easy-to-maintain, in-house server for all my data and web hosting needs. Fixing this all together has been a tremendous learning experience. I still need to weed out some pesky issues but I believe I have the bearing right now.&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s my current setup:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;https://ownyourbits.com/nextcloudpi/&#34;&gt;NexcloudPi&lt;/a&gt; installed on a &lt;a href=&#34;https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/&#34;&gt;Raspberry pi 3B+&lt;/a&gt; board&lt;/li&gt;
@@ -29,7 +31,9 @@
 &lt;p&gt;Both NextcloudPi and Yunohost have letsencrypt tools to setup and manage certificates for the domains/sub domains. While super useful, I realised to benefit from that feature, I had to rely on haproxy. With some &lt;a href=&#34;https://help.nextcloud.com/t/accessing-nextcloudpi-behind-haproxy/47489&#34;&gt;pointers from the Nextcloud forum&lt;/a&gt;, I decided to use another pi to front as the main server. Installed Diet-pi on it since it&amp;rsquo;s just something I really liked and configured haproxy on it to map to the corresponding server based on the hostname. While at it, I also added in a switch between the router and various servers.&lt;/p&gt;
 &lt;p&gt;I still need to work on making this more robust. One niggling issue is the speed is heavily compromised. I&amp;rsquo;m guessing it&amp;rsquo;s do with my haproxy config and I should be able to fix it pretty soon. Once I have this sorted out, I need to spend some time hardening the security of the server, further configure Yunohost, device my backup strategies and finally moving my websites over from Digital Ocean.&lt;/p&gt;
 </description>
-      <content:encoded><![CDATA[<p>I finally got my Shoebox server setup working! I now have three Single board Computer [SBC] working in tandem behind my home router to accomplish what I&rsquo;ve been wanting to do for quite sometime now - Setting up an easy-to-maintain, in-house server for all my data and web hosting needs. Fixing this all together has been a tremendous learning experience. I still need to weed out some pesky issues but I believe I have the bearing right now.</p>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/20190226_143422.jpg" alt=""  />
+
+I finally got my Shoebox server setup working! I now have three Single board Computer [SBC] working in tandem behind my home router to accomplish what I&rsquo;ve been wanting to do for quite sometime now - Setting up an easy-to-maintain, in-house server for all my data and web hosting needs. Fixing this all together has been a tremendous learning experience. I still need to weed out some pesky issues but I believe I have the bearing right now.</p>
 <p>Here&rsquo;s my current setup:</p>
 <ol>
 <li><a href="https://ownyourbits.com/nextcloudpi/">NexcloudPi</a> installed on a <a href="https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/">Raspberry pi 3B+</a> board</li>

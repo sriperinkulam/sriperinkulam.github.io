@@ -68,12 +68,12 @@
       
       <guid>https://srikanthperinkulam.com/2021/09/07/state-of-the-networks-sep-2021/</guid>
       <description>&lt;p&gt;Over the last few months, I was able to take some time to explore a few self-hostable options. I got to explore &lt;a href=&#34;https://srikanthperinkulam.com/2021/07/28/caddy-through-the-tunnel/&#34;&gt;caddy&lt;/a&gt; (Which is terrific by the way!), setup &lt;a href=&#34;https://srikanthperinkulam.com/2021/07/15/guacamole-clientless-remote-desktop-access/&#34;&gt;guacamole&lt;/a&gt; and I&amp;rsquo;m also absolutely loving &lt;a href=&#34;https://srikanthperinkulam.com/2021/07/28/july-27-2021-2105/&#34;&gt;Navidrome&lt;/a&gt;. I got rid of OSMC since we weren&amp;rsquo;t quite using it as much and setup pi-hole to block ads network wide. With these changes, I think I am able to put these devices to real good use. While at it, I also setup a WireGuard tunnel from a VPS to access my local devices securely outside my home network.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Screenshot-from-2021-09-07-13-25-42-600x296.png&#34; alt=&#34;&#34;  /&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Screenshot-from-2021-09-07-13-25-42.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Since my &lt;a href=&#34;https://srikanthperinkulam.com/2021/02/05/state-of-the-networks-feb-2021/&#34;&gt;February update&lt;/a&gt;, I haven&amp;rsquo;t changed the services on the cloud much. I did get rid of Bookstack, Known and Signal-CLI since I wasn&amp;rsquo;t using them as much. I am however using &lt;a href=&#34;https://srikanthperinkulam.com/?s=trilium&#34;&gt;Trilium notes&lt;/a&gt; exhaustively as my go-to notes and knowledge-base application.&lt;/p&gt;
 </description>
       <content:encoded><![CDATA[<p>Over the last few months, I was able to take some time to explore a few self-hostable options. I got to explore <a href="https://srikanthperinkulam.com/2021/07/28/caddy-through-the-tunnel/">caddy</a> (Which is terrific by the way!), setup <a href="https://srikanthperinkulam.com/2021/07/15/guacamole-clientless-remote-desktop-access/">guacamole</a> and I&rsquo;m also absolutely loving <a href="https://srikanthperinkulam.com/2021/07/28/july-27-2021-2105/">Navidrome</a>. I got rid of OSMC since we weren&rsquo;t quite using it as much and setup pi-hole to block ads network wide. With these changes, I think I am able to put these devices to real good use. While at it, I also setup a WireGuard tunnel from a VPS to access my local devices securely outside my home network.</p>
-<p><img loading="lazy" src="images/Screenshot-from-2021-09-07-13-25-42-600x296.png" alt=""  />
+<p><img loading="lazy" src="images/Screenshot-from-2021-09-07-13-25-42.png" alt=""  />
 </p>
 <p>Since my <a href="https://srikanthperinkulam.com/2021/02/05/state-of-the-networks-feb-2021/">February update</a>, I haven&rsquo;t changed the services on the cloud much. I did get rid of Bookstack, Known and Signal-CLI since I wasn&rsquo;t using them as much. I am however using <a href="https://srikanthperinkulam.com/?s=trilium">Trilium notes</a> exhaustively as my go-to notes and knowledge-base application.</p>
 ]]></content:encoded>
@@ -85,7 +85,9 @@
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://srikanthperinkulam.com/2021/02/05/state-of-the-networks-feb-2021/</guid>
-      <description>&lt;p&gt;&lt;em&gt;A quick rundown on the state of the home-servers I run or applications I host on the cloud.&lt;/em&gt; &lt;em&gt;Published while listening to: &lt;a href=&#34;https://invidious.snopyta.org/watch?v=RlcY37n5j9M&#34;&gt;Malang&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Homelab-SoTN-Feb-2021.png&#34; alt=&#34;&#34;  /&gt;
+
+&lt;em&gt;A quick rundown on the state of the home-servers I run or applications I host on the cloud.&lt;/em&gt; &lt;em&gt;Published while listening to: &lt;a href=&#34;https://invidious.snopyta.org/watch?v=RlcY37n5j9M&#34;&gt;Malang&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;With our temporary relocation, I currently manage two &amp;lsquo;home-labs&amp;rsquo; - one which I remotely manage with a WireGuard tunnel and the other just a local-access only setup. The remote home-lab is essentially a Nextcloud server running on a &lt;a href=&#34;https://dietpi.com/&#34;&gt;DietPi OS&lt;/a&gt; spun on an RPi4. I pulled down the HAProxy config on the fronting server since that was no longer required.&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Homelab-SoTN-Feb-2021-600x478.png&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
@@ -114,7 +116,9 @@
 &lt;/ul&gt;
 &lt;p&gt;Sometime down the lane I would like to setup a &lt;a href=&#34;https://snikket.org/&#34;&gt;Snikket instance&lt;/a&gt; for family chats.&lt;/p&gt;
 </description>
-      <content:encoded><![CDATA[<p><em>A quick rundown on the state of the home-servers I run or applications I host on the cloud.</em> <em>Published while listening to: <a href="https://invidious.snopyta.org/watch?v=RlcY37n5j9M">Malang</a></em></p>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/Homelab-SoTN-Feb-2021.png" alt=""  />
+
+<em>A quick rundown on the state of the home-servers I run or applications I host on the cloud.</em> <em>Published while listening to: <a href="https://invidious.snopyta.org/watch?v=RlcY37n5j9M">Malang</a></em></p>
 <p>With our temporary relocation, I currently manage two &lsquo;home-labs&rsquo; - one which I remotely manage with a WireGuard tunnel and the other just a local-access only setup. The remote home-lab is essentially a Nextcloud server running on a <a href="https://dietpi.com/">DietPi OS</a> spun on an RPi4. I pulled down the HAProxy config on the fronting server since that was no longer required.</p>
 <p><img loading="lazy" src="images/Homelab-SoTN-Feb-2021-600x478.png" alt=""  />
 </p>
@@ -153,7 +157,7 @@
       <guid>https://srikanthperinkulam.com/2020/06/18/state-of-the-networks-jun-2020/</guid>
       <description>&lt;p&gt;&lt;em&gt;A quick rundown on the state of the home-servers I run or applications I host on the cloud.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;My &amp;lsquo;Homelab&amp;rsquo; setup has not changed much since my &lt;a href=&#34;https://srikanthperinkulam.com/2020/02/04/state-of-the-networks-jan-2020/&#34;&gt;last update in January&lt;/a&gt;. I did add in a &lt;a href=&#34;https://srikanthperinkulam.com/2020/05/17/switched/&#34;&gt;switch&lt;/a&gt; and installed a wireguard vpn on the RPI 3B+ that fronts as a reverse proxy for the Nextcloud media devices. I also got a Seagate 2TB drive and built two partitions into it. One acts as a backup for my Nextcloud files and the other is a &amp;lsquo;cold backup&amp;rsquo; of my Hetzner cloud instance.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/State-of-the-Network-Jun-2020--1200x977.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/State-of-the-Network-Jun-2020--scaled.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;For personal use, I maintain two remote cloud servers on Hetzner:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Hetzner 01&lt;/strong&gt;:&lt;/p&gt;
@@ -176,7 +180,7 @@
 </description>
       <content:encoded><![CDATA[<p><em>A quick rundown on the state of the home-servers I run or applications I host on the cloud.</em></p>
 <p>My &lsquo;Homelab&rsquo; setup has not changed much since my <a href="https://srikanthperinkulam.com/2020/02/04/state-of-the-networks-jan-2020/">last update in January</a>. I did add in a <a href="https://srikanthperinkulam.com/2020/05/17/switched/">switch</a> and installed a wireguard vpn on the RPI 3B+ that fronts as a reverse proxy for the Nextcloud media devices. I also got a Seagate 2TB drive and built two partitions into it. One acts as a backup for my Nextcloud files and the other is a &lsquo;cold backup&rsquo; of my Hetzner cloud instance.</p>
-<p><img loading="lazy" src="images/State-of-the-Network-Jun-2020--1200x977.jpg" alt=""  />
+<p><img loading="lazy" src="images/State-of-the-Network-Jun-2020--scaled.jpg" alt=""  />
 </p>
 <p>For personal use, I maintain two remote cloud servers on Hetzner:</p>
 <p><strong>Hetzner 01</strong>:</p>

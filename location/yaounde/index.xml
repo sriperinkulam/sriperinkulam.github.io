@@ -10,7 +10,83 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Dec 2025 00:00:10 +0100</lastBuildDate><atom:link href="https://srikanthperinkulam.com/location/yaounde/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Dec 2025 01:30:00 +0100</lastBuildDate><atom:link href="https://srikanthperinkulam.com/location/yaounde/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>05 Dec 2025 01:30</title>
+      <link>https://srikanthperinkulam.com/2025/12/05/arzopa/</link>
+      <pubDate>Fri, 05 Dec 2025 01:30:00 +0100</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/12/05/arzopa/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/ArzopaDF.jpg&#34; alt=&#34;&#34;  /&gt;
+
+Tom&amp;rsquo;s &lt;a href=&#34;https://gagor.pro/2025/11/generating-miniatures-for-my-frameo-digital-photo-frame/&#34;&gt;post&lt;/a&gt; nudged me to revive my Digital photo frame that I set up &lt;a href=&#34;https://srikanthperinkulam.com/2024/05/23/digital-photo-frame/&#34;&gt;last year&lt;/a&gt;. Turned it on this morning and it lit up like it was setup a minute ago. Love it! Took me a minute though to figure out how I&amp;rsquo;d initially set it up since I missed documenting it then. So here&amp;rsquo;s a quick note for posterity.&lt;/p&gt;
+&lt;h3 id=&#34;hardware&#34;&gt;Hardware&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Display: 15.6&amp;quot; Portable Display by Arzopa&lt;/li&gt;
+&lt;li&gt;Frame: A spare Ikea frame&lt;/li&gt;
+&lt;li&gt;SBC Board: A repurposed Raspberry Pi 3 from that snazzy &lt;a href=&#34;https://srikanthperinkulam.com/2017/11/04/fired-up/&#34;&gt;Nextcloud Box&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Thumb-drive for photos&lt;/li&gt;
+&lt;li&gt;Black Duct-tape!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;configuration&#34;&gt;Configuration&lt;/h3&gt;
+&lt;p&gt;I leaned on the awesome &lt;a href=&#34;https://dietpi.com/&#34;&gt;DietPi OS&lt;/a&gt; for the base operating system. Once the system boots up a script runs &lt;a href=&#34;https://feh.finalrewind.org/&#34;&gt;FEH&lt;/a&gt; to display photos from the thumb-drive.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;#! /bin/sh
+cd /mnt/photos
+feh -Z -z -F -D 60 --hide-pointer --auto-rotate
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Essentially FEH picks up photos from the thumbdrive, random sorts them and displays a properly zoomed and oriented image every minute.&lt;/p&gt;
+&lt;h3 id=&#34;choosing-images&#34;&gt;Choosing images&lt;/h3&gt;
+&lt;p&gt;I currently manage my photo collection by syncing them into my Nextcloud server sorted by year, month and occasion. At the end of every month, I use &lt;a href=&#34;https://www.digikam.org/&#34;&gt;Digikam&lt;/a&gt; to tag and export photos like-so:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;All photos are tagged by their month&lt;/li&gt;
+&lt;li&gt;Then photos that I want to display on the screen are tagged as &amp;lsquo;Arzopa&amp;rsquo;.&lt;/li&gt;
+&lt;li&gt;A saved search query exports these to the Thumbdrive.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Making this a manual process forces me to take a step back and actually choose what gets displayed on the screen besides giving me another opportunity to go back in time.&lt;/p&gt;
+&lt;h3 id=&#34;next-steps&#34;&gt;Next Steps&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Setup scripts to turn off/on the screen based on the environment or time.&lt;/li&gt;
+&lt;li&gt;Enable touchscreen or button options to pause and navigate photos on demand.
+&lt;a href=&#34;https://srikanthperinkulam.com/2025/12/05/arzopa/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/ArzopaDF.jpg" alt=""  />
+
+Tom&rsquo;s <a href="https://gagor.pro/2025/11/generating-miniatures-for-my-frameo-digital-photo-frame/">post</a> nudged me to revive my Digital photo frame that I set up <a href="https://srikanthperinkulam.com/2024/05/23/digital-photo-frame/">last year</a>. Turned it on this morning and it lit up like it was setup a minute ago. Love it! Took me a minute though to figure out how I&rsquo;d initially set it up since I missed documenting it then. So here&rsquo;s a quick note for posterity.</p>
+<h3 id="hardware">Hardware</h3>
+<ul>
+<li>Display: 15.6&quot; Portable Display by Arzopa</li>
+<li>Frame: A spare Ikea frame</li>
+<li>SBC Board: A repurposed Raspberry Pi 3 from that snazzy <a href="https://srikanthperinkulam.com/2017/11/04/fired-up/">Nextcloud Box</a></li>
+<li>Thumb-drive for photos</li>
+<li>Black Duct-tape!</li>
+</ul>
+<h3 id="configuration">Configuration</h3>
+<p>I leaned on the awesome <a href="https://dietpi.com/">DietPi OS</a> for the base operating system. Once the system boots up a script runs <a href="https://feh.finalrewind.org/">FEH</a> to display photos from the thumb-drive.</p>
+<pre><code>#! /bin/sh
+cd /mnt/photos
+feh -Z -z -F -D 60 --hide-pointer --auto-rotate
+</code></pre>
+<p>Essentially FEH picks up photos from the thumbdrive, random sorts them and displays a properly zoomed and oriented image every minute.</p>
+<h3 id="choosing-images">Choosing images</h3>
+<p>I currently manage my photo collection by syncing them into my Nextcloud server sorted by year, month and occasion. At the end of every month, I use <a href="https://www.digikam.org/">Digikam</a> to tag and export photos like-so:</p>
+<ol>
+<li>All photos are tagged by their month</li>
+<li>Then photos that I want to display on the screen are tagged as &lsquo;Arzopa&rsquo;.</li>
+<li>A saved search query exports these to the Thumbdrive.</li>
+</ol>
+<p>Making this a manual process forces me to take a step back and actually choose what gets displayed on the screen besides giving me another opportunity to go back in time.</p>
+<h3 id="next-steps">Next Steps</h3>
+<ul>
+<li>Setup scripts to turn off/on the screen based on the environment or time.</li>
+<li>Enable touchscreen or button options to pause and navigate photos on demand.
+<a href="https://srikanthperinkulam.com/2025/12/05/arzopa/" style="text-decoration: none !important;">🔗</a>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>03 Dec 2025 10:30</title>
       <link>https://srikanthperinkulam.com/2025/12/03/insurance/</link>
@@ -363,26 +439,6 @@
       <content:encoded><![CDATA[<p>For a day.</p>
 <p>Switched off my phone from airplane mode first thing this morning to check on the &lsquo;Shutdown&rsquo; status and as expected congress did fail to secure those 60 votes. Also received a couple emails mentioning my position was <em>non-excepted</em> and hence I was effectively furloughed.</p>
 <p>Received another email around 2200 stating my position is now considered <em>excepted</em> and I need to report back to work the next working day. Alrighty, we&rsquo;re back in business. <a href="https://srikanthperinkulam.com/2025/10/01/furloughed/" style="text-decoration: none !important;">🔗</a>
-</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>29 Sep 2025 16:30</title>
-      <link>https://srikanthperinkulam.com/2025/09/29/themocracy/</link>
-      <pubDate>Mon, 29 Sep 2025 16:30:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2025/09/29/themocracy/</guid>
-      <description>&lt;p&gt;And just like that three-quarters of 2025 is in the books!&lt;/p&gt;
-&lt;p&gt;Cameroon is gearing for its Presidential elections. They go to polls on October 12th and it&amp;rsquo;s almost given that Paul Biya, who&amp;rsquo;s been in power since 1982, will be elected as the next president. He&amp;rsquo;s rocking it at 92 years. Of the 30 million populace only about 8 million are eligible to vote (20 years and older). Historically, these elections have been mired with civil unrest&amp;rsquo;s and protests. The next few weeks will be interesting.&lt;/p&gt;
-&lt;p&gt;By tomorrow night, if the Congress fails to  reach an agreement, we&amp;rsquo;re potentially looking at a shutdown. Beyond ridiculous that we seem to be at this juncture so frequently and living on continuing resolutions. This time around possibility of furloughs and RIFs [Reduction in Force] are highly likely. And then there&amp;rsquo;s also the drama that comes with it&amp;hellip;.&lt;/p&gt;
-&lt;p&gt;M most likely received her LNA invite. Yay! Looks like a training in December is a serious possibility. But again it&amp;rsquo;s never a given until she gets there and completes it. Adds a wrench to our planned December R&amp;amp;R and then a bigger wrench to how we handle bidding. 2026 is going to be beyond interesting. Choices, options, decisions and happy problems. &lt;a href=&#34;https://srikanthperinkulam.com/2025/09/29/themocracy/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
-&lt;/p&gt;
-</description>
-      <content:encoded><![CDATA[<p>And just like that three-quarters of 2025 is in the books!</p>
-<p>Cameroon is gearing for its Presidential elections. They go to polls on October 12th and it&rsquo;s almost given that Paul Biya, who&rsquo;s been in power since 1982, will be elected as the next president. He&rsquo;s rocking it at 92 years. Of the 30 million populace only about 8 million are eligible to vote (20 years and older). Historically, these elections have been mired with civil unrest&rsquo;s and protests. The next few weeks will be interesting.</p>
-<p>By tomorrow night, if the Congress fails to  reach an agreement, we&rsquo;re potentially looking at a shutdown. Beyond ridiculous that we seem to be at this juncture so frequently and living on continuing resolutions. This time around possibility of furloughs and RIFs [Reduction in Force] are highly likely. And then there&rsquo;s also the drama that comes with it&hellip;.</p>
-<p>M most likely received her LNA invite. Yay! Looks like a training in December is a serious possibility. But again it&rsquo;s never a given until she gets there and completes it. Adds a wrench to our planned December R&amp;R and then a bigger wrench to how we handle bidding. 2026 is going to be beyond interesting. Choices, options, decisions and happy problems. <a href="https://srikanthperinkulam.com/2025/09/29/themocracy/" style="text-decoration: none !important;">🔗</a>
 </p>
 ]]></content:encoded>
     </item>

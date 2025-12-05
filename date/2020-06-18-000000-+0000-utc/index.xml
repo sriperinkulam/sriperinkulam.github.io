@@ -19,7 +19,7 @@
       <guid>https://srikanthperinkulam.com/2020/06/18/state-of-the-networks-jun-2020/</guid>
       <description>&lt;p&gt;&lt;em&gt;A quick rundown on the state of the home-servers I run or applications I host on the cloud.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;My &amp;lsquo;Homelab&amp;rsquo; setup has not changed much since my &lt;a href=&#34;https://srikanthperinkulam.com/2020/02/04/state-of-the-networks-jan-2020/&#34;&gt;last update in January&lt;/a&gt;. I did add in a &lt;a href=&#34;https://srikanthperinkulam.com/2020/05/17/switched/&#34;&gt;switch&lt;/a&gt; and installed a wireguard vpn on the RPI 3B+ that fronts as a reverse proxy for the Nextcloud media devices. I also got a Seagate 2TB drive and built two partitions into it. One acts as a backup for my Nextcloud files and the other is a &amp;lsquo;cold backup&amp;rsquo; of my Hetzner cloud instance.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/State-of-the-Network-Jun-2020--1200x977.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/State-of-the-Network-Jun-2020--scaled.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;For personal use, I maintain two remote cloud servers on Hetzner:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Hetzner 01&lt;/strong&gt;:&lt;/p&gt;
@@ -42,7 +42,7 @@
 </description>
       <content:encoded><![CDATA[<p><em>A quick rundown on the state of the home-servers I run or applications I host on the cloud.</em></p>
 <p>My &lsquo;Homelab&rsquo; setup has not changed much since my <a href="https://srikanthperinkulam.com/2020/02/04/state-of-the-networks-jan-2020/">last update in January</a>. I did add in a <a href="https://srikanthperinkulam.com/2020/05/17/switched/">switch</a> and installed a wireguard vpn on the RPI 3B+ that fronts as a reverse proxy for the Nextcloud media devices. I also got a Seagate 2TB drive and built two partitions into it. One acts as a backup for my Nextcloud files and the other is a &lsquo;cold backup&rsquo; of my Hetzner cloud instance.</p>
-<p><img loading="lazy" src="images/State-of-the-Network-Jun-2020--1200x977.jpg" alt=""  />
+<p><img loading="lazy" src="images/State-of-the-Network-Jun-2020--scaled.jpg" alt=""  />
 </p>
 <p>For personal use, I maintain two remote cloud servers on Hetzner:</p>
 <p><strong>Hetzner 01</strong>:</p>
