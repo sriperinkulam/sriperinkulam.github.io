@@ -10,7 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 31 Dec 2025 10:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Jan 2026 00:00:01 +0100</lastBuildDate><atom:link href="https://srikanthperinkulam.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arzopa</title>
       <link>https://srikanthperinkulam.com/2025/12/05/arzopa/</link>
@@ -32,9 +32,31 @@ Tom&amp;rsquo;s &lt;a href=&#34;https://gagor.pro/2025/11/generating-miniatures-
 &lt;p&gt;I leaned on the awesome &lt;a href=&#34;https://dietpi.com/&#34;&gt;DietPi OS&lt;/a&gt; for the base operating system. Once the system boots up a script runs &lt;a href=&#34;https://feh.finalrewind.org/&#34;&gt;FEH&lt;/a&gt; to display photos from the thumb-drive.&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;#! /bin/sh
 cd /mnt/photos
-feh -Z -z -F -D 60 --hide-pointer --auto-rotate
+feh -Z -z -F -D 60 --hide-pointer --auto-rotate --fullscreen
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Essentially FEH picks up photos from the thumbdrive, random sorts them and displays a properly zoomed and oriented image every minute.&lt;/p&gt;
+&lt;h4 id=&#34;display-control&#34;&gt;Display control&lt;/h4&gt;
+&lt;p&gt;Run a cron job to turn the display on/off:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# crontab -e
+
+# Turn on the screen at 06:00 AM
+0 6 * * * DISPLAY=:0 xrandr --output HDMI-1 --auto
+
+# Turn off the screen at 09:00 AM
+0 9 * * * DISPLAY=:0 xrandr --output HDMI-1 --off
+
+# Turn on the screen at 12:00 PM
+0 12 * * * DISPLAY=:0 xrandr --output HDMI-1 --auto
+
+# Turn off the screen at 03:00 PM
+0 15 * * * DISPLAY=:0 xrandr --output HDMI-1 --off
+
+# Turn on the screen at 05:00 PM
+0 17 * * * DISPLAY=:0 xrandr --output HDMI-1 --auto
+
+# Turn off the screen at 09:00 PM
+0 21 * * * DISPLAY=:0 xrandr --output HDMI-1 --off
+&lt;/code&gt;&lt;/pre&gt;
 &lt;h3 id=&#34;choosing-images&#34;&gt;Choosing images&lt;/h3&gt;
 &lt;p&gt;I currently manage my photo collection by syncing them into my Nextcloud server sorted by year, month and occasion. At the end of every month, I use &lt;a href=&#34;https://www.digikam.org/&#34;&gt;Digikam&lt;/a&gt; to tag and export photos like-so:&lt;/p&gt;
 &lt;ol&gt;
@@ -66,9 +88,31 @@ Tom&rsquo;s <a href="https://gagor.pro/2025/11/generating-miniatures-for-my-fram
 <p>I leaned on the awesome <a href="https://dietpi.com/">DietPi OS</a> for the base operating system. Once the system boots up a script runs <a href="https://feh.finalrewind.org/">FEH</a> to display photos from the thumb-drive.</p>
 <pre><code>#! /bin/sh
 cd /mnt/photos
-feh -Z -z -F -D 60 --hide-pointer --auto-rotate
+feh -Z -z -F -D 60 --hide-pointer --auto-rotate --fullscreen
 </code></pre>
 <p>Essentially FEH picks up photos from the thumbdrive, random sorts them and displays a properly zoomed and oriented image every minute.</p>
+<h4 id="display-control">Display control</h4>
+<p>Run a cron job to turn the display on/off:</p>
+<pre><code># crontab -e
+
+# Turn on the screen at 06:00 AM
+0 6 * * * DISPLAY=:0 xrandr --output HDMI-1 --auto
+
+# Turn off the screen at 09:00 AM
+0 9 * * * DISPLAY=:0 xrandr --output HDMI-1 --off
+
+# Turn on the screen at 12:00 PM
+0 12 * * * DISPLAY=:0 xrandr --output HDMI-1 --auto
+
+# Turn off the screen at 03:00 PM
+0 15 * * * DISPLAY=:0 xrandr --output HDMI-1 --off
+
+# Turn on the screen at 05:00 PM
+0 17 * * * DISPLAY=:0 xrandr --output HDMI-1 --auto
+
+# Turn off the screen at 09:00 PM
+0 21 * * * DISPLAY=:0 xrandr --output HDMI-1 --off
+</code></pre>
 <h3 id="choosing-images">Choosing images</h3>
 <p>I currently manage my photo collection by syncing them into my Nextcloud server sorted by year, month and occasion. At the end of every month, I use <a href="https://www.digikam.org/">Digikam</a> to tag and export photos like-so:</p>
 <ol>
