@@ -10,7 +10,21 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Dec 2025 00:00:12 +0100</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/micro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Dec 2025 00:20:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/micro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>11 Dec 2025 00:20</title>
+      <link>https://srikanthperinkulam.com/2025/12/11/digital-house/</link>
+      <pubDate>Thu, 11 Dec 2025 00:20:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/12/11/digital-house/</guid>
+      <description>&lt;p&gt;Those four words - &amp;lsquo;But it is mine&amp;rsquo;; Definitely makes it all worth it. I have a similar setup wherein I use a Hetzner VPS just to proxy in all traffic to my selfhosted stuff. Initially had wireguard running across my devices. Switched to tailscale for a bit more ease of management. Maybe every six months or so something breaks, but it is all manageable. Gets fixed if I really want to, else it stays by the wayside until it really needs to come back up. &lt;a href=&#34;https://srikanthperinkulam.com/2025/12/11/digital-house/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Those four words - &lsquo;But it is mine&rsquo;; Definitely makes it all worth it. I have a similar setup wherein I use a Hetzner VPS just to proxy in all traffic to my selfhosted stuff. Initially had wireguard running across my devices. Switched to tailscale for a bit more ease of management. Maybe every six months or so something breaks, but it is all manageable. Gets fixed if I really want to, else it stays by the wayside until it really needs to come back up. <a href="https://srikanthperinkulam.com/2025/12/11/digital-house/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>03 Dec 2025 10:30</title>
       <link>https://srikanthperinkulam.com/2025/12/03/insurance/</link>
@@ -337,20 +351,6 @@
 &lt;/p&gt;
 </description>
       <content:encoded><![CDATA[<p>I think the primary draw in Webmentions for me is the &lsquo;context&rsquo; it provides. Several years down the lane when your &lsquo;rewind&rsquo; brings up a post, the value that provides is quite amplified when you are able to see what/when it was written for. Totally appreciate the &rsquo;nudge&rsquo; and the &lsquo;connection&rsquo; factor too. After all, the inter-web exists because of people and connections we bring in. <a href="https://srikanthperinkulam.com/2025/10/27/webmentions/" style="text-decoration: none !important;">🔗</a>
-</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>26 Oct 2025 10:30</title>
-      <link>https://srikanthperinkulam.com/2025/10/26/gadget-bridge/</link>
-      <pubDate>Sun, 26 Oct 2025 10:30:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2025/10/26/gadget-bridge/</guid>
-      <description>&lt;p&gt;This is fantastic, @hund@fosstodon.org ! Thanks for the nudge! I did try Gadgetbridge a few years ago. They didn&amp;rsquo;t quite support Garmin then. Gave it a spin just now and looks like they&amp;rsquo;ve come a long way! So far I&amp;rsquo;ve been exporting my garmin to my site but nothing like a full fledged app with all the bells and whistles. &lt;a href=&#34;https://srikanthperinkulam.com/2025/10/26/gadget-bridge/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
-&lt;/p&gt;
-</description>
-      <content:encoded><![CDATA[<p>This is fantastic, @hund@fosstodon.org ! Thanks for the nudge! I did try Gadgetbridge a few years ago. They didn&rsquo;t quite support Garmin then. Gave it a spin just now and looks like they&rsquo;ve come a long way! So far I&rsquo;ve been exporting my garmin to my site but nothing like a full fledged app with all the bells and whistles. <a href="https://srikanthperinkulam.com/2025/10/26/gadget-bridge/" style="text-decoration: none !important;">🔗</a>
 </p>
 ]]></content:encoded>
     </item>

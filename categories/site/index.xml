@@ -10,7 +10,21 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Dec 2025 10:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/categories/site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Dec 2025 00:20:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/categories/site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>11 Dec 2025 00:20</title>
+      <link>https://srikanthperinkulam.com/2025/12/11/digital-house/</link>
+      <pubDate>Thu, 11 Dec 2025 00:20:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/12/11/digital-house/</guid>
+      <description>&lt;p&gt;Those four words - &amp;lsquo;But it is mine&amp;rsquo;; Definitely makes it all worth it. I have a similar setup wherein I use a Hetzner VPS just to proxy in all traffic to my selfhosted stuff. Initially had wireguard running across my devices. Switched to tailscale for a bit more ease of management. Maybe every six months or so something breaks, but it is all manageable. Gets fixed if I really want to, else it stays by the wayside until it really needs to come back up. &lt;a href=&#34;https://srikanthperinkulam.com/2025/12/11/digital-house/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Those four words - &lsquo;But it is mine&rsquo;; Definitely makes it all worth it. I have a similar setup wherein I use a Hetzner VPS just to proxy in all traffic to my selfhosted stuff. Initially had wireguard running across my devices. Switched to tailscale for a bit more ease of management. Maybe every six months or so something breaks, but it is all manageable. Gets fixed if I really want to, else it stays by the wayside until it really needs to come back up. <a href="https://srikanthperinkulam.com/2025/12/11/digital-house/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>03 Dec 2025 10:30</title>
       <link>https://srikanthperinkulam.com/2025/12/03/insurance/</link>
@@ -117,22 +131,6 @@
 </description>
       <content:encoded><![CDATA[<p>Immich is pretty neat! It does hog /need a decent machine to run though. I briefly dabbled  installing it on an RPi3 a year ago and figured the juice wasn&rsquo;t worth the squeeze for what I was looking at. I&rsquo;m pretty content with having all my media on a Nextcloud server where rest of my files reside. This seven year old repurposed laptop on which NC runs In tandem with Tailscale and a digital frame, serves most of my needs for now.</p>
 <p>Also love that subtle clink you have going on in the comment form! Pretty crafty! <a href="https://srikanthperinkulam.com/2025/10/26/immich/" style="text-decoration: none !important;">🔗</a>
-</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>26 Oct 2025 07:30</title>
-      <link>https://srikanthperinkulam.com/2025/10/26/caddy-not-caddying/</link>
-      <pubDate>Sun, 26 Oct 2025 07:30:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2025/10/26/caddy-not-caddying/</guid>
-      <description>&lt;p&gt;Earlier this week in Malabo, I discovered that none of my self-hosted services were working. Initially, I thought it was due to my home internet connection. However, upon returning last night, I realized that wasn’t the case at all. My tiny reverse proxy, Caddy, had encountered an issue during an automated security upgrade.&lt;/p&gt;
-&lt;p&gt;Over the past few years, I’ve adopted a hands-off approach to self-hosting, setting up auto-updates for all my services. I only intervene when something breaks. Today, I decided to give my setup a little TLC, upgrading my passthrough VPS and Odroid XU4 to Bookworm. Remarkably, the process took less than 30 minutes! Thanks to Docker and Tailscale, everything connects seamlessly and just works. Love it! &lt;a href=&#34;https://srikanthperinkulam.com/2025/10/26/caddy-not-caddying/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
-&lt;/p&gt;
-</description>
-      <content:encoded><![CDATA[<p>Earlier this week in Malabo, I discovered that none of my self-hosted services were working. Initially, I thought it was due to my home internet connection. However, upon returning last night, I realized that wasn’t the case at all. My tiny reverse proxy, Caddy, had encountered an issue during an automated security upgrade.</p>
-<p>Over the past few years, I’ve adopted a hands-off approach to self-hosting, setting up auto-updates for all my services. I only intervene when something breaks. Today, I decided to give my setup a little TLC, upgrading my passthrough VPS and Odroid XU4 to Bookworm. Remarkably, the process took less than 30 minutes! Thanks to Docker and Tailscale, everything connects seamlessly and just works. Love it! <a href="https://srikanthperinkulam.com/2025/10/26/caddy-not-caddying/" style="text-decoration: none !important;">🔗</a>
 </p>
 ]]></content:encoded>
     </item>

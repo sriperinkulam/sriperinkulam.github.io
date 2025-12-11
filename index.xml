@@ -12,6 +12,20 @@
     <language>en</language>
     <lastBuildDate>Sat, 31 Jan 2026 00:00:01 +0100</lastBuildDate><atom:link href="https://srikanthperinkulam.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Digital house</title>
+      <link>https://srikanthperinkulam.com/2025/12/11/digital-house/</link>
+      <pubDate>Thu, 11 Dec 2025 00:20:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/12/11/digital-house/</guid>
+      <description>&lt;p&gt;Those four words - &amp;lsquo;But it is mine&amp;rsquo;; Definitely makes it all worth it. I have a similar setup wherein I use a Hetzner VPS just to proxy in all traffic to my selfhosted stuff. Initially had wireguard running across my devices. Switched to tailscale for a bit more ease of management. Maybe every six months or so something breaks, but it is all manageable. Gets fixed if I really want to, else it stays by the wayside until it really needs to come back up. &lt;a href=&#34;https://srikanthperinkulam.com/2025/12/11/digital-house/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Those four words - &lsquo;But it is mine&rsquo;; Definitely makes it all worth it. I have a similar setup wherein I use a Hetzner VPS just to proxy in all traffic to my selfhosted stuff. Initially had wireguard running across my devices. Switched to tailscale for a bit more ease of management. Maybe every six months or so something breaks, but it is all manageable. Gets fixed if I really want to, else it stays by the wayside until it really needs to come back up. <a href="https://srikanthperinkulam.com/2025/12/11/digital-house/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
       <title>Arzopa</title>
       <link>https://srikanthperinkulam.com/2025/12/05/arzopa/</link>
       <pubDate>Fri, 05 Dec 2025 01:30:00 +0100</pubDate>
@@ -451,20 +465,6 @@ feh -Z -z -F -D 60 --hide-pointer --auto-rotate --fullscreen
 </blockquote>
 <p>Wrote something to that effect earlier today to one of the teams I&rsquo;ve been trying to resolve an ongoing issue with. They are a good bunch of folks. But there seems to be a disconnect somewhere that&rsquo;s causing needless delays in what I&rsquo;d like to get done. I feel issues fail to get resolved mostly because of lack of proper communication during their shift handovers.</p>
 <p>A few minutes after I sent that note, somewhere it also hit me real hard. I shouldn&rsquo;t really have sent that note? It does not benefit anybody but just my restless self. Adds nothing positive to the situation and if anything effectively brings the relationship a few steps backwards. Super frustrating when you see both sides of the coin and still need to get shit done&hellip;<a href="https://srikanthperinkulam.com/2025/11/14/handover/" style="text-decoration: none !important;">🔗</a>
-</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>shutdown</title>
-      <link>https://srikanthperinkulam.com/2025/11/07/shutdown/</link>
-      <pubDate>Fri, 07 Nov 2025 10:30:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2025/11/07/shutdown/</guid>
-      <description>&lt;p&gt;Because power, greed and corruption blindsided us and we got complacent with short term profits? Beyond ridiculous that we&amp;rsquo;ve been running on layered CR band-aids almost every year making it more of a norm than an exception. &lt;a href=&#34;https://srikanthperinkulam.com/2025/11/07/shutdown/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
-&lt;/p&gt;
-</description>
-      <content:encoded><![CDATA[<p>Because power, greed and corruption blindsided us and we got complacent with short term profits? Beyond ridiculous that we&rsquo;ve been running on layered CR band-aids almost every year making it more of a norm than an exception. <a href="https://srikanthperinkulam.com/2025/11/07/shutdown/" style="text-decoration: none !important;">🔗</a>
 </p>
 ]]></content:encoded>
     </item>
