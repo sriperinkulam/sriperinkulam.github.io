@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>2025-12-16 10:30:00 &#43;0000 UTC on Srikanth Perinkulam</title>
+    <link>https://srikanthperinkulam.com/date/2025-12-16-103000-&#43;0000-utc/index.xml</link>
+    <description>Recent content in 2025-12-16 10:30:00 &#43;0000 UTC on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 16 Dec 2025 10:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/date/2025-12-16-103000-+0000-utc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>16 Dec 2025 10:30</title>
+      <link>https://srikanthperinkulam.com/2025/12/16/posse/</link>
+      <pubDate>Tue, 16 Dec 2025 10:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/12/16/posse/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tinypost.png&#34; alt=&#34;&#34;  /&gt;
+
+Built a tiny posting interface to cross-post content from this site to elsewhere on-demand if needed. Since I exclude my &lt;a href=&#34;https://srikanthperinkulam.com/daynote&#34;&gt;daynotes&lt;/a&gt; in my main rss feed, this helps reduce the friction a bit if I want to push out certain &lt;em&gt;sections&lt;/em&gt; of a daynote on a whim. Still crude and janky but seems to do the job! #indieweb &lt;a href=&#34;https://srikanthperinkulam.com/2025/12/16/posse/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/tinypost.png" alt=""  />
+
+Built a tiny posting interface to cross-post content from this site to elsewhere on-demand if needed. Since I exclude my <a href="/daynote">daynotes</a> in my main rss feed, this helps reduce the friction a bit if I want to push out certain <em>sections</em> of a daynote on a whim. Still crude and janky but seems to do the job! #indieweb <a href="https://srikanthperinkulam.com/2025/12/16/posse/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

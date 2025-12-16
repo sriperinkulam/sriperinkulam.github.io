@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Dec 2025 00:20:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/categories/site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Dec 2025 10:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/categories/site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>16 Dec 2025 10:30</title>
+      <link>https://srikanthperinkulam.com/2025/12/16/posse/</link>
+      <pubDate>Tue, 16 Dec 2025 10:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/12/16/posse/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tinypost.png&#34; alt=&#34;&#34;  /&gt;
+
+Built a tiny posting interface to cross-post content from this site to elsewhere on-demand if needed. Since I exclude my &lt;a href=&#34;https://srikanthperinkulam.com/daynote&#34;&gt;daynotes&lt;/a&gt; in my main rss feed, this helps reduce the friction a bit if I want to push out certain &lt;em&gt;sections&lt;/em&gt; of a daynote on a whim. Still crude and janky but seems to do the job! #indieweb &lt;a href=&#34;https://srikanthperinkulam.com/2025/12/16/posse/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/tinypost.png" alt=""  />
+
+Built a tiny posting interface to cross-post content from this site to elsewhere on-demand if needed. Since I exclude my <a href="/daynote">daynotes</a> in my main rss feed, this helps reduce the friction a bit if I want to push out certain <em>sections</em> of a daynote on a whim. Still crude and janky but seems to do the job! #indieweb <a href="https://srikanthperinkulam.com/2025/12/16/posse/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>11 Dec 2025 00:20</title>
       <link>https://srikanthperinkulam.com/2025/12/11/digital-house/</link>
@@ -115,22 +133,6 @@
 &lt;/p&gt;
 </description>
       <content:encoded><![CDATA[<p>This is fantastic, @hund@fosstodon.org ! Thanks for the nudge! I did try Gadgetbridge a few years ago. They didn&rsquo;t quite support Garmin then. Gave it a spin just now and looks like they&rsquo;ve come a long way! So far I&rsquo;ve been exporting my garmin to my site but nothing like a full fledged app with all the bells and whistles. <a href="https://srikanthperinkulam.com/2025/10/26/gadget-bridge/" style="text-decoration: none !important;">🔗</a>
-</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>26 Oct 2025 10:30</title>
-      <link>https://srikanthperinkulam.com/2025/10/26/immich/</link>
-      <pubDate>Sun, 26 Oct 2025 10:30:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2025/10/26/immich/</guid>
-      <description>&lt;p&gt;Immich is pretty neat! It does hog /need a decent machine to run though. I briefly dabbled  installing it on an RPi3 a year ago and figured the juice wasn&amp;rsquo;t worth the squeeze for what I was looking at. I&amp;rsquo;m pretty content with having all my media on a Nextcloud server where rest of my files reside. This seven year old repurposed laptop on which NC runs In tandem with Tailscale and a digital frame, serves most of my needs for now.&lt;/p&gt;
-&lt;p&gt;Also love that subtle clink you have going on in the comment form! Pretty crafty! &lt;a href=&#34;https://srikanthperinkulam.com/2025/10/26/immich/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
-&lt;/p&gt;
-</description>
-      <content:encoded><![CDATA[<p>Immich is pretty neat! It does hog /need a decent machine to run though. I briefly dabbled  installing it on an RPi3 a year ago and figured the juice wasn&rsquo;t worth the squeeze for what I was looking at. I&rsquo;m pretty content with having all my media on a Nextcloud server where rest of my files reside. This seven year old repurposed laptop on which NC runs In tandem with Tailscale and a digital frame, serves most of my needs for now.</p>
-<p>Also love that subtle clink you have going on in the comment form! Pretty crafty! <a href="https://srikanthperinkulam.com/2025/10/26/immich/" style="text-decoration: none !important;">🔗</a>
 </p>
 ]]></content:encoded>
     </item>

@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Dec 2025 00:00:12 +0100</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/micro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Dec 2025 10:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/micro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>16 Dec 2025 10:30</title>
+      <link>https://srikanthperinkulam.com/2025/12/16/posse/</link>
+      <pubDate>Tue, 16 Dec 2025 10:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/12/16/posse/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tinypost.png&#34; alt=&#34;&#34;  /&gt;
+
+Built a tiny posting interface to cross-post content from this site to elsewhere on-demand if needed. Since I exclude my &lt;a href=&#34;https://srikanthperinkulam.com/daynote&#34;&gt;daynotes&lt;/a&gt; in my main rss feed, this helps reduce the friction a bit if I want to push out certain &lt;em&gt;sections&lt;/em&gt; of a daynote on a whim. Still crude and janky but seems to do the job! #indieweb &lt;a href=&#34;https://srikanthperinkulam.com/2025/12/16/posse/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/tinypost.png" alt=""  />
+
+Built a tiny posting interface to cross-post content from this site to elsewhere on-demand if needed. Since I exclude my <a href="/daynote">daynotes</a> in my main rss feed, this helps reduce the friction a bit if I want to push out certain <em>sections</em> of a daynote on a whim. Still crude and janky but seems to do the job! #indieweb <a href="https://srikanthperinkulam.com/2025/12/16/posse/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>11 Dec 2025 00:20</title>
       <link>https://srikanthperinkulam.com/2025/12/11/digital-house/</link>
@@ -337,20 +355,6 @@
 &lt;/p&gt;
 </description>
       <content:encoded><![CDATA[<p>Because power, greed and corruption blindsided us and we got complacent with short term profits? Beyond ridiculous that we&rsquo;ve been running on layered CR band-aids almost every year making it more of a norm than an exception. <a href="https://srikanthperinkulam.com/2025/11/07/shutdown/" style="text-decoration: none !important;">🔗</a>
-</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>27 Oct 2025 10:30</title>
-      <link>https://srikanthperinkulam.com/2025/10/27/webmentions/</link>
-      <pubDate>Mon, 27 Oct 2025 10:30:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2025/10/27/webmentions/</guid>
-      <description>&lt;p&gt;I think the primary draw in Webmentions for me is the &amp;lsquo;context&amp;rsquo; it provides. Several years down the lane when your &amp;lsquo;rewind&amp;rsquo; brings up a post, the value that provides is quite amplified when you are able to see what/when it was written for. Totally appreciate the &amp;rsquo;nudge&amp;rsquo; and the &amp;lsquo;connection&amp;rsquo; factor too. After all, the inter-web exists because of people and connections we bring in. &lt;a href=&#34;https://srikanthperinkulam.com/2025/10/27/webmentions/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
-&lt;/p&gt;
-</description>
-      <content:encoded><![CDATA[<p>I think the primary draw in Webmentions for me is the &lsquo;context&rsquo; it provides. Several years down the lane when your &lsquo;rewind&rsquo; brings up a post, the value that provides is quite amplified when you are able to see what/when it was written for. Totally appreciate the &rsquo;nudge&rsquo; and the &lsquo;connection&rsquo; factor too. After all, the inter-web exists because of people and connections we bring in. <a href="https://srikanthperinkulam.com/2025/10/27/webmentions/" style="text-decoration: none !important;">🔗</a>
 </p>
 ]]></content:encoded>
     </item>
