@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Srikanth Perinkulam</title>
-    <link>https://srikanthperinkulam.com/tags/index.xml</link>
+    <link>https://srikanthperinkulam.com/tags/</link>
     <description>Recent content in Tags on Srikanth Perinkulam</description>
     <image>
       <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
@@ -10,83 +10,83 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Dec 2025 10:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Jan 2026 00:00:01 +0100</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>16 Dec 2025 10:30</title>
-      <link>https://srikanthperinkulam.com/tags/micro/index.xml</link>
-      <pubDate>Tue, 16 Dec 2025 10:30:00 +0000</pubDate>
+      <title>03 Jan 2026 00:00</title>
+      <link>https://srikanthperinkulam.com/tags/micro/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:01 +0100</pubDate>
       
-      <guid>https://srikanthperinkulam.com/tags/micro/index.xml</guid>
+      <guid>https://srikanthperinkulam.com/tags/micro/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>31 Dec 2025 10:30</title>
+      <link>https://srikanthperinkulam.com/tags/macro/</link>
+      <pubDate>Wed, 31 Dec 2025 10:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/tags/macro/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>15 Dec 2025 00:00</title>
-      <link>https://srikanthperinkulam.com/tags/grand-vitara/index.xml</link>
+      <link>https://srikanthperinkulam.com/tags/grand-vitara/</link>
       <pubDate>Mon, 15 Dec 2025 00:00:12 +0100</pubDate>
       
-      <guid>https://srikanthperinkulam.com/tags/grand-vitara/index.xml</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>05 Dec 2025 01:30</title>
-      <link>https://srikanthperinkulam.com/tags/macro/index.xml</link>
-      <pubDate>Fri, 05 Dec 2025 01:30:00 +0100</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/tags/macro/index.xml</guid>
+      <guid>https://srikanthperinkulam.com/tags/grand-vitara/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>02 Nov 2025 00:00</title>
-      <link>https://srikanthperinkulam.com/tags/pesos/index.xml</link>
+      <link>https://srikanthperinkulam.com/tags/pesos/</link>
       <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://srikanthperinkulam.com/tags/pesos/index.xml</guid>
+      <guid>https://srikanthperinkulam.com/tags/pesos/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>26 Oct 2025 07:30</title>
-      <link>https://srikanthperinkulam.com/tags/sotn/index.xml</link>
+      <link>https://srikanthperinkulam.com/tags/sotn/</link>
       <pubDate>Sun, 26 Oct 2025 07:30:00 +0000</pubDate>
       
-      <guid>https://srikanthperinkulam.com/tags/sotn/index.xml</guid>
+      <guid>https://srikanthperinkulam.com/tags/sotn/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>25 Oct 2025 10:30</title>
-      <link>https://srikanthperinkulam.com/tags/til/index.xml</link>
+      <link>https://srikanthperinkulam.com/tags/til/</link>
       <pubDate>Sat, 25 Oct 2025 10:30:00 +0000</pubDate>
       
-      <guid>https://srikanthperinkulam.com/tags/til/index.xml</guid>
+      <guid>https://srikanthperinkulam.com/tags/til/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>24 Oct 2025 21:30</title>
-      <link>https://srikanthperinkulam.com/tags/amma/index.xml</link>
+      <link>https://srikanthperinkulam.com/tags/amma/</link>
       <pubDate>Fri, 24 Oct 2025 21:30:00 +0000</pubDate>
       
-      <guid>https://srikanthperinkulam.com/tags/amma/index.xml</guid>
+      <guid>https://srikanthperinkulam.com/tags/amma/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>19 Jul 2025 21:30</title>
-      <link>https://srikanthperinkulam.com/tags/shasta/index.xml</link>
+      <link>https://srikanthperinkulam.com/tags/shasta/</link>
       <pubDate>Sat, 19 Jul 2025 21:30:00 +0000</pubDate>
       
-      <guid>https://srikanthperinkulam.com/tags/shasta/index.xml</guid>
+      <guid>https://srikanthperinkulam.com/tags/shasta/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>

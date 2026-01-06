@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Status on Srikanth Perinkulam</title>
-    <link>https://srikanthperinkulam.com/categories/status/index.xml</link>
+    <link>https://srikanthperinkulam.com/categories/status/</link>
     <description>Recent content in Status on Srikanth Perinkulam</description>
     <image>
       <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
@@ -10,7 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Dec 2025 10:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/categories/status/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Jan 2026 00:00:01 +0100</lastBuildDate><atom:link href="https://srikanthperinkulam.com/categories/status/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>16 Dec 2025 10:30</title>
       <link>https://srikanthperinkulam.com/2025/12/16/posse/</link>

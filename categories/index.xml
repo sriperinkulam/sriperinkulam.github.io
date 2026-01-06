@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Srikanth Perinkulam</title>
-    <link>https://srikanthperinkulam.com/categories/index.xml</link>
+    <link>https://srikanthperinkulam.com/categories/</link>
     <description>Recent content in Categories on Srikanth Perinkulam</description>
     <image>
       <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
@@ -10,83 +10,83 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Dec 2025 10:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Jan 2026 00:00:01 +0100</lastBuildDate><atom:link href="https://srikanthperinkulam.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>16 Dec 2025 10:30</title>
-      <link>https://srikanthperinkulam.com/categories/site/index.xml</link>
-      <pubDate>Tue, 16 Dec 2025 10:30:00 +0000</pubDate>
+      <title>03 Jan 2026 00:00</title>
+      <link>https://srikanthperinkulam.com/categories/status/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:01 +0100</pubDate>
       
-      <guid>https://srikanthperinkulam.com/categories/site/index.xml</guid>
+      <guid>https://srikanthperinkulam.com/categories/status/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>31 Dec 2025 10:30</title>
+      <link>https://srikanthperinkulam.com/categories/year-notes/</link>
+      <pubDate>Wed, 31 Dec 2025 10:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/categories/year-notes/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>25 Dec 2025 00:00</title>
+      <link>https://srikanthperinkulam.com/categories/skiing/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:12 +0100</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/categories/skiing/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>16 Dec 2025 10:30</title>
-      <link>https://srikanthperinkulam.com/categories/status/index.xml</link>
+      <link>https://srikanthperinkulam.com/categories/site/</link>
       <pubDate>Tue, 16 Dec 2025 10:30:00 +0000</pubDate>
       
-      <guid>https://srikanthperinkulam.com/categories/status/index.xml</guid>
+      <guid>https://srikanthperinkulam.com/categories/site/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>06 Dec 2025 00:00</title>
-      <link>https://srikanthperinkulam.com/categories/consider/index.xml</link>
+      <link>https://srikanthperinkulam.com/categories/consider/</link>
       <pubDate>Sat, 06 Dec 2025 00:00:12 +0100</pubDate>
       
-      <guid>https://srikanthperinkulam.com/categories/consider/index.xml</guid>
+      <guid>https://srikanthperinkulam.com/categories/consider/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>05 Dec 2025 01:30</title>
-      <link>https://srikanthperinkulam.com/categories/tech/index.xml</link>
+      <link>https://srikanthperinkulam.com/categories/tech/</link>
       <pubDate>Fri, 05 Dec 2025 01:30:00 +0100</pubDate>
       
-      <guid>https://srikanthperinkulam.com/categories/tech/index.xml</guid>
+      <guid>https://srikanthperinkulam.com/categories/tech/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>15 Nov 2025 10:30</title>
-      <link>https://srikanthperinkulam.com/categories/photos/index.xml</link>
+      <link>https://srikanthperinkulam.com/categories/photos/</link>
       <pubDate>Sat, 15 Nov 2025 10:30:00 +0000</pubDate>
       
-      <guid>https://srikanthperinkulam.com/categories/photos/index.xml</guid>
+      <guid>https://srikanthperinkulam.com/categories/photos/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>29 Oct 2025 10:30</title>
-      <link>https://srikanthperinkulam.com/categories/misc/index.xml</link>
+      <link>https://srikanthperinkulam.com/categories/misc/</link>
       <pubDate>Wed, 29 Oct 2025 10:30:00 +0000</pubDate>
       
-      <guid>https://srikanthperinkulam.com/categories/misc/index.xml</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>14 Sep 2025 21:30</title>
-      <link>https://srikanthperinkulam.com/categories/travel/index.xml</link>
-      <pubDate>Sun, 14 Sep 2025 21:30:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/categories/travel/index.xml</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>01 Sep 2025 21:30</title>
-      <link>https://srikanthperinkulam.com/categories/week-notes/index.xml</link>
-      <pubDate>Mon, 01 Sep 2025 21:30:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/categories/week-notes/index.xml</guid>
+      <guid>https://srikanthperinkulam.com/categories/misc/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
