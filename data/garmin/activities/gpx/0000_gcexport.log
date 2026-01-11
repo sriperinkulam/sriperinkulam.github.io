@@ -47,3 +47,30 @@
 2025-11-27 20:36:12,391 [INFO   ] Userstats page https://connect.garmin.com/userstats-service/statistics/sriperinkulam
 2025-11-27 20:36:18,238 [INFO   ] Activity list URL https://connect.garmin.com/activitylist-service/activities/search/activities?start=0&limit=4
 2025-11-27 20:36:41,210 [INFO   ] CSV file written.
+2026-01-10 22:32:51,021 [INFO   ] Starting /media/peri/320GB/Garmin/garmin-connect-export/gcexport.py version 4.2.0, using Python version 3.11.2
+2026-01-10 22:32:51,021 [INFO   ] New logfile level: INFO
+2026-01-10 22:32:51,022 [WARNING] Output directory /home/peri/stacks/hugo/ssp/static/data/garmin/activities/gpx/ already exists. Will skip already-downloaded files and append to the CSV file.
+2026-01-10 22:32:56,737 [INFO   ] Profile page https://connect.garmin.com/userprofile-service/socialProfile
+2026-01-10 22:32:57,747 [INFO   ] Userstats page https://connect.garmin.com/userstats-service/statistics/sriperinkulam
+2026-01-10 22:33:02,163 [ERROR  ] Server couldn't fulfill the request, url https://connect.garmin.com/modern/main/js/properties/activity_types/activity_types.properties, code 404, error: HTTP Error 404: Not Found
+2026-01-10 22:33:02,164 [INFO   ] Headers returned:
+Date: Sat, 10 Jan 2026 21:33:01 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+Cache-Control: no-cache
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=Z%2FQJCx5pqtmTNTdkmsXcscKladVuYs%2Bv3xM8B8EvGLj7l4IPrWstwYAa8Q%2BENaDs2m0Dx%2F7AdotBPeVfmM7uqxG1FYCMk0MAjOSymfgkkQpgs8v2CQvYP2Om6jCL0AY2rYl10g%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Set-Cookie: __cfruid=a8ee3e40af254daa9b653b1838e01008bec880e3-1768080781; path=/; domain=.connect.garmin.com; HttpOnly
+Server: cloudflare
+CF-RAY: 9bbf4a571981d2b1-EWR
+
+
+2026-01-10 22:46:08,660 [INFO   ] Starting /media/peri/320GB/Garmin/garmin-connect-export/gcexport.py version 4.2.0, using Python version 3.11.2
+2026-01-10 22:46:08,660 [INFO   ] New logfile level: INFO
+2026-01-10 22:46:08,660 [WARNING] Output directory /home/peri/stacks/hugo/ssp/static/data/garmin/activities/gpx/ already exists. Will skip already-downloaded files and append to the CSV file.
+2026-01-10 22:46:14,399 [INFO   ] Profile page https://connect.garmin.com/userprofile-service/socialProfile
+2026-01-10 22:46:15,407 [INFO   ] Userstats page https://connect.garmin.com/userstats-service/statistics/sriperinkulam
+2026-01-10 22:46:18,682 [INFO   ] Activity list URL https://connect.garmin.com/activitylist-service/activities/search/activities?start=0&limit=8
+2026-01-10 22:46:46,846 [INFO   ] CSV file written.
