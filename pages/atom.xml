@@ -1,0 +1,5326 @@
+&lt;?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Pages</title>
+  <link href="https://srikanthperinkulam.com/pages/atom.xml" rel="self"/>
+  <link href="https://srikanthperinkulam.com/" />
+  <updated>2026-01-18T22:54:17Z</updated>
+  <id>https://srikanthperinkulam.com/pages/atom.xml</id>
+
+  
+  
+    
+    <entry>
+      <title>Stamp Collection</title>
+      <link href="https://srikanthperinkulam.com/stamp/" />
+      <id>https://srikanthperinkulam.com/stamp/</id>
+      <updated>2025-08-15T00:00:00Z</updated>
+      <published>2025-08-15T00:00:00Z</published>
+      <summary>Stamp Collection</summary>
+      <content type="html"><p>Several years ago, maybe somewhere around 2000, I got into collecting stamps as a hobby. I digitized them in 2018, set them up in a &lsquo;gallery&rsquo; in <a href="https://srikanthperinkulam.com/2020/08/27/stamp-collection-digitized/">2020</a> and eventually with all things digital, lost track of them. I&rsquo;ve sort of revived that collection here, since this is one space I frequent more often. Around 2018, I also handed over my physical collection to Mummyjaan. Not quite sure if she&rsquo;s actively maintaining it.</p>
+<h2 id="australia">Australia</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list single-image">
+	        <li><a href="/images/stamps//Australia/20181214_134415.jpg"><img src="/images/stamps//Australia/20181214_134415.jpg" loading="lazy" alt="20181214_134415.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="bahamas">Bahamas</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list single-image">
+	        <li><a href="/images/stamps//Bahamas/20181214_134143.jpg"><img src="/images/stamps//Bahamas/20181214_134143.jpg" loading="lazy" alt="20181214_134143.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="bangladesh">Bangladesh</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list ">
+	        <li><a href="/images/stamps//Bangladesh/20181214_155131.jpg"><img src="/images/stamps//Bangladesh/20181214_155131.jpg" loading="lazy" alt="20181214_155131.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Bangladesh/20181214_155151.jpg"><img src="/images/stamps//Bangladesh/20181214_155151.jpg" loading="lazy" alt="20181214_155151.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Bangladesh/20181214_155211.jpg"><img src="/images/stamps//Bangladesh/20181214_155211.jpg" loading="lazy" alt="20181214_155211.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Bangladesh/20181214_155234.jpg"><img src="/images/stamps//Bangladesh/20181214_155234.jpg" loading="lazy" alt="20181214_155234.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Bangladesh/20181215_203431.jpg"><img src="/images/stamps//Bangladesh/20181215_203431.jpg" loading="lazy" alt="20181215_203431.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="brazil">Brazil</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list ">
+	        <li><a href="/images/stamps//Brazil/20181214_140521.jpg"><img src="/images/stamps//Brazil/20181214_140521.jpg" loading="lazy" alt="20181214_140521.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Brazil/20181214_140718.jpg"><img src="/images/stamps//Brazil/20181214_140718.jpg" loading="lazy" alt="20181214_140718.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Brazil/20181214_141921.jpg"><img src="/images/stamps//Brazil/20181214_141921.jpg" loading="lazy" alt="20181214_141921.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Brazil/20181214_141959.jpg"><img src="/images/stamps//Brazil/20181214_141959.jpg" loading="lazy" alt="20181214_141959.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Brazil/20181216_114215.jpg"><img src="/images/stamps//Brazil/20181216_114215.jpg" loading="lazy" alt="20181216_114215.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="burma">Burma</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list single-image">
+	        <li><a href="/images/stamps//Burma/20181214_155048.jpg"><img src="/images/stamps//Burma/20181214_155048.jpg" loading="lazy" alt="20181214_155048.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="canada">Canada</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list ">
+	        <li><a href="/images/stamps//Canada/20181214_143241.jpg"><img src="/images/stamps//Canada/20181214_143241.jpg" loading="lazy" alt="20181214_143241.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Canada/20181214_143303.jpg"><img src="/images/stamps//Canada/20181214_143303.jpg" loading="lazy" alt="20181214_143303.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Canada/20181214_143404.jpg"><img src="/images/stamps//Canada/20181214_143404.jpg" loading="lazy" alt="20181214_143404.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Canada/20181214_145911.jpg"><img src="/images/stamps//Canada/20181214_145911.jpg" loading="lazy" alt="20181214_145911.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Canada/20181214_150358.jpg"><img src="/images/stamps//Canada/20181214_150358.jpg" loading="lazy" alt="20181214_150358.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Canada/20181214_150439.jpg"><img src="/images/stamps//Canada/20181214_150439.jpg" loading="lazy" alt="20181214_150439.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Canada/20181214_150524.jpg"><img src="/images/stamps//Canada/20181214_150524.jpg" loading="lazy" alt="20181214_150524.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Canada/20181214_150555.jpg"><img src="/images/stamps//Canada/20181214_150555.jpg" loading="lazy" alt="20181214_150555.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Canada/20181214_150631.jpg"><img src="/images/stamps//Canada/20181214_150631.jpg" loading="lazy" alt="20181214_150631.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="cameroon">Cameroon</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list ">
+	        <li><a href="/images/stamps//Cameroon/Imagepipe_0.jpg"><img src="/images/stamps//Cameroon/Imagepipe_0.jpg" loading="lazy" alt="Imagepipe_0.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Cameroon/Imagepipe_1.jpg"><img src="/images/stamps//Cameroon/Imagepipe_1.jpg" loading="lazy" alt="Imagepipe_1.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Cameroon/Imagepipe_16.jpg"><img src="/images/stamps//Cameroon/Imagepipe_16.jpg" loading="lazy" alt="Imagepipe_16.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Cameroon/Imagepipe_17.jpg"><img src="/images/stamps//Cameroon/Imagepipe_17.jpg" loading="lazy" alt="Imagepipe_17.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Cameroon/Imagepipe_18.jpg"><img src="/images/stamps//Cameroon/Imagepipe_18.jpg" loading="lazy" alt="Imagepipe_18.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Cameroon/Imagepipe_19.jpg"><img src="/images/stamps//Cameroon/Imagepipe_19.jpg" loading="lazy" alt="Imagepipe_19.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Cameroon/Imagepipe_2.jpg"><img src="/images/stamps//Cameroon/Imagepipe_2.jpg" loading="lazy" alt="Imagepipe_2.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Cameroon/Imagepipe_20.jpg"><img src="/images/stamps//Cameroon/Imagepipe_20.jpg" loading="lazy" alt="Imagepipe_20.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Cameroon/Imagepipe_21.jpg"><img src="/images/stamps//Cameroon/Imagepipe_21.jpg" loading="lazy" alt="Imagepipe_21.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Cameroon/Imagepipe_22.jpg"><img src="/images/stamps//Cameroon/Imagepipe_22.jpg" loading="lazy" alt="Imagepipe_22.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Cameroon/Imagepipe_3.jpg"><img src="/images/stamps//Cameroon/Imagepipe_3.jpg" loading="lazy" alt="Imagepipe_3.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Cameroon/Imagepipe_4.jpg"><img src="/images/stamps//Cameroon/Imagepipe_4.jpg" loading="lazy" alt="Imagepipe_4.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Cameroon/Imagepipe_5.jpg"><img src="/images/stamps//Cameroon/Imagepipe_5.jpg" loading="lazy" alt="Imagepipe_5.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Cameroon/Imagepipe_8.jpg"><img src="/images/stamps//Cameroon/Imagepipe_8.jpg" loading="lazy" alt="Imagepipe_8.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Cameroon/Imagepipe_9.jpg"><img src="/images/stamps//Cameroon/Imagepipe_9.jpg" loading="lazy" alt="Imagepipe_9.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="czechoslovakia">Czechoslovakia</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list single-image">
+	        <li><a href="/images/stamps//Czechoslovakia/20181214_112700.jpg"><img src="/images/stamps//Czechoslovakia/20181214_112700.jpg" loading="lazy" alt="20181214_112700.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="ethiopia">Ethiopia</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list single-image">
+	        <li><a href="/images/stamps//Ethiopia/20181214_134225.jpg"><img src="/images/stamps//Ethiopia/20181214_134225.jpg" loading="lazy" alt="20181214_134225.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Ethiopia/20181214_134255.jpg"><img src="/images/stamps//Ethiopia/20181214_134255.jpg" loading="lazy" alt="20181214_134255.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="france">France</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list single-image">
+	        <li><a href="/images/stamps//France/20181214_115744.jpg"><img src="/images/stamps//France/20181214_115744.jpg" loading="lazy" alt="20181214_115744.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="germany">Germany</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list single-image">
+	        <li><a href="/images/stamps//Germany/20181214_133455.jpg"><img src="/images/stamps//Germany/20181214_133455.jpg" loading="lazy" alt="20181214_133455.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Germany/20181214_155106.jpg"><img src="/images/stamps//Germany/20181214_155106.jpg" loading="lazy" alt="20181214_155106.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="hong-kong">Hong Kong</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list single-image">
+	        <li><a href="/images/stamps//HongKong/20181214_115820.jpg"><img src="/images/stamps//HongKong/20181214_115820.jpg" loading="lazy" alt="20181214_115820.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//HongKong/20181214_115855.jpg"><img src="/images/stamps//HongKong/20181214_115855.jpg" loading="lazy" alt="20181214_115855.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="india">India</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list ">
+	        <li><a href="/images/stamps//India/20181214_104627.jpg"><img src="/images/stamps//India/20181214_104627.jpg" loading="lazy" alt="20181214_104627.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181214_104658.jpg"><img src="/images/stamps//India/20181214_104658.jpg" loading="lazy" alt="20181214_104658.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181214_104801.jpg"><img src="/images/stamps//India/20181214_104801.jpg" loading="lazy" alt="20181214_104801.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181214_104821.jpg"><img src="/images/stamps//India/20181214_104821.jpg" loading="lazy" alt="20181214_104821.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181214_105753.jpg"><img src="/images/stamps//India/20181214_105753.jpg" loading="lazy" alt="20181214_105753.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181214_110440.jpg"><img src="/images/stamps//India/20181214_110440.jpg" loading="lazy" alt="20181214_110440.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181214_110528.jpg"><img src="/images/stamps//India/20181214_110528.jpg" loading="lazy" alt="20181214_110528.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181214_111345.jpg"><img src="/images/stamps//India/20181214_111345.jpg" loading="lazy" alt="20181214_111345.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_184414.jpg"><img src="/images/stamps//India/20181216_184414.jpg" loading="lazy" alt="20181216_184414.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_184450.jpg"><img src="/images/stamps//India/20181216_184450.jpg" loading="lazy" alt="20181216_184450.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_184523.jpg"><img src="/images/stamps//India/20181216_184523.jpg" loading="lazy" alt="20181216_184523.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_184604.jpg"><img src="/images/stamps//India/20181216_184604.jpg" loading="lazy" alt="20181216_184604.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_184650.jpg"><img src="/images/stamps//India/20181216_184650.jpg" loading="lazy" alt="20181216_184650.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_184730.jpg"><img src="/images/stamps//India/20181216_184730.jpg" loading="lazy" alt="20181216_184730.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_184815.jpg"><img src="/images/stamps//India/20181216_184815.jpg" loading="lazy" alt="20181216_184815.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_184840.jpg"><img src="/images/stamps//India/20181216_184840.jpg" loading="lazy" alt="20181216_184840.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_184933.jpg"><img src="/images/stamps//India/20181216_184933.jpg" loading="lazy" alt="20181216_184933.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_184951.jpg"><img src="/images/stamps//India/20181216_184951.jpg" loading="lazy" alt="20181216_184951.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_185014.jpg"><img src="/images/stamps//India/20181216_185014.jpg" loading="lazy" alt="20181216_185014.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_185038.jpg"><img src="/images/stamps//India/20181216_185038.jpg" loading="lazy" alt="20181216_185038.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_185104.jpg"><img src="/images/stamps//India/20181216_185104.jpg" loading="lazy" alt="20181216_185104.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_185123.jpg"><img src="/images/stamps//India/20181216_185123.jpg" loading="lazy" alt="20181216_185123.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_185220.jpg"><img src="/images/stamps//India/20181216_185220.jpg" loading="lazy" alt="20181216_185220.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_185245.jpg"><img src="/images/stamps//India/20181216_185245.jpg" loading="lazy" alt="20181216_185245.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_185314.jpg"><img src="/images/stamps//India/20181216_185314.jpg" loading="lazy" alt="20181216_185314.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_185340.jpg"><img src="/images/stamps//India/20181216_185340.jpg" loading="lazy" alt="20181216_185340.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_185443.jpg"><img src="/images/stamps//India/20181216_185443.jpg" loading="lazy" alt="20181216_185443.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_185511.jpg"><img src="/images/stamps//India/20181216_185511.jpg" loading="lazy" alt="20181216_185511.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_185548.jpg"><img src="/images/stamps//India/20181216_185548.jpg" loading="lazy" alt="20181216_185548.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_185617.jpg"><img src="/images/stamps//India/20181216_185617.jpg" loading="lazy" alt="20181216_185617.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_185655.jpg"><img src="/images/stamps//India/20181216_185655.jpg" loading="lazy" alt="20181216_185655.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_185713.jpg"><img src="/images/stamps//India/20181216_185713.jpg" loading="lazy" alt="20181216_185713.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_185740.jpg"><img src="/images/stamps//India/20181216_185740.jpg" loading="lazy" alt="20181216_185740.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_185810.jpg"><img src="/images/stamps//India/20181216_185810.jpg" loading="lazy" alt="20181216_185810.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_191133.jpg"><img src="/images/stamps//India/20181216_191133.jpg" loading="lazy" alt="20181216_191133.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_191213.jpg"><img src="/images/stamps//India/20181216_191213.jpg" loading="lazy" alt="20181216_191213.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_191233.jpg"><img src="/images/stamps//India/20181216_191233.jpg" loading="lazy" alt="20181216_191233.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_191313.jpg"><img src="/images/stamps//India/20181216_191313.jpg" loading="lazy" alt="20181216_191313.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_191341.jpg"><img src="/images/stamps//India/20181216_191341.jpg" loading="lazy" alt="20181216_191341.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_191430.jpg"><img src="/images/stamps//India/20181216_191430.jpg" loading="lazy" alt="20181216_191430.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_191500.jpg"><img src="/images/stamps//India/20181216_191500.jpg" loading="lazy" alt="20181216_191500.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_191529.jpg"><img src="/images/stamps//India/20181216_191529.jpg" loading="lazy" alt="20181216_191529.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_191620.jpg"><img src="/images/stamps//India/20181216_191620.jpg" loading="lazy" alt="20181216_191620.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_192113.jpg"><img src="/images/stamps//India/20181216_192113.jpg" loading="lazy" alt="20181216_192113.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_192159.jpg"><img src="/images/stamps//India/20181216_192159.jpg" loading="lazy" alt="20181216_192159.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_192226.jpg"><img src="/images/stamps//India/20181216_192226.jpg" loading="lazy" alt="20181216_192226.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_192250.jpg"><img src="/images/stamps//India/20181216_192250.jpg" loading="lazy" alt="20181216_192250.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_192305.jpg"><img src="/images/stamps//India/20181216_192305.jpg" loading="lazy" alt="20181216_192305.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_192334.jpg"><img src="/images/stamps//India/20181216_192334.jpg" loading="lazy" alt="20181216_192334.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//India/20181216_192426.jpg"><img src="/images/stamps//India/20181216_192426.jpg" loading="lazy" alt="20181216_192426.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="indonesia">Indonesia</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list ">
+	        <li><a href="/images/stamps//Indonesia/20181215_203602.jpg"><img src="/images/stamps//Indonesia/20181215_203602.jpg" loading="lazy" alt="20181215_203602.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Indonesia/20181215_203643.jpg"><img src="/images/stamps//Indonesia/20181215_203643.jpg" loading="lazy" alt="20181215_203643.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Indonesia/20181215_203734.jpg"><img src="/images/stamps//Indonesia/20181215_203734.jpg" loading="lazy" alt="20181215_203734.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Indonesia/20181215_203801.jpg"><img src="/images/stamps//Indonesia/20181215_203801.jpg" loading="lazy" alt="20181215_203801.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Indonesia/20181215_203841.jpg"><img src="/images/stamps//Indonesia/20181215_203841.jpg" loading="lazy" alt="20181215_203841.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Indonesia/20181215_203939.jpg"><img src="/images/stamps//Indonesia/20181215_203939.jpg" loading="lazy" alt="20181215_203939.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="iran">Iran</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list single-image">
+	        <li><a href="/images/stamps//Iran/20181214_105911.jpg"><img src="/images/stamps//Iran/20181214_105911.jpg" loading="lazy" alt="20181214_105911.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="ireland">Ireland</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list single-image">
+	        <li><a href="/images/stamps//Ireland/20181214_142856.jpg"><img src="/images/stamps//Ireland/20181214_142856.jpg" loading="lazy" alt="20181214_142856.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="israel">Israel</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list ">
+	        <li><a href="/images/stamps//Israel/20181214_134551.jpg"><img src="/images/stamps//Israel/20181214_134551.jpg" loading="lazy" alt="20181214_134551.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Israel/20181214_134637.jpg"><img src="/images/stamps//Israel/20181214_134637.jpg" loading="lazy" alt="20181214_134637.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Israel/20181214_134703.jpg"><img src="/images/stamps//Israel/20181214_134703.jpg" loading="lazy" alt="20181214_134703.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="italy">Italy</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list ">
+	        <li><a href="/images/stamps//Italy/20181214_134119.jpg"><img src="/images/stamps//Italy/20181214_134119.jpg" loading="lazy" alt="20181214_134119.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Italy/20181214_143155.jpg"><img src="/images/stamps//Italy/20181214_143155.jpg" loading="lazy" alt="20181214_143155.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Italy/20181214_143217.jpg"><img src="/images/stamps//Italy/20181214_143217.jpg" loading="lazy" alt="20181214_143217.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="japan">Japan</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list ">
+	        <li><a href="/images/stamps//Japan/20181214_135138.jpg"><img src="/images/stamps//Japan/20181214_135138.jpg" loading="lazy" alt="20181214_135138.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Japan/20181214_135204.jpg"><img src="/images/stamps//Japan/20181214_135204.jpg" loading="lazy" alt="20181214_135204.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Japan/20181214_135234.jpg"><img src="/images/stamps//Japan/20181214_135234.jpg" loading="lazy" alt="20181214_135234.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Japan/20181214_135315.jpg"><img src="/images/stamps//Japan/20181214_135315.jpg" loading="lazy" alt="20181214_135315.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Japan/20181214_135338.jpg"><img src="/images/stamps//Japan/20181214_135338.jpg" loading="lazy" alt="20181214_135338.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Japan/20181214_135403.jpg"><img src="/images/stamps//Japan/20181214_135403.jpg" loading="lazy" alt="20181214_135403.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="kenya">Kenya</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list ">
+	        <li><a href="/images/stamps//Kenya/20181214_151057.jpg"><img src="/images/stamps//Kenya/20181214_151057.jpg" loading="lazy" alt="20181214_151057.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Kenya/20181214_151122.jpg"><img src="/images/stamps//Kenya/20181214_151122.jpg" loading="lazy" alt="20181214_151122.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Kenya/20181214_151149.jpg"><img src="/images/stamps//Kenya/20181214_151149.jpg" loading="lazy" alt="20181214_151149.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Kenya/20181214_151212.jpg"><img src="/images/stamps//Kenya/20181214_151212.jpg" loading="lazy" alt="20181214_151212.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Kenya/20181214_154937.jpg"><img src="/images/stamps//Kenya/20181214_154937.jpg" loading="lazy" alt="20181214_154937.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Kenya/20181214_155012.jpg"><img src="/images/stamps//Kenya/20181214_155012.jpg" loading="lazy" alt="20181214_155012.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="malaysia">Malaysia</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list single-image">
+	        <li><a href="/images/stamps//Malaysia/20181214_114040.jpg"><img src="/images/stamps//Malaysia/20181214_114040.jpg" loading="lazy" alt="20181214_114040.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Malaysia/20181214_115715.jpg"><img src="/images/stamps//Malaysia/20181214_115715.jpg" loading="lazy" alt="20181214_115715.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="maldives">Maldives</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list single-image">
+	        <li><a href="/images/stamps//Maldives/20181214_135009.jpg"><img src="/images/stamps//Maldives/20181214_135009.jpg" loading="lazy" alt="20181214_135009.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="mexico">Mexico</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list single-image">
+	        <li><a href="/images/stamps//Mexico/20181214_134841.jpg"><img src="/images/stamps//Mexico/20181214_134841.jpg" loading="lazy" alt="20181214_134841.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Mexico/20181214_134907.jpg"><img src="/images/stamps//Mexico/20181214_134907.jpg" loading="lazy" alt="20181214_134907.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="morocco">Morocco</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list single-image">
+	        <li><a href="/images/stamps//Morocco/20181214_112853.jpg"><img src="/images/stamps//Morocco/20181214_112853.jpg" loading="lazy" alt="20181214_112853.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="nicaragua">Nicaragua</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list single-image">
+	        <li><a href="/images/stamps//Nicaragua/20181215_203349.jpg"><img src="/images/stamps//Nicaragua/20181215_203349.jpg" loading="lazy" alt="20181215_203349.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="nepal">Nepal</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list ">
+	        <li><a href="/images/stamps//Nepal/20181215_204105.jpg"><img src="/images/stamps//Nepal/20181215_204105.jpg" loading="lazy" alt="20181215_204105.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Nepal/20181216_113838.jpg"><img src="/images/stamps//Nepal/20181216_113838.jpg" loading="lazy" alt="20181216_113838.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Nepal/20181216_113903.jpg"><img src="/images/stamps//Nepal/20181216_113903.jpg" loading="lazy" alt="20181216_113903.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Nepal/20181216_113938.jpg"><img src="/images/stamps//Nepal/20181216_113938.jpg" loading="lazy" alt="20181216_113938.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Nepal/20181216_114011.jpg"><img src="/images/stamps//Nepal/20181216_114011.jpg" loading="lazy" alt="20181216_114011.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Nepal/20181216_114059.jpg"><img src="/images/stamps//Nepal/20181216_114059.jpg" loading="lazy" alt="20181216_114059.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Nepal/20181216_114304.jpg"><img src="/images/stamps//Nepal/20181216_114304.jpg" loading="lazy" alt="20181216_114304.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="new-zealand">New Zealand</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list ">
+	        <li><a href="/images/stamps//NewZealand/20181214_142716.jpg"><img src="/images/stamps//NewZealand/20181214_142716.jpg" loading="lazy" alt="20181214_142716.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//NewZealand/20181214_142748.jpg"><img src="/images/stamps//NewZealand/20181214_142748.jpg" loading="lazy" alt="20181214_142748.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//NewZealand/20181214_142814.jpg"><img src="/images/stamps//NewZealand/20181214_142814.jpg" loading="lazy" alt="20181214_142814.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="nigeria">Nigeria</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list ">
+	        <li><a href="/images/stamps//Nigeria/20181215_202158.jpg"><img src="/images/stamps//Nigeria/20181215_202158.jpg" loading="lazy" alt="20181215_202158.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Nigeria/20181215_202248.jpg"><img src="/images/stamps//Nigeria/20181215_202248.jpg" loading="lazy" alt="20181215_202248.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Nigeria/20181215_203031.jpg"><img src="/images/stamps//Nigeria/20181215_203031.jpg" loading="lazy" alt="20181215_203031.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Nigeria/20181215_203209.jpg"><img src="/images/stamps//Nigeria/20181215_203209.jpg" loading="lazy" alt="20181215_203209.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Nigeria/20181215_203250.jpg"><img src="/images/stamps//Nigeria/20181215_203250.jpg" loading="lazy" alt="20181215_203250.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="oman">Oman</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list single-image">
+	        <li><a href="/images/stamps//Oman/20181214_141514.jpg"><img src="/images/stamps//Oman/20181214_141514.jpg" loading="lazy" alt="20181214_141514.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="pakistan">Pakistan</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list ">
+	        <li><a href="/images/stamps//Pakistan/20181214_132232.jpg"><img src="/images/stamps//Pakistan/20181214_132232.jpg" loading="lazy" alt="20181214_132232.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Pakistan/20181214_132333.jpg"><img src="/images/stamps//Pakistan/20181214_132333.jpg" loading="lazy" alt="20181214_132333.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Pakistan/20181214_132402.jpg"><img src="/images/stamps//Pakistan/20181214_132402.jpg" loading="lazy" alt="20181214_132402.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="poland">Poland</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list single-image">
+	        <li><a href="/images/stamps//Poland/20181214_112802.jpg"><img src="/images/stamps//Poland/20181214_112802.jpg" loading="lazy" alt="20181214_112802.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Poland/20181215_202747.jpg"><img src="/images/stamps//Poland/20181215_202747.jpg" loading="lazy" alt="20181215_202747.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="portugal">Portugal</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list single-image">
+	        <li><a href="/images/stamps//Portugal/20181215_202722.jpg"><img src="/images/stamps//Portugal/20181215_202722.jpg" loading="lazy" alt="20181215_202722.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Portugal/20181215_202836.jpg"><img src="/images/stamps//Portugal/20181215_202836.jpg" loading="lazy" alt="20181215_202836.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="romania">Romania</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list single-image">
+	        <li><a href="/images/stamps//Romania/20181214_111321.jpg"><img src="/images/stamps//Romania/20181214_111321.jpg" loading="lazy" alt="20181214_111321.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="rwanda">Rwanda</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list single-image">
+	        <li><a href="/images/stamps//Rwanda/20181214_132155.jpg"><img src="/images/stamps//Rwanda/20181214_132155.jpg" loading="lazy" alt="20181214_132155.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="singapore">Singapore</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list ">
+	        <li><a href="/images/stamps//Singapore/20181214_140004.jpg"><img src="/images/stamps//Singapore/20181214_140004.jpg" loading="lazy" alt="20181214_140004.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Singapore/20181214_140041.jpg"><img src="/images/stamps//Singapore/20181214_140041.jpg" loading="lazy" alt="20181214_140041.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Singapore/20181214_140128.jpg"><img src="/images/stamps//Singapore/20181214_140128.jpg" loading="lazy" alt="20181214_140128.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Singapore/20181214_140155.jpg"><img src="/images/stamps//Singapore/20181214_140155.jpg" loading="lazy" alt="20181214_140155.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Singapore/20181214_140235.jpg"><img src="/images/stamps//Singapore/20181214_140235.jpg" loading="lazy" alt="20181214_140235.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Singapore/20181214_140322.jpg"><img src="/images/stamps//Singapore/20181214_140322.jpg" loading="lazy" alt="20181214_140322.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="spain">Spain</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list ">
+	        <li><a href="/images/stamps//Spain/20181214_111809.jpg"><img src="/images/stamps//Spain/20181214_111809.jpg" loading="lazy" alt="20181214_111809.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Spain/20181214_111839.jpg"><img src="/images/stamps//Spain/20181214_111839.jpg" loading="lazy" alt="20181214_111839.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Spain/20181214_111909.jpg"><img src="/images/stamps//Spain/20181214_111909.jpg" loading="lazy" alt="20181214_111909.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Spain/20181214_133431.jpg"><img src="/images/stamps//Spain/20181214_133431.jpg" loading="lazy" alt="20181214_133431.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="sudan">Sudan</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list single-image">
+	        <li><a href="/images/stamps//Sudan/20181214_134515.jpg"><img src="/images/stamps//Sudan/20181214_134515.jpg" loading="lazy" alt="20181214_134515.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="tanzania">Tanzania</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list ">
+	        <li><a href="/images/stamps//Tanzania/20181215_201850.jpg"><img src="/images/stamps//Tanzania/20181215_201850.jpg" loading="lazy" alt="20181215_201850.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Tanzania/20181215_201918.jpg"><img src="/images/stamps//Tanzania/20181215_201918.jpg" loading="lazy" alt="20181215_201918.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Tanzania/20181215_202012.jpg"><img src="/images/stamps//Tanzania/20181215_202012.jpg" loading="lazy" alt="20181215_202012.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Tanzania/20181215_202103.jpg"><img src="/images/stamps//Tanzania/20181215_202103.jpg" loading="lazy" alt="20181215_202103.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="thailand">Thailand</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list ">
+	        <li><a href="/images/stamps//Thailand/20181214_134933.jpg"><img src="/images/stamps//Thailand/20181214_134933.jpg" loading="lazy" alt="20181214_134933.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Thailand/20181215_200955.jpg"><img src="/images/stamps//Thailand/20181215_200955.jpg" loading="lazy" alt="20181215_200955.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Thailand/20181215_201130.jpg"><img src="/images/stamps//Thailand/20181215_201130.jpg" loading="lazy" alt="20181215_201130.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Thailand/20181215_201209.jpg"><img src="/images/stamps//Thailand/20181215_201209.jpg" loading="lazy" alt="20181215_201209.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Thailand/20181215_201258.jpg"><img src="/images/stamps//Thailand/20181215_201258.jpg" loading="lazy" alt="20181215_201258.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Thailand/20181215_201455.jpg"><img src="/images/stamps//Thailand/20181215_201455.jpg" loading="lazy" alt="20181215_201455.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//Thailand/20181215_201546.jpg"><img src="/images/stamps//Thailand/20181215_201546.jpg" loading="lazy" alt="20181215_201546.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="trinidad">Trinidad</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list single-image">
+	        <li><a href="/images/stamps//Trinidad/20181214_133402.jpg"><img src="/images/stamps//Trinidad/20181214_133402.jpg" loading="lazy" alt="20181214_133402.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="uae">UAE</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list single-image">
+	        <li><a href="/images/stamps//UAE/20181214_134445.jpg"><img src="/images/stamps//UAE/20181214_134445.jpg" loading="lazy" alt="20181214_134445.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="uk">UK</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list ">
+	        <li><a href="/images/stamps//UK/20181214_050536.jpg"><img src="/images/stamps//UK/20181214_050536.jpg" loading="lazy" alt="20181214_050536.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//UK/20181214_133518.jpg"><img src="/images/stamps//UK/20181214_133518.jpg" loading="lazy" alt="20181214_133518.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//UK/20181214_142920.jpg"><img src="/images/stamps//UK/20181214_142920.jpg" loading="lazy" alt="20181214_142920.jpg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+<h2 id="usa">USA</h2>
+
+  <div class="image-gallery">
+    <ol class="photo-list ">
+	        <li><a href="/images/stamps//USA/20181214_142024.jpg"><img src="/images/stamps//USA/20181214_142024.jpg" loading="lazy" alt="20181214_142024.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//USA/20181216_114413.jpg"><img src="/images/stamps//USA/20181216_114413.jpg" loading="lazy" alt="20181216_114413.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//USA/20181216_114452.jpg"><img src="/images/stamps//USA/20181216_114452.jpg" loading="lazy" alt="20181216_114452.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//USA/20181216_114527.jpg"><img src="/images/stamps//USA/20181216_114527.jpg" loading="lazy" alt="20181216_114527.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//USA/20181216_114602.jpg"><img src="/images/stamps//USA/20181216_114602.jpg" loading="lazy" alt="20181216_114602.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//USA/20181216_114629.jpg"><img src="/images/stamps//USA/20181216_114629.jpg" loading="lazy" alt="20181216_114629.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//USA/20181216_114703.jpg"><img src="/images/stamps//USA/20181216_114703.jpg" loading="lazy" alt="20181216_114703.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//USA/20181216_114735.jpg"><img src="/images/stamps//USA/20181216_114735.jpg" loading="lazy" alt="20181216_114735.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//USA/20181216_114807.jpg"><img src="/images/stamps//USA/20181216_114807.jpg" loading="lazy" alt="20181216_114807.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//USA/20181216_114828.jpg"><img src="/images/stamps//USA/20181216_114828.jpg" loading="lazy" alt="20181216_114828.jpg">
+	        </a></li>
+	        <li><a href="/images/stamps//USA/ColumbiaUniversityUS.jpeg"><img src="/images/stamps//USA/ColumbiaUniversityUS.jpeg" loading="lazy" alt="ColumbiaUniversityUS.jpeg">
+	        </a></li>
+    </ol>
+  </div>
+
+
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    height: 22vh;
+    flex-grow: 0;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image {
+    height: 22vh; 
+}
+.photo-list.single-image img {
+    max-height: 100%; 
+}
+.photo-list.single-image > li {
+    height: 22vh; 
+}
+</style>
+
+</content>
+
+      
+
+      
+      
+    </entry>
+    
+  
+    
+    <entry>
+      <title>Coin Collection</title>
+      <link href="https://srikanthperinkulam.com/coin/" />
+      <id>https://srikanthperinkulam.com/coin/</id>
+      <updated>2025-08-15T00:00:00Z</updated>
+      <published>2025-08-15T00:00:00Z</published>
+      <summary>Coin Collection</summary>
+      <content type="html"><p>Over the last few years M&amp;I have been collecting coins as we&rsquo;ve moved across different posts. These MSG coins are real cool and are one of the ways the marines raise funds for the Marine ball. Not quite sure until when we&rsquo;ll collect these but I did want to digitize them. Only a question of time that we start losing/gifting them.</p>
+<h2 id="2025-msg-250th-marine-ball-coin">2025 MSG 250th Marine Ball coin</h2>
+<p>This one looks pretty tame in comparison to the coin these fine fellas made earlier this year. Still pretty cool!
+<style>
+   
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-content img {
+    border-radius: 4px;
+    margin: 0 0 !important;
+  }
+
+   
+  .coin-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    justify-content: left;  
+  }
+
+  .coin-list li {
+    margin: 10px;
+  }
+
+   
+  .flip-container {
+    perspective: 1000px;  
+    width: 250px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+  .flip-container-wide {
+    perspective: 1000px;  
+    width: 450px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+
+  .flipper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.9s;
+  }
+
+  .flip-container:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+
+  .flip-container-wide:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+  img {
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+    display: block;  
+    backface-visibility: hidden;  
+  }
+
+  .front, .back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .back {
+    transform: rotateY(180deg);  
+  }
+
+   
+  @media (max-width: 768px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+
+   
+  @media (max-width: 550px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+</style>
+   
+  <ol class="coin-list">
+    <li class="flip-container">
+      <a href="/images/coins//15/Imagepipe_0.jpg">
+        <div class="flipper">
+          <img class="front" src="/images/coins//15/Imagepipe_0.jpg" alt="Coin Front" />
+          <img class="back" src="/images/coins//15/Imagepipe_1.jpg" alt="Coin Back" />
+        </div>
+      </a>
+    </li>
+  </ol>
+</p>
+<h2 id="2025-rso-malabo-coin">2025 RSO Malabo coin</h2>
+<p>That Ceiba tree is a pretty neat touch!
+<style>
+   
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-content img {
+    border-radius: 4px;
+    margin: 0 0 !important;
+  }
+
+   
+  .coin-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    justify-content: left;  
+  }
+
+  .coin-list li {
+    margin: 10px;
+  }
+
+   
+  .flip-container {
+    perspective: 1000px;  
+    width: 250px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+  .flip-container-wide {
+    perspective: 1000px;  
+    width: 450px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+
+  .flipper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.9s;
+  }
+
+  .flip-container:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+
+  .flip-container-wide:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+  img {
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+    display: block;  
+    backface-visibility: hidden;  
+  }
+
+  .front, .back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .back {
+    transform: rotateY(180deg);  
+  }
+
+   
+  @media (max-width: 768px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+
+   
+  @media (max-width: 550px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+</style>
+   
+  <ol class="coin-list">
+    <li class="flip-container">
+      <a href="/images/coins//01/Imagepipe_23.jpg">
+        <div class="flipper">
+          <img class="front" src="/images/coins//01/Imagepipe_23.jpg" alt="Coin Front" />
+          <img class="back" src="/images/coins//01/Imagepipe_24.jpg" alt="Coin Back" />
+        </div>
+      </a>
+    </li>
+  </ol>
+</p>
+<h2 id="2025-msg-yaounde-coin">2025 MSG Yaounde coin</h2>
+<p>This is probably the coolest coin yet! That sword comes off from the coin. Some young marine had a terrific time designing this. We&rsquo;ve already bought a bunch of these to gift to friends and family.
+<style>
+   
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-content img {
+    border-radius: 4px;
+    margin: 0 0 !important;
+  }
+
+   
+  .coin-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    justify-content: left;  
+  }
+
+  .coin-list li {
+    margin: 10px;
+  }
+
+   
+  .flip-container {
+    perspective: 1000px;  
+    width: 250px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+  .flip-container-wide {
+    perspective: 1000px;  
+    width: 450px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+
+  .flipper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.9s;
+  }
+
+  .flip-container:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+
+  .flip-container-wide:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+  img {
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+    display: block;  
+    backface-visibility: hidden;  
+  }
+
+  .front, .back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .back {
+    transform: rotateY(180deg);  
+  }
+
+   
+  @media (max-width: 768px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+
+   
+  @media (max-width: 550px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+</style>
+   
+  <ol class="coin-list">
+    <li class="flip-container">
+      <a href="/images/coins//02/Imagepipe_17.jpg">
+        <div class="flipper">
+          <img class="front" src="/images/coins//02/Imagepipe_17.jpg" alt="Coin Front" />
+          <img class="back" src="/images/coins//02/Imagepipe_18.jpg" alt="Coin Back" />
+        </div>
+      </a>
+    </li>
+  </ol>
+</p>
+<h2 id="2024-msg-yaounde-coin">2024 MSG Yaounde coin</h2>
+<p>Reunification monument and the lion - Prominent icons from Yaounde.
+<style>
+   
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-content img {
+    border-radius: 4px;
+    margin: 0 0 !important;
+  }
+
+   
+  .coin-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    justify-content: left;  
+  }
+
+  .coin-list li {
+    margin: 10px;
+  }
+
+   
+  .flip-container {
+    perspective: 1000px;  
+    width: 250px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+  .flip-container-wide {
+    perspective: 1000px;  
+    width: 450px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+
+  .flipper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.9s;
+  }
+
+  .flip-container:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+
+  .flip-container-wide:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+  img {
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+    display: block;  
+    backface-visibility: hidden;  
+  }
+
+  .front, .back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .back {
+    transform: rotateY(180deg);  
+  }
+
+   
+  @media (max-width: 768px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+
+   
+  @media (max-width: 550px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+</style>
+   
+  <ol class="coin-list">
+    <li class="flip-container">
+      <a href="/images/coins//04/Imagepipe_33.jpg">
+        <div class="flipper">
+          <img class="front" src="/images/coins//04/Imagepipe_33.jpg" alt="Coin Front" />
+          <img class="back" src="/images/coins//04/Imagepipe_34.jpg" alt="Coin Back" />
+        </div>
+      </a>
+    </li>
+  </ol>
+</p>
+<h2 id="2024-seabee-af-coin">2024 Seabee AF coin</h2>
+<p>Pretty neat representation of the Big5 in Africa
+<style>
+   
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-content img {
+    border-radius: 4px;
+    margin: 0 0 !important;
+  }
+
+   
+  .coin-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    justify-content: left;  
+  }
+
+  .coin-list li {
+    margin: 10px;
+  }
+
+   
+  .flip-container {
+    perspective: 1000px;  
+    width: 250px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+  .flip-container-wide {
+    perspective: 1000px;  
+    width: 450px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+
+  .flipper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.9s;
+  }
+
+  .flip-container:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+
+  .flip-container-wide:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+  img {
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+    display: block;  
+    backface-visibility: hidden;  
+  }
+
+  .front, .back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .back {
+    transform: rotateY(180deg);  
+  }
+
+   
+  @media (max-width: 768px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+
+   
+  @media (max-width: 550px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+</style>
+   
+  <ol class="coin-list">
+    <li class="flip-container">
+      <a href="/images/coins//05/Imagepipe_35.jpg">
+        <div class="flipper">
+          <img class="front" src="/images/coins//05/Imagepipe_35.jpg" alt="Coin Front" />
+          <img class="back" src="/images/coins//05/Imagepipe_36.jpg" alt="Coin Back" />
+        </div>
+      </a>
+    </li>
+  </ol>
+</p>
+<h2 id="2024-rso-yaounde-coin">2024 RSO Yaounde coin</h2>
+<p>Coat of arms of Cameroon.
+<style>
+   
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-content img {
+    border-radius: 4px;
+    margin: 0 0 !important;
+  }
+
+   
+  .coin-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    justify-content: left;  
+  }
+
+  .coin-list li {
+    margin: 10px;
+  }
+
+   
+  .flip-container {
+    perspective: 1000px;  
+    width: 250px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+  .flip-container-wide {
+    perspective: 1000px;  
+    width: 450px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+
+  .flipper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.9s;
+  }
+
+  .flip-container:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+
+  .flip-container-wide:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+  img {
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+    display: block;  
+    backface-visibility: hidden;  
+  }
+
+  .front, .back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .back {
+    transform: rotateY(180deg);  
+  }
+
+   
+  @media (max-width: 768px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+
+   
+  @media (max-width: 550px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+</style>
+   
+  <ol class="coin-list">
+    <li class="flip-container">
+      <a href="/images/coins//06/Imagepipe_31.jpg">
+        <div class="flipper">
+          <img class="front" src="/images/coins//06/Imagepipe_31.jpg" alt="Coin Front" />
+          <img class="back" src="/images/coins//06/Imagepipe_32.jpg" alt="Coin Back" />
+        </div>
+      </a>
+    </li>
+  </ol>
+</p>
+<h2 id="2024-msg-mexico-city-coin">2024 MSG Mexico City coin</h2>
+<p>Some neat design in here!
+<style>
+   
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-content img {
+    border-radius: 4px;
+    margin: 0 0 !important;
+  }
+
+   
+  .coin-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    justify-content: left;  
+  }
+
+  .coin-list li {
+    margin: 10px;
+  }
+
+   
+  .flip-container {
+    perspective: 1000px;  
+    width: 250px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+  .flip-container-wide {
+    perspective: 1000px;  
+    width: 450px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+
+  .flipper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.9s;
+  }
+
+  .flip-container:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+
+  .flip-container-wide:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+  img {
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+    display: block;  
+    backface-visibility: hidden;  
+  }
+
+  .front, .back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .back {
+    transform: rotateY(180deg);  
+  }
+
+   
+  @media (max-width: 768px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+
+   
+  @media (max-width: 550px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+</style>
+   
+  <ol class="coin-list">
+    <li class="flip-container">
+      <a href="/images/coins//03/Imagepipe_39.jpg">
+        <div class="flipper">
+          <img class="front" src="/images/coins//03/Imagepipe_39.jpg" alt="Coin Front" />
+          <img class="back" src="/images/coins//03/Imagepipe_40.jpg" alt="Coin Back" />
+        </div>
+      </a>
+    </li>
+  </ol>
+</p>
+<h2 id="2024-msg-mexico-city-249th-marine-ball-ticket">2024 MSG Mexico City 249th Marine ball ticket</h2>
+<p>This was M&rsquo;s exchange. We decided not to go to the Marine ball this year. However, we exchanged our cool <a href="https://srikanthperinkulam.com/2023/11/05/248th-marine-ball/">2023 Marine ball</a> mug for this one. Pretty neat idea!
+<style>
+   
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-content img {
+    border-radius: 4px;
+    margin: 0 0 !important;
+  }
+
+   
+  .coin-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    justify-content: left;  
+  }
+
+  .coin-list li {
+    margin: 10px;
+  }
+
+   
+  .flip-container {
+    perspective: 1000px;  
+    width: 250px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+  .flip-container-wide {
+    perspective: 1000px;  
+    width: 450px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+
+  .flipper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.9s;
+  }
+
+  .flip-container:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+
+  .flip-container-wide:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+  img {
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+    display: block;  
+    backface-visibility: hidden;  
+  }
+
+  .front, .back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .back {
+    transform: rotateY(180deg);  
+  }
+
+   
+  @media (max-width: 768px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+
+   
+  @media (max-width: 550px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+</style>
+   
+  <ol class="coin-list">
+    <li class="flip-container-wide">
+      <a href="/images/coins//07W/Imagepipe_41.jpg">
+        <div class="flipper">
+          <img class="front" src="/images/coins//07W/Imagepipe_41.jpg" alt="Coin Front" />
+          <img class="back" src="/images/coins//07W/Imagepipe_42.jpg" alt="Coin Back" />
+        </div>
+      </a>
+    </li>
+  </ol>
+</p>
+<h2 id="2024-seabee-wha-coin">2024 Seabee WHA coin</h2>
+<p>The Captain&rsquo;s wheel
+<style>
+   
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-content img {
+    border-radius: 4px;
+    margin: 0 0 !important;
+  }
+
+   
+  .coin-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    justify-content: left;  
+  }
+
+  .coin-list li {
+    margin: 10px;
+  }
+
+   
+  .flip-container {
+    perspective: 1000px;  
+    width: 250px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+  .flip-container-wide {
+    perspective: 1000px;  
+    width: 450px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+
+  .flipper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.9s;
+  }
+
+  .flip-container:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+
+  .flip-container-wide:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+  img {
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+    display: block;  
+    backface-visibility: hidden;  
+  }
+
+  .front, .back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .back {
+    transform: rotateY(180deg);  
+  }
+
+   
+  @media (max-width: 768px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+
+   
+  @media (max-width: 550px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+</style>
+   
+  <ol class="coin-list">
+    <li class="flip-container">
+      <a href="/images/coins//08/Imagepipe_19.jpg">
+        <div class="flipper">
+          <img class="front" src="/images/coins//08/Imagepipe_19.jpg" alt="Coin Front" />
+          <img class="back" src="/images/coins//08/Imagepipe_20.jpg" alt="Coin Back" />
+        </div>
+      </a>
+    </li>
+  </ol>
+</p>
+<h2 id="2024-msg-managua-coin">2024 MSG Managua coin</h2>
+<p>Let&rsquo;s talk rectangle.
+<style>
+   
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-content img {
+    border-radius: 4px;
+    margin: 0 0 !important;
+  }
+
+   
+  .coin-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    justify-content: left;  
+  }
+
+  .coin-list li {
+    margin: 10px;
+  }
+
+   
+  .flip-container {
+    perspective: 1000px;  
+    width: 250px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+  .flip-container-wide {
+    perspective: 1000px;  
+    width: 450px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+
+  .flipper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.9s;
+  }
+
+  .flip-container:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+
+  .flip-container-wide:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+  img {
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+    display: block;  
+    backface-visibility: hidden;  
+  }
+
+  .front, .back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .back {
+    transform: rotateY(180deg);  
+  }
+
+   
+  @media (max-width: 768px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+
+   
+  @media (max-width: 550px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+</style>
+   
+  <ol class="coin-list">
+    <li class="flip-container-wide">
+      <a href="/images/coins//09W/Imagepipe_43.jpg">
+        <div class="flipper">
+          <img class="front" src="/images/coins//09W/Imagepipe_43.jpg" alt="Coin Front" />
+          <img class="back" src="/images/coins//09W/Imagepipe_44.jpg" alt="Coin Back" />
+        </div>
+      </a>
+    </li>
+  </ol>
+</p>
+<h2 id="2024-msg-matamoros-coin">2024 MSG Matamoros coin</h2>
+<p>I believe this one along with the remaining 5(?) combined form a mega mexico coin. Didn&rsquo;t get around collecting the rest.</p>
+<style>
+   
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-content img {
+    border-radius: 4px;
+    margin: 0 0 !important;
+  }
+
+   
+  .coin-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    justify-content: left;  
+  }
+
+  .coin-list li {
+    margin: 10px;
+  }
+
+   
+  .flip-container {
+    perspective: 1000px;  
+    width: 250px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+  .flip-container-wide {
+    perspective: 1000px;  
+    width: 450px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+
+  .flipper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.9s;
+  }
+
+  .flip-container:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+
+  .flip-container-wide:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+  img {
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+    display: block;  
+    backface-visibility: hidden;  
+  }
+
+  .front, .back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .back {
+    transform: rotateY(180deg);  
+  }
+
+   
+  @media (max-width: 768px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+
+   
+  @media (max-width: 550px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+</style>
+   
+  <ol class="coin-list">
+    <li class="flip-container">
+      <a href="/images/coins//10/Imagepipe_37.jpg">
+        <div class="flipper">
+          <img class="front" src="/images/coins//10/Imagepipe_37.jpg" alt="Coin Front" />
+          <img class="back" src="/images/coins//10/Imagepipe_38.jpg" alt="Coin Back" />
+        </div>
+      </a>
+    </li>
+  </ol>
+
+<h2 id="2023-seebee-mexico-city-coin">2023 Seebee Mexico City coin</h2>
+<p>A coin with a purpose. Love the ESC/ESO touch.
+<style>
+   
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-content img {
+    border-radius: 4px;
+    margin: 0 0 !important;
+  }
+
+   
+  .coin-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    justify-content: left;  
+  }
+
+  .coin-list li {
+    margin: 10px;
+  }
+
+   
+  .flip-container {
+    perspective: 1000px;  
+    width: 250px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+  .flip-container-wide {
+    perspective: 1000px;  
+    width: 450px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+
+  .flipper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.9s;
+  }
+
+  .flip-container:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+
+  .flip-container-wide:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+  img {
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+    display: block;  
+    backface-visibility: hidden;  
+  }
+
+  .front, .back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .back {
+    transform: rotateY(180deg);  
+  }
+
+   
+  @media (max-width: 768px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+
+   
+  @media (max-width: 550px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+</style>
+   
+  <ol class="coin-list">
+    <li class="flip-container">
+      <a href="/images/coins//11/Imagepipe_21.jpg">
+        <div class="flipper">
+          <img class="front" src="/images/coins//11/Imagepipe_21.jpg" alt="Coin Front" />
+          <img class="back" src="/images/coins//11/Imagepipe_22.jpg" alt="Coin Back" />
+        </div>
+      </a>
+    </li>
+  </ol>
+</p>
+<h2 id="2023-rso-matamoros-coin">2023 RSO Matamoros coin</h2>
+<p>Gotta thank Rob for this one!
+<style>
+   
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-content img {
+    border-radius: 4px;
+    margin: 0 0 !important;
+  }
+
+   
+  .coin-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    justify-content: left;  
+  }
+
+  .coin-list li {
+    margin: 10px;
+  }
+
+   
+  .flip-container {
+    perspective: 1000px;  
+    width: 250px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+  .flip-container-wide {
+    perspective: 1000px;  
+    width: 450px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+
+  .flipper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.9s;
+  }
+
+  .flip-container:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+
+  .flip-container-wide:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+  img {
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+    display: block;  
+    backface-visibility: hidden;  
+  }
+
+  .front, .back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .back {
+    transform: rotateY(180deg);  
+  }
+
+   
+  @media (max-width: 768px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+
+   
+  @media (max-width: 550px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+</style>
+   
+  <ol class="coin-list">
+    <li class="flip-container">
+      <a href="/images/coins//12/Imagepipe_27.jpg">
+        <div class="flipper">
+          <img class="front" src="/images/coins//12/Imagepipe_27.jpg" alt="Coin Front" />
+          <img class="back" src="/images/coins//12/Imagepipe_28.jpg" alt="Coin Back" />
+        </div>
+      </a>
+    </li>
+  </ol>
+</p>
+<h2 id="2023-rso-mexico-city-coin">2023 RSO Mexico City coin</h2>
+<p>Pretty simple coin with the omnipresent <em>Calavera</em>! I believe the nine stars represent the nine consulates in Mexico.
+<style>
+   
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-content img {
+    border-radius: 4px;
+    margin: 0 0 !important;
+  }
+
+   
+  .coin-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    justify-content: left;  
+  }
+
+  .coin-list li {
+    margin: 10px;
+  }
+
+   
+  .flip-container {
+    perspective: 1000px;  
+    width: 250px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+  .flip-container-wide {
+    perspective: 1000px;  
+    width: 450px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+
+  .flipper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.9s;
+  }
+
+  .flip-container:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+
+  .flip-container-wide:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+  img {
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+    display: block;  
+    backface-visibility: hidden;  
+  }
+
+  .front, .back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .back {
+    transform: rotateY(180deg);  
+  }
+
+   
+  @media (max-width: 768px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+
+   
+  @media (max-width: 550px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+</style>
+   
+  <ol class="coin-list">
+    <li class="flip-container">
+      <a href="/images/coins//13/Imagepipe_29.jpg">
+        <div class="flipper">
+          <img class="front" src="/images/coins//13/Imagepipe_29.jpg" alt="Coin Front" />
+          <img class="back" src="/images/coins//13/Imagepipe_30.jpg" alt="Coin Back" />
+        </div>
+      </a>
+    </li>
+  </ol>
+</p>
+<h2 id="2000-dos-calcutta-consulate-coin">2000 DOS Calcutta Consulate coin</h2>
+<style>
+   
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-content img {
+    border-radius: 4px;
+    margin: 0 0 !important;
+  }
+
+   
+  .coin-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    justify-content: left;  
+  }
+
+  .coin-list li {
+    margin: 10px;
+  }
+
+   
+  .flip-container {
+    perspective: 1000px;  
+    width: 250px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+  .flip-container-wide {
+    perspective: 1000px;  
+    width: 450px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+
+  .flipper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.9s;
+  }
+
+  .flip-container:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+
+  .flip-container-wide:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+  img {
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+    display: block;  
+    backface-visibility: hidden;  
+  }
+
+  .front, .back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .back {
+    transform: rotateY(180deg);  
+  }
+
+   
+  @media (max-width: 768px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+
+   
+  @media (max-width: 550px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+</style>
+   
+  <ol class="coin-list">
+    <li class="flip-container">
+      <a href="/images/coins//14/Imagepipe_25.jpg">
+        <div class="flipper">
+          <img class="front" src="/images/coins//14/Imagepipe_25.jpg" alt="Coin Front" />
+          <img class="back" src="/images/coins//14/Imagepipe_26.jpg" alt="Coin Back" />
+        </div>
+      </a>
+    </li>
+  </ol>
+
+</content>
+
+      
+
+      
+      
+    </entry>
+    
+  
+    
+    <entry>
+      <title>Lifemap</title>
+      <link href="https://srikanthperinkulam.com/lifemap/" />
+      <id>https://srikanthperinkulam.com/lifemap/</id>
+      <updated>2025-02-15T00:00:00Z</updated>
+      <published>2025-02-15T00:00:00Z</published>
+      <summary>lifemap</summary>
+      <content type="html"></content>
+
+      
+
+      
+      
+    </entry>
+    
+  
+    
+    <entry>
+      <title>Code Snippets</title>
+      <link href="https://srikanthperinkulam.com/snippets/" />
+      <id>https://srikanthperinkulam.com/snippets/</id>
+      <updated>2025-02-15T00:00:00Z</updated>
+      <published>2025-02-15T00:00:00Z</published>
+      <summary>Code Snippets</summary>
+      <content type="html"><p>Just a bunch of snippets for easy use elsewhere.</p>
+<h3 id="building-json-output-for-posts-with-certain-tags">Building JSON output for posts with certain tags</h3>
+<pre><code>{{- $tags := (slice &quot;hiking&quot; &quot;add-other-tags&quot;) }}  &lt;!-- Replace with your desired tags --&gt;
+{
+    &quot;play&quot;: [
+        {{- $articles := .Site.RegularPages }}
+        {{- $filteredPosts := where $articles &quot;Params.tags&quot; &quot;intersect&quot; $tags }}
+        {{- range $index, $item := $filteredPosts }}
+        {
+            &quot;date&quot;: &quot;{{ $item.Date.Format &quot;2006-01-02&quot; }}&quot;,
+            &quot;emoji&quot;: &quot;⛰️&quot;,
+            &quot;eventname&quot;: &quot;{{ $item.Title }}&quot;,
+            &quot;link&quot;: &quot;{{ $item.Permalink }}&quot;
+        }{{ if ne (add $index 1) (len $filteredPosts) }},{{ end }}
+        {{- end }}
+    ]
+}
+</code></pre>
+<h3 id="read-json-data">Read json data</h3>
+<p>Assumes json file is in assets/data/</p>
+<pre><code>{{ $p := printf &quot;data/jsonfile.json&quot; }}
+{{ $data := dict }}
+{{ with resources.Get $p }}
+    {{ $data = . | transform.Unmarshal }}
+{{ else }}
+    {{ errorf &quot;Unable to get resource %q&quot; $p }}
+{{ end }}
+
+// Use jsonify to convert the data to a string
+const jsonData = JSON.parse(`{{ $data | jsonify }}`);
+</code></pre>
+</content>
+
+      
+
+      
+      
+    </entry>
+    
+  
+    
+    <entry>
+      <title>Colophon</title>
+      <link href="https://srikanthperinkulam.com/colophon/" />
+      <id>https://srikanthperinkulam.com/colophon/</id>
+      <updated>2025-01-25T00:00:00Z</updated>
+      <published>2025-01-25T00:00:00Z</published>
+      <summary>Colophon</summary>
+      <content type="html"><p>Over time I&rsquo;ve incorporated quite a few moving blocks to bring this site to function the way it does. This page is an attempt to document those various facets. See <a href="/sitelog">sitelog</a> for chronological updates made on this site.</p>
+<h3 id="publishing-workflow">Publishing workflow</h3>
+<p>I use the fabulous <a href="https://github.com/gsantner/markor">Markor app</a> on my phone to draft posts on the go. Syncthing runs in the background to sync posts to my laptop. If the laptop is turned on, HUGO running via docker automatically picks up these new posts, a script builds the site, and then pushes these updates to github. To draft posts on the laptop, I use the <a href="https://remarkableapp.github.io/linux.html">Remarkable app</a>. My templates directory in debian has pre-built templates for long and short articles which I can easily copy over when drafting posts on the laptop.</p>
+<h3 id="daynotesquicknotes">Daynotes/Quicknotes</h3>
+<p>Overtime I realised I&rsquo;d like to document certain days more. On such days I just jot down my thoughts on the markor app and let it sit there until I have access to my laptop. These get synced automatically say after a trip or at the end of the day and get published. This gives me the flexibility to associate my thoughts with a specific physical location without live-posting. An added benefit of these quicknotes is that each paragraph for a specific day is permalinked.</p>
+<h3 id="comments">Comments</h3>
+<p>I moved away from <a href="https://github.com/isso-comments/isso/">ISSO</a> and setup my own custom comments system. Comments when submitted on posts and certain pages, now get pushed to my ntfy.sh server. There&rsquo;s mild spam detection in place.</p>
+<p>At some point I would also like to integrate webmentions and pingbacks. The guts are ready but I haven&rsquo;t seen the push to blend them in yet.</p>
+<h3 id="garmin">Garmin</h3>
+<p>I manually fetch the GPX files and summary from my Garmin account as needed. These are saved in the assets and static folders. If a specific post has front-matter set to point to those filenames, it shows an overlay of the stats on the gpx map. See <a href="https://srikanthperinkulam.com/2025/01/19/la-malinche-hike/">this post</a> for example. Also a <a href="/garmin">Garmin</a> page shows the summary of all activities. Could tweak this to show totals for a year etc. which I have not gotten to yet.</p>
+<h3 id="rewind">Rewind</h3>
+<p>I built the <a href="/rewind">Rewind</a> page to coax me to read my older posts. In every build, this page essentially loads all posts within three days of the current date in the previous years.</p>
+</content>
+
+      
+
+      
+      
+    </entry>
+    
+  
+    
+    <entry>
+      <title>Contact</title>
+      <link href="https://srikanthperinkulam.com/contact/" />
+      <id>https://srikanthperinkulam.com/contact/</id>
+      <updated>2025-01-15T00:00:00Z</updated>
+      <published>2025-01-15T00:00:00Z</published>
+      <summary>Contact</summary>
+      <content type="html"><p>The best way to reach me is via this site. Send me a message via this page or just reply to one of my posts. I’m reasonably active on the following portals:</p>
+<ul>
+<li>Micro.blog: <a href="https://micro.blog/sp">@sp</a></li>
+</ul>
+</content>
+
+      
+
+      
+      
+    </entry>
+    
+  
+    
+    <entry>
+      <title>More</title>
+      <link href="https://srikanthperinkulam.com/more/" />
+      <id>https://srikanthperinkulam.com/more/</id>
+      <updated>2025-01-01T00:00:00Z</updated>
+      <published>2025-01-01T00:00:00Z</published>
+      <summary>more</summary>
+      <content type="html"><p>A bunch of pages that don&rsquo;t quite fit anywhere specifically. Quite a few of these are a work in progress.</p>
+<ul>
+<li><a href="/uses" target="_blank">Uses</a>
+</li>
+<li><a href="/wants" target="_blank">Wants</a>
+</li>
+<li><a href="/wish" target="_blank">Wishlist</a>
+</li>
+<li><a href="/sotn" target="_blank">State of the network</a>
+</li>
+<li><a href="/stamp" target="_blank">Stamp Collection</a>
+</li>
+<li><a href="/coin" target="_blank">Coin Collection</a>
+</li>
+<li><a href="/person" target="_blank">Interactions</a>
+</li>
+<li><a href="/garmin" target="_blank">Garmin</a>
+</li>
+<li><a href="/sitelog" target="_blank">Sitelog</a>
+</li>
+<li><a href="/blogroll" target="_blank">Blogroll</a>
+</li>
+<li><a href="/pesos" target="_blank">PESOS</a>
+</li>
+<li><a href="/map" target="_blank">Map</a>
+</li>
+<li><a href="/reader" target="_blank">Reader</a>
+</li>
+<li><a href="/book-note" target="_blank">Book Notes</a>
+</li>
+<li><a href="/colophon" target="_blank">Colophon</a>
+</li>
+<li><a href="/snippets" target="_blank">Code Snippets</a>
+</li>
+<li><a href="/lifemap" target="_blank">Lifemap</a>
+</li>
+<li><a href="/daynote" target="_blank">Quick Notes</a>
+</li>
+</ul>
+</content>
+
+      
+
+      
+      
+    </entry>
+    
+  
+    
+    <entry>
+      <title>Blogroll</title>
+      <link href="https://srikanthperinkulam.com/blogroll/" />
+      <id>https://srikanthperinkulam.com/blogroll/</id>
+      <updated>2025-01-01T00:00:00Z</updated>
+      <published>2025-01-01T00:00:00Z</published>
+      <summary>blogroll</summary>
+      <content type="html"><p>A list of personal sites I like to drop in to every once in a while. While I mostly follow sites in my Miniflux <a href="/reader">reader</a>, this is more of quick bookmark page to see how people have been tinkering in their digital spaces!</p>
+<ul>
+<li><a href="https://winther.sysctl.dk/blog/" target="_blank">Winther</a>
+</li>
+<li><a href="https://l.prry.uk/" target="_blank">Lee Perry</a>
+</li>
+<li><a href="https://barryfrost.com/" target="_blank">Barry Frost</a>
+</li>
+<li><a href="https://stevenbrady.com/" target="_blank">Steven Brady</a>
+</li>
+<li><a href="https://paulcapewell.com/blog/" target="_blank">Paul Capewell</a>
+</li>
+<li><a href="https://baty.net/posts/" target="_blank">Jack Baty</a>
+</li>
+<li><a href="https://shawnyeager.org/notes/" target="_blank">Shawn Yeager</a>
+</li>
+<li><a href="https://www.jayperry.works/blog" target="_blank">Jay Perry</a>
+</li>
+<li><a href="https://blog.meadowhawk.xyz" target="_blank">Meadow Hawk</a>
+</li>
+<li><a href="https://matanabudy.com/blog/" target="_blank">Matan Abudy</a>
+</li>
+<li><a href="https://thetangent.space/archive/" target="_blank">Sam C</a>
+</li>
+<li><a href="https://www.jefftk.com/" target="_blank">Jeff Kaufman</a>
+</li>
+<li><a href="https://simbly.me/" target="_blank">Thumb</a>
+</li>
+<li><a href="https://json.blog/" target="_blank">Jason Becker</a>
+</li>
+<li><a href="https://juliawise.net/" target="_blank">Julia Wise</a>
+</li>
+<li><a href="https://joelx.com/" target="_blank">Joel Gross</a>
+</li>
+<li><a href="https://gagor.pro/" target="_blank">Tomasz Gągor</a>
+</li>
+<li><a href="https://devonzuegel.com/" target="_blank">Devon Zeugel</a>
+</li>
+<li><a href="https://thinhcorner.com/" target="_blank">Ngô Phú Thịnh </a>
+</li>
+<li><a href="https://signalshore.net/" target="_blank">Sohom</a>
+</li>
+<li><a href="https://www.amongthestones.com/" target="_blank">Among the Stones</a>
+</li>
+<li><a href="https://odonnellweb.com/pelican/" target="_blank">Chris ODonnell</a>
+</li>
+<li><a href="https://www.jeffgeerling.com/blog" target="_blank">Jeff Geerling</a>
+</li>
+<li><a href="https://jan.boddez.net/notes/" target="_blank">Jan Boddez</a>
+</li>
+<li><a href="https://www.lguruprasad.in/blog/" target="_blank">Guru Prasad</a>
+</li>
+<li><a href="https://jamesvandyne.com/blog/" target="_blank">James Van Dyne</a>
+</li>
+<li><a href="https://tanvibhakta.in/blog/" target="_blank">Tanvi Bhakta</a>
+</li>
+<li><a href="https://jeffmcneill.com/" target="_blank">Jeff McNeill</a>
+</li>
+<li><a href="https://sals.place/blog/" target="_blank">Sal</a>
+</li>
+<li><a href="https://jlelse.blog/" target="_blank">Jan-Lukas Else</a>
+</li>
+<li><a href="https://gregorlove.com/notes/" target="_blank">Gregor Morrill</a>
+</li>
+<li><a href="https://www.mollywhite.net/feed" target="_blank">Molly White</a>
+</li>
+<li><a href="https://mattlangford.com/" target="_blank">Matt Langford</a>
+</li>
+<li><a href="https://www.gobino.be/" target="_blank">Steven Gobino</a>
+</li>
+<li><a href="https://blog.haripriya.org/" target="_blank">Haripriya</a>
+</li>
+<li><a href="https://notes.jeddacp.com/" target="_blank">Jedda CP</a>
+</li>
+<li><a href="https://manuelmoreale.com/" target="_blank">Manuel Moreale</a>
+</li>
+<li><a href="https://winnielim.org/notes/" target="_blank">Winnie Lim</a>
+</li>
+<li><a href="https://varunbarad.com/blog" target="_blank">Varun Barad</a>
+</li>
+<li><a href="https://manimaran.net/archive/" target="_blank">Manimaran</a>
+</li>
+<li><a href="https://akhilunnikrishnan.com/blog/" target="_blank">Akhil Unnikrishnan</a>
+</li>
+<li><a href="https://vhbelvadi.com/notes" target="_blank">V.H.Belvadi</a>
+</li>
+<li><a href="https://heydingus.net/" target="_blank">Jarrod Blundy</a>
+</li>
+<li><a href="https://82mhz.net/" target="_blank">Andreas 82MHz</a>
+</li>
+<li><a href="https://blog.anikthink.com/" target="_blank">Anik Ghosh</a>
+</li>
+<li><a href="https://laze.net/" target="_blank">Ryan</a>
+</li>
+<li><a href="https://douglasireland.com/" target="_blank">Douglas Ireland</a>
+</li>
+<li><a href="https://saurabhgarg.com/category/blog/" target="_blank">Saurabh Garg</a>
+</li>
+<li><a href="https://rishikeshs.com/blog" target="_blank">Rishikesh Sreehari</a>
+</li>
+<li><a href="https://hacdias.com/" target="_blank">Henrique Dias</a>
+</li>
+<li><a href="https://ankursethi.com/" target="_blank">Ankur Sethi</a>
+</li>
+<li><a href="https://abhinavsarkar.net/microblog/" target="_blank">Abhinav Sarkar</a>
+</li>
+</ul>
+</content>
+
+      
+
+      
+      
+    </entry>
+    
+  
+    
+    <entry>
+      <title>Reader</title>
+      <link href="https://srikanthperinkulam.com/reader2/" />
+      <id>https://srikanthperinkulam.com/reader2/</id>
+      <updated>2024-12-12T00:00:00Z</updated>
+      <published>2024-12-12T00:00:00Z</published>
+      <summary>reader</summary>
+      <content type="html"></content>
+
+      
+
+      
+      
+    </entry>
+    
+  
+    
+    <entry>
+      <title>Reader</title>
+      <link href="https://srikanthperinkulam.com/reader/" />
+      <id>https://srikanthperinkulam.com/reader/</id>
+      <updated>2024-12-12T00:00:00Z</updated>
+      <published>2024-12-12T00:00:00Z</published>
+      <summary>reader</summary>
+      <content type="html"></content>
+
+      
+
+      
+      
+    </entry>
+    
+  
+    
+    <entry>
+      <title>Wishlist</title>
+      <link href="https://srikanthperinkulam.com/wish/" />
+      <id>https://srikanthperinkulam.com/wish/</id>
+      <updated>2024-11-30T00:00:00Z</updated>
+      <published>2024-11-30T00:00:00Z</published>
+      <summary>Wishlist</summary>
+      <content type="html"><p>Here&rsquo;s a quick list of things I would like to get at some point in time.</p>
+<h2 id="pouch-friendly">Pouch Friendly</h2>
+<ul>
+<li><a href="https://www.amazon.com/dp/B0FBHS37FF">1 TB SSD Hard drive</a></li>
+<li><a href="https://www.amazon.com/dp/B01CTUIUFK">Cobra ACXT64 Walkie Talkies</a></li>
+<li><a href="https://www.amazon.com/Valante-Document-Organizer-Capacious-Passport/dp/B07F8TMTZ7">Travel document organizer</a></li>
+<li><a href="https://www.amazon.com/SanDisk-2TB-Extreme-Portable-SDSSDE61-2T00-G25/dp/B08HN37XC1">2TB SSD Hard drive</a></li>
+<li><a href="https://www.amazon.com/Squirt-Long-Lasting-Lube-bottle/dp/B0BX4HYT2T">Squirt Chain lube</a></li>
+<li><a href="https://chipolo.net/en/products/chipolo-loop-4-pack?variant=4142761">Chipolo Loop</a></li>
+</ul>
+<h2 id="pouch-no-bueno">Pouch no bueno</h2>
+<ul>
+<li><a href="https://www.amazon.com/GOOLOO-Compressor-Portable-Auto-Shutoff-Supersafe/dp/B0D4DLXNR1">Portable Car battery bank and Jump starter</a></li>
+</ul>
+</content>
+
+      
+
+      
+      
+    </entry>
+    
+  
+    
+    <entry>
+      <title>Wants</title>
+      <link href="https://srikanthperinkulam.com/wants/" />
+      <id>https://srikanthperinkulam.com/wants/</id>
+      <updated>2024-11-30T00:00:00Z</updated>
+      <published>2024-11-30T00:00:00Z</published>
+      <summary>now</summary>
+      <content type="html"><p>A bunch of things I&rsquo;d like to keep track of so I make every effort to check these off my list.</p>
+<ul>
+<li>
+<p>To watch <em>Nowhere Special</em>
+[Sunday, 05. October 2025 09:40PM]</p>
+</li>
+<li>
+<p>To visit Nazaré, Portugal to witness the <a href="https://nazarewaves.com/en/Home/InfoNorthCanyon">80ft waves</a>. [Monday, 29. September 2025 09:50PM]</p>
+</li>
+<li>
+<p>To climb <del>Kilimanjaro</del> Mt. Kenya before we leave Africa! [Monday, 28. July 2025 07:38AM]</p>
+</li>
+</ul>
+</content>
+
+      
+
+      
+      
+    </entry>
+    
+  
+    
+    <entry>
+      <title>Uses</title>
+      <link href="https://srikanthperinkulam.com/uses/" />
+      <id>https://srikanthperinkulam.com/uses/</id>
+      <updated>2024-11-30T00:00:00Z</updated>
+      <published>2024-11-30T00:00:00Z</published>
+      <summary>Uses</summary>
+      <content type="html"></content>
+
+      
+
+      
+      
+    </entry>
+    
+  
+    
+    <entry>
+      <title>State of the Network</title>
+      <link href="https://srikanthperinkulam.com/sotn/" />
+      <id>https://srikanthperinkulam.com/sotn/</id>
+      <updated>2024-11-30T00:00:00Z</updated>
+      <published>2024-11-30T00:00:00Z</published>
+      <summary>State of the Network</summary>
+      <content type="html"><p>Last updated: Wednesday, 17. September 2025 09:47PM</p>
+<p><img loading="lazy" src="/images/SOTN.jpg" alt=""  />
+</p>
+<p>Twice every year, I <a href="https://srikanthperinkulam.com/tags/sotn">used to</a> update the state of my self-hosted network. Decided to switch that over to this page so it&rsquo;s all in one place.</p>
+<p>Since moving to Yaounde, I migrated and consolidated all my &lsquo;servers&rsquo;. Currently I&rsquo;m using the NUC as my primary &lsquo;homeserver&rsquo; and the Dell Inspiron 3000 as my Nextcloud server. The Odroid XU4 plays the role of a reverse proxy powered by <em>Caddy</em>. All these devices are bridged by <em>Tailscale</em>.</p>
+<p>VPS =&gt; Odroid XU4 =&gt; NUC</p>
+<p>I host the following applications on the NUC:</p>
+<ul>
+<li>Trilium Notes</li>
+<li>Navidrome</li>
+<li>GoToSocial</li>
+<li>Firefly iii</li>
+<li>Calibre</li>
+<li>Stirling</li>
+<li>Linkding</li>
+<li>Miniflux</li>
+<li>NTFY</li>
+<li>Etherpad</li>
+<li>Wallabag</li>
+</ul>
+</content>
+
+      
+
+      
+      
+    </entry>
+    
+  
+    
+    <entry>
+      <title>Sitelog</title>
+      <link href="https://srikanthperinkulam.com/sitelog/" />
+      <id>https://srikanthperinkulam.com/sitelog/</id>
+      <updated>2024-11-30T00:00:00Z</updated>
+      <published>2024-11-30T00:00:00Z</published>
+      <summary>sitelog</summary>
+      <content type="html"><p>Sort of a change log to keep track of modifications done to this portal.</p>
+<h3 id="sunday-18-january-2026-1152pm">Sunday, 18. January 2026 11:52PM</h3>
+<ul>
+<li>Added atom feeds for &lsquo;sections&rsquo;</li>
+</ul>
+<h3 id="wednesday-05-november-2025-1029pm">Wednesday, 05. November 2025 10:29PM</h3>
+<ul>
+<li>Added some <a href="/pesos">PESOS</a> for mastodon conversations. Leaving the fetch manual for now.</li>
+</ul>
+<h3 id="sunday-26-october-2025-0933am">Sunday, 26. October 2025 09:33AM</h3>
+<ul>
+<li>Fixed the photos page to show images from daynotes folder too.</li>
+<li>Added minor css tweaks.</li>
+</ul>
+<h3 id="sunday-19-october-2025-1020pm">Sunday, 19. October 2025 10:20PM</h3>
+<ul>
+<li>Finally added that <a href="/about">about</a> page! Can&rsquo;t believe it took me 20 years to do that.</li>
+</ul>
+<h3 id="monday-29-september-2025-1011pm">Monday, 29. September 2025 10:11PM</h3>
+<ul>
+<li>Added a <a href="/wants">Wants</a> page.</li>
+</ul>
+<h3 id="wednesday-17-september-2025-0952pm">Wednesday, 17. September 2025 09:52PM</h3>
+<ul>
+<li>Added a <a href="/sotn">SOTN</a> page for my selfhosted setup.</li>
+</ul>
+<h3 id="saturday-13-september-2025-1006pm">Saturday, 13. September 2025 10:06PM</h3>
+<ul>
+<li>Added a <a href="/uses">uses</a> page.</li>
+</ul>
+<h3 id="saturday-16-august-2025-1102am">Saturday, 16. August 2025 11:02AM</h3>
+<ul>
+<li>Minor CSS tweaks to the gallery</li>
+<li>Setup the <a href="/stamp">Stamps</a> page.</li>
+<li>Setup the <a href="/coin">Coins</a> page!</li>
+</ul>
+<h3 id="friday-15-august-2025-0118pm">Friday, 15. August 2025 01:18PM</h3>
+<ul>
+<li>Added functionality to display images in <a href="/daynote">Daynotes</a>!</li>
+<li>Reworked how the <a href="/micro">Micro</a> page loads images.</li>
+</ul>
+<h3 id="sunday-03-august-2025-0117pm">Sunday, 03. August 2025 01:17PM</h3>
+<ul>
+<li>Updated the <a href="/map">Map</a> page to reflect posts on a map using the <em>location</em> taxonomy. This was fun.</li>
+<li>Tweaked <a href="/micro">micro</a> page to show a limited number of posts. Also fixed the issue of images overflowing into the text. Posts with galleries are yet to be fixed.</li>
+</ul>
+<h3 id="sunday-20-july-2025-1017pm">Sunday, 20. July 2025 10:17PM</h3>
+<ul>
+<li>Removed &ldquo;micro&rdquo; from showing up in the tags on the <a href="/daynote">Daynote</a> page.</li>
+<li>Added a tiny note for all <a href="/daynote">Daynote</a> posts flagging the spontaneity.</li>
+</ul>
+<h3 id="sunday-01-june-2025-1143am">Sunday, 01. June 2025 11:43AM</h3>
+<ul>
+<li>Tweaked my comments code and added a minimal implementation of webmentions. Thanks to <a href="https://reillyspitzfaden.com/wiki/tutorials/webmention-tutorial/">Reilly Spitzfaden</a>&rsquo;s note.</li>
+</ul>
+<h3 id="sunday-25-may-2025-1021pm">Sunday, 25. May 2025 10:21PM</h3>
+<ul>
+<li>Migrated most of my &rsquo;tweets&rsquo; into this site. Ain&rsquo;t neat but does the job!</li>
+</ul>
+<h3 id="saturday-24-may-2025-1057pm">Saturday, 24. May 2025 10:57PM</h3>
+<ul>
+<li>Migrated &lsquo;most&rsquo; of my bookmarks or notes from my old &lsquo;Known&rsquo; instance into this portal.</li>
+</ul>
+<h3 id="tuesday-20-may-2025-1017pm">Tuesday, 20. May 2025 10:17PM</h3>
+<ul>
+<li>Tweaked the rss feed for tags and categories. Opted to remove the title and show only the date as the title. This should help feed readers like micro.blog properly digest the content in. Maybe?</li>
+</ul>
+<h3 id="saturday-26-april-2025-0933pm">Saturday, 26. April 2025 09:33PM</h3>
+<ul>
+<li>Collapsed menu for smaller screens. Thanks, <a href="https://www.softwarecraftsperson.com/posts/2024-11-09-responsive-menu/">Eakan</a>!</li>
+</ul>
+<h3 id="friday-25-april-2025-1139pm">Friday, 25. April 2025 11:39PM</h3>
+<ul>
+<li>Now displaying &lsquo;person&rsquo; and &rsquo;location&rsquo; tags along with the regular tags for all posts.</li>
+</ul>
+<h3 id="monday-07-april-2025-0940am">Monday, 07. April 2025 09:40AM</h3>
+<ul>
+<li>Fixed RSS feeds
+<ul>
+<li>Excluded sections from feeds. Quicknotes should no longer show up in the regular feed.</li>
+<li>limited to recent 8 posts</li>
+</ul>
+</li>
+</ul>
+<h3 id="thursday-03-april-2025-1046pm">Thursday, 03. April 2025 10:46PM</h3>
+<ul>
+<li>Tweaked post display for <em>person</em> pages.</li>
+</ul>
+<h3 id="tuesday-11-march-2025-0447am">Tuesday, 11. March 2025 04:47AM</h3>
+<ul>
+<li>Started defining location and person frontmatter parameters in posts. These are currently being shown only on the <a href="/daynote">daynote</a> page.</li>
+</ul>
+<h3 id="sunday-23-february-2025-1125pm">Sunday, 23. February 2025 11:25PM</h3>
+<ul>
+<li>Added <a href="/daynote">Daily Notes</a> to this portal. Essentially a place to quickly jot down notes throughout the day. A loose replacement to DayOne?</li>
+<li>Tweaked Lifemap so it renders a bit better on smaller screens.</li>
+</ul>
+<h3 id="saturday-15-february-2025-0121pm">Saturday, 15. February 2025 01:21PM</h3>
+<ul>
+<li>Added a <a href="/lifemap">Lifemap</a> page and a <a href="/snippets">Code Snippet</a> page.</li>
+</ul>
+<h3 id="tuesday-04-february-2025-1021pm">Tuesday, 04. February 2025 10:21PM</h3>
+<ul>
+<li>Disabled ISSO and setup a custom comments framework.</li>
+</ul>
+<h3 id="saturday-01-february-2025-0711pm">Saturday, 01. February 2025 07:11PM</h3>
+<ul>
+<li>Brought in the <a href="/book-note">book notes</a> from the old site. Not much but a placeholder for future notes.</li>
+</ul>
+<h3 id="saturday-25-january-2025-1020pm">Saturday, 25. January 2025 10:20PM</h3>
+<ul>
+<li>Incorporated a way to show both the gpx map and garmin data summary in one visual block.</li>
+</ul>
+<h3 id="friday-24-january-2025-0418pm">Friday, 24. January 2025 04:18PM</h3>
+<ul>
+<li>Added a <a href="/more">More</a> tab to collect all the random pages that I&rsquo;ve created in the past.</li>
+<li>Moved the comments under a button for lazy loading.</li>
+</ul>
+<h3 id="friday-17-january-2025-1239am">Friday, 17. January 2025 12:39AM</h3>
+<ul>
+<li>Added posts count on the archive page</li>
+<li>Added a quasi-firework display for posts tagged &ldquo;Year End notes&rdquo;. Currently only works starting 2024.</li>
+</ul>
+<h3 id="saturday-11-january-2025-1116am">Saturday, 11. January 2025 11:16AM</h3>
+<ul>
+<li>Migrated site to Github. Might have to modify my posting workflow a bit.</li>
+<li>Fixed images not showing up on the <a href="/micro">micro</a> tab. Looks like the rel-url was getting copied over and my layout wasn&rsquo;t accounting for that. Decided to extract the url from the image file itself and displayed it in the post.</li>
+</ul>
+<h3 id="monday-06-january-2025-1150pm">Monday, 06. January 2025 11:50PM</h3>
+<ul>
+<li>Added gzip compression to the Caddy Reverse proxy block</li>
+<li>Added WAF rules in cloudflare to block useless bots.</li>
+</ul>
+<h3 id="dec-2024">Dec 2024</h3>
+<ul>
+<li><input disabled="" type="checkbox"> Build roadmap for Garmin posts migration
+<ul>
+<li><input checked="" disabled="" type="checkbox"> Fetch activity summaries over as an archive</li>
+<li><input disabled="" type="checkbox"> Build a yearly summary per activity</li>
+</ul>
+</li>
+<li><input disabled="" type="checkbox"> Add webmentions to the site. Thanks, <a href="https://hugo.md/post/add-webmentions-to-hugo-from-micro-blog/">Hugo</a>!
+<ul>
+<li>Tweak CSS to display webmentions properly. Maybe explore <a href="https://github.com/PlaidWeb/webmention.js">this</a>.</li>
+<li>Maybe explore setting up an interactions content type <a href="https://www.jayeless.net/2021/02/integrating-webmentions-into-hugo.html">like Jessica</a></li>
+</ul>
+</li>
+<li><input disabled="" type="checkbox"> Fix syndication issues
+<ul>
+<li>Limit RSS Feed fetch to just 5 recent posts</li>
+<li>Make FrontMatter updates Camelcase proof</li>
+<li>Consolidate into just one GO script</li>
+<li>Figure out how to fetch synd links for micro posts without embed links<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></li>
+</ul>
+</li>
+<li><input checked="" disabled="" type="checkbox"> Consolidate categories<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></li>
+<li><input disabled="" type="checkbox"> Convert old tweets to a summary page on this portal</li>
+<li><input checked="" disabled="" type="checkbox"> Merge old instagram posts to the <a href="/photos">photos</a> page<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup></li>
+<li><input disabled="" type="checkbox"> Maybe add some pagination to the <a href="/micro">micro</a> page</li>
+<li><input disabled="" type="checkbox"> Migrate old PixelFed photos over.</li>
+<li><input checked="" disabled="" type="checkbox"> Add a proper comment form for posts<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup>.</li>
+<li><input checked="" disabled="" type="checkbox"> Setup a script to autopost to GoToSocial.</li>
+</ul>
+<h3 id="nov-2024">Nov 2024</h3>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> Used lonekorean&rsquo;s fantastic <a href="https://github.com/lonekorean/wordpress-export-to-markdown">wordpress-export-to-markdown</a> tool to convert WP xml to markdown</li>
+<li><input checked="" disabled="" type="checkbox"> learned that the <em>hugo server</em> and <em>hugo build</em> serve different purposes</li>
+<li><input checked="" disabled="" type="checkbox"> Setup aliases on NUC and Thinkpond to quickly build and publish. Moved the actual publishing workflow to the Thinkpond and retained the main static site on the NUC.</li>
+<li><input checked="" disabled="" type="checkbox"> Fixed permalinks to prevent link rot, almost?</li>
+<li><input checked="" disabled="" type="checkbox"> Fixed RSS feed issues
+<ul>
+<li><input checked="" disabled="" type="checkbox"> For posts tagged as <em>micro</em> set the title to just date+time so that micro.blog picks it up as a note and not display the title.</li>
+</ul>
+</li>
+<li><input checked="" disabled="" type="checkbox"> Migrate older posts as deemed fit</li>
+<li><input checked="" disabled="" type="checkbox"> Build a proper archive page. Made some decent progress, thanks to <a href="https://darcynorman.net/archives/">D&rsquo;Arcy Norman&rsquo;s</a>, pointers <a href="https://discourse.gohugo.io/t/listing-all-posts/30575/4">here</a> .</li>
+<li><input checked="" disabled="" type="checkbox"> Build a proper photo gallery</li>
+</ul>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Decided to add a permalink to each post at the end. A shortcode automatically fetches the permalink and adds it to the end of each post.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>Wrote a quick GO script to consolidate these&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>Moved the photos over. Decided to leave the photo notes behind.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:4">
+<p><a href="https://srikanthperinkulam.com/2024/12/09/last-mile-closures/">Decided to use ISSO</a> over Remark42&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+</content>
+
+      
+
+      
+      
+    </entry>
+    
+  
+    
+    <entry>
+      <title>Now</title>
+      <link href="https://srikanthperinkulam.com/now/" />
+      <id>https://srikanthperinkulam.com/now/</id>
+      <updated>2024-11-30T00:00:00Z</updated>
+      <published>2024-11-30T00:00:00Z</published>
+      <summary>now</summary>
+      <content type="html"><p>Last updated: Sunday, 26. October 2025 03:25PM</p>
+<h3 id="projects">Projects</h3>
+<ul>
+<li>Tweaking this portal and documenting the changes in the <a href="/sitelog">sitelog</a></li>
+<li>Decluttering the mundane</li>
+</ul>
+<h3 id="reading">Reading</h3>
+<ul>
+<li><a href="https://palinstravels.co.uk/journeys/journey-himalaya/">Himalaya</a> by Michael Palin</li>
+<li><a href="https://www.mountaineers.org/books/books/karakoram-climbing-through-the-kashmir-conflict">Karakoram</a> by Steve Swenson</li>
+<li><a href="https://masalalab.in/">Masala lab</a> by Krish Ashok</li>
+</ul>
+<h3 id="planning">Planning</h3>
+<ul>
+<li>Maybe that <del>Morocco</del> U.S. trip?</li>
+</ul>
+</content>
+
+      
+
+      
+      
+    </entry>
+    
+  
+    
+    <entry>
+      <title>I am Srikanth Perinkulam</title>
+      <link href="https://srikanthperinkulam.com/about/" />
+      <id>https://srikanthperinkulam.com/about/</id>
+      <updated>2024-11-30T00:00:00Z</updated>
+      <published>2024-11-30T00:00:00Z</published>
+      <summary>About</summary>
+      <content type="html"><h3 id="and-this-is-my-digital-playground">And this is my digital playground.</h3>
+<p>This portal serves as my primary presence in the interwebs and is way more than a regular <a href="/posts">blog</a>. If you&rsquo;ve just landed here, welcome and feel free to poke around. Maybe you want to dive into my <a href="/lifemap">lifemap</a> to visually see a few prominent events in my life? Or take a peek at my <a href="/coin">coins </a> and/or <a href="/stamp">stamp</a> collection. If we&rsquo;ve recently interacted, you might be featured on my <a href="/person">interactions</a> page! And then there might be a few <a href="/more">more</a> pages that might pique your curiosity.</p>
+<p>Over the years, I’ve distanced myself from mainstream social media, and this site has <a href="/blogroll">filled that void</a>, allowing me to document life’s everyday ups and downs <a href="/archives">since 2006</a>. It’s a work in progress 🛠️, so if you notice anything amiss, please do <a href="/contact">let me know</a>. I refer to it as my playground for a reason!</p>
+<h3 id="if-weve-not-met-before">If we&rsquo;ve not met before:</h3>
+<p>Well, Hello! If you&rsquo;ve read or seen something interesting on this site, I would be thrilled to hear from you. Actually even otherwise, send me a note. No, seriously DO! I try and respond to all emails and comments. Isn&rsquo;t that what makes this web a beautiful place?</p>
+<p>Since you are on this page, I guess I should talk a bit more about me - I am yet another random fellow traveler. Mountains, Family and Privacy matter the most to me. Somewhere I think I am a selfish hypocrite. Selfish for myself, my family and then the rest of the world - Specifically in that order. <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
+<p>I graduated with a Masters in Actuarial Science in 2015 from Columbia University and a Bachelors in Electronics and Communication Engineering in 2007. The former was probably my costliest and ignorant indulgence and the latter is why I have my current job.</p>
+<p>Professionally, I think at the core, I am a generalist. I like to spread my net wide and my curiosity constantly take me in multiple directions. Over the last 18 years I&rsquo;ve donned several diverse hats - Mainframes developer, Primary school Teacher, Consultant, Actuarial Analyst, Certifying officer and currently a Security Technical Specialist. I freaking love my current role and it is the reason why we are stationed in Yaoundé, Cameroon until 2027.</p>
+<p>Four decades into my life and I still have a hard time pointing a location on the map to claim as home. And this lifestyle doesn&rsquo;t make it any easy. I guess home is where my wife and daughter are. Someday I&rsquo;d like to get a cabin in the woods somewhere in New England.</p>
+<h3 id="-get-in-touch">👋 Get in touch:</h3>
+<p>If life got in the way and we lost touch, hit me up. I would love to hear from you. If you&rsquo;re just intrigued by anything that was mentioned here or just want to say hello, I&rsquo;d be thrilled to connect.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>You cannot take care of anybody unless you take care of yourself first - Something that was really driven home during a wilderness first aid training.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+</content>
+
+      
+
+      
+      
+    </entry>
+    
+  
+    
+    <entry>
+      <title>H-feed</title>
+      <link href="https://srikanthperinkulam.com/hfeed/" />
+      <id>https://srikanthperinkulam.com/hfeed/</id>
+      <updated>2024-11-30T00:00:00Z</updated>
+      <published>2024-11-30T00:00:00Z</published>
+      <summary>Indieweb Feed</summary>
+      <content type="html"></content>
+
+      
+
+      
+      
+    </entry>
+    
+  
+    
+    <entry>
+      <title>Photos</title>
+      <link href="https://srikanthperinkulam.com/photos/" />
+      <id>https://srikanthperinkulam.com/photos/</id>
+      <updated>2024-11-01T00:00:00Z</updated>
+      <published>2024-11-01T00:00:00Z</published>
+      <summary>photos</summary>
+      <content type="html"></content>
+
+      
+
+      
+      
+    </entry>
+    
+  
+    
+    <entry>
+      <title>Garmin</title>
+      <link href="https://srikanthperinkulam.com/garmin/" />
+      <id>https://srikanthperinkulam.com/garmin/</id>
+      <updated>2024-11-01T00:00:00Z</updated>
+      <published>2024-11-01T00:00:00Z</published>
+      <summary>garmin</summary>
+      <content type="html"></content>
+
+      
+
+      
+      
+    </entry>
+    
+  
+    
+    <entry>
+      <title>Person</title>
+      <link href="https://srikanthperinkulam.com/person/" />
+      <id>https://srikanthperinkulam.com/person/</id>
+      <updated>0001-01-01T00:00:00Z</updated>
+      <published>0001-01-01T00:00:00Z</published>
+      <summary></summary>
+      <content type="html"></content>
+
+      
+
+      
+      
+    </entry>
+    
+  
+    
+    <entry>
+      <title>My Travel Map</title>
+      <link href="https://srikanthperinkulam.com/map/" />
+      <id>https://srikanthperinkulam.com/map/</id>
+      <updated>0001-01-01T00:00:00Z</updated>
+      <published>0001-01-01T00:00:00Z</published>
+      <summary></summary>
+      <content type="html"></content>
+
+      
+
+      
+      
+    </entry>
+    
+  
+
+</feed>

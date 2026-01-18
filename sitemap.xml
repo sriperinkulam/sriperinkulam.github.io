@@ -2,25 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://srikanthperinkulam.com/daynote/</loc>
+    <loc>https://srikanthperinkulam.com/daynote/atom.xml</loc>
     <lastmod>2026-12-31T00:00:12+12:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/</loc>
     <lastmod>2026-12-31T00:00:12+12:00</lastmod>
   </url><url>
-    <loc>https://srikanthperinkulam.com/date/2026-01-17-000001-&#43;0100-&#43;0100/</loc>
-    <lastmod>2026-01-17T00:00:01+01:00</lastmod>
+    <loc>https://srikanthperinkulam.com/date/2026-01-18-000001-&#43;0100-&#43;0100/</loc>
+    <lastmod>2026-01-18T00:00:01+01:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/categories/</loc>
-    <lastmod>2026-01-17T00:00:01+01:00</lastmod>
+    <lastmod>2026-01-18T00:00:01+01:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/date/</loc>
-    <lastmod>2026-01-17T00:00:01+01:00</lastmod>
+    <lastmod>2026-01-18T00:00:01+01:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/location/</loc>
-    <lastmod>2026-01-17T00:00:01+01:00</lastmod>
+    <lastmod>2026-01-18T00:00:01+01:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/tags/micro/</loc>
+    <lastmod>2026-01-18T00:00:01+01:00</lastmod>
+  </url><url>
+    <loc>https://srikanthperinkulam.com/daynote/scanning-away/</loc>
+    <lastmod>2026-01-18T00:00:01+01:00</lastmod>
+  </url><url>
+    <loc>https://srikanthperinkulam.com/categories/status/</loc>
+    <lastmod>2026-01-18T00:00:01+01:00</lastmod>
+  </url><url>
+    <loc>https://srikanthperinkulam.com/tags/</loc>
+    <lastmod>2026-01-18T00:00:01+01:00</lastmod>
+  </url><url>
+    <loc>https://srikanthperinkulam.com/location/yaounde/</loc>
+    <lastmod>2026-01-18T00:00:01+01:00</lastmod>
+  </url><url>
+    <loc>https://srikanthperinkulam.com/date/2026-01-17-000001-&#43;0100-&#43;0100/</loc>
     <lastmod>2026-01-17T00:00:01+01:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/daynote/op/</loc>
@@ -30,15 +45,6 @@
     <lastmod>2026-01-17T00:00:01+01:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/person/poths/</loc>
-    <lastmod>2026-01-17T00:00:01+01:00</lastmod>
-  </url><url>
-    <loc>https://srikanthperinkulam.com/categories/status/</loc>
-    <lastmod>2026-01-17T00:00:01+01:00</lastmod>
-  </url><url>
-    <loc>https://srikanthperinkulam.com/tags/</loc>
-    <lastmod>2026-01-17T00:00:01+01:00</lastmod>
-  </url><url>
-    <loc>https://srikanthperinkulam.com/location/yaounde/</loc>
     <lastmod>2026-01-17T00:00:01+01:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/date/2026-01-15-103000-&#43;0000-utc/</loc>
@@ -395,7 +401,7 @@
     <loc>https://srikanthperinkulam.com/tags/pesos/</loc>
     <lastmod>2025-11-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://srikanthperinkulam.com/pesos/</loc>
+    <loc>https://srikanthperinkulam.com/pesos/atom.xml</loc>
     <lastmod>2025-11-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/date/2025-10-29-103000-&#43;0000-utc/</loc>
@@ -683,7 +689,7 @@
     <loc>https://srikanthperinkulam.com/coin/</loc>
     <lastmod>2025-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://srikanthperinkulam.com/pages/</loc>
+    <loc>https://srikanthperinkulam.com/pages/atom.xml</loc>
     <lastmod>2025-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/stamp/</loc>
@@ -2873,7 +2879,7 @@
     <loc>https://srikanthperinkulam.com/date/2022-01-24-000000-&#43;0000-utc/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://srikanthperinkulam.com/book-note/</loc>
+    <loc>https://srikanthperinkulam.com/book-note/atom.xml</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/tags/breath/</loc>
