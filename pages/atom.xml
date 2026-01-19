@@ -1,22 +1,22 @@
-&lt;?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Pages</title>
-  <link href="https://srikanthperinkulam.com/pages/atom.xml" rel="self"/>
+  <link href="https://srikanthperinkulam.com/pages/" rel="self"/>
   <link href="https://srikanthperinkulam.com/" />
-  <updated>2026-01-18T22:54:17Z</updated>
-  <id>https://srikanthperinkulam.com/pages/atom.xml</id>
+  <updated>2026-01-19T08:29:40Z</updated>
+  <id>https://srikanthperinkulam.com/pages/</id>
 
-  
-  
-    
-    <entry>
-      <title>Stamp Collection</title>
-      <link href="https://srikanthperinkulam.com/stamp/" />
-      <id>https://srikanthperinkulam.com/stamp/</id>
-      <updated>2025-08-15T00:00:00Z</updated>
-      <published>2025-08-15T00:00:00Z</published>
-      <summary>Stamp Collection</summary>
-      <content type="html"><p>Several years ago, maybe somewhere around 2000, I got into collecting stamps as a hobby. I digitized them in 2018, set them up in a &lsquo;gallery&rsquo; in <a href="https://srikanthperinkulam.com/2020/08/27/stamp-collection-digitized/">2020</a> and eventually with all things digital, lost track of them. I&rsquo;ve sort of revived that collection here, since this is one space I frequent more often. Around 2018, I also handed over my physical collection to Mummyjaan. Not quite sure if she&rsquo;s actively maintaining it.</p>
+<entry>
+  <title>Stamp Collection</title>
+  <link href="https://srikanthperinkulam.com/stamp/" />
+  <id>https://srikanthperinkulam.com/stamp/</id>
+  <updated>2025-08-15T00:00:00Z</updated>
+  <published>2025-08-15T00:00:00Z</published>
+
+  <summary>Stamp Collection</summary>
+
+<content type="html"><![CDATA[
+<p>Several years ago, maybe somewhere around 2000, I got into collecting stamps as a hobby. I digitized them in 2018, set them up in a &lsquo;gallery&rsquo; in <a href="https://srikanthperinkulam.com/2020/08/27/stamp-collection-digitized/">2020</a> and eventually with all things digital, lost track of them. I&rsquo;ve sort of revived that collection here, since this is one space I frequent more often. Around 2018, I also handed over my physical collection to Mummyjaan. Not quite sure if she&rsquo;s actively maintaining it.</p>
 <h2 id="australia">Australia</h2>
 
   <div class="image-gallery">
@@ -2506,24 +2506,23 @@
 }
 </style>
 
-</content>
 
-      
+]]></content>
 
-      
-      
-    </entry>
-    
-  
-    
-    <entry>
-      <title>Coin Collection</title>
-      <link href="https://srikanthperinkulam.com/coin/" />
-      <id>https://srikanthperinkulam.com/coin/</id>
-      <updated>2025-08-15T00:00:00Z</updated>
-      <published>2025-08-15T00:00:00Z</published>
-      <summary>Coin Collection</summary>
-      <content type="html"><p>Over the last few years M&amp;I have been collecting coins as we&rsquo;ve moved across different posts. These MSG coins are real cool and are one of the ways the marines raise funds for the Marine ball. Not quite sure until when we&rsquo;ll collect these but I did want to digitize them. Only a question of time that we start losing/gifting them.</p>
+
+</entry>
+
+<entry>
+  <title>Coin Collection</title>
+  <link href="https://srikanthperinkulam.com/coin/" />
+  <id>https://srikanthperinkulam.com/coin/</id>
+  <updated>2025-08-15T00:00:00Z</updated>
+  <published>2025-08-15T00:00:00Z</published>
+
+  <summary>Coin Collection</summary>
+
+<content type="html"><![CDATA[
+<p>Over the last few years M&amp;I have been collecting coins as we&rsquo;ve moved across different posts. These MSG coins are real cool and are one of the ways the marines raise funds for the Marine ball. Not quite sure until when we&rsquo;ll collect these but I did want to digitize them. Only a question of time that we start losing/gifting them.</p>
 <h2 id="2025-msg-250th-marine-ball-coin">2025 MSG 250th Marine Ball coin</h2>
 <p>This one looks pretty tame in comparison to the coin these fine fellas made earlier this year. Still pretty cool!
 <style>
@@ -4503,41 +4502,39 @@
     </li>
   </ol>
 
-</content>
 
-      
+]]></content>
 
-      
-      
-    </entry>
-    
-  
-    
-    <entry>
-      <title>Lifemap</title>
-      <link href="https://srikanthperinkulam.com/lifemap/" />
-      <id>https://srikanthperinkulam.com/lifemap/</id>
-      <updated>2025-02-15T00:00:00Z</updated>
-      <published>2025-02-15T00:00:00Z</published>
-      <summary>lifemap</summary>
-      <content type="html"></content>
 
-      
+</entry>
 
-      
-      
-    </entry>
-    
-  
-    
-    <entry>
-      <title>Code Snippets</title>
-      <link href="https://srikanthperinkulam.com/snippets/" />
-      <id>https://srikanthperinkulam.com/snippets/</id>
-      <updated>2025-02-15T00:00:00Z</updated>
-      <published>2025-02-15T00:00:00Z</published>
-      <summary>Code Snippets</summary>
-      <content type="html"><p>Just a bunch of snippets for easy use elsewhere.</p>
+<entry>
+  <title>Lifemap</title>
+  <link href="https://srikanthperinkulam.com/lifemap/" />
+  <id>https://srikanthperinkulam.com/lifemap/</id>
+  <updated>2025-02-15T00:00:00Z</updated>
+  <published>2025-02-15T00:00:00Z</published>
+
+  <summary>lifemap</summary>
+
+<content type="html"><![CDATA[
+
+]]></content>
+
+
+</entry>
+
+<entry>
+  <title>Code Snippets</title>
+  <link href="https://srikanthperinkulam.com/snippets/" />
+  <id>https://srikanthperinkulam.com/snippets/</id>
+  <updated>2025-02-15T00:00:00Z</updated>
+  <published>2025-02-15T00:00:00Z</published>
+
+  <summary>Code Snippets</summary>
+
+<content type="html"><![CDATA[
+<p>Just a bunch of snippets for easy use elsewhere.</p>
 <h3 id="building-json-output-for-posts-with-certain-tags">Building JSON output for posts with certain tags</h3>
 <pre><code>{{- $tags := (slice &quot;hiking&quot; &quot;add-other-tags&quot;) }}  &lt;!-- Replace with your desired tags --&gt;
 {
@@ -4568,24 +4565,23 @@
 // Use jsonify to convert the data to a string
 const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 </code></pre>
-</content>
 
-      
+]]></content>
 
-      
-      
-    </entry>
-    
-  
-    
-    <entry>
-      <title>Colophon</title>
-      <link href="https://srikanthperinkulam.com/colophon/" />
-      <id>https://srikanthperinkulam.com/colophon/</id>
-      <updated>2025-01-25T00:00:00Z</updated>
-      <published>2025-01-25T00:00:00Z</published>
-      <summary>Colophon</summary>
-      <content type="html"><p>Over time I&rsquo;ve incorporated quite a few moving blocks to bring this site to function the way it does. This page is an attempt to document those various facets. See <a href="/sitelog">sitelog</a> for chronological updates made on this site.</p>
+
+</entry>
+
+<entry>
+  <title>Colophon</title>
+  <link href="https://srikanthperinkulam.com/colophon/" />
+  <id>https://srikanthperinkulam.com/colophon/</id>
+  <updated>2025-01-25T00:00:00Z</updated>
+  <published>2025-01-25T00:00:00Z</published>
+
+  <summary>Colophon</summary>
+
+<content type="html"><![CDATA[
+<p>Over time I&rsquo;ve incorporated quite a few moving blocks to bring this site to function the way it does. This page is an attempt to document those various facets. See <a href="/sitelog">sitelog</a> for chronological updates made on this site.</p>
 <h3 id="publishing-workflow">Publishing workflow</h3>
 <p>I use the fabulous <a href="https://github.com/gsantner/markor">Markor app</a> on my phone to draft posts on the go. Syncthing runs in the background to sync posts to my laptop. If the laptop is turned on, HUGO running via docker automatically picks up these new posts, a script builds the site, and then pushes these updates to github. To draft posts on the laptop, I use the <a href="https://remarkableapp.github.io/linux.html">Remarkable app</a>. My templates directory in debian has pre-built templates for long and short articles which I can easily copy over when drafting posts on the laptop.</p>
 <h3 id="daynotesquicknotes">Daynotes/Quicknotes</h3>
@@ -4597,45 +4593,43 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 <p>I manually fetch the GPX files and summary from my Garmin account as needed. These are saved in the assets and static folders. If a specific post has front-matter set to point to those filenames, it shows an overlay of the stats on the gpx map. See <a href="https://srikanthperinkulam.com/2025/01/19/la-malinche-hike/">this post</a> for example. Also a <a href="/garmin">Garmin</a> page shows the summary of all activities. Could tweak this to show totals for a year etc. which I have not gotten to yet.</p>
 <h3 id="rewind">Rewind</h3>
 <p>I built the <a href="/rewind">Rewind</a> page to coax me to read my older posts. In every build, this page essentially loads all posts within three days of the current date in the previous years.</p>
-</content>
 
-      
+]]></content>
 
-      
-      
-    </entry>
-    
-  
-    
-    <entry>
-      <title>Contact</title>
-      <link href="https://srikanthperinkulam.com/contact/" />
-      <id>https://srikanthperinkulam.com/contact/</id>
-      <updated>2025-01-15T00:00:00Z</updated>
-      <published>2025-01-15T00:00:00Z</published>
-      <summary>Contact</summary>
-      <content type="html"><p>The best way to reach me is via this site. Send me a message via this page or just reply to one of my posts. I’m reasonably active on the following portals:</p>
+
+</entry>
+
+<entry>
+  <title>Contact</title>
+  <link href="https://srikanthperinkulam.com/contact/" />
+  <id>https://srikanthperinkulam.com/contact/</id>
+  <updated>2025-01-15T00:00:00Z</updated>
+  <published>2025-01-15T00:00:00Z</published>
+
+  <summary>Contact</summary>
+
+<content type="html"><![CDATA[
+<p>The best way to reach me is via this site. Send me a message via this page or just reply to one of my posts. I’m reasonably active on the following portals:</p>
 <ul>
 <li>Micro.blog: <a href="https://micro.blog/sp">@sp</a></li>
 </ul>
-</content>
 
-      
+]]></content>
 
-      
-      
-    </entry>
-    
-  
-    
-    <entry>
-      <title>More</title>
-      <link href="https://srikanthperinkulam.com/more/" />
-      <id>https://srikanthperinkulam.com/more/</id>
-      <updated>2025-01-01T00:00:00Z</updated>
-      <published>2025-01-01T00:00:00Z</published>
-      <summary>more</summary>
-      <content type="html"><p>A bunch of pages that don&rsquo;t quite fit anywhere specifically. Quite a few of these are a work in progress.</p>
+
+</entry>
+
+<entry>
+  <title>More</title>
+  <link href="https://srikanthperinkulam.com/more/" />
+  <id>https://srikanthperinkulam.com/more/</id>
+  <updated>2025-01-01T00:00:00Z</updated>
+  <published>2025-01-01T00:00:00Z</published>
+
+  <summary>more</summary>
+
+<content type="html"><![CDATA[
+<p>A bunch of pages that don&rsquo;t quite fit anywhere specifically. Quite a few of these are a work in progress.</p>
 <ul>
 <li><a href="/uses" target="_blank">Uses</a>
 </li>
@@ -4674,24 +4668,23 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 <li><a href="/daynote" target="_blank">Quick Notes</a>
 </li>
 </ul>
-</content>
 
-      
+]]></content>
 
-      
-      
-    </entry>
-    
-  
-    
-    <entry>
-      <title>Blogroll</title>
-      <link href="https://srikanthperinkulam.com/blogroll/" />
-      <id>https://srikanthperinkulam.com/blogroll/</id>
-      <updated>2025-01-01T00:00:00Z</updated>
-      <published>2025-01-01T00:00:00Z</published>
-      <summary>blogroll</summary>
-      <content type="html"><p>A list of personal sites I like to drop in to every once in a while. While I mostly follow sites in my Miniflux <a href="/reader">reader</a>, this is more of quick bookmark page to see how people have been tinkering in their digital spaces!</p>
+
+</entry>
+
+<entry>
+  <title>Blogroll</title>
+  <link href="https://srikanthperinkulam.com/blogroll/" />
+  <id>https://srikanthperinkulam.com/blogroll/</id>
+  <updated>2025-01-01T00:00:00Z</updated>
+  <published>2025-01-01T00:00:00Z</published>
+
+  <summary>blogroll</summary>
+
+<content type="html"><![CDATA[
+<p>A list of personal sites I like to drop in to every once in a while. While I mostly follow sites in my Miniflux <a href="/reader">reader</a>, this is more of quick bookmark page to see how people have been tinkering in their digital spaces!</p>
 <ul>
 <li><a href="https://winther.sysctl.dk/blog/" target="_blank">Winther</a>
 </li>
@@ -4798,58 +4791,55 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 <li><a href="https://abhinavsarkar.net/microblog/" target="_blank">Abhinav Sarkar</a>
 </li>
 </ul>
-</content>
 
-      
+]]></content>
 
-      
-      
-    </entry>
-    
-  
-    
-    <entry>
-      <title>Reader</title>
-      <link href="https://srikanthperinkulam.com/reader2/" />
-      <id>https://srikanthperinkulam.com/reader2/</id>
-      <updated>2024-12-12T00:00:00Z</updated>
-      <published>2024-12-12T00:00:00Z</published>
-      <summary>reader</summary>
-      <content type="html"></content>
 
-      
+</entry>
 
-      
-      
-    </entry>
-    
-  
-    
-    <entry>
-      <title>Reader</title>
-      <link href="https://srikanthperinkulam.com/reader/" />
-      <id>https://srikanthperinkulam.com/reader/</id>
-      <updated>2024-12-12T00:00:00Z</updated>
-      <published>2024-12-12T00:00:00Z</published>
-      <summary>reader</summary>
-      <content type="html"></content>
+<entry>
+  <title>Reader</title>
+  <link href="https://srikanthperinkulam.com/reader2/" />
+  <id>https://srikanthperinkulam.com/reader2/</id>
+  <updated>2024-12-12T00:00:00Z</updated>
+  <published>2024-12-12T00:00:00Z</published>
 
-      
+  <summary>reader</summary>
 
-      
-      
-    </entry>
-    
-  
-    
-    <entry>
-      <title>Wishlist</title>
-      <link href="https://srikanthperinkulam.com/wish/" />
-      <id>https://srikanthperinkulam.com/wish/</id>
-      <updated>2024-11-30T00:00:00Z</updated>
-      <published>2024-11-30T00:00:00Z</published>
-      <summary>Wishlist</summary>
-      <content type="html"><p>Here&rsquo;s a quick list of things I would like to get at some point in time.</p>
+<content type="html"><![CDATA[
+
+]]></content>
+
+
+</entry>
+
+<entry>
+  <title>Reader</title>
+  <link href="https://srikanthperinkulam.com/reader/" />
+  <id>https://srikanthperinkulam.com/reader/</id>
+  <updated>2024-12-12T00:00:00Z</updated>
+  <published>2024-12-12T00:00:00Z</published>
+
+  <summary>reader</summary>
+
+<content type="html"><![CDATA[
+
+]]></content>
+
+
+</entry>
+
+<entry>
+  <title>Wishlist</title>
+  <link href="https://srikanthperinkulam.com/wish/" />
+  <id>https://srikanthperinkulam.com/wish/</id>
+  <updated>2024-11-30T00:00:00Z</updated>
+  <published>2024-11-30T00:00:00Z</published>
+
+  <summary>Wishlist</summary>
+
+<content type="html"><![CDATA[
+<p>Here&rsquo;s a quick list of things I would like to get at some point in time.</p>
 <h2 id="pouch-friendly">Pouch Friendly</h2>
 <ul>
 <li><a href="https://www.amazon.com/dp/B0FBHS37FF">1 TB SSD Hard drive</a></li>
@@ -4863,24 +4853,23 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 <ul>
 <li><a href="https://www.amazon.com/GOOLOO-Compressor-Portable-Auto-Shutoff-Supersafe/dp/B0D4DLXNR1">Portable Car battery bank and Jump starter</a></li>
 </ul>
-</content>
 
-      
+]]></content>
 
-      
-      
-    </entry>
-    
-  
-    
-    <entry>
-      <title>Wants</title>
-      <link href="https://srikanthperinkulam.com/wants/" />
-      <id>https://srikanthperinkulam.com/wants/</id>
-      <updated>2024-11-30T00:00:00Z</updated>
-      <published>2024-11-30T00:00:00Z</published>
-      <summary>now</summary>
-      <content type="html"><p>A bunch of things I&rsquo;d like to keep track of so I make every effort to check these off my list.</p>
+
+</entry>
+
+<entry>
+  <title>Wants</title>
+  <link href="https://srikanthperinkulam.com/wants/" />
+  <id>https://srikanthperinkulam.com/wants/</id>
+  <updated>2024-11-30T00:00:00Z</updated>
+  <published>2024-11-30T00:00:00Z</published>
+
+  <summary>now</summary>
+
+<content type="html"><![CDATA[
+<p>A bunch of things I&rsquo;d like to keep track of so I make every effort to check these off my list.</p>
 <ul>
 <li>
 <p>To watch <em>Nowhere Special</em>
@@ -4893,41 +4882,39 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 <p>To climb <del>Kilimanjaro</del> Mt. Kenya before we leave Africa! [Monday, 28. July 2025 07:38AM]</p>
 </li>
 </ul>
-</content>
 
-      
+]]></content>
 
-      
-      
-    </entry>
-    
-  
-    
-    <entry>
-      <title>Uses</title>
-      <link href="https://srikanthperinkulam.com/uses/" />
-      <id>https://srikanthperinkulam.com/uses/</id>
-      <updated>2024-11-30T00:00:00Z</updated>
-      <published>2024-11-30T00:00:00Z</published>
-      <summary>Uses</summary>
-      <content type="html"></content>
 
-      
+</entry>
 
-      
-      
-    </entry>
-    
-  
-    
-    <entry>
-      <title>State of the Network</title>
-      <link href="https://srikanthperinkulam.com/sotn/" />
-      <id>https://srikanthperinkulam.com/sotn/</id>
-      <updated>2024-11-30T00:00:00Z</updated>
-      <published>2024-11-30T00:00:00Z</published>
-      <summary>State of the Network</summary>
-      <content type="html"><p>Last updated: Wednesday, 17. September 2025 09:47PM</p>
+<entry>
+  <title>Uses</title>
+  <link href="https://srikanthperinkulam.com/uses/" />
+  <id>https://srikanthperinkulam.com/uses/</id>
+  <updated>2024-11-30T00:00:00Z</updated>
+  <published>2024-11-30T00:00:00Z</published>
+
+  <summary>Uses</summary>
+
+<content type="html"><![CDATA[
+
+]]></content>
+
+
+</entry>
+
+<entry>
+  <title>State of the Network</title>
+  <link href="https://srikanthperinkulam.com/sotn/" />
+  <id>https://srikanthperinkulam.com/sotn/</id>
+  <updated>2024-11-30T00:00:00Z</updated>
+  <published>2024-11-30T00:00:00Z</published>
+
+  <summary>State of the Network</summary>
+
+<content type="html"><![CDATA[
+<p>Last updated: Wednesday, 17. September 2025 09:47PM</p>
 <p><img loading="lazy" src="/images/SOTN.jpg" alt=""  />
 </p>
 <p>Twice every year, I <a href="https://srikanthperinkulam.com/tags/sotn">used to</a> update the state of my self-hosted network. Decided to switch that over to this page so it&rsquo;s all in one place.</p>
@@ -4947,24 +4934,23 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 <li>Etherpad</li>
 <li>Wallabag</li>
 </ul>
-</content>
 
-      
+]]></content>
 
-      
-      
-    </entry>
-    
-  
-    
-    <entry>
-      <title>Sitelog</title>
-      <link href="https://srikanthperinkulam.com/sitelog/" />
-      <id>https://srikanthperinkulam.com/sitelog/</id>
-      <updated>2024-11-30T00:00:00Z</updated>
-      <published>2024-11-30T00:00:00Z</published>
-      <summary>sitelog</summary>
-      <content type="html"><p>Sort of a change log to keep track of modifications done to this portal.</p>
+
+</entry>
+
+<entry>
+  <title>Sitelog</title>
+  <link href="https://srikanthperinkulam.com/sitelog/" />
+  <id>https://srikanthperinkulam.com/sitelog/</id>
+  <updated>2024-11-30T00:00:00Z</updated>
+  <published>2024-11-30T00:00:00Z</published>
+
+  <summary>sitelog</summary>
+
+<content type="html"><![CDATA[
+<p>Sort of a change log to keep track of modifications done to this portal.</p>
 <h3 id="sunday-18-january-2026-1152pm">Sunday, 18. January 2026 11:52PM</h3>
 <ul>
 <li>Added atom feeds for &lsquo;sections&rsquo;</li>
@@ -5159,24 +5145,23 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 </li>
 </ol>
 </div>
-</content>
 
-      
+]]></content>
 
-      
-      
-    </entry>
-    
-  
-    
-    <entry>
-      <title>Now</title>
-      <link href="https://srikanthperinkulam.com/now/" />
-      <id>https://srikanthperinkulam.com/now/</id>
-      <updated>2024-11-30T00:00:00Z</updated>
-      <published>2024-11-30T00:00:00Z</published>
-      <summary>now</summary>
-      <content type="html"><p>Last updated: Sunday, 26. October 2025 03:25PM</p>
+
+</entry>
+
+<entry>
+  <title>Now</title>
+  <link href="https://srikanthperinkulam.com/now/" />
+  <id>https://srikanthperinkulam.com/now/</id>
+  <updated>2024-11-30T00:00:00Z</updated>
+  <published>2024-11-30T00:00:00Z</published>
+
+  <summary>now</summary>
+
+<content type="html"><![CDATA[
+<p>Last updated: Sunday, 26. October 2025 03:25PM</p>
 <h3 id="projects">Projects</h3>
 <ul>
 <li>Tweaking this portal and documenting the changes in the <a href="/sitelog">sitelog</a></li>
@@ -5192,24 +5177,23 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 <ul>
 <li>Maybe that <del>Morocco</del> U.S. trip?</li>
 </ul>
-</content>
 
-      
+]]></content>
 
-      
-      
-    </entry>
-    
-  
-    
-    <entry>
-      <title>I am Srikanth Perinkulam</title>
-      <link href="https://srikanthperinkulam.com/about/" />
-      <id>https://srikanthperinkulam.com/about/</id>
-      <updated>2024-11-30T00:00:00Z</updated>
-      <published>2024-11-30T00:00:00Z</published>
-      <summary>About</summary>
-      <content type="html"><h3 id="and-this-is-my-digital-playground">And this is my digital playground.</h3>
+
+</entry>
+
+<entry>
+  <title>I am Srikanth Perinkulam</title>
+  <link href="https://srikanthperinkulam.com/about/" />
+  <id>https://srikanthperinkulam.com/about/</id>
+  <updated>2024-11-30T00:00:00Z</updated>
+  <published>2024-11-30T00:00:00Z</published>
+
+  <summary>About</summary>
+
+<content type="html"><![CDATA[
+<h3 id="and-this-is-my-digital-playground">And this is my digital playground.</h3>
 <p>This portal serves as my primary presence in the interwebs and is way more than a regular <a href="/posts">blog</a>. If you&rsquo;ve just landed here, welcome and feel free to poke around. Maybe you want to dive into my <a href="/lifemap">lifemap</a> to visually see a few prominent events in my life? Or take a peek at my <a href="/coin">coins </a> and/or <a href="/stamp">stamp</a> collection. If we&rsquo;ve recently interacted, you might be featured on my <a href="/person">interactions</a> page! And then there might be a few <a href="/more">more</a> pages that might pique your curiosity.</p>
 <p>Over the years, I’ve distanced myself from mainstream social media, and this site has <a href="/blogroll">filled that void</a>, allowing me to document life’s everyday ups and downs <a href="/archives">since 2006</a>. It’s a work in progress 🛠️, so if you notice anything amiss, please do <a href="/contact">let me know</a>. I refer to it as my playground for a reason!</p>
 <h3 id="if-weve-not-met-before">If we&rsquo;ve not met before:</h3>
@@ -5228,99 +5212,90 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 </li>
 </ol>
 </div>
-</content>
 
-      
+]]></content>
 
-      
-      
-    </entry>
-    
-  
-    
-    <entry>
-      <title>H-feed</title>
-      <link href="https://srikanthperinkulam.com/hfeed/" />
-      <id>https://srikanthperinkulam.com/hfeed/</id>
-      <updated>2024-11-30T00:00:00Z</updated>
-      <published>2024-11-30T00:00:00Z</published>
-      <summary>Indieweb Feed</summary>
-      <content type="html"></content>
 
-      
+</entry>
 
-      
-      
-    </entry>
-    
-  
-    
-    <entry>
-      <title>Photos</title>
-      <link href="https://srikanthperinkulam.com/photos/" />
-      <id>https://srikanthperinkulam.com/photos/</id>
-      <updated>2024-11-01T00:00:00Z</updated>
-      <published>2024-11-01T00:00:00Z</published>
-      <summary>photos</summary>
-      <content type="html"></content>
+<entry>
+  <title>H-feed</title>
+  <link href="https://srikanthperinkulam.com/hfeed/" />
+  <id>https://srikanthperinkulam.com/hfeed/</id>
+  <updated>2024-11-30T00:00:00Z</updated>
+  <published>2024-11-30T00:00:00Z</published>
 
-      
+  <summary>Indieweb Feed</summary>
 
-      
-      
-    </entry>
-    
-  
-    
-    <entry>
-      <title>Garmin</title>
-      <link href="https://srikanthperinkulam.com/garmin/" />
-      <id>https://srikanthperinkulam.com/garmin/</id>
-      <updated>2024-11-01T00:00:00Z</updated>
-      <published>2024-11-01T00:00:00Z</published>
-      <summary>garmin</summary>
-      <content type="html"></content>
+<content type="html"><![CDATA[
 
-      
+]]></content>
 
-      
-      
-    </entry>
-    
-  
-    
-    <entry>
-      <title>Person</title>
-      <link href="https://srikanthperinkulam.com/person/" />
-      <id>https://srikanthperinkulam.com/person/</id>
-      <updated>0001-01-01T00:00:00Z</updated>
-      <published>0001-01-01T00:00:00Z</published>
-      <summary></summary>
-      <content type="html"></content>
 
-      
+</entry>
 
-      
-      
-    </entry>
-    
-  
-    
-    <entry>
-      <title>My Travel Map</title>
-      <link href="https://srikanthperinkulam.com/map/" />
-      <id>https://srikanthperinkulam.com/map/</id>
-      <updated>0001-01-01T00:00:00Z</updated>
-      <published>0001-01-01T00:00:00Z</published>
-      <summary></summary>
-      <content type="html"></content>
+<entry>
+  <title>Photos</title>
+  <link href="https://srikanthperinkulam.com/photos/" />
+  <id>https://srikanthperinkulam.com/photos/</id>
+  <updated>2024-11-01T00:00:00Z</updated>
+  <published>2024-11-01T00:00:00Z</published>
 
-      
+  <summary>photos</summary>
 
-      
-      
-    </entry>
-    
-  
+<content type="html"><![CDATA[
+
+]]></content>
+
+
+</entry>
+
+<entry>
+  <title>Garmin</title>
+  <link href="https://srikanthperinkulam.com/garmin/" />
+  <id>https://srikanthperinkulam.com/garmin/</id>
+  <updated>2024-11-01T00:00:00Z</updated>
+  <published>2024-11-01T00:00:00Z</published>
+
+  <summary>garmin</summary>
+
+<content type="html"><![CDATA[
+
+]]></content>
+
+
+</entry>
+
+<entry>
+  <title>Person</title>
+  <link href="https://srikanthperinkulam.com/person/" />
+  <id>https://srikanthperinkulam.com/person/</id>
+  <updated>0001-01-01T00:00:00Z</updated>
+  <published>0001-01-01T00:00:00Z</published>
+
+  <summary></summary>
+
+<content type="html"><![CDATA[
+
+]]></content>
+
+
+</entry>
+
+<entry>
+  <title>My Travel Map</title>
+  <link href="https://srikanthperinkulam.com/map/" />
+  <id>https://srikanthperinkulam.com/map/</id>
+  <updated>0001-01-01T00:00:00Z</updated>
+  <published>0001-01-01T00:00:00Z</published>
+
+  <summary></summary>
+
+<content type="html"><![CDATA[
+
+]]></content>
+
+
+</entry>
 
 </feed>

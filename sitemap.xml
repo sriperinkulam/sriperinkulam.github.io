@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://srikanthperinkulam.com/daynote/atom.xml</loc>
+    <loc>https://srikanthperinkulam.com/daynote/</loc>
     <lastmod>2026-12-31T00:00:12+12:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/</loc>
@@ -401,7 +401,7 @@
     <loc>https://srikanthperinkulam.com/tags/pesos/</loc>
     <lastmod>2025-11-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://srikanthperinkulam.com/pesos/atom.xml</loc>
+    <loc>https://srikanthperinkulam.com/pesos/</loc>
     <lastmod>2025-11-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/date/2025-10-29-103000-&#43;0000-utc/</loc>
@@ -689,7 +689,7 @@
     <loc>https://srikanthperinkulam.com/coin/</loc>
     <lastmod>2025-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://srikanthperinkulam.com/pages/atom.xml</loc>
+    <loc>https://srikanthperinkulam.com/pages/</loc>
     <lastmod>2025-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/stamp/</loc>
@@ -2879,7 +2879,7 @@
     <loc>https://srikanthperinkulam.com/date/2022-01-24-000000-&#43;0000-utc/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://srikanthperinkulam.com/book-note/atom.xml</loc>
+    <loc>https://srikanthperinkulam.com/book-note/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/tags/breath/</loc>
