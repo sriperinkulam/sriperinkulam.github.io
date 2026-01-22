@@ -3,8 +3,27 @@
   <title>Day Notes</title>
   <link href="https://srikanthperinkulam.com/daynote/" rel="self"/>
   <link href="https://srikanthperinkulam.com/" />
-  <updated>2026-01-21T22:32:04Z</updated>
+  <updated>2026-01-22T22:45:02Z</updated>
   <id>https://srikanthperinkulam.com/daynote/</id>
+
+<entry>
+  <title>380 again</title>
+  <link href="https://srikanthperinkulam.com/daynote/380-again/" />
+  <id>https://srikanthperinkulam.com/daynote/380-again/</id>
+  <updated>2026-01-22T00:00:01+01:00</updated>
+  <published>2026-01-22T00:00:01+01:00</published>
+
+  <summary>Noticed the big refrigerator wasn&amp;rsquo;t working this morning. Didn&amp;rsquo;t read much into it and left a work request for FAC once I was at work. Ran into Oben and requested him to take a look. Looks like he sent somebody home and they paged back stating there was 380v in the receptacles. Got back home around 1200 and confirmed the spike in multiple outlets. This is getting fucking annoying now. The FAC team reached in a few minutes and did their inspections. Looks like two breakers servicing different outlets were getting fused somewhere. Oben and Isaac meticulously troubleshot and finally found that one of the breakers had failed and was delivering only 90v instead of 220v at the load. Now, this was on a different phase and was potentially leading to the 380v across the phase and neutral on multiple outlets. They shifted this breaker to a different spare breaker and to the same phase as the other load line. Should be back tomorrow AM for further troubleshooting. Thankfully, none of my personal devices were connected to these outlets. The refrigerator ohmed out fine and turned back on once the receptacle was fixed. The RCD on the distiller breaker seems to have taken a hit. This needs to be fixed once we figure out a few more anomalies in the wiring.
+</summary>
+
+<content type="html"><![CDATA[
+<p>Noticed the big refrigerator wasn&rsquo;t working this morning. Didn&rsquo;t read much into it and left a work request for FAC once I was at work. Ran into Oben and requested him to take a look. Looks like he sent somebody home and they paged back stating there was 380v in the receptacles. Got back home around 1200 and confirmed the spike in multiple outlets. This is getting fucking annoying now. The FAC team reached in a few minutes and did their inspections. Looks like two breakers servicing different outlets were getting fused somewhere. Oben and Isaac meticulously troubleshot and finally found that one of the breakers had failed and was delivering only 90v instead of 220v at the load. Now, this was on a different phase and was potentially leading to the 380v across the phase and neutral on multiple outlets. They shifted this breaker to a different spare breaker and to the same phase as the other load line. Should be back tomorrow AM for further troubleshooting. Thankfully, none of my personal devices were connected to these outlets. The refrigerator ohmed out fine and turned back on once the receptacle was fixed. The RCD on the distiller breaker seems to have taken a hit. This needs to be fixed once we figure out a few more anomalies in the wiring.</p>
+<p>While I was putting S to sleep she asked why folks were still looking at the &lsquo;big panel&rsquo; if electricity was all fixed - per what I&rsquo;d confirmed yesterday. Really hope we get to the bottom of whatever this is real soon. These FAC technicians are really good at their work but they are up against heavy system anomalies induced by the transformer burst last week. With OP&rsquo;s celebration of life event scheduled for Saturday and the &lsquo;card making&rsquo; event tomorrow, it&rsquo;s going to be a heavy weekend for the kids(and all of us)? And I don&rsquo;t think I am ready for it.</p>
+
+]]></content>
+
+
+</entry>
 
 <entry>
   <title>Nostalgia Theory</title>
