@@ -3,7 +3,7 @@
   <title>Pages</title>
   <link href="https://srikanthperinkulam.com/pages/" rel="self"/>
   <link href="https://srikanthperinkulam.com/" />
-  <updated>2026-01-22T22:45:02Z</updated>
+  <updated>2026-01-24T22:16:02Z</updated>
   <id>https://srikanthperinkulam.com/pages/</id>
 
 <entry>
@@ -4639,6 +4639,8 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 </li>
 <li><a href="/sotn" target="_blank">State of the network</a>
 </li>
+<li><a href="/gb" target="_blank">Guestbook</a>
+</li>
 <li><a href="/stamp" target="_blank">Stamp Collection</a>
 </li>
 <li><a href="/coin" target="_blank">Coin Collection</a>
@@ -5230,6 +5232,23 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
   <summary>Indieweb Feed</summary>
 
 <content type="html"><![CDATA[
+
+]]></content>
+
+
+</entry>
+
+<entry>
+  <title>Guest Book</title>
+  <link href="https://srikanthperinkulam.com/gb/" />
+  <id>https://srikanthperinkulam.com/gb/</id>
+  <updated>2024-11-30T00:00:00Z</updated>
+  <published>2024-11-30T00:00:00Z</published>
+
+  <summary>This page is an ode to the interwebs of 2006.</summary>
+
+<content type="html"><![CDATA[
+<p>Randomly landed here from the interwebs? Something got your attention? Leave a note below to say hello.</p>
 
 ]]></content>
 
