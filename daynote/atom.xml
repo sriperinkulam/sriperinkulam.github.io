@@ -3,8 +3,28 @@
   <title>Day Notes</title>
   <link href="https://srikanthperinkulam.com/daynote/" rel="self"/>
   <link href="https://srikanthperinkulam.com/" />
-  <updated>2026-01-24T22:16:02Z</updated>
+  <updated>2026-01-27T22:56:15Z</updated>
   <id>https://srikanthperinkulam.com/daynote/</id>
+
+<entry>
+  <title>Garmin summaries</title>
+  <link href="https://srikanthperinkulam.com/daynote/garmin-summaries/" />
+  <id>https://srikanthperinkulam.com/daynote/garmin-summaries/</id>
+  <updated>2026-01-27T00:00:01+01:00</updated>
+  <published>2026-01-27T00:00:01+01:00</published>
+
+  <summary>Struck me today that I only need to retain atmost seven years of tax returns. Time to digitize those and shred the remaining.
+Wrote a small python script to generate yearly/monthly summaries for my garmin data. Somewhere during the wordpress-&amp;gt;Hugo migrations, this fell through the cracks. Also, updated the garmin page to display those summaries.
+</summary>
+
+<content type="html"><![CDATA[
+<p>Struck me today that I only need to retain atmost seven years of tax returns. Time to digitize those and shred the remaining.</p>
+<p>Wrote a small python script to generate yearly/monthly summaries for my garmin data. Somewhere during the wordpress-&gt;Hugo migrations, this fell through the cracks. Also, updated the <a href="https://srikanthperinkulam.com/garmin">garmin</a> page to display those summaries.</p>
+
+]]></content>
+
+
+</entry>
 
 <entry>
   <title>Celebration of life</title>
