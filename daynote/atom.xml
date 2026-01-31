@@ -3,8 +3,48 @@
   <title>Day Notes</title>
   <link href="https://srikanthperinkulam.com/daynote/" rel="self"/>
   <link href="https://srikanthperinkulam.com/" />
-  <updated>2026-01-27T22:56:15Z</updated>
+  <updated>2026-01-31T23:24:12Z</updated>
   <id>https://srikanthperinkulam.com/daynote/</id>
+
+<entry>
+  <title>Ramen</title>
+  <link href="https://srikanthperinkulam.com/daynote/ramen/" />
+  <id>https://srikanthperinkulam.com/daynote/ramen/</id>
+  <updated>2026-01-31T00:00:01+01:00</updated>
+  <published>2026-01-31T00:00:01+01:00</published>
+
+  <summary>Moltbook seems to be eerily scary&amp;hellip;
+Reconnected with R.Medury on a quick call. Been a few years since we met! 17 years ago we&amp;rsquo;d been to the Pench Tiger reserve together. Boy, time flies!
+Made some Burritos for lunch. Which turned out to be epic. And then some vegan ramen for night-lunch. Wouldn&amp;rsquo;t say epic but it was oh-so-freaking-delicious!
+</summary>
+
+<content type="html"><![CDATA[
+<p><a href="https://www.moltbook.com/">Moltbook</a> seems to be eerily scary&hellip;</p>
+<p>Reconnected with R.Medury on a quick call. Been a few years since we met! 17 years ago we&rsquo;d been to the <a href="https://srikanthperinkulam.com/2009/12/29/the-junglethlon/">Pench Tiger reserve</a> together. Boy, time flies!</p>
+<p>Made some Burritos for lunch. Which turned out to be epic. And then some vegan ramen for night-lunch. Wouldn&rsquo;t say epic but it was oh-so-freaking-delicious!</p>
+
+]]></content>
+
+
+</entry>
+
+<entry>
+  <title>Muting group calls</title>
+  <link href="https://srikanthperinkulam.com/daynote/muting-group-calls/" />
+  <id>https://srikanthperinkulam.com/daynote/muting-group-calls/</id>
+  <updated>2026-01-29T00:00:01+01:00</updated>
+  <published>2026-01-29T00:00:01+01:00</published>
+
+  <summary>Apparently, to mute any group calls / notifications in Signal, besides muting notifications, @ mentions also need to be set to &amp;lsquo;Do not notify&amp;rsquo;&amp;hellip;
+</summary>
+
+<content type="html"><![CDATA[
+<p>Apparently, to mute any group calls / notifications in Signal, besides muting notifications, @ mentions also need to be set to &lsquo;Do not notify&rsquo;&hellip;</p>
+
+]]></content>
+
+
+</entry>
 
 <entry>
   <title>Garmin summaries</title>
@@ -13,12 +53,12 @@
   <updated>2026-01-27T00:00:01+01:00</updated>
   <published>2026-01-27T00:00:01+01:00</published>
 
-  <summary>Struck me today that I only need to retain atmost seven years of tax returns. Time to digitize those and shred the remaining.
+  <summary>Struck me today that I only need to retain at-most seven years of tax returns. Time to digitize those and shred the remaining.
 Wrote a small python script to generate yearly/monthly summaries for my garmin data. Somewhere during the wordpress-&amp;gt;Hugo migrations, this fell through the cracks. Also, updated the garmin page to display those summaries.
 </summary>
 
 <content type="html"><![CDATA[
-<p>Struck me today that I only need to retain atmost seven years of tax returns. Time to digitize those and shred the remaining.</p>
+<p>Struck me today that I only need to retain at-most seven years of tax returns. Time to digitize those and shred the remaining.</p>
 <p>Wrote a small python script to generate yearly/monthly summaries for my garmin data. Somewhere during the wordpress-&gt;Hugo migrations, this fell through the cracks. Also, updated the <a href="https://srikanthperinkulam.com/garmin">garmin</a> page to display those summaries.</p>
 
 ]]></content>
