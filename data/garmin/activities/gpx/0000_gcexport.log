@@ -81,3 +81,10 @@ CF-RAY: 9bbf4a571981d2b1-EWR
 2026-01-27 15:39:46,765 [INFO   ] Userstats page https://connect.garmin.com/userstats-service/statistics/sriperinkulam
 2026-01-27 15:39:49,789 [INFO   ] Activity list URL https://connect.garmin.com/activitylist-service/activities/search/activities?start=0&limit=4
 2026-01-27 15:39:59,977 [INFO   ] CSV file written.
+2026-02-01 14:25:30,123 [INFO   ] Starting /media/peri/320GB/Garmin/garmin-connect-export/gcexport.py version 4.2.0, using Python version 3.11.2
+2026-02-01 14:25:30,124 [INFO   ] New logfile level: INFO
+2026-02-01 14:25:30,124 [WARNING] Output directory /home/peri/stacks/hugo/ssp/static/data/garmin/activities/gpx/ already exists. Will skip already-downloaded files and append to the CSV file.
+2026-02-01 14:25:36,040 [INFO   ] Profile page https://connect.garmin.com/userprofile-service/socialProfile
+2026-02-01 14:25:37,332 [INFO   ] Userstats page https://connect.garmin.com/userstats-service/statistics/sriperinkulam
+2026-02-01 14:25:42,470 [INFO   ] Activity list URL https://connect.garmin.com/activitylist-service/activities/search/activities?start=0&limit=4
+2026-02-01 14:25:56,176 [INFO   ] CSV file written.
