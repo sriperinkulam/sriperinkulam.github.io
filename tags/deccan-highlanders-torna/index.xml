@@ -17,9 +17,237 @@
       <pubDate>Wed, 02 Feb 2011 00:00:00 +0000</pubDate>
       
       <guid>https://srikanthperinkulam.com/2011/02/02/torna-yet-again/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;div class=&#34;image-gallery&#34;&gt;
+    
+    
+    
+    
+    &lt;ol class=&#34;photo-list &#34;&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2011/02/02/torna-yet-again/images/162649.jpg&#34;&gt;&lt;img src=&#34;./images/162649.jpg&#34; loading=&#34;lazy&#34; alt=&#34;162649.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2011/02/02/torna-yet-again/images/163145_485578806555_4288006_n.jpg&#34;&gt;&lt;img src=&#34;./images/163145_485578806555_4288006_n.jpg&#34; loading=&#34;lazy&#34; alt=&#34;163145_485578806555_4288006_n.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2011/02/02/torna-yet-again/images/163441_485581346555_2873018_n.jpg&#34;&gt;&lt;img src=&#34;./images/163441_485581346555_2873018_n.jpg&#34; loading=&#34;lazy&#34; alt=&#34;163441_485581346555_2873018_n.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2011/02/02/torna-yet-again/images/164753_485582711555_798520_n.jpg&#34;&gt;&lt;img src=&#34;./images/164753_485582711555_798520_n.jpg&#34; loading=&#34;lazy&#34; alt=&#34;164753_485582711555_798520_n.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2011/02/02/torna-yet-again/images/166128_485578496555_3033853_n.jpg&#34;&gt;&lt;img src=&#34;./images/166128_485578496555_3033853_n.jpg&#34; loading=&#34;lazy&#34; alt=&#34;166128_485578496555_3033853_n.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2011/02/02/torna-yet-again/images/167821_485581971555_8281567_n.jpg&#34;&gt;&lt;img src=&#34;./images/167821_485581971555_8281567_n.jpg&#34; loading=&#34;lazy&#34; alt=&#34;167821_485581971555_8281567_n.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2011/02/02/torna-yet-again/images/image008.jpg&#34;&gt;&lt;img src=&#34;./images/image008.jpg&#34; loading=&#34;lazy&#34; alt=&#34;image008.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2011/02/02/torna-yet-again/images/image009.jpg&#34;&gt;&lt;img src=&#34;./images/image009.jpg&#34; loading=&#34;lazy&#34; alt=&#34;image009.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2011/02/02/torna-yet-again/images/image011.jpg&#34;&gt;&lt;img src=&#34;./images/image011.jpg&#34; loading=&#34;lazy&#34; alt=&#34;image011.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2011/02/02/torna-yet-again/images/image031.jpg&#34;&gt;&lt;img src=&#34;./images/image031.jpg&#34; loading=&#34;lazy&#34; alt=&#34;image031.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2011/02/02/torna-yet-again/images/image032.jpg&#34;&gt;&lt;img src=&#34;./images/image032.jpg&#34; loading=&#34;lazy&#34; alt=&#34;image032.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2011/02/02/torna-yet-again/images/unnamed.jpg&#34;&gt;&lt;img src=&#34;./images/unnamed.jpg&#34; loading=&#34;lazy&#34; alt=&#34;unnamed.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+    &lt;/ol&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list &gt; li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    flex-grow: 10;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image &gt; li {
+    height: auto;  
+}
+&lt;/style&gt;
+
 </description>
-      <content:encoded><![CDATA[<!-- raw HTML omitted -->
+      <content:encoded><![CDATA[<div class="image-gallery">
+    
+    
+    
+    
+    <ol class="photo-list ">
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2011/02/02/torna-yet-again/images/162649.jpg"><img src="./images/162649.jpg" loading="lazy" alt="162649.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2011/02/02/torna-yet-again/images/163145_485578806555_4288006_n.jpg"><img src="./images/163145_485578806555_4288006_n.jpg" loading="lazy" alt="163145_485578806555_4288006_n.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2011/02/02/torna-yet-again/images/163441_485581346555_2873018_n.jpg"><img src="./images/163441_485581346555_2873018_n.jpg" loading="lazy" alt="163441_485581346555_2873018_n.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2011/02/02/torna-yet-again/images/164753_485582711555_798520_n.jpg"><img src="./images/164753_485582711555_798520_n.jpg" loading="lazy" alt="164753_485582711555_798520_n.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2011/02/02/torna-yet-again/images/166128_485578496555_3033853_n.jpg"><img src="./images/166128_485578496555_3033853_n.jpg" loading="lazy" alt="166128_485578496555_3033853_n.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2011/02/02/torna-yet-again/images/167821_485581971555_8281567_n.jpg"><img src="./images/167821_485581971555_8281567_n.jpg" loading="lazy" alt="167821_485581971555_8281567_n.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2011/02/02/torna-yet-again/images/image008.jpg"><img src="./images/image008.jpg" loading="lazy" alt="image008.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2011/02/02/torna-yet-again/images/image009.jpg"><img src="./images/image009.jpg" loading="lazy" alt="image009.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2011/02/02/torna-yet-again/images/image011.jpg"><img src="./images/image011.jpg" loading="lazy" alt="image011.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2011/02/02/torna-yet-again/images/image031.jpg"><img src="./images/image031.jpg" loading="lazy" alt="image031.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2011/02/02/torna-yet-again/images/image032.jpg"><img src="./images/image032.jpg" loading="lazy" alt="image032.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2011/02/02/torna-yet-again/images/unnamed.jpg"><img src="./images/unnamed.jpg" loading="lazy" alt="unnamed.jpg" /><a>
+            </li>
+        
+    </ol>
+</div>
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    flex-grow: 10;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image > li {
+    height: auto;  
+}
+</style>
+
 ]]></content:encoded>
     </item>
     

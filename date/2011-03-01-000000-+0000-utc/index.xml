@@ -17,9 +17,165 @@
       <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
       
       <guid>https://srikanthperinkulam.com/2011/03/01/torna-by-night/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;div class=&#34;image-gallery&#34;&gt;
+    
+    
+    
+    
+    &lt;ol class=&#34;photo-list &#34;&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2011/03/01/torna-by-night/images/181937_10150404201400182_4264756_n.jpg&#34;&gt;&lt;img src=&#34;./images/181937_10150404201400182_4264756_n.jpg&#34; loading=&#34;lazy&#34; alt=&#34;181937_10150404201400182_4264756_n.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2011/03/01/torna-by-night/images/182006_10150404200795182_4496877_n.jpg&#34;&gt;&lt;img src=&#34;./images/182006_10150404200795182_4496877_n.jpg&#34; loading=&#34;lazy&#34; alt=&#34;182006_10150404200795182_4496877_n.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2011/03/01/torna-by-night/images/184381_10150404199005182_4669104_n.jpg&#34;&gt;&lt;img src=&#34;./images/184381_10150404199005182_4669104_n.jpg&#34; loading=&#34;lazy&#34; alt=&#34;184381_10150404199005182_4669104_n.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2011/03/01/torna-by-night/images/184681_10150404196120182_5029139_n.jpg&#34;&gt;&lt;img src=&#34;./images/184681_10150404196120182_5029139_n.jpg&#34; loading=&#34;lazy&#34; alt=&#34;184681_10150404196120182_5029139_n.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2011/03/01/torna-by-night/images/409383_10151319368865711_199345860_n.jpg&#34;&gt;&lt;img src=&#34;./images/409383_10151319368865711_199345860_n.jpg&#34; loading=&#34;lazy&#34; alt=&#34;409383_10151319368865711_199345860_n.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2011/03/01/torna-by-night/images/428583_10151319370630711_2078916101_n.jpg&#34;&gt;&lt;img src=&#34;./images/428583_10151319370630711_2078916101_n.jpg&#34; loading=&#34;lazy&#34; alt=&#34;428583_10151319370630711_2078916101_n.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+    &lt;/ol&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list &gt; li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    flex-grow: 10;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image &gt; li {
+    height: auto;  
+}
+&lt;/style&gt;
+
 </description>
-      <content:encoded><![CDATA[<!-- raw HTML omitted -->
+      <content:encoded><![CDATA[<div class="image-gallery">
+    
+    
+    
+    
+    <ol class="photo-list ">
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2011/03/01/torna-by-night/images/181937_10150404201400182_4264756_n.jpg"><img src="./images/181937_10150404201400182_4264756_n.jpg" loading="lazy" alt="181937_10150404201400182_4264756_n.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2011/03/01/torna-by-night/images/182006_10150404200795182_4496877_n.jpg"><img src="./images/182006_10150404200795182_4496877_n.jpg" loading="lazy" alt="182006_10150404200795182_4496877_n.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2011/03/01/torna-by-night/images/184381_10150404199005182_4669104_n.jpg"><img src="./images/184381_10150404199005182_4669104_n.jpg" loading="lazy" alt="184381_10150404199005182_4669104_n.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2011/03/01/torna-by-night/images/184681_10150404196120182_5029139_n.jpg"><img src="./images/184681_10150404196120182_5029139_n.jpg" loading="lazy" alt="184681_10150404196120182_5029139_n.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2011/03/01/torna-by-night/images/409383_10151319368865711_199345860_n.jpg"><img src="./images/409383_10151319368865711_199345860_n.jpg" loading="lazy" alt="409383_10151319368865711_199345860_n.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2011/03/01/torna-by-night/images/428583_10151319370630711_2078916101_n.jpg"><img src="./images/428583_10151319370630711_2078916101_n.jpg" loading="lazy" alt="428583_10151319370630711_2078916101_n.jpg" /><a>
+            </li>
+        
+    </ol>
+</div>
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    flex-grow: 10;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image > li {
+    height: auto;  
+}
+</style>
+
 ]]></content:encoded>
     </item>
     
