@@ -3,7 +3,7 @@
   <title>Pages</title>
   <link href="https://srikanthperinkulam.com/pages/" rel="self"/>
   <link href="https://srikanthperinkulam.com/" />
-  <updated>2026-02-03T22:44:25Z</updated>
+  <updated>2026-02-04T22:29:38Z</updated>
   <id>https://srikanthperinkulam.com/pages/</id>
 
 <entry>
@@ -4696,6 +4696,8 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 </li>
 <li><a href="https://stevenbrady.com/" target="_blank">Steven Brady</a>
 </li>
+<li><a href="https://beardystarstuff.net/" target="_blank">Denny Henke</a>
+</li>
 <li><a href="https://paulcapewell.com/blog/" target="_blank">Paul Capewell</a>
 </li>
 <li><a href="https://baty.net/posts/" target="_blank">Jack Baty</a>
@@ -4846,12 +4848,9 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 <p>Here&rsquo;s a quick list of things I would like to get at some point in time.</p>
 <h2 id="pouch-friendly">Pouch Friendly</h2>
 <ul>
-<li><a href="https://www.amazon.com/dp/B0FBHS37FF">1 TB SSD Hard drive</a></li>
 <li><a href="https://www.amazon.com/dp/B01CTUIUFK">Cobra ACXT64 Walkie Talkies</a></li>
 <li><a href="https://www.amazon.com/Valante-Document-Organizer-Capacious-Passport/dp/B07F8TMTZ7">Travel document organizer</a></li>
 <li><a href="https://www.amazon.com/SanDisk-2TB-Extreme-Portable-SDSSDE61-2T00-G25/dp/B08HN37XC1">2TB SSD Hard drive</a></li>
-<li><a href="https://www.amazon.com/Squirt-Long-Lasting-Lube-bottle/dp/B0BX4HYT2T">Squirt Chain lube</a></li>
-<li><a href="https://chipolo.net/en/products/chipolo-loop-4-pack?variant=4142761">Chipolo Loop</a></li>
 </ul>
 <h2 id="pouch-no-bueno">Pouch no bueno</h2>
 <ul>
