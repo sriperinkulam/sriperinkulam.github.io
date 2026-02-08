@@ -3,8 +3,48 @@
   <title>Day Notes</title>
   <link href="https://srikanthperinkulam.com/daynote/" rel="self"/>
   <link href="https://srikanthperinkulam.com/" />
-  <updated>2026-02-04T22:29:38Z</updated>
+  <updated>2026-02-08T22:29:10Z</updated>
   <id>https://srikanthperinkulam.com/daynote/</id>
+
+<entry>
+  <title>Mbankolo</title>
+  <link href="https://srikanthperinkulam.com/daynote/mbankolo/" />
+  <id>https://srikanthperinkulam.com/daynote/mbankolo/</id>
+  <updated>2026-02-08T00:00:02+01:00</updated>
+  <published>2026-02-08T00:00:02+01:00</published>
+
+  <summary>Hike up was tiring! But we did save 3 minutes off the previous &amp;lsquo;run&amp;rsquo;. Romero was in form! I need to be able to run up this hill and feel good!
+Spent rest of the morning in Carrefour and Spar, &amp;lsquo;paying it forward&amp;rsquo;.
+Removed yet another friction point in &amp;lsquo;owning&amp;rsquo; my garmin data. Tweaked the garmin &amp;lsquo;plugin&amp;rsquo; to autofetch the gpx and summary json file names based on the date of the post. Now all I need to do is fetch the actual gpx and json files (Which is semi-automated by a tiny python script) and set the gpxfile:&amp;ldquo;yes&amp;rdquo; in my frontmatter to display a neat map of the workout and all the data.
+</summary>
+
+<content type="html"><![CDATA[
+<p>Hike up was tiring! But we did save 3 minutes off the previous &lsquo;run&rsquo;. Romero was in form! I need to be able to run up this hill and feel good!</p>
+<p>Spent rest of the morning in Carrefour and Spar, &lsquo;paying it forward&rsquo;.</p>
+<p>Removed yet another friction point in &lsquo;owning&rsquo; my garmin data. Tweaked the garmin &lsquo;plugin&rsquo; to autofetch the gpx and summary json file names based on the date of the post. Now all I need to do is fetch the actual gpx and json files (Which is semi-automated by a tiny python script) and set the gpxfile:&ldquo;yes&rdquo; in my frontmatter to display a neat map of the workout and all the data.</p>
+
+]]></content>
+
+
+</entry>
+
+<entry>
+  <title>2026-Feb-05</title>
+  <link href="https://srikanthperinkulam.com/daynote/2026-feb-05/" />
+  <id>https://srikanthperinkulam.com/daynote/2026-feb-05/</id>
+  <updated>2026-02-05T00:00:02+01:00</updated>
+  <published>2026-02-05T00:00:02+01:00</published>
+
+  <summary>The Signal notifications annoyance continues - Turns out that doesn&amp;rsquo;t do it either. Looks like I had this specific group enabled for notifications in a &amp;lsquo;custom notifications profile&amp;rsquo;. This doesn&amp;rsquo;t make sense. Doesn&amp;rsquo;t help either that I&amp;rsquo;m looking for this, all groggy, woken up by one of those group calls at an ungodly hour.
+</summary>
+
+<content type="html"><![CDATA[
+<p>The <em>Signal</em> notifications annoyance continues - Turns out <a href="https://srikanthperinkulam.com/daynote/muting-group-calls/">that</a> doesn&rsquo;t do it either. Looks like I had this specific group enabled for notifications in a &lsquo;custom notifications profile&rsquo;. This doesn&rsquo;t make sense. Doesn&rsquo;t help either that I&rsquo;m looking for this, all groggy, woken up by one of those group calls at an ungodly hour.</p>
+
+]]></content>
+
+
+</entry>
 
 <entry>
   <title>write</title>
