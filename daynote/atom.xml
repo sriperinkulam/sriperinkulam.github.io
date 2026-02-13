@@ -3,8 +3,50 @@
   <title>Day Notes</title>
   <link href="https://srikanthperinkulam.com/daynote/" rel="self"/>
   <link href="https://srikanthperinkulam.com/" />
-  <updated>2026-02-11T00:28:40Z</updated>
+  <updated>2026-02-13T20:54:10Z</updated>
   <id>https://srikanthperinkulam.com/daynote/</id>
+
+<entry>
+  <title>La Course 2026</title>
+  <link href="https://srikanthperinkulam.com/daynote/la-course-2026/" />
+  <id>https://srikanthperinkulam.com/daynote/la-course-2026/</id>
+  <updated>2026-02-13T00:00:02+01:00</updated>
+  <published>2026-02-13T00:00:02+01:00</published>
+
+  <summary> S had a fantastic run today. She didn&amp;rsquo;t place, but she ran oh, so beautifully. Consistent, no drama and came in 5th. And then later this evening she was in-the-zone for soccer. So proud!
+</summary>
+
+<content type="html"><![CDATA[
+<p><img loading="lazy" src="images/Lacourse2026.jpg" alt=""  />
+</p>
+<p>S had a fantastic run today. She didn&rsquo;t place, but she ran oh, so beautifully. Consistent, no drama and came in 5th. And then later this evening she was in-the-zone for soccer. So proud!</p>
+
+]]></content>
+
+
+</entry>
+
+<entry>
+  <title>Hashbrowns and Snapcast</title>
+  <link href="https://srikanthperinkulam.com/daynote/hashbrowns-and-snapcast/" />
+  <id>https://srikanthperinkulam.com/daynote/hashbrowns-and-snapcast/</id>
+  <updated>2026-02-11T00:00:02+01:00</updated>
+  <published>2026-02-11T00:00:02+01:00</published>
+
+  <summary>Made some incredible hashbrowns from scratch. Key was probably draining the starch out by running the grated potato under cold water. Caramelized onions was a nice touch.
+I really need want to sync my bluetooth speakers to setup an across home speaker system.
+Most people who write on their own domain seem to have careers or interest in tech. I want to find and read people who write on their own domain but are not solely interested in tech. Tech-adjacent is okay. I really wish folks in my family and friend circle wrote more. Wait, i really wish they actually wrote.
+</summary>
+
+<content type="html"><![CDATA[
+<p>Made some incredible hashbrowns from scratch. Key was probably draining the starch out by running the grated potato under cold water. Caramelized onions was a nice touch.</p>
+<p>I really <del>need</del> want to sync my bluetooth speakers to setup an across home speaker system.</p>
+<p>Most people who write on their own domain <em>seem</em> to have careers or interest in tech. I want to find and read people who write on their own domain but are not solely interested in tech. Tech-adjacent is <em>okay</em>. I really wish folks in my family and friend circle wrote more. Wait, i really wish they actually <strong><em>wrote</em></strong>.</p>
+
+]]></content>
+
+
+</entry>
 
 <entry>
   <title>COLA and PD</title>
@@ -45,6 +87,24 @@ Removed yet another friction point in &amp;lsquo;owning&amp;rsquo; my garmin dat
 <p>Hike up was tiring! But we did save 3 minutes off the previous &lsquo;run&rsquo;. Romero was in form! I need to be able to run up this hill and feel good!</p>
 <p>Spent rest of the morning in Carrefour and Spar, &lsquo;paying it forward&rsquo;.</p>
 <p>Removed yet another friction point in &lsquo;owning&rsquo; my garmin data. Tweaked the garmin &lsquo;plugin&rsquo; to autofetch the gpx and summary json file names based on the date of the post. Now all I need to do is fetch the actual gpx and json files (Which is semi-automated by a tiny python script) and set the gpxfile:&ldquo;yes&rdquo; in my frontmatter to display a neat map of the workout and all the data.</p>
+
+]]></content>
+
+
+</entry>
+
+<entry>
+  <title>Brake Cylinders</title>
+  <link href="https://srikanthperinkulam.com/daynote/brake-cylinders/" />
+  <id>https://srikanthperinkulam.com/daynote/brake-cylinders/</id>
+  <updated>2026-02-07T00:00:02+02:00</updated>
+  <published>2026-02-07T00:00:02+02:00</published>
+
+  <summary>Figured out why the Grand Vitara was losing brake fluid so quickly. Looks like the rear right break cylinder developed a small leak and was draining the fluid slowly. That also explains the squeaking sound we heard a few days ago. Time for some replacements. The mechanic in Bastos came up with a quote that was comparable to what I would have had to pay if this was to happen in the states. Gave them the green and hopefully we&amp;rsquo;ll have this sorted out soon.
+</summary>
+
+<content type="html"><![CDATA[
+<p>Figured out why the Grand Vitara was <a href="https://srikanthperinkulam.com/daynote/tsp-lentils/#note-6">losing brake fluid so quickly</a>. Looks like the rear right break cylinder developed a small leak and was draining the fluid slowly. That also explains the squeaking sound we heard a few days ago. Time for some replacements. The mechanic in Bastos came up with a quote that was comparable to what I would have had to pay if this was to happen in the states. Gave them the green and hopefully we&rsquo;ll have this sorted out soon.</p>
 
 ]]></content>
 
