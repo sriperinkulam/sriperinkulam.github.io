@@ -3,7 +3,7 @@
   <title>Pages</title>
   <link href="https://srikanthperinkulam.com/pages/" rel="self"/>
   <link href="https://srikanthperinkulam.com/" />
-  <updated>2026-02-13T21:49:13Z</updated>
+  <updated>2026-02-14T22:33:42Z</updated>
   <id>https://srikanthperinkulam.com/pages/</id>
 
 <entry>
@@ -4954,6 +4954,10 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 
 <content type="html"><![CDATA[
 <p>Sort of a change log to keep track of modifications done to this portal.</p>
+<h3 id="friday-13-february-2026-1127pm">Friday, 13. February 2026 11:27PM</h3>
+<ul>
+<li>Made some minor tweaks to the <a href="/micro">micro</a> page.</li>
+</ul>
 <h3 id="sunday-08-february-2026-1039pm">Sunday, 08. February 2026 10:39PM</h3>
 <ul>
 <li>Modified the Garmin_mapdisplay partial to automagically pull the gpx and json information based on the date! Essentially, the partial looks for a &lsquo;gpxfile:&ldquo;yes&rdquo;&rsquo; in the frontmatter. If it finds it non-empty, it searches for the gpx file and json summary in the corresponding folders and builds from there.</li>
