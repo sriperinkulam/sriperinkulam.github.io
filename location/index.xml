@@ -10,11 +10,21 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Feb 2026 00:00:02 +0100</lastBuildDate><atom:link href="https://srikanthperinkulam.com/location/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Feb 2026 00:00:02 +0100</lastBuildDate><atom:link href="https://srikanthperinkulam.com/location/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>14 Feb 2026 00:00</title>
+      <title>22 Feb 2026 00:00</title>
+      <link>https://srikanthperinkulam.com/location/malabo/</link>
+      <pubDate>Sun, 22 Feb 2026 00:00:02 +0100</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/location/malabo/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>15 Feb 2026 00:00</title>
       <link>https://srikanthperinkulam.com/location/yaounde/</link>
-      <pubDate>Sat, 14 Feb 2026 00:00:02 +0100</pubDate>
+      <pubDate>Sun, 15 Feb 2026 00:00:02 +0100</pubDate>
       
       <guid>https://srikanthperinkulam.com/location/yaounde/</guid>
       <description></description>
@@ -47,16 +57,6 @@
       <pubDate>Wed, 31 Dec 2025 10:30:00 +0000</pubDate>
       
       <guid>https://srikanthperinkulam.com/location/houston/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>31 Dec 2025 10:30</title>
-      <link>https://srikanthperinkulam.com/location/malabo/</link>
-      <pubDate>Wed, 31 Dec 2025 10:30:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/location/malabo/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
