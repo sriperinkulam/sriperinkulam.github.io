@@ -10,7 +10,27 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Feb 2026 00:00:02 +0100</lastBuildDate><atom:link href="https://srikanthperinkulam.com/location/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Mar 2026 00:00:03 +0100</lastBuildDate><atom:link href="https://srikanthperinkulam.com/location/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>16 Mar 2026 00:00</title>
+      <link>https://srikanthperinkulam.com/location/bangui/</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:03 +0100</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/location/bangui/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>11 Mar 2026 00:00</title>
+      <link>https://srikanthperinkulam.com/location/douala/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:03 +0100</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/location/douala/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
     <item>
       <title>22 Feb 2026 00:00</title>
       <link>https://srikanthperinkulam.com/location/malabo/</link>
@@ -43,16 +63,6 @@
     
     <item>
       <title>31 Dec 2025 10:30</title>
-      <link>https://srikanthperinkulam.com/location/bangui/</link>
-      <pubDate>Wed, 31 Dec 2025 10:30:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/location/bangui/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>31 Dec 2025 10:30</title>
       <link>https://srikanthperinkulam.com/location/houston/</link>
       <pubDate>Wed, 31 Dec 2025 10:30:00 +0000</pubDate>
       
@@ -77,16 +87,6 @@
       <pubDate>Tue, 30 Dec 2025 00:00:12 +0100</pubDate>
       
       <guid>https://srikanthperinkulam.com/location/fl/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>26 Dec 2025 00:00</title>
-      <link>https://srikanthperinkulam.com/location/baltimore/</link>
-      <pubDate>Fri, 26 Dec 2025 00:00:12 +0100</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/location/baltimore/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
