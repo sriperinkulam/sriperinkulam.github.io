@@ -3,8 +3,48 @@
   <title>Day Notes</title>
   <link href="https://srikanthperinkulam.com/daynote/" rel="self"/>
   <link href="https://srikanthperinkulam.com/" />
-  <updated>2026-04-11T12:40:45Z</updated>
+  <updated>2026-04-18T23:44:00Z</updated>
   <id>https://srikanthperinkulam.com/daynote/</id>
+
+<entry>
+  <title>Isle of cats</title>
+  <link href="https://srikanthperinkulam.com/daynote/isle-of-cats/" />
+  <id>https://srikanthperinkulam.com/daynote/isle-of-cats/</id>
+  <updated>2026-04-18T00:00:04+01:00</updated>
+  <published>2026-04-18T00:00:04+01:00</published>
+
+  <summary>This note would have been written from Bangui. But thanks to whatever got me down last weekend and almost all of this past week, I&amp;rsquo;m seated in my comfy chair at home, sipping some delicious &amp;lsquo;Throat-coat&amp;rsquo; and typing this away. I&amp;rsquo;ve been on 4 consecutive TDY trips since February, so i&amp;rsquo;ll take this as a win. There&amp;rsquo;s always work to be done and stuff to be taken care of. And I was in no position to travel last thursday. So that&amp;rsquo;s that.
+</summary>
+
+<content type="html"><![CDATA[
+<p>This note would have been written from Bangui. But thanks to whatever got me down last weekend and almost all of this past week, I&rsquo;m seated in my comfy chair at home, sipping some delicious &lsquo;Throat-coat&rsquo; and typing this away. I&rsquo;ve been on 4 consecutive TDY trips since February, so i&rsquo;ll take this as a win. There&rsquo;s always work to be done and stuff to be taken care of. And I was in no position to travel last thursday. So that&rsquo;s that.</p>
+<p>The Pope just about wrapped up his trip to Cameroon today. It&rsquo;s amazing how much &lsquo;following&rsquo; one <del>person</del> position warrants.</p>
+<p>Played <em>Isle of cats</em> yesterday with the fam. Took a minute learning several facets of the game. But I think I kinda like it. S seems to be wittingly good at it!</p>
+<p>I&rsquo;ve been considering tinkering with <em>Trailbase</em> to add some  more &lsquo;fun&rsquo;ctionality to this blog. Time will tell if I have the patience to see this through.</p>
+<p>M is out for a colleague&rsquo;s birthday party. S and I played Memory^2. She&rsquo;s engineered new scoring rules and I kinda like it!</p>
+
+]]></content>
+
+
+</entry>
+
+<entry>
+  <title>Cyber</title>
+  <link href="https://srikanthperinkulam.com/daynote/cyber/" />
+  <id>https://srikanthperinkulam.com/daynote/cyber/</id>
+  <updated>2026-04-16T00:00:04+01:00</updated>
+  <published>2026-04-16T00:00:04+01:00</published>
+
+  <summary>Barely trying to keep up with the state of AI. Anthropic seems to have started Project Glasswing to build cyber guardrails using their closely released Claude Mythos Preview frontier model. OpenAI seems to have responded with GPT-5.4-Cyber. With these models being able to identify OS vulnerabilities - both individually and combining seemingly non-issues to scout vulnerabilities that were not identified before; It does look like the alarm bells have rung in the industry. Seems to be a move in the right direction for now. Only a question of time though on how the world evolves with these changes.
+</summary>
+
+<content type="html"><![CDATA[
+<p>Barely trying to keep up with the state of AI. Anthropic seems to have started <a href="https://www.anthropic.com/glasswing">Project Glasswing</a> to build cyber guardrails using their closely released <em>Claude Mythos Preview</em> frontier model. OpenAI seems to have responded with <em>GPT-5.4-Cyber</em>. With these models being able to identify OS vulnerabilities - both individually and combining seemingly non-issues to scout vulnerabilities that were not identified before; It does look like the alarm bells have rung in the industry. Seems to be a move in the right direction for now. Only a question of time though on how the world evolves with these changes.</p>
+
+]]></content>
+
+
+</entry>
 
 <entry>
   <title>Shred day!</title>
