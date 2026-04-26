@@ -10,7 +10,27 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/indieweb/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Apr 2026 10:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/indieweb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>26 Apr 2026 10:30</title>
+      <link>https://srikanthperinkulam.com/2026/04/26/commenting-outside-silos/</link>
+      <pubDate>Sun, 26 Apr 2026 10:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2026/04/26/commenting-outside-silos/</guid>
+      <description>&lt;p&gt;Sometime around February last year, I &lt;a href=&#34;https://srikanthperinkulam.com/sitelog#tuesday-04-february-2025-1021pm&#34;&gt;setup my comments system using ntfy&lt;/a&gt;. I think it&amp;rsquo;s actually pretty neat how it works and I&amp;rsquo;ve barely received any spam. I&amp;rsquo;ve kept it bare-bones since people rarely comment these days. Unless there&amp;rsquo;s an edgy or controversial post; there&amp;rsquo;s barely any exchange. And that&amp;rsquo;s perfectly fine too, I think. For what I write here is just for my future self and to scratch that itch of doing something creative and fun.&lt;/p&gt;
+&lt;p&gt;What irks me though is that there are some really good blogs out there that just do not have any form of accepting comments/feedback. I guess they just don&amp;rsquo;t want any engagement? Or just don&amp;rsquo;t see the benefit of comments over the likely spam they anticipate? But in general, there&amp;rsquo;s way too much friction to participation for individual blogs. Unless, you&amp;rsquo;re part of some sort of silo - WordPress, Substack, Medium etc which have their own ecosystem; Meaningful conversations rarely happen.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://indieweb.org/&#34;&gt;Indieweb&lt;/a&gt; seemed to have an interesting take but it&amp;rsquo;s way too technical for a regular bloke. &lt;a href=&#34;http://micro.blog/&#34;&gt;Micro.blog&lt;/a&gt; seems to be one of the only few quasi-ecosystems that facilitates engaging conversations for independent  blogs. The more recently launched &lt;a href=&#34;https://bubbles.town/&#34;&gt;Bubbles&lt;/a&gt; is a great step in shoring up non-tech blogs but engagement still seems &amp;rsquo;low&amp;rsquo;? Maybe it&amp;rsquo;s too early to judge?&lt;/p&gt;
+&lt;p&gt;For all this progress in technology, there&amp;rsquo;s gotta be something more simple and intuitive. And until then maybe that&amp;rsquo;s just pure simple email? If you have a blog out there, maybe just leave a note with an email alias that someone could respond to? &lt;a href=&#34;https://srikanthperinkulam.com/2026/04/26/commenting-outside-silos/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Sometime around February last year, I <a href="https://srikanthperinkulam.com/sitelog#tuesday-04-february-2025-1021pm">setup my comments system using ntfy</a>. I think it&rsquo;s actually pretty neat how it works and I&rsquo;ve barely received any spam. I&rsquo;ve kept it bare-bones since people rarely comment these days. Unless there&rsquo;s an edgy or controversial post; there&rsquo;s barely any exchange. And that&rsquo;s perfectly fine too, I think. For what I write here is just for my future self and to scratch that itch of doing something creative and fun.</p>
+<p>What irks me though is that there are some really good blogs out there that just do not have any form of accepting comments/feedback. I guess they just don&rsquo;t want any engagement? Or just don&rsquo;t see the benefit of comments over the likely spam they anticipate? But in general, there&rsquo;s way too much friction to participation for individual blogs. Unless, you&rsquo;re part of some sort of silo - WordPress, Substack, Medium etc which have their own ecosystem; Meaningful conversations rarely happen.</p>
+<p>The <a href="https://indieweb.org/">Indieweb</a> seemed to have an interesting take but it&rsquo;s way too technical for a regular bloke. <a href="http://micro.blog/">Micro.blog</a> seems to be one of the only few quasi-ecosystems that facilitates engaging conversations for independent  blogs. The more recently launched <a href="https://bubbles.town/">Bubbles</a> is a great step in shoring up non-tech blogs but engagement still seems &rsquo;low&rsquo;? Maybe it&rsquo;s too early to judge?</p>
+<p>For all this progress in technology, there&rsquo;s gotta be something more simple and intuitive. And until then maybe that&rsquo;s just pure simple email? If you have a blog out there, maybe just leave a note with an email alias that someone could respond to? <a href="https://srikanthperinkulam.com/2026/04/26/commenting-outside-silos/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>30 Apr 2021 00:00</title>
       <link>https://srikanthperinkulam.com/2021/04/30/april-30-2021-1807/</link>
@@ -260,30 +280,6 @@ Finally got around procuring a <a href="https://www.raspberrypi.org/products/ras
 </description>
       <content:encoded><![CDATA[<p>Squashed a minor bug in my code for &lsquo;favorite&rsquo; posts. The post wasn&rsquo;t getting marked up with Microformats when the content (response) was blank.</p>
 <p>The way it&rsquo;s currently setup, I have just one workflow for all &rsquo;types&rsquo; of post (podcast, reply, like, repost, bookmark, read etc.) and looks like I missed a logic flow that &rsquo;like&rsquo; posts may not necessarily have a note from me. A quick conditional check and the workflow works like a charm!</p>
-<p><img loading="lazy" src="images/cropped-cropped-SP01-550afdebv1_site_icon.png" alt=""  />
-<a href="https://srikanthperinkulam.com">Srikanth Perinkulam</a></p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>22 Jun 2017 00:00</title>
-      <link>https://srikanthperinkulam.com/2017/06/22/replied-tothis-year-active-community-members-are-blogging-on/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2017/06/22/replied-tothis-year-active-community-members-are-blogging-on/</guid>
-      <description>&lt;p&gt;Wow, didn&amp;rsquo;t realize this was 12 years in the making! Hats off for all the efforts!&lt;/p&gt;
-&lt;p&gt;in reply to: &lt;a href=&#34;http://tantek.com/2017/171/t1/microformats-community-blogging&#34;&gt;This year: active community members are blogging on&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;🎂 #microformats.org turned 12 today! This year: active community members are blogging on microformats.org&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;
-&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;
-</description>
-      <content:encoded><![CDATA[<p>Wow, didn&rsquo;t realize this was 12 years in the making! Hats off for all the efforts!</p>
-<p>in reply to: <a href="http://tantek.com/2017/171/t1/microformats-community-blogging">This year: active community members are blogging on</a></p>
-<blockquote>
-<p>🎂 #microformats.org turned 12 today! This year: active community members are blogging on microformats.org</p>
-</blockquote>
 <p><img loading="lazy" src="images/cropped-cropped-SP01-550afdebv1_site_icon.png" alt=""  />
 <a href="https://srikanthperinkulam.com">Srikanth Perinkulam</a></p>
 ]]></content:encoded>
