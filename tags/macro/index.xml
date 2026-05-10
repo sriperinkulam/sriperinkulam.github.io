@@ -10,7 +10,27 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Apr 2026 10:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/macro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 May 2026 10:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/macro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>10 May 2026 10:30</title>
+      <link>https://srikanthperinkulam.com/2026/05/10/migrating-to-lineageos/</link>
+      <pubDate>Sun, 10 May 2026 10:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2026/05/10/migrating-to-lineageos/</guid>
+      <description>&lt;p&gt;After a failed attempt to &lt;a href=&#34;https://srikanthperinkulam.com/daynote/lineageos/&#34;&gt;install LineageOS&lt;/a&gt; on my primary phone, I spent a good many hours last week trying to revive as much as I could. After that misadventure, I&amp;rsquo;m several steps behind where I wanted to be -  Instead of a fully functional LineageOS device, I now have a phone that is barely stable and doesn&amp;rsquo;t quite have a rear camera.&lt;/p&gt;
+&lt;p&gt;Mistakes are all mine though and in hindsight, I did see this coming. Was treading really murky waters not flashing in a stock OS in the first place. As with all things that go wrong, a bunch of factors contributed to this - incrementally. Since download speeds barely hit 0.5Mbps here, I was very selective on what firmware files I&amp;rsquo;d port in. And in that process, I failed installing the CP and CSC packages. All this leading to a quasi stable OS. Thankfully, I had some backups in place and there&amp;rsquo;s only a couple months until I get to purchase a Pixel 9 and install GrapheneOS on it.&lt;/p&gt;
+&lt;p&gt;This whole process has, if anything, convinced me to institute a process to better manage these devices. It took me a solid 30 minutes to block most of the stock crap that Samsung dumps on your phone even before it hits the network. Having to do this manually every single time the bootloader is flashed, is absolutely painful. Came across two really good apps on the F-Droid ecosystem. &lt;a href=&#34;https://muntashir.dev/AppManager/en/&#34;&gt;AppManager&lt;/a&gt; and &lt;a href=&#34;https://github.com/NeoApplications/Neo-Backup&#34;&gt;NeoBackup&lt;/a&gt; seem to be great for backup and management of apps based on no-root/root access systems. Will put them to good use for the next migration.&lt;/p&gt;
+&lt;p&gt;If I were to look past all those hours spent on this and attempt to look at the positive side of things, I&amp;rsquo;m amazed at how well a few things worked. DAVx5 for contacts and calendar management worked like a charm and I had those back on my phone in seconds. Same with Aegis, F-Droid, K-9 mail and pEp settings backups. With some more fine-tuning I think I should have a swifter migration to GrapheneOS later this July. &lt;a href=&#34;https://srikanthperinkulam.com/2026/05/10/migrating-to-lineageos/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>After a failed attempt to <a href="https://srikanthperinkulam.com/daynote/lineageos/">install LineageOS</a> on my primary phone, I spent a good many hours last week trying to revive as much as I could. After that misadventure, I&rsquo;m several steps behind where I wanted to be -  Instead of a fully functional LineageOS device, I now have a phone that is barely stable and doesn&rsquo;t quite have a rear camera.</p>
+<p>Mistakes are all mine though and in hindsight, I did see this coming. Was treading really murky waters not flashing in a stock OS in the first place. As with all things that go wrong, a bunch of factors contributed to this - incrementally. Since download speeds barely hit 0.5Mbps here, I was very selective on what firmware files I&rsquo;d port in. And in that process, I failed installing the CP and CSC packages. All this leading to a quasi stable OS. Thankfully, I had some backups in place and there&rsquo;s only a couple months until I get to purchase a Pixel 9 and install GrapheneOS on it.</p>
+<p>This whole process has, if anything, convinced me to institute a process to better manage these devices. It took me a solid 30 minutes to block most of the stock crap that Samsung dumps on your phone even before it hits the network. Having to do this manually every single time the bootloader is flashed, is absolutely painful. Came across two really good apps on the F-Droid ecosystem. <a href="https://muntashir.dev/AppManager/en/">AppManager</a> and <a href="https://github.com/NeoApplications/Neo-Backup">NeoBackup</a> seem to be great for backup and management of apps based on no-root/root access systems. Will put them to good use for the next migration.</p>
+<p>If I were to look past all those hours spent on this and attempt to look at the positive side of things, I&rsquo;m amazed at how well a few things worked. DAVx5 for contacts and calendar management worked like a charm and I had those back on my phone in seconds. Same with Aegis, F-Droid, K-9 mail and pEp settings backups. With some more fine-tuning I think I should have a swifter migration to GrapheneOS later this July. <a href="https://srikanthperinkulam.com/2026/05/10/migrating-to-lineageos/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>26 Apr 2026 10:30</title>
       <link>https://srikanthperinkulam.com/2026/04/26/commenting-outside-silos/</link>
@@ -399,22 +419,6 @@ app before. Maybe i&rsquo;ll just port that over to the kindle one of these days
 <p>Google seems to be making all moves to prevent sideloading apps in Android. I think it&rsquo;s time I shift gears and look at other alternatives out there.</p>
 <p><a href="https://zen-browser.app/">Zen browser</a> looks real neat. Should give it a spin one of these days.</p>
 <p>Nothing like a mildly thawed frozen Papaya&hellip;<a href="https://srikanthperinkulam.com/2025/10/29/all-over-the-place/" style="text-decoration: none !important;">🔗</a>
-</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>26 Oct 2025 07:30</title>
-      <link>https://srikanthperinkulam.com/2025/10/26/caddy-not-caddying/</link>
-      <pubDate>Sun, 26 Oct 2025 07:30:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2025/10/26/caddy-not-caddying/</guid>
-      <description>&lt;p&gt;Earlier this week in Malabo, I discovered that none of my self-hosted services were working. Initially, I thought it was due to my home internet connection. However, upon returning last night, I realized that wasn’t the case at all. My tiny reverse proxy, Caddy, had encountered an issue during an automated security upgrade.&lt;/p&gt;
-&lt;p&gt;Over the past few years, I’ve adopted a hands-off approach to self-hosting, setting up auto-updates for all my services. I only intervene when something breaks. Today, I decided to give my setup a little TLC, upgrading my passthrough VPS and Odroid XU4 to Bookworm. Remarkably, the process took less than 30 minutes! Thanks to Docker and Tailscale, everything connects seamlessly and just works. Love it! &lt;a href=&#34;https://srikanthperinkulam.com/2025/10/26/caddy-not-caddying/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
-&lt;/p&gt;
-</description>
-      <content:encoded><![CDATA[<p>Earlier this week in Malabo, I discovered that none of my self-hosted services were working. Initially, I thought it was due to my home internet connection. However, upon returning last night, I realized that wasn’t the case at all. My tiny reverse proxy, Caddy, had encountered an issue during an automated security upgrade.</p>
-<p>Over the past few years, I’ve adopted a hands-off approach to self-hosting, setting up auto-updates for all my services. I only intervene when something breaks. Today, I decided to give my setup a little TLC, upgrading my passthrough VPS and Odroid XU4 to Bookworm. Remarkably, the process took less than 30 minutes! Thanks to Docker and Tailscale, everything connects seamlessly and just works. Love it! <a href="https://srikanthperinkulam.com/2025/10/26/caddy-not-caddying/" style="text-decoration: none !important;">🔗</a>
 </p>
 ]]></content:encoded>
     </item>
