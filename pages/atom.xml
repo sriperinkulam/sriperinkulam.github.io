@@ -3,7 +3,7 @@
   <title>Pages</title>
   <link href="https://srikanthperinkulam.com/pages/" rel="self"/>
   <link href="https://srikanthperinkulam.com/" />
-  <updated>2026-05-27T21:28:31Z</updated>
+  <updated>2026-05-31T21:21:55Z</updated>
   <id>https://srikanthperinkulam.com/pages/</id>
 
 <entry>
@@ -4960,6 +4960,10 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 
 <content type="html"><![CDATA[
 <p>Sort of a change log to keep track of modifications done to this portal.</p>
+<h3 id="sunday-31-may-2026-1003pm">Sunday, 31. May 2026 10:03PM</h3>
+<ul>
+<li>Automated the <a href="/now">Now</a> page a bit to show the activity and posts summary.</li>
+</ul>
 <h3 id="friday-01-may-2026-0842pm">Friday, 01. May 2026 08:42PM</h3>
 <p>Tweaked the comments code so I can now separate the comments.json for each post instead of having one mega file. Also added in a comment-id for each comment so as to enable in-line replies to be setup later.</p>
 <h3 id="friday-13-february-2026-1127pm">Friday, 13. February 2026 11:27PM</h3>
@@ -5180,7 +5184,6 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
   <summary>now</summary>
 
 <content type="html"><![CDATA[
-<p>Last updated: Sunday, 26. October 2025 03:25PM</p>
 <h3 id="projects">Projects</h3>
 <ul>
 <li>Tweaking this portal and documenting the changes in the <a href="/sitelog">sitelog</a></li>
