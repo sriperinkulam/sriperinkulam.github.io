@@ -3,7 +3,7 @@
   <title>Pages</title>
   <link href="https://srikanthperinkulam.com/pages/" rel="self"/>
   <link href="https://srikanthperinkulam.com/" />
-  <updated>2026-05-31T21:21:55Z</updated>
+  <updated>2026-06-06T08:57:54Z</updated>
   <id>https://srikanthperinkulam.com/pages/</id>
 
 <entry>
@@ -4960,6 +4960,10 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 
 <content type="html"><![CDATA[
 <p>Sort of a change log to keep track of modifications done to this portal.</p>
+<h3 id="saturday-06-june-2026-0920am">Saturday, 06. June 2026 09:20AM</h3>
+<ul>
+<li>Added a fun mountain portrait in the guestbook page. Because, why not?</li>
+</ul>
 <h3 id="sunday-31-may-2026-1003pm">Sunday, 31. May 2026 10:03PM</h3>
 <ul>
 <li>Automated the <a href="/now">Now</a> page a bit to show the activity and posts summary.</li>
@@ -5186,18 +5190,20 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 <content type="html"><![CDATA[
 <h3 id="projects">Projects</h3>
 <ul>
-<li>Tweaking this portal and documenting the changes in the <a href="/sitelog">sitelog</a></li>
 <li>Decluttering the mundane</li>
+<li>Planning out that miniature train build</li>
+<li>Tweaking this portal and documenting the changes in the <a href="/sitelog">sitelog</a></li>
 </ul>
 <h3 id="reading">Reading</h3>
 <ul>
+<li><a href="https://www.peterstarkauthor.com/last-breath/">Last Breath</a> by Peter Stark</li>
 <li><a href="https://palinstravels.co.uk/journeys/journey-himalaya/">Himalaya</a> by Michael Palin</li>
 <li><a href="https://www.mountaineers.org/books/books/karakoram-climbing-through-the-kashmir-conflict">Karakoram</a> by Steve Swenson</li>
 <li><a href="https://masalalab.in/">Masala lab</a> by Krish Ashok</li>
 </ul>
 <h3 id="planning">Planning</h3>
 <ul>
-<li>Maybe that <del>Morocco</del> U.S. trip?</li>
+<li>Maybe that <del>Morocco</del> <del>U.S.</del> India trip?</li>
 </ul>
 
 ]]></content>
@@ -5263,10 +5269,10 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
   <updated>2024-11-30T00:00:00Z</updated>
   <published>2024-11-30T00:00:00Z</published>
 
-  <summary>This page is an ode to the interwebs of 2006.</summary>
+  <summary>This page is an ode to the interwebs of 2000s.</summary>
 
 <content type="html"><![CDATA[
-<p>Randomly landed here from the interwebs? Something got your attention? Leave a note below to say hello.</p>
+<p>This page is an ode to the interwebs of the 2000s. Leave a note below to say hello! If you do notice the clouds moving in the picture below, the winds are probably blowing right in your favor. Also, did you spot the yeti?</p>
 
 ]]></content>
 
