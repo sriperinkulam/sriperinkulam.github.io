@@ -3,7 +3,7 @@
   <title>Pages</title>
   <link href="https://srikanthperinkulam.com/pages/" rel="self"/>
   <link href="https://srikanthperinkulam.com/" />
-  <updated>2026-06-06T08:57:54Z</updated>
+  <updated>2026-06-07T15:15:58Z</updated>
   <id>https://srikanthperinkulam.com/pages/</id>
 
 <entry>
@@ -5272,7 +5272,8 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
   <summary>This page is an ode to the interwebs of 2000s.</summary>
 
 <content type="html"><![CDATA[
-<p>This page is an ode to the interwebs of the 2000s. Leave a note below to say hello! If you do notice the clouds moving in the picture below, the winds are probably blowing right in your favor. Also, did you spot the yeti?</p>
+<p>This page is an ode to the interwebs of the 2000s. Leave a note below to say hello!</p>
+<p>If you do notice the clouds moving in the picture below, the winds are probably blowing right in your favor. Next time you revisit, this scenery will most likely change. Also, did you spot the yeti?</p>
 
 ]]></content>
 
