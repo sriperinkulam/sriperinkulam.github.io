@@ -12,6 +12,24 @@
     <language>en</language>
     <lastBuildDate>Thu, 31 Dec 2026 00:00:12 +1200</lastBuildDate><atom:link href="https://srikanthperinkulam.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Palakkad Gap</title>
+      <link>https://srikanthperinkulam.com/2026/06/13/palakkad-gap/</link>
+      <pubDate>Sat, 13 Jun 2026 10:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2026/06/13/palakkad-gap/</guid>
+      <description>&lt;p&gt;Rishi&amp;rsquo;s most recent &lt;a href=&#34;https://newsletter.rishikeshs.com/p/100-facts-bouncy-meatballs-map-of&#34;&gt;newsletter&lt;/a&gt; sent me down a rabbit-hole on the Palakkad Gap - the lowest and most significant mountain pass in the Western Ghats in India. It all makes sense now - The weather patterns, our ancestral migration, the language effect&amp;hellip;&lt;/p&gt;
+&lt;p&gt;And then the word &lt;em&gt;Kerala&lt;/em&gt; was derived from &lt;em&gt;Cheralam&lt;/em&gt;. The Cheras Dynasty ruled this part of India then and the Palakkad Gap was instrumental in the Chola Dynasty engaging with the Cheras. Malayalam evolved from a western dialect of Old Tamil and was heavily influenced by Sanskrit. The words &lt;em&gt;Pattar&lt;/em&gt; and &lt;em&gt;Bhat&lt;/em&gt; evolved from sanskrit word &lt;em&gt;bhaṭṭa&lt;/em&gt;! And the word Malayalam is most likely derived from &lt;em&gt;mala&lt;/em&gt; and &lt;em&gt;alam&lt;/em&gt; - language of the mountainous region.&lt;/p&gt;
+&lt;p&gt;This is all so fascinating! &lt;a href=&#34;https://srikanthperinkulam.com/2026/06/13/palakkad-gap/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Rishi&rsquo;s most recent <a href="https://newsletter.rishikeshs.com/p/100-facts-bouncy-meatballs-map-of">newsletter</a> sent me down a rabbit-hole on the Palakkad Gap - the lowest and most significant mountain pass in the Western Ghats in India. It all makes sense now - The weather patterns, our ancestral migration, the language effect&hellip;</p>
+<p>And then the word <em>Kerala</em> was derived from <em>Cheralam</em>. The Cheras Dynasty ruled this part of India then and the Palakkad Gap was instrumental in the Chola Dynasty engaging with the Cheras. Malayalam evolved from a western dialect of Old Tamil and was heavily influenced by Sanskrit. The words <em>Pattar</em> and <em>Bhat</em> evolved from sanskrit word <em>bhaṭṭa</em>! And the word Malayalam is most likely derived from <em>mala</em> and <em>alam</em> - language of the mountainous region.</p>
+<p>This is all so fascinating! <a href="https://srikanthperinkulam.com/2026/06/13/palakkad-gap/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
       <title>Fitter and flatter in five</title>
       <link>https://srikanthperinkulam.com/2026/05/15/fitter-and-flatter-in-five/</link>
       <pubDate>Fri, 15 May 2026 10:30:00 +0000</pubDate>
@@ -291,20 +309,6 @@ Built a tiny posting interface to cross-post content from this site to elsewhere
       <content:encoded><![CDATA[<p><img loading="lazy" src="images/tinypost.png" alt=""  />
 
 Built a tiny posting interface to cross-post content from this site to elsewhere on-demand if needed. Since I exclude my <a href="/daynote">daynotes</a> in my main rss feed, this helps reduce the friction a bit if I want to push out certain <em>sections</em> of a daynote on a whim. Still crude and janky but seems to do the job! #indieweb <a href="https://srikanthperinkulam.com/2025/12/16/posse/" style="text-decoration: none !important;">🔗</a>
-</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Digital house</title>
-      <link>https://srikanthperinkulam.com/2025/12/11/digital-house/</link>
-      <pubDate>Thu, 11 Dec 2025 00:20:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2025/12/11/digital-house/</guid>
-      <description>&lt;p&gt;Those four words - &amp;lsquo;But it is mine&amp;rsquo;; Definitely makes it all worth it. I have a similar setup wherein I use a Hetzner VPS just to proxy in all traffic to my selfhosted stuff. Initially had wireguard running across my devices. Switched to tailscale for a bit more ease of management. Maybe every six months or so something breaks, but it is all manageable. Gets fixed if I really want to, else it stays by the wayside until it really needs to come back up. &lt;a href=&#34;https://srikanthperinkulam.com/2025/12/11/digital-house/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
-&lt;/p&gt;
-</description>
-      <content:encoded><![CDATA[<p>Those four words - &lsquo;But it is mine&rsquo;; Definitely makes it all worth it. I have a similar setup wherein I use a Hetzner VPS just to proxy in all traffic to my selfhosted stuff. Initially had wireguard running across my devices. Switched to tailscale for a bit more ease of management. Maybe every six months or so something breaks, but it is all manageable. Gets fixed if I really want to, else it stays by the wayside until it really needs to come back up. <a href="https://srikanthperinkulam.com/2025/12/11/digital-house/" style="text-decoration: none !important;">🔗</a>
 </p>
 ]]></content:encoded>
     </item>
