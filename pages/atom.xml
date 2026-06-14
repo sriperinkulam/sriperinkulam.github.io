@@ -3,7 +3,7 @@
   <title>Pages</title>
   <link href="https://srikanthperinkulam.com/pages/" rel="self"/>
   <link href="https://srikanthperinkulam.com/" />
-  <updated>2026-06-14T00:27:36Z</updated>
+  <updated>2026-06-14T21:20:32Z</updated>
   <id>https://srikanthperinkulam.com/pages/</id>
 
 <entry>
@@ -4711,6 +4711,8 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 <li><a href="https://shawnyeager.org/notes/" target="_blank">Shawn Yeager</a>
 </li>
 <li><a href="https://www.jayperry.works/blog" target="_blank">Jay Perry</a>
+</li>
+<li><a href="https://life.drsh.io/" target="_blank">Darsh</a>
 </li>
 <li><a href="https://blog.meadowhawk.xyz" target="_blank">Meadow Hawk</a>
 </li>
