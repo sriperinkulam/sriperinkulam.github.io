@@ -10,7 +10,31 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 May 2026 10:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Jul 2026 10:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20 Jul 2026 10:30</title>
+      <link>https://srikanthperinkulam.com/2026/07/20/the-bliss-of-graphene/</link>
+      <pubDate>Mon, 20 Jul 2026 10:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2026/07/20/the-bliss-of-graphene/</guid>
+      <description>&lt;p&gt;Amidst all this travel, I finally got some time to install GrapheneOS on the refurbished Pixel 8 Pro that I bought last month. Boy, that was the easiest OS install I&amp;rsquo;ve done in a while. Barely took my 10 minutes from start to finish. And having spent a few weeks with GrapheneOS as my primary driver. It&amp;rsquo;s nothing short of amazing!&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/grapheneos.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;I love that it&amp;rsquo;s so &lt;em&gt;vanilla&lt;/em&gt;! My main profile has apps mostly installed via &lt;a href=&#34;https://obtainium.imranr.dev/&#34;&gt;Obtainium&lt;/a&gt; and F-Droid. For the needy apps, I installed a user profile specifically with Play Store and services. This profile is mostly turned off. And I love that each app is sandboxed by default!&lt;/p&gt;
+&lt;p&gt;Should have made this transition way before! I don&amp;rsquo;t quite need all the &amp;lsquo;privacy&amp;rsquo; features that GrapheneOS touts but it&amp;rsquo;s remarkable that they&amp;rsquo;ve made it so freaking simple for anybody to install this on their phones.
+&lt;a href=&#34;https://srikanthperinkulam.com/2026/07/20/the-bliss-of-graphene/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Amidst all this travel, I finally got some time to install GrapheneOS on the refurbished Pixel 8 Pro that I bought last month. Boy, that was the easiest OS install I&rsquo;ve done in a while. Barely took my 10 minutes from start to finish. And having spent a few weeks with GrapheneOS as my primary driver. It&rsquo;s nothing short of amazing!</p>
+<p><img loading="lazy" src="images/grapheneos.png" alt=""  />
+</p>
+<p>I love that it&rsquo;s so <em>vanilla</em>! My main profile has apps mostly installed via <a href="https://obtainium.imranr.dev/">Obtainium</a> and F-Droid. For the needy apps, I installed a user profile specifically with Play Store and services. This profile is mostly turned off. And I love that each app is sandboxed by default!</p>
+<p>Should have made this transition way before! I don&rsquo;t quite need all the &lsquo;privacy&rsquo; features that GrapheneOS touts but it&rsquo;s remarkable that they&rsquo;ve made it so freaking simple for anybody to install this on their phones.
+<a href="https://srikanthperinkulam.com/2026/07/20/the-bliss-of-graphene/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>10 May 2026 10:30</title>
       <link>https://srikanthperinkulam.com/2026/05/10/migrating-to-lineageos/</link>
@@ -228,18 +252,6 @@ feh -Z -z -F -D 60 --hide-pointer --auto-rotate --fullscreen
 </description>
       <content:encoded><![CDATA[<p>Around 0300 today, I was woken up rudely to a blaring sound. For a moment I assumed it was from the Seismic City alert system that CDMX has. Turned out, it was from the old blue dell laptop that I currently use to run NextcloudPi. For some reason, looks like it rebooted and went into a huge panic mode because it lost time sync. Yanked all the cables and shut it down. Something to figure out over the next few days when I have time. <a href="https://srikanthperinkulam.com/2025/01/13/blue-dell-alert/" style="text-decoration: none !important;">🔗</a>
 </p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>29 Nov 2024 22:41</title>
-      <link>https://srikanthperinkulam.com/2024/11/29/2024-11-29/</link>
-      <pubDate>Fri, 29 Nov 2024 22:41:00 -0500</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2024/11/29/2024-11-29/</guid>
-      <description>&lt;p&gt;Just struck me that most of my disk drives are quite old. Almost all of them were salvaged from old laptops. Age does not necessarily equate to performance and I do have decent backups, but only a question of time before I see them going kaput. Living vicariously on the edge when it comes to self-hosting!&lt;/p&gt;
-</description>
-      <content:encoded><![CDATA[<p>Just struck me that most of my disk drives are quite old. Almost all of them were salvaged from old laptops. Age does not necessarily equate to performance and I do have decent backups, but only a question of time before I see them going kaput. Living vicariously on the edge when it comes to self-hosting!</p>
 ]]></content:encoded>
     </item>
     
