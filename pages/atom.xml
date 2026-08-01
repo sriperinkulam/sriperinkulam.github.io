@@ -3,7 +3,7 @@
   <title>Pages</title>
   <link href="https://srikanthperinkulam.com/pages/" rel="self"/>
   <link href="https://srikanthperinkulam.com/" />
-  <updated>2026-07-28T19:39:05Z</updated>
+  <updated>2026-08-01T10:42:31Z</updated>
   <id>https://srikanthperinkulam.com/pages/</id>
 
 <entry>
@@ -2518,7 +2518,1321 @@
 
   <summary>Coin Collection</summary>
 
-<content type="html"><![CDATA[<p>Over the last few years M&amp;I have been collecting coins as we&rsquo;ve moved across different posts. These MSG coins are real cool and are one of the ways the marines raise funds for the Marine ball. Not quite sure until when we&rsquo;ll collect these but I did want to digitize them. Only a question of time that we start losing/gifting them. <a href="https://srikanthperinkulam.com/coin/#note-1">🔗</a></p>
+<content type="html"><![CDATA[<p>Over the last few years M&amp;I have been collecting coins as we&rsquo;ve moved across different posts. These coins are real cool and are one of the ways the marines raise funds for the Marine ball. And then there are coins that are given out as a token of thanks. Not quite sure until when we&rsquo;ll collect these but I did want to digitize them. Only a question of time that we start losing/gifting them. <a href="https://srikanthperinkulam.com/coin/#note-1">🔗</a></p>
+<h2 id="2026-250th-anniversary">2026 250th Anniversary</h2>
+<style>
+   
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-content img {
+    border-radius: 4px;
+    margin: 0 0 !important;
+  }
+
+   
+  .coin-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    justify-content: left;  
+  }
+
+  .coin-list li {
+    margin: 10px;
+  }
+
+   
+  .flip-container {
+    perspective: 1000px;  
+    width: 250px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+  .flip-container-wide {
+    perspective: 1000px;  
+    width: 450px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+
+  .flipper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.9s;
+  }
+
+  .flip-container:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+
+  .flip-container-wide:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+  img {
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+    display: block;  
+    backface-visibility: hidden;  
+  }
+
+  .front, .back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .back {
+    transform: rotateY(180deg);  
+  }
+
+   
+  @media (max-width: 768px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+
+   
+  @media (max-width: 550px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+</style>
+   
+  <ol class="coin-list">
+    <li class="flip-container">
+      <a href="/images/coins//25/Imagepipe_19.jpg.png">
+        <div class="flipper">
+          <img class="front" src="/images/coins//25/Imagepipe_19.jpg.png" alt="Coin Front" />
+          <img class="back" src="/images/coins//25/Imagepipe_20.jpg.png" alt="Coin Back" />
+        </div>
+      </a>
+    </li>
+  </ol>
+
+<h2 id="2026-ebo-douala">2026 EBO Douala</h2>
+<style>
+   
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-content img {
+    border-radius: 4px;
+    margin: 0 0 !important;
+  }
+
+   
+  .coin-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    justify-content: left;  
+  }
+
+  .coin-list li {
+    margin: 10px;
+  }
+
+   
+  .flip-container {
+    perspective: 1000px;  
+    width: 250px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+  .flip-container-wide {
+    perspective: 1000px;  
+    width: 450px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+
+  .flipper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.9s;
+  }
+
+  .flip-container:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+
+  .flip-container-wide:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+  img {
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+    display: block;  
+    backface-visibility: hidden;  
+  }
+
+  .front, .back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .back {
+    transform: rotateY(180deg);  
+  }
+
+   
+  @media (max-width: 768px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+
+   
+  @media (max-width: 550px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+</style>
+   
+  <ol class="coin-list">
+    <li class="flip-container">
+      <a href="/images/coins//24/Imagepipe_21.jpg.png">
+        <div class="flipper">
+          <img class="front" src="/images/coins//24/Imagepipe_21.jpg.png" alt="Coin Front" />
+          <img class="back" src="/images/coins//24/Imagepipe_22.jpg.png" alt="Coin Back" />
+        </div>
+      </a>
+    </li>
+  </ol>
+
+<h2 id="2026-rao-yaounde">2026 RAO Yaounde</h2>
+<p>Thy worth no tongue can tell
+<style>
+   
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-content img {
+    border-radius: 4px;
+    margin: 0 0 !important;
+  }
+
+   
+  .coin-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    justify-content: left;  
+  }
+
+  .coin-list li {
+    margin: 10px;
+  }
+
+   
+  .flip-container {
+    perspective: 1000px;  
+    width: 250px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+  .flip-container-wide {
+    perspective: 1000px;  
+    width: 450px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+
+  .flipper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.9s;
+  }
+
+  .flip-container:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+
+  .flip-container-wide:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+  img {
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+    display: block;  
+    backface-visibility: hidden;  
+  }
+
+  .front, .back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .back {
+    transform: rotateY(180deg);  
+  }
+
+   
+  @media (max-width: 768px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+
+   
+  @media (max-width: 550px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+</style>
+   
+  <ol class="coin-list">
+    <li class="flip-container">
+      <a href="/images/coins//23/Imagepipe_15.jpg.png">
+        <div class="flipper">
+          <img class="front" src="/images/coins//23/Imagepipe_15.jpg.png" alt="Coin Front" />
+          <img class="back" src="/images/coins//23/Imagepipe_16.jpg.png" alt="Coin Back" />
+        </div>
+      </a>
+    </li>
+  </ol>
+ <a href="https://srikanthperinkulam.com/coin/#note-2">🔗</a></p>
+<h2 id="2026-st-rdaf">2026 ST RDAF</h2>
+<style>
+   
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-content img {
+    border-radius: 4px;
+    margin: 0 0 !important;
+  }
+
+   
+  .coin-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    justify-content: left;  
+  }
+
+  .coin-list li {
+    margin: 10px;
+  }
+
+   
+  .flip-container {
+    perspective: 1000px;  
+    width: 250px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+  .flip-container-wide {
+    perspective: 1000px;  
+    width: 450px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+
+  .flipper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.9s;
+  }
+
+  .flip-container:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+
+  .flip-container-wide:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+  img {
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+    display: block;  
+    backface-visibility: hidden;  
+  }
+
+  .front, .back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .back {
+    transform: rotateY(180deg);  
+  }
+
+   
+  @media (max-width: 768px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+
+   
+  @media (max-width: 550px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+</style>
+   
+  <ol class="coin-list">
+    <li class="flip-container">
+      <a href="/images/coins//22/Imagepipe_23.jpg.png">
+        <div class="flipper">
+          <img class="front" src="/images/coins//22/Imagepipe_23.jpg.png" alt="Coin Front" />
+          <img class="back" src="/images/coins//22/Imagepipe_24.jpg.png" alt="Coin Back" />
+        </div>
+      </a>
+    </li>
+  </ol>
+
+<h2 id="2026-rao-eg">2026 RAO EG</h2>
+<p>Pay the Nzalang no mind!
+<style>
+   
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-content img {
+    border-radius: 4px;
+    margin: 0 0 !important;
+  }
+
+   
+  .coin-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    justify-content: left;  
+  }
+
+  .coin-list li {
+    margin: 10px;
+  }
+
+   
+  .flip-container {
+    perspective: 1000px;  
+    width: 250px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+  .flip-container-wide {
+    perspective: 1000px;  
+    width: 450px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+
+  .flipper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.9s;
+  }
+
+  .flip-container:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+
+  .flip-container-wide:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+  img {
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+    display: block;  
+    backface-visibility: hidden;  
+  }
+
+  .front, .back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .back {
+    transform: rotateY(180deg);  
+  }
+
+   
+  @media (max-width: 768px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+
+   
+  @media (max-width: 550px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+</style>
+   
+  <ol class="coin-list">
+    <li class="flip-container">
+      <a href="/images/coins//21/Imagepipe_17.jpg.png">
+        <div class="flipper">
+          <img class="front" src="/images/coins//21/Imagepipe_17.jpg.png" alt="Coin Front" />
+          <img class="back" src="/images/coins//21/Imagepipe_18.jpg.png" alt="Coin Back" />
+        </div>
+      </a>
+    </li>
+  </ol>
+ <a href="https://srikanthperinkulam.com/coin/#note-3">🔗</a></p>
+<h2 id="2025-nsu-petty-officer-association">2025 NSU Petty officer association</h2>
+<style>
+   
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-content img {
+    border-radius: 4px;
+    margin: 0 0 !important;
+  }
+
+   
+  .coin-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    justify-content: left;  
+  }
+
+  .coin-list li {
+    margin: 10px;
+  }
+
+   
+  .flip-container {
+    perspective: 1000px;  
+    width: 250px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+  .flip-container-wide {
+    perspective: 1000px;  
+    width: 450px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+
+  .flipper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.9s;
+  }
+
+  .flip-container:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+
+  .flip-container-wide:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+  img {
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+    display: block;  
+    backface-visibility: hidden;  
+  }
+
+  .front, .back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .back {
+    transform: rotateY(180deg);  
+  }
+
+   
+  @media (max-width: 768px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+
+   
+  @media (max-width: 550px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+</style>
+   
+  <ol class="coin-list">
+    <li class="flip-container">
+      <a href="/images/coins//20/Imagepipe_13.jpg.png">
+        <div class="flipper">
+          <img class="front" src="/images/coins//20/Imagepipe_13.jpg.png" alt="Coin Front" />
+          <img class="back" src="/images/coins//20/Imagepipe_14.jpg.png" alt="Coin Back" />
+        </div>
+      </a>
+    </li>
+  </ol>
+
+<h2 id="2025-ds-safety-poker">2025 DS Safety poker</h2>
+<style>
+   
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-content img {
+    border-radius: 4px;
+    margin: 0 0 !important;
+  }
+
+   
+  .coin-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    justify-content: left;  
+  }
+
+  .coin-list li {
+    margin: 10px;
+  }
+
+   
+  .flip-container {
+    perspective: 1000px;  
+    width: 250px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+  .flip-container-wide {
+    perspective: 1000px;  
+    width: 450px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+
+  .flipper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.9s;
+  }
+
+  .flip-container:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+
+  .flip-container-wide:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+  img {
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+    display: block;  
+    backface-visibility: hidden;  
+  }
+
+  .front, .back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .back {
+    transform: rotateY(180deg);  
+  }
+
+   
+  @media (max-width: 768px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+
+   
+  @media (max-width: 550px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+</style>
+   
+  <ol class="coin-list">
+    <li class="flip-container">
+      <a href="/images/coins//19/Imagepipe_10.jpg.png">
+        <div class="flipper">
+          <img class="front" src="/images/coins//19/Imagepipe_10.jpg.png" alt="Coin Front" />
+          <img class="back" src="/images/coins//19/Imagepipe_9.jpg.png" alt="Coin Back" />
+        </div>
+      </a>
+    </li>
+  </ol>
+
+<h2 id="2025-navy-seabee-ball---frankfurt">2025 Navy Seabee Ball - Frankfurt</h2>
+<style>
+   
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-content img {
+    border-radius: 4px;
+    margin: 0 0 !important;
+  }
+
+   
+  .coin-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    justify-content: left;  
+  }
+
+  .coin-list li {
+    margin: 10px;
+  }
+
+   
+  .flip-container {
+    perspective: 1000px;  
+    width: 250px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+  .flip-container-wide {
+    perspective: 1000px;  
+    width: 450px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+
+  .flipper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.9s;
+  }
+
+  .flip-container:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+
+  .flip-container-wide:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+  img {
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+    display: block;  
+    backface-visibility: hidden;  
+  }
+
+  .front, .back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .back {
+    transform: rotateY(180deg);  
+  }
+
+   
+  @media (max-width: 768px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+
+   
+  @media (max-width: 550px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+</style>
+   
+  <ol class="coin-list">
+    <li class="flip-container">
+      <a href="/images/coins//18/Imagepipe_11.jpg.png">
+        <div class="flipper">
+          <img class="front" src="/images/coins//18/Imagepipe_11.jpg.png" alt="Coin Front" />
+          <img class="back" src="/images/coins//18/Imagepipe_12.jpg.png" alt="Coin Back" />
+        </div>
+      </a>
+    </li>
+  </ol>
+
+<h2 id="2025-esc-new-delhi-coin">2025 ESC New Delhi coin</h2>
+<p>Should make one for the ESO here!
+<style>
+   
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-content img {
+    border-radius: 4px;
+    margin: 0 0 !important;
+  }
+
+   
+  .coin-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    justify-content: left;  
+  }
+
+  .coin-list li {
+    margin: 10px;
+  }
+
+   
+  .flip-container {
+    perspective: 1000px;  
+    width: 250px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+  .flip-container-wide {
+    perspective: 1000px;  
+    width: 450px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+
+  .flipper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.9s;
+  }
+
+  .flip-container:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+
+  .flip-container-wide:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+  img {
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+    display: block;  
+    backface-visibility: hidden;  
+  }
+
+  .front, .back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .back {
+    transform: rotateY(180deg);  
+  }
+
+   
+  @media (max-width: 768px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+
+   
+  @media (max-width: 550px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+</style>
+   
+  <ol class="coin-list">
+    <li class="flip-container">
+      <a href="/images/coins//17/Imagepipe_7.jpg.png">
+        <div class="flipper">
+          <img class="front" src="/images/coins//17/Imagepipe_7.jpg.png" alt="Coin Front" />
+          <img class="back" src="/images/coins//17/Imagepipe_8.jpg.png" alt="Coin Back" />
+        </div>
+      </a>
+    </li>
+  </ol>
+ <a href="https://srikanthperinkulam.com/coin/#note-4">🔗</a></p>
+<h2 id="2025-msg-new-delhi-coin">2025 MSG New Delhi coin</h2>
+<p>Wonder what the 2 is for!
+<style>
+   
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-content img {
+    border-radius: 4px;
+    margin: 0 0 !important;
+  }
+
+   
+  .coin-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    justify-content: left;  
+  }
+
+  .coin-list li {
+    margin: 10px;
+  }
+
+   
+  .flip-container {
+    perspective: 1000px;  
+    width: 250px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+  .flip-container-wide {
+    perspective: 1000px;  
+    width: 450px;
+    height: 250px;
+    display: block;  
+    overflow: hidden;  
+    border: none;  
+    transition: all 0.3s ease-in-out;  
+  }
+
+
+  .flipper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.9s;
+  }
+
+  .flip-container:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+
+  .flip-container-wide:hover .flipper {
+    transform: rotateY(180deg);  
+  }
+
+  img {
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+    display: block;  
+    backface-visibility: hidden;  
+  }
+
+  .front, .back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .back {
+    transform: rotateY(180deg);  
+  }
+
+   
+  @media (max-width: 768px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+
+   
+  @media (max-width: 550px) {
+    .flip-container {
+      width: 250px;
+      height: 250px;
+    }
+
+    .flip-container-wide {
+      width: 500px;
+      height: 250px;
+    }
+
+    .coin-list li {
+      margin: 1px;
+    }
+  }
+</style>
+   
+  <ol class="coin-list">
+    <li class="flip-container">
+      <a href="/images/coins//16/Imagepipe_5.jpg.png">
+        <div class="flipper">
+          <img class="front" src="/images/coins//16/Imagepipe_5.jpg.png" alt="Coin Front" />
+          <img class="back" src="/images/coins//16/Imagepipe_6.jpg.png" alt="Coin Back" />
+        </div>
+      </a>
+    </li>
+  </ol>
+ <a href="https://srikanthperinkulam.com/coin/#note-5">🔗</a></p>
 <h2 id="2025-msg-250th-marine-ball-coin">2025 MSG 250th Marine Ball coin</h2>
 <p>This one looks pretty tame in comparison to the coin these fine fellas made earlier this year. Still pretty cool!
 <style>
@@ -2650,7 +3964,7 @@
       </a>
     </li>
   </ol>
- <a href="https://srikanthperinkulam.com/coin/#note-2">🔗</a></p>
+ <a href="https://srikanthperinkulam.com/coin/#note-6">🔗</a></p>
 <h2 id="2025-rso-malabo-coin">2025 RSO Malabo coin</h2>
 <p>That Ceiba tree is a pretty neat touch!
 <style>
@@ -2782,7 +4096,7 @@
       </a>
     </li>
   </ol>
- <a href="https://srikanthperinkulam.com/coin/#note-3">🔗</a></p>
+ <a href="https://srikanthperinkulam.com/coin/#note-7">🔗</a></p>
 <h2 id="2025-msg-yaounde-coin">2025 MSG Yaounde coin</h2>
 <p>This is probably the coolest coin yet! That sword comes off from the coin. Some young marine had a terrific time designing this. We&rsquo;ve already bought a bunch of these to gift to friends and family.
 <style>
@@ -2914,7 +4228,7 @@
       </a>
     </li>
   </ol>
- <a href="https://srikanthperinkulam.com/coin/#note-4">🔗</a></p>
+ <a href="https://srikanthperinkulam.com/coin/#note-8">🔗</a></p>
 <h2 id="2024-msg-yaounde-coin">2024 MSG Yaounde coin</h2>
 <p>Reunification monument and the lion - Prominent icons from Yaounde.
 <style>
@@ -3046,7 +4360,7 @@
       </a>
     </li>
   </ol>
- <a href="https://srikanthperinkulam.com/coin/#note-5">🔗</a></p>
+ <a href="https://srikanthperinkulam.com/coin/#note-9">🔗</a></p>
 <h2 id="2024-seabee-af-coin">2024 Seabee AF coin</h2>
 <p>Pretty neat representation of the Big5 in Africa
 <style>
@@ -3178,7 +4492,7 @@
       </a>
     </li>
   </ol>
- <a href="https://srikanthperinkulam.com/coin/#note-6">🔗</a></p>
+ <a href="https://srikanthperinkulam.com/coin/#note-10">🔗</a></p>
 <h2 id="2024-rso-yaounde-coin">2024 RSO Yaounde coin</h2>
 <p>Coat of arms of Cameroon.
 <style>
@@ -3310,7 +4624,7 @@
       </a>
     </li>
   </ol>
- <a href="https://srikanthperinkulam.com/coin/#note-7">🔗</a></p>
+ <a href="https://srikanthperinkulam.com/coin/#note-11">🔗</a></p>
 <h2 id="2024-msg-mexico-city-coin">2024 MSG Mexico City coin</h2>
 <p>Some neat design in here!
 <style>
@@ -3442,7 +4756,7 @@
       </a>
     </li>
   </ol>
- <a href="https://srikanthperinkulam.com/coin/#note-8">🔗</a></p>
+ <a href="https://srikanthperinkulam.com/coin/#note-12">🔗</a></p>
 <h2 id="2024-msg-mexico-city-249th-marine-ball-ticket">2024 MSG Mexico City 249th Marine ball ticket</h2>
 <p>This was M&rsquo;s exchange. We decided not to go to the Marine ball this year. However, we exchanged our cool <a href="https://srikanthperinkulam.com/2023/11/05/248th-marine-ball/">2023 Marine ball</a> mug for this one. Pretty neat idea!
 <style>
@@ -3574,7 +4888,7 @@
       </a>
     </li>
   </ol>
- <a href="https://srikanthperinkulam.com/coin/#note-9">🔗</a></p>
+ <a href="https://srikanthperinkulam.com/coin/#note-13">🔗</a></p>
 <h2 id="2024-seabee-wha-coin">2024 Seabee WHA coin</h2>
 <p>The Captain&rsquo;s wheel
 <style>
@@ -3706,7 +5020,7 @@
       </a>
     </li>
   </ol>
- <a href="https://srikanthperinkulam.com/coin/#note-10">🔗</a></p>
+ <a href="https://srikanthperinkulam.com/coin/#note-14">🔗</a></p>
 <h2 id="2024-msg-managua-coin">2024 MSG Managua coin</h2>
 <p>Let&rsquo;s talk rectangle.
 <style>
@@ -3838,9 +5152,9 @@
       </a>
     </li>
   </ol>
- <a href="https://srikanthperinkulam.com/coin/#note-11">🔗</a></p>
+ <a href="https://srikanthperinkulam.com/coin/#note-15">🔗</a></p>
 <h2 id="2024-msg-matamoros-coin">2024 MSG Matamoros coin</h2>
-<p>I believe this one along with the remaining 5(?) combined form a mega mexico coin. Didn&rsquo;t get around collecting the rest. <a href="https://srikanthperinkulam.com/coin/#note-12">🔗</a></p>
+<p>I believe this one along with the remaining 5(?) combined form a mega mexico coin. Didn&rsquo;t get around collecting the rest. <a href="https://srikanthperinkulam.com/coin/#note-16">🔗</a></p>
 <style>
    
   * {
@@ -4102,7 +5416,7 @@
       </a>
     </li>
   </ol>
- <a href="https://srikanthperinkulam.com/coin/#note-13">🔗</a></p>
+ <a href="https://srikanthperinkulam.com/coin/#note-17">🔗</a></p>
 <h2 id="2023-rso-matamoros-coin">2023 RSO Matamoros coin</h2>
 <p>Gotta thank Rob for this one!
 <style>
@@ -4234,7 +5548,7 @@
       </a>
     </li>
   </ol>
- <a href="https://srikanthperinkulam.com/coin/#note-14">🔗</a></p>
+ <a href="https://srikanthperinkulam.com/coin/#note-18">🔗</a></p>
 <h2 id="2023-rso-mexico-city-coin">2023 RSO Mexico City coin</h2>
 <p>Pretty simple coin with the omnipresent <em>Calavera</em>! I believe the nine stars represent the nine consulates in Mexico.
 <style>
@@ -4366,7 +5680,7 @@
       </a>
     </li>
   </ol>
- <a href="https://srikanthperinkulam.com/coin/#note-15">🔗</a></p>
+ <a href="https://srikanthperinkulam.com/coin/#note-19">🔗</a></p>
 <h2 id="2000-dos-calcutta-consulate-coin">2000 DOS Calcutta Consulate coin</h2>
 <style>
    
@@ -4498,7 +5812,7 @@
     </li>
   </ol>
 
- <a href="https://srikanthperinkulam.com/coin/#note-16">🔗</a></p>]]></content>
+ <a href="https://srikanthperinkulam.com/coin/#note-20">🔗</a></p>]]></content>
 
 </entry>
 
