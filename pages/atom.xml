@@ -3,7 +3,7 @@
   <title>Pages</title>
   <link href="https://srikanthperinkulam.com/pages/" rel="self"/>
   <link href="https://srikanthperinkulam.com/" />
-  <updated>2026-08-26T21:21:11Z</updated>
+  <updated>2026-08-27T20:27:19Z</updated>
   <id>https://srikanthperinkulam.com/pages/</id>
 
 <entry>
@@ -14,6 +14,16 @@
   <published>2025-08-15T00:00:00Z</published>
 
   <summary>Stamp Collection</summary>
+
+ 
+
+
+
+
+
+
+
+
 
 <content type="html"><![CDATA[<p>Several years ago, maybe somewhere around 2000, I got into collecting stamps as a hobby. I digitized them in 2018, set them up in a &lsquo;gallery&rsquo; in <a href="https://srikanthperinkulam.com/2020/08/27/stamp-collection-digitized/">2020</a> and eventually with all things digital, lost track of them. I&rsquo;ve sort of revived that collection here, since this is one space I frequent more often. Around 2018, I also handed over my physical collection to Mummyjaan. Not quite sure if she&rsquo;s actively maintaining it. <a href="https://srikanthperinkulam.com/stamp/#note-1">🔗</a></p>
 <h2 id="australia">Australia</h2>
@@ -2517,6 +2527,16 @@
   <published>2025-08-15T00:00:00Z</published>
 
   <summary>Coin Collection</summary>
+
+ 
+
+
+
+
+
+
+
+
 
 <content type="html"><![CDATA[<p>Over the last few years M&amp;I have been collecting coins as we&rsquo;ve moved across different posts. These coins are real cool and are one of the ways the marines raise funds for the Marine ball. And then there are coins that are given out as a token of thanks. Not quite sure until when we&rsquo;ll collect these but I did want to digitize them. Only a question of time that we start losing/gifting them. <a href="https://srikanthperinkulam.com/coin/#note-1">🔗</a></p>
 <h2 id="2026-250th-anniversary">2026 250th Anniversary</h2>
@@ -5825,6 +5845,16 @@
 
   <summary>lifemap</summary>
 
+ 
+
+
+
+
+
+
+
+
+
 <content type="html"><![CDATA[]]></content>
 
 </entry>
@@ -5837,6 +5867,16 @@
   <published>2025-02-15T00:00:00Z</published>
 
   <summary>Code Snippets</summary>
+
+ 
+
+
+
+
+
+
+
+
 
 <content type="html"><![CDATA[<p>Just a bunch of snippets for easy use elsewhere. <a href="https://srikanthperinkulam.com/snippets/#note-1">🔗</a></p>
 <h3 id="building-json-output-for-posts-with-certain-tags">Building JSON output for posts with certain tags</h3>
@@ -5882,6 +5922,16 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 
   <summary>Colophon</summary>
 
+ 
+
+
+
+
+
+
+
+
+
 <content type="html"><![CDATA[<p>Over time I&rsquo;ve incorporated quite a few moving blocks to bring this site to function the way it does. This page is an attempt to document those various facets. See <a href="/sitelog">sitelog</a> for chronological updates made on this site. <a href="https://srikanthperinkulam.com/colophon/#note-1">🔗</a></p>
 <h3 id="publishing-workflow">Publishing workflow</h3>
 <p>I use the fabulous <a href="https://github.com/gsantner/markor">Markor app</a> on my phone to draft posts on the go. Syncthing runs in the background to sync posts to my laptop. If the laptop is turned on, HUGO running via docker automatically picks up these new posts, a script builds the site, and then pushes these updates to github. To draft posts on the laptop, I use the <a href="https://remarkableapp.github.io/linux.html">Remarkable app</a>. My templates directory in debian has pre-built templates for long and short articles which I can easily copy over when drafting posts on the laptop. <a href="https://srikanthperinkulam.com/colophon/#note-2">🔗</a></p>
@@ -5906,6 +5956,16 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 
   <summary>Contact</summary>
 
+ 
+
+
+
+
+
+
+
+
+
 <content type="html"><![CDATA[<p>The best way to reach me is via this site. Send me a message via this page or just reply to one of my posts. I’m reasonably active on the following portals: <a href="https://srikanthperinkulam.com/contact/#note-1">🔗</a></p>
 <ul>
 <li>Micro.blog: <a href="https://micro.blog/sp">@sp</a></li>
@@ -5922,6 +5982,16 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
   <published>2025-01-01T00:00:00Z</published>
 
   <summary>more</summary>
+
+ 
+
+
+
+
+
+
+
+
 
 <content type="html"><![CDATA[<p>A bunch of pages that don&rsquo;t quite fit anywhere specifically. Quite a few of these are a work in progress. <a href="https://srikanthperinkulam.com/more/#note-1">🔗</a></p>
 <ul>
@@ -5976,6 +6046,16 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
   <published>2025-01-01T00:00:00Z</published>
 
   <summary>blogroll</summary>
+
+ 
+
+
+
+
+
+
+
+
 
 <content type="html"><![CDATA[<p>A list of personal sites I like to drop in to every once in a while. While I mostly follow sites in my Miniflux <a href="/reader">reader</a>, this is more of quick bookmark page to see how people have been tinkering in their digital spaces! <a href="https://srikanthperinkulam.com/blogroll/#note-1">🔗</a></p>
 <ul>
@@ -6109,6 +6189,16 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 
   <summary>reader</summary>
 
+ 
+
+
+
+
+
+
+
+
+
 <content type="html"><![CDATA[]]></content>
 
 </entry>
@@ -6122,6 +6212,16 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 
   <summary>reader</summary>
 
+ 
+
+
+
+
+
+
+
+
+
 <content type="html"><![CDATA[]]></content>
 
 </entry>
@@ -6134,6 +6234,16 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
   <published>2024-11-30T00:00:00Z</published>
 
   <summary>Wishlist</summary>
+
+ 
+
+
+
+
+
+
+
+
 
 <content type="html"><![CDATA[<p>Here&rsquo;s a quick list of things I would like to get at some point in time. <a href="https://srikanthperinkulam.com/wish/#note-1">🔗</a></p>
 <h2 id="pouch-friendly">Pouch Friendly</h2>
@@ -6158,6 +6268,16 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
   <published>2024-11-30T00:00:00Z</published>
 
   <summary>now</summary>
+
+ 
+
+
+
+
+
+
+
+
 
 <content type="html"><![CDATA[<p>A bunch of things I&rsquo;d like to keep track of so I make every effort to check these off my list. <a href="https://srikanthperinkulam.com/wants/#note-1">🔗</a></p>
 <ul>
@@ -6185,6 +6305,16 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 
   <summary>Uses</summary>
 
+ 
+
+
+
+
+
+
+
+
+
 <content type="html"><![CDATA[]]></content>
 
 </entry>
@@ -6197,6 +6327,16 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
   <published>2024-11-30T00:00:00Z</published>
 
   <summary>State of the Network</summary>
+
+ 
+
+
+
+
+
+
+
+
 
 <content type="html"><![CDATA[<p>Last updated: Wednesday, 17. September 2025 09:47PM <a href="https://srikanthperinkulam.com/sotn/#note-1">🔗</a></p>
 <p><img loading="lazy" src="/images/SOTN.jpg" alt=""  />
@@ -6230,6 +6370,16 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
   <published>2024-11-30T00:00:00Z</published>
 
   <summary>sitelog</summary>
+
+ 
+
+
+
+
+
+
+
+
 
 <content type="html"><![CDATA[<p>Sort of a change log to keep track of modifications done to this portal. <a href="https://srikanthperinkulam.com/sitelog/#note-1">🔗</a></p>
 <h3 id="tuesday-23-june-2026-0832pm">Tuesday, 23. June 2026 08:32PM</h3>
@@ -6461,6 +6611,16 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 
   <summary>now</summary>
 
+ 
+
+
+
+
+
+
+
+
+
 <content type="html"><![CDATA[<h3 id="projects">Projects</h3>
 <ul>
 <li>Decluttering the mundane</li>
@@ -6490,6 +6650,16 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
   <published>2024-11-30T00:00:00Z</published>
 
   <summary>About</summary>
+
+ 
+
+
+
+
+
+
+
+
 
 <content type="html"><![CDATA[<h3 id="and-this-is-my-digital-playground">And this is my digital playground.</h3>
 <p>This portal serves as my primary presence in the interwebs and is way more than a regular <a href="/posts">blog</a>. If you&rsquo;ve just landed here, welcome and feel free to poke around. Maybe you want to dive into my <a href="/lifemap">lifemap</a> to visually see a few prominent events in my life? Or take a peek at my <a href="/coin">coins </a> and/or <a href="/stamp">stamp</a> collection. If we&rsquo;ve recently interacted, you might be featured on my <a href="/person">interactions</a> page! And then there might be a few <a href="/more">more</a> pages that might pique your curiosity. <a href="https://srikanthperinkulam.com/about/#note-1">🔗</a></p>
@@ -6523,6 +6693,16 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 
   <summary>Indieweb Feed</summary>
 
+ 
+
+
+
+
+
+
+
+
+
 <content type="html"><![CDATA[]]></content>
 
 </entry>
@@ -6535,6 +6715,16 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
   <published>2024-11-30T00:00:00Z</published>
 
   <summary>This page is an ode to the interwebs of 2000s.</summary>
+
+ 
+
+
+
+
+
+
+
+
 
 <content type="html"><![CDATA[<p>This page is an ode to the interwebs of the 2000s. Leave a note below to say hello! <a href="https://srikanthperinkulam.com/gb/#note-1">🔗</a></p>
 <p>If you do notice the clouds moving in the picture below, the winds are probably blowing right in your favor. Next time you revisit, this scenery will most likely change. Also, did you spot the yeti? <a href="https://srikanthperinkulam.com/gb/#note-2">🔗</a></p>]]></content>
@@ -6550,6 +6740,16 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 
   <summary>photos</summary>
 
+ 
+
+
+
+
+
+
+
+
+
 <content type="html"><![CDATA[]]></content>
 
 </entry>
@@ -6562,6 +6762,16 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
   <published>2024-11-01T00:00:00Z</published>
 
   <summary>garmin</summary>
+
+ 
+
+
+
+
+
+
+
+
 
 <content type="html"><![CDATA[]]></content>
 
@@ -6576,6 +6786,16 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 
   <summary></summary>
 
+ 
+
+
+
+
+
+
+
+
+
 <content type="html"><![CDATA[]]></content>
 
 </entry>
@@ -6588,6 +6808,16 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
   <published>0001-01-01T00:00:00Z</published>
 
   <summary></summary>
+
+ 
+
+
+
+
+
+
+
+
 
 <content type="html"><![CDATA[]]></content>
 
