@@ -3,8 +3,32 @@
   <title>Day Notes</title>
   <link href="https://srikanthperinkulam.com/daynote/" rel="self"/>
   <link href="https://srikanthperinkulam.com/" />
-  <updated>2026-08-27T20:27:19Z</updated>
+  <updated>2026-08-29T21:49:24Z</updated>
   <id>https://srikanthperinkulam.com/daynote/</id>
+
+<entry>
+  <title>Netcup</title>
+  <link href="https://srikanthperinkulam.com/daynote/netcup/" />
+  <id>https://srikanthperinkulam.com/daynote/netcup/</id>
+  <updated>2026-08-28T00:00:08+01:00</updated>
+  <published>2026-08-28T00:00:08+01:00</published>
+
+  <summary>It&amp;rsquo;s probably time to move away from Hetzner. Not because I&amp;rsquo;ve had any issues with them. All I use it for is to setup a forward proxy to my homelab. Maybe that can be accomplished by something cheaper? Netcup maybe?
+</summary>
+
+ 
+
+
+
+
+
+
+
+
+
+<content type="html"><![CDATA[<p>It&rsquo;s probably time to move away from Hetzner. Not because I&rsquo;ve had any issues with them. All I use it for is to setup a forward proxy to my homelab. Maybe that can be accomplished by something cheaper? Netcup maybe? <a href="https://srikanthperinkulam.com/daynote/netcup/#note-1">🔗</a></p>]]></content>
+
+</entry>
 
 <entry>
   <title>NightScout</title>

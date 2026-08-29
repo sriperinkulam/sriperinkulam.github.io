@@ -3,7 +3,7 @@
   <title>Pages</title>
   <link href="https://srikanthperinkulam.com/pages/" rel="self"/>
   <link href="https://srikanthperinkulam.com/" />
-  <updated>2026-08-27T20:27:19Z</updated>
+  <updated>2026-08-29T21:49:24Z</updated>
   <id>https://srikanthperinkulam.com/pages/</id>
 
 <entry>
@@ -6382,6 +6382,11 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 
 
 <content type="html"><![CDATA[<p>Sort of a change log to keep track of modifications done to this portal. <a href="https://srikanthperinkulam.com/sitelog/#note-1">🔗</a></p>
+<h3 id="saturday-29-august-2026-1047pm">Saturday, 29. August 2026 10:47PM</h3>
+<ul>
+<li>Tweaked the atom feed so it shows images.</li>
+<li>Condensed the tags down to about 50 or so.</li>
+</ul>
 <h3 id="tuesday-23-june-2026-0832pm">Tuesday, 23. June 2026 08:32PM</h3>
 <ul>
 <li>Modified the section atom feed so as to show the &rsquo;note&rsquo; permalink at the end.</li>

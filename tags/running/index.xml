@@ -10,327 +10,139 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Jul 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/running/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Nov 2024 21:30:00 -0500</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/running/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>16 Jul 2017 00:00</title>
-      <link>https://srikanthperinkulam.com/2017/07/16/vt100-finish/</link>
-      <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
+      <title>22 Nov 2024 21:30</title>
+      <link>https://srikanthperinkulam.com/2024/11/22/garmin-ported/</link>
+      <pubDate>Fri, 22 Nov 2024 21:30:00 -0500</pubDate>
       
-      <guid>https://srikanthperinkulam.com/2017/07/16/vt100-finish/</guid>
-      <description>&lt;p&gt;&lt;div class=&#34;image-gallery&#34;&gt;
-    
-    
-    
-    
-    &lt;ol class=&#34;photo-list &#34;&gt;
-        
-             
-             
-            &lt;li&gt;
-                &lt;a href=&#34;https://srikanthperinkulam.com/2017/07/16/vt100-finish/images/1500227747.jpg&#34;&gt;&lt;img src=&#34;./images/1500227747.jpg&#34; loading=&#34;lazy&#34; alt=&#34;1500227747.jpg&#34; /&gt;&lt;a&gt;
-            &lt;/li&gt;
-        
-             
-             
-            &lt;li&gt;
-                &lt;a href=&#34;https://srikanthperinkulam.com/2017/07/16/vt100-finish/images/2017-07-16-13-58-53-1.jpg&#34;&gt;&lt;img src=&#34;./images/2017-07-16-13-58-53-1.jpg&#34; loading=&#34;lazy&#34; alt=&#34;2017-07-16-13-58-53-1.jpg&#34; /&gt;&lt;a&gt;
-            &lt;/li&gt;
-        
-    &lt;/ol&gt;
-&lt;/div&gt;
-
-&lt;style&gt;
-.photo-list {
-    display: flex;  
-    flex-wrap: wrap;  
-    margin: -1px;  
-}
-
-.photo-list &gt; li {
-    height: 22vh;  
-    flex-grow: 1;  
-    list-style-type: none;  
-    margin: 1px;  
-}
-
-.photo-list li img {
-    max-height: 100%;  
-    min-width: 100%;  
-    object-fit: cover;  
-    vertical-align: bottom;  
-    border: 2px solid gray;  
-}
-
-.photo-list li:last-child {
-    flex-grow: 10;  
-    border: none;  
-}
-
- 
-.photo-list.single-image &gt; li {
-    height: auto;  
-}
-&lt;/style&gt;
-
-Photo taken at: West Windsor, Vermont&lt;/p&gt;
-&lt;p&gt;In races of all kinds, there&amp;rsquo;s always a push to finish strong. Most runners conserve that little energy to turbo boost at the last quarter mile. While it&amp;rsquo;s exhilarating to watch that strong finish, I&amp;rsquo;ve always been enamored by those who trudge in slowly, with almost no display of gratification as they cross the line.&lt;/p&gt;
-&lt;p&gt;Today as I stood behind the finish line watching runners slowly trickle in, one particular runner swept the ground away from beneath my feet. The clock froze at 03:04am as he limped across the line. Pale face, headlamp off and no support crew. All he did was turn around, looked at the finish line for that bleak second, stopped his watch and plopped on the ground. I could sense he was frozen in time and so was I. Wonder what was grinding in his mind. Was he happy he finished the run? Was he in pain? Did he know he&amp;rsquo;d finished? Was he just soaking it all in? Or was he contemplating what to do next? Why was he all alone there? I heavily resisted the urge to go speak to him and let him savor the moment. Some questions are better left unanswered.&lt;/p&gt;
-&lt;p&gt;Volunteering at the VT100 this weekend has truly been an experience. Way different from last year. Last year I was predominantly taking care of the runners needs and ended up pacing a gentleman for about 17 miles. This year, I ended up primarily taking care of parking duties, closing out the camp and fixing a support van&amp;rsquo;s flat tire.  Nothing beyond the call of duty. But if I were to steal one snapshot from this weekend, it would be that brief moment at the finish line where I seemed to connect with that runner.&lt;/p&gt;
-&lt;p&gt;The Wapack and Back 50 miler earlier this year was a reasonable goal I&amp;rsquo;d set for myself. Something that I put in a ton of effort for but miserably failed. I let my practical side easily override my neural urges and THAT is something I want to breach. Someday I&amp;rsquo;d like to cross a bold finish line. Something that I demarcate myself. And when I do that, I want to have invested everything that I could in my realms into it, and go beyond that. Only then will I possibly start scraping the surface&amp;hellip;&lt;/p&gt;
-&lt;p&gt;Not all finish lines are the same&amp;hellip;&lt;/p&gt;
+      <guid>https://srikanthperinkulam.com/2024/11/22/garmin-ported/</guid>
+      <description>&lt;p&gt;Spent a good few hours yesterday and ported my garmin data over to this site &lt;a href=&#34;https://srikanthperinkulam.com/garmin/&#34;&gt;here&lt;/a&gt;. It&amp;rsquo;s turned out better than my wordpress plugin and is way simpler to manage. I&amp;rsquo;ve still got quite a few tweaks to do but I&amp;rsquo;m super happy with how this has turned out!&lt;/p&gt;
 </description>
-      <content:encoded><![CDATA[<p><div class="image-gallery">
-    
-    
-    
-    
-    <ol class="photo-list ">
-        
-             
-             
-            <li>
-                <a href="https://srikanthperinkulam.com/2017/07/16/vt100-finish/images/1500227747.jpg"><img src="./images/1500227747.jpg" loading="lazy" alt="1500227747.jpg" /><a>
-            </li>
-        
-             
-             
-            <li>
-                <a href="https://srikanthperinkulam.com/2017/07/16/vt100-finish/images/2017-07-16-13-58-53-1.jpg"><img src="./images/2017-07-16-13-58-53-1.jpg" loading="lazy" alt="2017-07-16-13-58-53-1.jpg" /><a>
-            </li>
-        
-    </ol>
-</div>
-
-<style>
-.photo-list {
-    display: flex;  
-    flex-wrap: wrap;  
-    margin: -1px;  
-}
-
-.photo-list > li {
-    height: 22vh;  
-    flex-grow: 1;  
-    list-style-type: none;  
-    margin: 1px;  
-}
-
-.photo-list li img {
-    max-height: 100%;  
-    min-width: 100%;  
-    object-fit: cover;  
-    vertical-align: bottom;  
-    border: 2px solid gray;  
-}
-
-.photo-list li:last-child {
-    flex-grow: 10;  
-    border: none;  
-}
-
- 
-.photo-list.single-image > li {
-    height: auto;  
-}
-</style>
-
-Photo taken at: West Windsor, Vermont</p>
-<p>In races of all kinds, there&rsquo;s always a push to finish strong. Most runners conserve that little energy to turbo boost at the last quarter mile. While it&rsquo;s exhilarating to watch that strong finish, I&rsquo;ve always been enamored by those who trudge in slowly, with almost no display of gratification as they cross the line.</p>
-<p>Today as I stood behind the finish line watching runners slowly trickle in, one particular runner swept the ground away from beneath my feet. The clock froze at 03:04am as he limped across the line. Pale face, headlamp off and no support crew. All he did was turn around, looked at the finish line for that bleak second, stopped his watch and plopped on the ground. I could sense he was frozen in time and so was I. Wonder what was grinding in his mind. Was he happy he finished the run? Was he in pain? Did he know he&rsquo;d finished? Was he just soaking it all in? Or was he contemplating what to do next? Why was he all alone there? I heavily resisted the urge to go speak to him and let him savor the moment. Some questions are better left unanswered.</p>
-<p>Volunteering at the VT100 this weekend has truly been an experience. Way different from last year. Last year I was predominantly taking care of the runners needs and ended up pacing a gentleman for about 17 miles. This year, I ended up primarily taking care of parking duties, closing out the camp and fixing a support van&rsquo;s flat tire.  Nothing beyond the call of duty. But if I were to steal one snapshot from this weekend, it would be that brief moment at the finish line where I seemed to connect with that runner.</p>
-<p>The Wapack and Back 50 miler earlier this year was a reasonable goal I&rsquo;d set for myself. Something that I put in a ton of effort for but miserably failed. I let my practical side easily override my neural urges and THAT is something I want to breach. Someday I&rsquo;d like to cross a bold finish line. Something that I demarcate myself. And when I do that, I want to have invested everything that I could in my realms into it, and go beyond that. Only then will I possibly start scraping the surface&hellip;</p>
-<p>Not all finish lines are the same&hellip;</p>
+      <content:encoded><![CDATA[<p>Spent a good few hours yesterday and ported my garmin data over to this site <a href="https://srikanthperinkulam.com/garmin/">here</a>. It&rsquo;s turned out better than my wordpress plugin and is way simpler to manage. I&rsquo;ve still got quite a few tweaks to do but I&rsquo;m super happy with how this has turned out!</p>
 ]]></content:encoded>
     </item>
     
     <item>
-      <title>31 Jan 2017 00:00</title>
-      <link>https://srikanthperinkulam.com/2017/01/31/31-to-the-50/</link>
-      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
+      <title>29 Aug 2022 00:00</title>
+      <link>https://srikanthperinkulam.com/2022/08/29/take-me-out-to-the-ball-game/</link>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://srikanthperinkulam.com/2017/01/31/31-to-the-50/</guid>
-      <description>&lt;p&gt;A good 31 miler weekend to close out the third training week. And with that I&amp;rsquo;ve met Miss Me&amp;rsquo;s mandated clause of sticking to the training plan at least till the end of January (I&amp;rsquo;ve never really trained for any of my long runs this far!)  and bought myself an entry to the &lt;a href=&#34;http://www.wapacktrailrace.com/&#34;&gt;Wapack and Back&lt;/a&gt; 50 miler this May. Psyched!&lt;/p&gt;
-&lt;p&gt;[sgpx gpx=&amp;quot;/wp-content/uploads/gpx/01282017_033241.gpx&amp;quot;]&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;With a family event planned for this weekend, I had to fit in my 20mile saturday run early in the day. Given my last weekends pace at Middlesex fells, I wanted to bucket at least 5 hours for the run. Got to bed at around 08:30pm on Friday night, was up by about 03:00am on Saturday and started the run by 03:30am. Mild showers and pretty comfortable temperatures (20-30F) had me going pretty good and I covered the first loop (8 miles) in about 01:40mins. Miss Me was already up and had an Orange shot (Orange juice with some chat masala!) and PBJs ready for me. A quick pit-stop at home and I head back towards Brookline to cover the rest of the miles. I knew the Brookline loop would give me an easy 10 miles, so decided to run further on to Fenway to get the extra 2 miles. Even before I knew, I was on my way back and was home by 07:30am. This was probably my fastest 20 miler so far. Also a great morale boost after my &lt;a href=&#34;https://srikanthperinkulam.com/2017/01/21/middlesex-17-miler/&#34;&gt;deplorable 17 miles&lt;/a&gt; last weekend.&lt;/p&gt;
-&lt;p&gt; &lt;img loading=&#34;lazy&#34; src=&#34;images/32535644761_5ccd1c0697_o-e1486005466199.jpg&#34; alt=&#34;&#34;  /&gt;
+      <guid>https://srikanthperinkulam.com/2022/08/29/take-me-out-to-the-ball-game/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Imagepipe_27.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
-&lt;p&gt;Miss Me managed to go for a Yoga class while I was running and once she was back, we hit the road to Southborough and then towards NJ. 40mins into the drive, the left rear tire blew up and with that our plans to head to NJ went kaput. We eventually make our way back home by noon. A lazy rest of the day gives me enough rest for the 11 miler next day.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/32577512896_568cce6320_o.jpg&#34; alt=&#34;&#34;  /&gt;
-All of us head to Callahan State park and as I rake in the miles, the rest of the folks head back home after an hour. I weave into trails I&amp;rsquo;ve been on before and spruce it up with sections that I&amp;rsquo;ve not explored so far. The sheer number of trails out here so close to the city limits blows my mind every single time I chance upon uncharted sections. As I&amp;rsquo;m just about to finish my run in about 2.5 hours, I have a scooping fall. A good one at that. Talk about being &amp;lsquo;down to earth&amp;rsquo;!&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/32495311001_53021f54c0_o-e1486005361769.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Today is a stark reminder that I&amp;rsquo;m much, much slower on the trails and should be using this pace as benchmark to push and improve. As I build my miles, hopefully the pace improves. My Garmin clocked 116 miles totally this month. 2017 is off to a phenomenal start!&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>A good 31 miler weekend to close out the third training week. And with that I&rsquo;ve met Miss Me&rsquo;s mandated clause of sticking to the training plan at least till the end of January (I&rsquo;ve never really trained for any of my long runs this far!)  and bought myself an entry to the <a href="http://www.wapacktrailrace.com/">Wapack and Back</a> 50 miler this May. Psyched!</p>
-<p>[sgpx gpx=&quot;/wp-content/uploads/gpx/01282017_033241.gpx&quot;]</p>
-<p> </p>
-<p>With a family event planned for this weekend, I had to fit in my 20mile saturday run early in the day. Given my last weekends pace at Middlesex fells, I wanted to bucket at least 5 hours for the run. Got to bed at around 08:30pm on Friday night, was up by about 03:00am on Saturday and started the run by 03:30am. Mild showers and pretty comfortable temperatures (20-30F) had me going pretty good and I covered the first loop (8 miles) in about 01:40mins. Miss Me was already up and had an Orange shot (Orange juice with some chat masala!) and PBJs ready for me. A quick pit-stop at home and I head back towards Brookline to cover the rest of the miles. I knew the Brookline loop would give me an easy 10 miles, so decided to run further on to Fenway to get the extra 2 miles. Even before I knew, I was on my way back and was home by 07:30am. This was probably my fastest 20 miler so far. Also a great morale boost after my <a href="https://srikanthperinkulam.com/2017/01/21/middlesex-17-miler/">deplorable 17 miles</a> last weekend.</p>
-<p> <img loading="lazy" src="images/32535644761_5ccd1c0697_o-e1486005466199.jpg" alt=""  />
-</p>
-<p>Miss Me managed to go for a Yoga class while I was running and once she was back, we hit the road to Southborough and then towards NJ. 40mins into the drive, the left rear tire blew up and with that our plans to head to NJ went kaput. We eventually make our way back home by noon. A lazy rest of the day gives me enough rest for the 11 miler next day.</p>
-<p><img loading="lazy" src="images/32577512896_568cce6320_o.jpg" alt=""  />
-All of us head to Callahan State park and as I rake in the miles, the rest of the folks head back home after an hour. I weave into trails I&rsquo;ve been on before and spruce it up with sections that I&rsquo;ve not explored so far. The sheer number of trails out here so close to the city limits blows my mind every single time I chance upon uncharted sections. As I&rsquo;m just about to finish my run in about 2.5 hours, I have a scooping fall. A good one at that. Talk about being &lsquo;down to earth&rsquo;!</p>
-<p><img loading="lazy" src="images/32495311001_53021f54c0_o-e1486005361769.jpg" alt=""  />
-</p>
-<p>Today is a stark reminder that I&rsquo;m much, much slower on the trails and should be using this pace as benchmark to push and improve. As I build my miles, hopefully the pace improves. My Garmin clocked 116 miles totally this month. 2017 is off to a phenomenal start!</p>]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>21 Jan 2017 00:00</title>
-      <link>https://srikanthperinkulam.com/2017/01/21/middlesex-17-miler/</link>
-      <pubDate>Sat, 21 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2017/01/21/middlesex-17-miler/</guid>
-      <description>&lt;p&gt;A good 5 hours out in the woods. Terribly underestimated the skyline trail. Quite a few foot slips and ankle twists made it more of a hike than a run. Also looks like my body is &amp;lsquo;reacting&amp;rsquo; to the weekday runs. Badly needed some tummilicious food at mile 13. Note to self for future runs!&lt;/p&gt;
-&lt;p&gt;Finally got around visiting the Wrights tower! Despite visiting the fells several times over the last few years, I&amp;rsquo;ve never really &amp;lsquo;made it&amp;rsquo; to this section of the trail. The tower by itself is nothing impressive but it does have some interesting history. Ice from here was apparently &lt;a href=&#34;https://www.wired.com/2010/09/0913calcutta-ice-ship/&#34;&gt;exported to India&lt;/a&gt; way back in the 1800s when Middlesex fells was a commercial plot. The tower gets it&amp;rsquo;s name from Elizur Wright who was instrumental in converting the erstwhile commercial land to what is now called the Middlesex Fells reservation.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/32325540081_0ac8a321da_o-e1485037020451.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/32446594185_9035470f13_o-e1485036258624.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;An amazing view of the Boston Skyline from the tower.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/32068547940_93da01e93a_o.jpg&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;First long run for the season. Hey, also my first self supported half this year. With tomorrow&amp;rsquo;s 9 miler, I&amp;rsquo;ll be signing off with about 49 miles this week. Not a bad start! Miss Me&amp;rsquo;s post run stretches have been quite instrumental in my injury free runs and I can&amp;rsquo;t thank her enough to keep pushing me for those runs after a long day. Only hope she doesn&amp;rsquo;t take her coach&amp;rsquo;s responsibility too seriously and cuts me off the fries!&lt;/p&gt;
-&lt;p&gt;[sgpx gpx=&amp;quot;/wp-content/uploads/gpx/01212017_081012.gpx&amp;quot;]&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>A good 5 hours out in the woods. Terribly underestimated the skyline trail. Quite a few foot slips and ankle twists made it more of a hike than a run. Also looks like my body is &lsquo;reacting&rsquo; to the weekday runs. Badly needed some tummilicious food at mile 13. Note to self for future runs!</p>
-<p>Finally got around visiting the Wrights tower! Despite visiting the fells several times over the last few years, I&rsquo;ve never really &lsquo;made it&rsquo; to this section of the trail. The tower by itself is nothing impressive but it does have some interesting history. Ice from here was apparently <a href="https://www.wired.com/2010/09/0913calcutta-ice-ship/">exported to India</a> way back in the 1800s when Middlesex fells was a commercial plot. The tower gets it&rsquo;s name from Elizur Wright who was instrumental in converting the erstwhile commercial land to what is now called the Middlesex Fells reservation.</p>
-<p><img loading="lazy" src="images/32325540081_0ac8a321da_o-e1485037020451.jpg" alt=""  />
-</p>
-<p><img loading="lazy" src="images/32446594185_9035470f13_o-e1485036258624.jpg" alt=""  />
-</p>
-<p>An amazing view of the Boston Skyline from the tower.</p>
-<p><img loading="lazy" src="images/32068547940_93da01e93a_o.jpg" alt=""  />
-</p>
-<p>First long run for the season. Hey, also my first self supported half this year. With tomorrow&rsquo;s 9 miler, I&rsquo;ll be signing off with about 49 miles this week. Not a bad start! Miss Me&rsquo;s post run stretches have been quite instrumental in my injury free runs and I can&rsquo;t thank her enough to keep pushing me for those runs after a long day. Only hope she doesn&rsquo;t take her coach&rsquo;s responsibility too seriously and cuts me off the fries!</p>
-<p>[sgpx gpx=&quot;/wp-content/uploads/gpx/01212017_081012.gpx&quot;]</p>]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>02 Oct 2015 00:00</title>
-      <link>https://srikanthperinkulam.com/2015/10/02/ragnar-washington-dc/</link>
-      <pubDate>Fri, 02 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2015/10/02/ragnar-washington-dc/</guid>
-      <description>&lt;p&gt;One of most exhilarating (and wet) runs so far. The night run with pitch dark trails and just Joaquin for company made this one unforgettable experience.  Reminded me of the &lt;a href=&#34;https://srikanthperinkulam.com/adventure-travel/katrabai-pass&#34;&gt;Katrabai Pass hike&lt;/a&gt; back in India.  The Ragnar Appalachians still remains unchecked!&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/22014228892_3a4ee1b691_c.jpg&#34; alt=&#34;2015 Ragnar&#34;  /&gt;
-&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;M&amp;amp;S earned a few tickets to the Nationals game from the Arlington library!&lt;/p&gt;
 </description>
-      <content:encoded><![CDATA[<p>One of most exhilarating (and wet) runs so far. The night run with pitch dark trails and just Joaquin for company made this one unforgettable experience.  Reminded me of the <a href="https://srikanthperinkulam.com/adventure-travel/katrabai-pass">Katrabai Pass hike</a> back in India.  The Ragnar Appalachians still remains unchecked!</p>
-<p><img loading="lazy" src="images/22014228892_3a4ee1b691_c.jpg" alt="2015 Ragnar"  />
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/Imagepipe_27.jpg" alt=""  />
 </p>
-<!-- raw HTML omitted -->
+<p>M&amp;S earned a few tickets to the Nationals game from the Arlington library!</p>
 ]]></content:encoded>
     </item>
     
     <item>
-      <title>03 May 2015 00:00</title>
-      <link>https://srikanthperinkulam.com/2015/05/03/the-bear-mountain-half/</link>
-      <pubDate>Sun, 03 May 2015 00:00:00 +0000</pubDate>
+      <title>06 Feb 2022 00:00</title>
+      <link>https://srikanthperinkulam.com/2022/02/06/garmin/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://srikanthperinkulam.com/2015/05/03/the-bear-mountain-half/</guid>
-      <description>&lt;p&gt;Ran the &lt;a href=&#34;https://www.thenorthface.com/get-outdoors/endurance-challenge/new-york.html&#34;&gt;#ECSNY Half&lt;/a&gt; at the Bear Mountain State park today! As the stats down under reveal - this was one divine killer run. One of the hardest long-runs I&amp;rsquo;ve run so far. My average timing on &amp;lsquo;flat-road&amp;rsquo; half-marathons has been 02:10.  Over the last few weeks as I mentally and physically prepared for this run I was estimating a sub 03:00 finish.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://srikanthperinkulam.com/wp-content/uploads/2015/05/BMSP-NF.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/BMSP-NF-HM-Finisher.jpg&#34; alt=&#34;BMSP NF&#34;  /&gt;
-&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;About six miles on the trail I targeted a sub 02:45 finish - But I guess I succumbed to the mountains and then the mind lost to the body in the last 3 or 4 miles. My initial strategy was to hike up the inclines and run down the slopes. Out there, running down the trails was absolutely inevitable and my glutes and calves reminded me of the &lt;a href=&#34;https://srikanthperinkulam.com/outdoors&#34;&gt;innumerable hikes&lt;/a&gt; done years back in India. A gracious fall by a culvert further slowed me down. I ended with a 03:27 finish. Though these run stats are deplorable even under average standards; I had a truly wonderful time on the trail there.&lt;/p&gt;
-&lt;p&gt;In hindsight, I believe I need to strongly work on my lower back and do a lot more hill training. Also calls for a lot more hikes to work on the glutes and calves.  Now that the Bear mountain hike is off the list, eye&amp;rsquo;s on the &lt;a href=&#34;http://srtrunhike.com/&#34;&gt;SRT hike/run&lt;/a&gt; later this year.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Elevation Profile:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://srikanthperinkulam.com/wp-content/uploads/2015/05/BMSP-Elevation-.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/BMSP-Elevation-.png&#34; alt=&#34;BMSP Elevation&#34;  /&gt;
-&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;GPX:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;[Note to self: Need to figure out why altitude isn&amp;rsquo;t showing up in the GPX]&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;[sgpx gpx=&amp;quot;/wp-content/uploads/gpx/activity_765121253.gpx&amp;quot;]&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Ran the <a href="https://www.thenorthface.com/get-outdoors/endurance-challenge/new-york.html">#ECSNY Half</a> at the Bear Mountain State park today! As the stats down under reveal - this was one divine killer run. One of the hardest long-runs I&rsquo;ve run so far. My average timing on &lsquo;flat-road&rsquo; half-marathons has been 02:10.  Over the last few weeks as I mentally and physically prepared for this run I was estimating a sub 03:00 finish.</p>
-<p><a href="https://srikanthperinkulam.com/wp-content/uploads/2015/05/BMSP-NF.png"><img loading="lazy" src="images/BMSP-NF-HM-Finisher.jpg" alt="BMSP NF"  />
-</a></p>
-<p>About six miles on the trail I targeted a sub 02:45 finish - But I guess I succumbed to the mountains and then the mind lost to the body in the last 3 or 4 miles. My initial strategy was to hike up the inclines and run down the slopes. Out there, running down the trails was absolutely inevitable and my glutes and calves reminded me of the <a href="https://srikanthperinkulam.com/outdoors">innumerable hikes</a> done years back in India. A gracious fall by a culvert further slowed me down. I ended with a 03:27 finish. Though these run stats are deplorable even under average standards; I had a truly wonderful time on the trail there.</p>
-<p>In hindsight, I believe I need to strongly work on my lower back and do a lot more hill training. Also calls for a lot more hikes to work on the glutes and calves.  Now that the Bear mountain hike is off the list, eye&rsquo;s on the <a href="http://srtrunhike.com/">SRT hike/run</a> later this year.</p>
-<p><strong>Elevation Profile:</strong></p>
-<p><a href="https://srikanthperinkulam.com/wp-content/uploads/2015/05/BMSP-Elevation-.png"><img loading="lazy" src="images/BMSP-Elevation-.png" alt="BMSP Elevation"  />
-</a></p>
-<p> </p>
-<hr>
-<p><strong>GPX:</strong></p>
-<p>[Note to self: Need to figure out why altitude isn&rsquo;t showing up in the GPX]</p>
-<p> </p>
-<p>[sgpx gpx=&quot;/wp-content/uploads/gpx/activity_765121253.gpx&quot;]</p>]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>24 Nov 2014 00:00</title>
-      <link>https://srikanthperinkulam.com/2014/11/24/philadelphia-half/</link>
-      <pubDate>Mon, 24 Nov 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2014/11/24/philadelphia-half/</guid>
-      <description>&lt;p&gt;Great weather, strong finish and yet another run that convinced me running on city roads isn&amp;rsquo;t quite my thing. This most probably would be my last &amp;lsquo;scheduled&amp;rsquo; run for 2014 and couldn&amp;rsquo;t have asked for a finer closure of a crazy week. Another exciting family event adds further to this silver lining making this run even more memorable.&lt;/p&gt;
-&lt;p&gt;Mile 10 will be remembered and Philadelphia - we shall be back!&lt;/p&gt;
+      <guid>https://srikanthperinkulam.com/2022/02/06/garmin/</guid>
+      <description>&lt;p&gt;As I slowly get back into running, I realized my &lt;a href=&#34;https://srikanthperinkulam.com/2021/05/30/owning-my-garmin-data/&#34;&gt;garmin plugin&lt;/a&gt; had a minor bug. When I built this last year, I had inadvertently hard-coded the years field in the &lt;a href=&#34;https://srikanthperinkulam.com/garmin-stats/&#34;&gt;summary&lt;/a&gt; and the totals for the current year where obviously messed up. For now I&amp;rsquo;ve patched it with a quick-fix. Will have to automate it when I have a bit more time and I think I already know what needs to be done.&lt;/p&gt;
+&lt;p&gt;On that note, I also chanced upon &lt;a href=&#34;https://www.andersle.no/posts/2018/gpxplot/gpxplot.html&#34;&gt;Anders&lt;/a&gt;&amp;rsquo; terrific &lt;a href=&#34;https://github.com/andersle/gpxplotter&#34;&gt;gpxplotter&lt;/a&gt;. With slight modifications I should be able to generate neat map tiles from the GPX files and incorporate it my plugin. Project for another day but I am pretty excited about this!&lt;/p&gt;
 </description>
-      <content:encoded><![CDATA[<p>Great weather, strong finish and yet another run that convinced me running on city roads isn&rsquo;t quite my thing. This most probably would be my last &lsquo;scheduled&rsquo; run for 2014 and couldn&rsquo;t have asked for a finer closure of a crazy week. Another exciting family event adds further to this silver lining making this run even more memorable.</p>
-<p>Mile 10 will be remembered and Philadelphia - we shall be back!</p>
+      <content:encoded><![CDATA[<p>As I slowly get back into running, I realized my <a href="https://srikanthperinkulam.com/2021/05/30/owning-my-garmin-data/">garmin plugin</a> had a minor bug. When I built this last year, I had inadvertently hard-coded the years field in the <a href="https://srikanthperinkulam.com/garmin-stats/">summary</a> and the totals for the current year where obviously messed up. For now I&rsquo;ve patched it with a quick-fix. Will have to automate it when I have a bit more time and I think I already know what needs to be done.</p>
+<p>On that note, I also chanced upon <a href="https://www.andersle.no/posts/2018/gpxplot/gpxplot.html">Anders</a>&rsquo; terrific <a href="https://github.com/andersle/gpxplotter">gpxplotter</a>. With slight modifications I should be able to generate neat map tiles from the GPX files and incorporate it my plugin. Project for another day but I am pretty excited about this!</p>
 ]]></content:encoded>
     </item>
     
     <item>
-      <title>17 Oct 2014 00:00</title>
-      <link>https://srikanthperinkulam.com/2014/10/17/ragnar-2014-gpx-feeds/</link>
-      <pubDate>Fri, 17 Oct 2014 00:00:00 +0000</pubDate>
+      <title>11 May 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/05/11/may-11-2021-1919/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://srikanthperinkulam.com/2014/10/17/ragnar-2014-gpx-feeds/</guid>
-      <description>&lt;p&gt;Just found a nifty plugin that would map charts feeding off from gpx inputs. Here are the chart outputs from my recent Ragnar Run.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Legs 01 - 06 [4.9 mi + 2.7mi + 8.9mi]&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;[sgpx gpx=&amp;quot;/wp-content/uploads/gpx/activity_602412715.gpx&amp;quot; ]&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Legs 13 - 18 [5.8mi]&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;[sgpx gpx=&amp;quot;/wp-content/uploads/gpx/activity_602412752.gpx&amp;quot; ]&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Legs 25 - 30 [3.4mi]&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;[sgpx gpx=&amp;quot;/wp-content/uploads/gpx/activity_602412773.gpx&amp;quot; ]&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Legs 31 - 36 [2.4mi]&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Was literally dead in this leg. Heat and uphills can be a deadly combination!&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;[sgpx gpx=&amp;quot;/wp-content/uploads/gpx/activity_602412785.gpx&amp;quot; ]&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Just found a nifty plugin that would map charts feeding off from gpx inputs. Here are the chart outputs from my recent Ragnar Run.</p>
-<p><strong>Legs 01 - 06 [4.9 mi + 2.7mi + 8.9mi]</strong></p>
-<p> </p>
-<p>[sgpx gpx=&quot;/wp-content/uploads/gpx/activity_602412715.gpx&quot; ]</p>
-<p> </p>
-<p><strong>Legs 13 - 18 [5.8mi]</strong></p>
-<p> </p>
-<p>[sgpx gpx=&quot;/wp-content/uploads/gpx/activity_602412752.gpx&quot; ]</p>
-<p> </p>
-<p><strong>Legs 25 - 30 [3.4mi]</strong></p>
-<p> </p>
-<p>[sgpx gpx=&quot;/wp-content/uploads/gpx/activity_602412773.gpx&quot; ]</p>
-<p> </p>
-<p><strong>Legs 31 - 36 [2.4mi]</strong></p>
-<p>Was literally dead in this leg. Heat and uphills can be a deadly combination!</p>
-<p> </p>
-<p>[sgpx gpx=&quot;/wp-content/uploads/gpx/activity_602412785.gpx&quot; ]</p>]]></content:encoded>
+      <guid>https://srikanthperinkulam.com/2021/05/11/may-11-2021-1919/</guid>
+      <description>&lt;p&gt;Tweaked this setup further to make it a bit more seamless. I used a different but more reliable script to fetch the activity json files and setup a cron job to run twice every week. Next-up: 01. Make the parsing and data display theme agnostic. 02. Add a quick link to publish individual activities as posts if required 03. Build some cool charts :)&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Tweaked this setup further to make it a bit more seamless. I used a different but more reliable script to fetch the activity json files and setup a cron job to run twice every week. Next-up: 01. Make the parsing and data display theme agnostic. 02. Add a quick link to publish individual activities as posts if required 03. Build some cool charts :)</p>
+]]></content:encoded>
     </item>
     
     <item>
-      <title>08 Oct 2014 00:00</title>
-      <link>https://srikanthperinkulam.com/2014/10/08/appalachians-next/</link>
-      <pubDate>Wed, 08 Oct 2014 00:00:00 +0000</pubDate>
+      <title>08 May 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/05/08/may-7-2021-1431/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://srikanthperinkulam.com/2014/10/08/appalachians-next/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/Ragnar.jpg&#34; alt=&#34;Ragnar&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;Couldn&amp;rsquo;t have ended September on a better note! Pounding the hilly terrain in the Adirondacks for 36 hrs, straight through the night with 9 other folks - This has been my best run so far. Though technically that&amp;rsquo;s a lot of time for 197 miles, I guess it&amp;rsquo;s the nuances of the event that really gives you the extra kick.&lt;/p&gt;
-&lt;p&gt;Running on those hills for miles at night with just absolute darkness for company, the sudden sprint from a water-station when you realized it was tactfully positioned right in front of a cemetery, the thrill of handing over the slap band to the next runner at the end of your run, the last one mile which never felt so close and that particular runner who always seems to cross you on every single uphill - few things that is quite uncommon in other running events. To top all of that, the camaraderie that emerges from participating in an event of such a scale just cannot be replicated in any other event.&lt;/p&gt;
-&lt;p&gt;Looks like I&amp;rsquo;m more than &amp;lsquo;addicted&amp;rsquo; to these Ragnar events and can&amp;rsquo;t wait to start training for yet another run. My feet yearn for a good trail run and how wonderful it would be if I could blend that in with a Ragnar event. &lt;strong&gt;&lt;a href=&#34;http://www.ragnartrail.com/locations/appalachians-wv&#34;&gt;Appalachians next!&lt;/a&gt;&lt;/strong&gt;  Will probably fit in a couple of half&amp;rsquo;s in between just to keep the muscles working.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><img loading="lazy" src="images/Ragnar.jpg" alt="Ragnar"  />
-</p>
-<p>Couldn&rsquo;t have ended September on a better note! Pounding the hilly terrain in the Adirondacks for 36 hrs, straight through the night with 9 other folks - This has been my best run so far. Though technically that&rsquo;s a lot of time for 197 miles, I guess it&rsquo;s the nuances of the event that really gives you the extra kick.</p>
-<p>Running on those hills for miles at night with just absolute darkness for company, the sudden sprint from a water-station when you realized it was tactfully positioned right in front of a cemetery, the thrill of handing over the slap band to the next runner at the end of your run, the last one mile which never felt so close and that particular runner who always seems to cross you on every single uphill - few things that is quite uncommon in other running events. To top all of that, the camaraderie that emerges from participating in an event of such a scale just cannot be replicated in any other event.</p>
-<p>Looks like I&rsquo;m more than &lsquo;addicted&rsquo; to these Ragnar events and can&rsquo;t wait to start training for yet another run. My feet yearn for a good trail run and how wonderful it would be if I could blend that in with a Ragnar event. <strong><a href="http://www.ragnartrail.com/locations/appalachians-wv">Appalachians next!</a></strong>  Will probably fit in a couple of half&rsquo;s in between just to keep the muscles working.</p>]]></content:encoded>
+      <guid>https://srikanthperinkulam.com/2021/05/08/may-7-2021-1431/</guid>
+      <description>&lt;p&gt;Earlier this week, I came across this &lt;a href=&#34;https://pypi.org/project/garminexport/&#34;&gt;nifty python tool&lt;/a&gt; that lets you backup all your garmin data from the Garmin-Connect platform. I wrote a crude WordPress plugin to parse the json files over and display the data on my website &lt;a href=&#34;https://srikanthperinkulam.com/garmin-stats/&#34;&gt;here&lt;/a&gt;. The tool is kind of unstable because it essentially &amp;lsquo;mimics&amp;rsquo; a regular Garmin-connect login and download. Also probably the reason why there aren&amp;rsquo;t many functional plugins for Garmin on wordpress.&lt;/p&gt;
+&lt;p&gt;Should be reasonably straightforward to automate this with a cron job once I sort out the connection issues with Garmin. Also for now, I&amp;rsquo;m just posting all the activities to a single page. Might be interesting to create short posts for new activities and obviously filter them out from the RSS Feeds. Love these teeny tiny coding projects!&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Earlier this week, I came across this <a href="https://pypi.org/project/garminexport/">nifty python tool</a> that lets you backup all your garmin data from the Garmin-Connect platform. I wrote a crude WordPress plugin to parse the json files over and display the data on my website <a href="https://srikanthperinkulam.com/garmin-stats/">here</a>. The tool is kind of unstable because it essentially &lsquo;mimics&rsquo; a regular Garmin-connect login and download. Also probably the reason why there aren&rsquo;t many functional plugins for Garmin on wordpress.</p>
+<p>Should be reasonably straightforward to automate this with a cron job once I sort out the connection issues with Garmin. Also for now, I&rsquo;m just posting all the activities to a single page. Might be interesting to create short posts for new activities and obviously filter them out from the RSS Feeds. Love these teeny tiny coding projects!</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>19 Nov 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/11/19/howling-winds/</link>
+      <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/11/19/howling-winds/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/1511134705.jpg&#34; alt=&#34;&#34;  /&gt;
+
+Grey sky, howling winds and low 40s. Perfect weather for a good long run by the agitated waters. David &lt;a href=&#34;https://www.facebook.com/events/150580065675902/&#34;&gt;organized a fun run and food drive&lt;/a&gt; for the Pebble street food pantry. Decided to head to the 0730 Ashtanga led class since we&amp;rsquo;d missed most of last week and then head to Portland later after breakfast. Was a bit of a drive from Boston but was absolutely worth it.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s something just so mystical about these waters&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;
+&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/1511134705.jpg" alt=""  />
+
+Grey sky, howling winds and low 40s. Perfect weather for a good long run by the agitated waters. David <a href="https://www.facebook.com/events/150580065675902/">organized a fun run and food drive</a> for the Pebble street food pantry. Decided to head to the 0730 Ashtanga led class since we&rsquo;d missed most of last week and then head to Portland later after breakfast. Was a bit of a drive from Boston but was absolutely worth it.</p>
+<p> </p>
+<p>There&rsquo;s something just so mystical about these waters</p>
+<p><img loading="lazy" src="images/cropped-cropped-SP01-550afdebv1_site_icon.png" alt=""  />
+<a href="https://srikanthperinkulam.com">Srikanth Perinkulam</a></p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>10 Sep 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/09/10/bookmarkwhy-not./</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/09/10/bookmarkwhy-not./</guid>
+      <description>&lt;p&gt;This guys is such an inspiration! [embed]https://www.youtube.com/watch?v=x6xz_dN16so[/embed]&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/cropped-cropped-SP01-550afdebv1_site_icon.png&#34; alt=&#34;&#34;  /&gt;
+&lt;a href=&#34;https://srikanthperinkulam.com&#34;&gt;Srikanth Perinkulam&lt;/a&gt;&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>This guys is such an inspiration! [embed]https://www.youtube.com/watch?v=x6xz_dN16so[/embed]</p>
+<p> </p>
+<p><img loading="lazy" src="images/cropped-cropped-SP01-550afdebv1_site_icon.png" alt=""  />
+<a href="https://srikanthperinkulam.com">Srikanth Perinkulam</a></p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>29 Aug 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/08/29/return-visit/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/08/29/return-visit/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/1503969219.jpg&#34; alt=&#34;&#34;  /&gt;
+
+Seward Johnson&amp;rsquo;s - &lt;a href=&#34;http://www.chicagotribune.com/g00/news/ct-abraham-lincoln-statue-pioneer-court-met-20161101-story.html&#34;&gt;Return visit&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A quick weekend trip to Chicago to meet Neeraj and Kanu. Took this opportunity to explore Chicago a bit.&lt;/p&gt;
+&lt;p&gt;Chicago downtown felt like an eclectic mix of Boston and NYC. Spent some time walking around the city on Saturday covering the regular spots leading up to Navy pier and back. Totally mesmerized by the greenish-blue waters of Lake Michigan! Headed over to Native foods cafe (finally!) for dinner. Elizabeth joins us and later we decide to head to Hopewell Brewing company. Grab some drinks and dive into some interesting board games with live music in the background. Played a slew of bananagram rounds and decide to head back to the hotel.&lt;/p&gt;
+&lt;p&gt;Plans to bike the Lake shore trail on Sunday fell through because of the Triathlon. Oh well! Decide to head up the Willis Tower. Not quite impressed. Head over to Chiya Chai for lunch. Absolutely blown over by the food! I&amp;rsquo;m sure we&amp;rsquo;ll be back here during our next visit. Packed some food for the flight back to Boston and we&amp;rsquo;re home by 9ish.&lt;/p&gt;
+&lt;p&gt;So glad we could make this trip. Some real good time catching up with Neeraj and Kanu after five long years. Time flies!&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/1503969219.jpg" alt=""  />
+
+Seward Johnson&rsquo;s - <a href="http://www.chicagotribune.com/g00/news/ct-abraham-lincoln-statue-pioneer-court-met-20161101-story.html">Return visit</a></p>
+<p>A quick weekend trip to Chicago to meet Neeraj and Kanu. Took this opportunity to explore Chicago a bit.</p>
+<p>Chicago downtown felt like an eclectic mix of Boston and NYC. Spent some time walking around the city on Saturday covering the regular spots leading up to Navy pier and back. Totally mesmerized by the greenish-blue waters of Lake Michigan! Headed over to Native foods cafe (finally!) for dinner. Elizabeth joins us and later we decide to head to Hopewell Brewing company. Grab some drinks and dive into some interesting board games with live music in the background. Played a slew of bananagram rounds and decide to head back to the hotel.</p>
+<p>Plans to bike the Lake shore trail on Sunday fell through because of the Triathlon. Oh well! Decide to head up the Willis Tower. Not quite impressed. Head over to Chiya Chai for lunch. Absolutely blown over by the food! I&rsquo;m sure we&rsquo;ll be back here during our next visit. Packed some food for the flight back to Boston and we&rsquo;re home by 9ish.</p>
+<p>So glad we could make this trip. Some real good time catching up with Neeraj and Kanu after five long years. Time flies!</p>
+]]></content:encoded>
     </item>
     
   </channel>

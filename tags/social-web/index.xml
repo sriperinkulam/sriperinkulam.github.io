@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Social-Web on Srikanth Perinkulam</title>
+    <link>https://srikanthperinkulam.com/tags/social-web/</link>
+    <description>Recent content in Social-Web on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 05 Feb 2025 21:30:00 -0500</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/social-web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>05 Feb 2025 21:30</title>
+      <link>https://srikanthperinkulam.com/2025/02/05/implementing-static-comments/</link>
+      <pubDate>Wed, 05 Feb 2025 21:30:00 -0500</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2025/02/05/implementing-static-comments/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/comments.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;I bit the bullet and setup a rudimentary comment system for this site. For the last few months, I relied on &lt;a href=&#34;https://github.com/isso-comments/isso/&#34;&gt;ISSO&lt;/a&gt;, but it kinda felt a bit too heavy. Finally scratched the itch and switched over to a basic form and some javascript to push comments over to my self-hosted ntfy server. For now, I&amp;rsquo;ve left the moderation to manual mode - I have to copy over the comments manually from NTFY to a comments.json file. A GO script that usually publishes this site also builds the comments for each of the posts as needed  based on the posts&amp;rsquo; permalink. Pretty friction-less and nifty! &lt;a href=&#34;https://srikanthperinkulam.com/2025/02/05/implementing-static-comments/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/comments.png" alt=""  />
+</p>
+<p>I bit the bullet and setup a rudimentary comment system for this site. For the last few months, I relied on <a href="https://github.com/isso-comments/isso/">ISSO</a>, but it kinda felt a bit too heavy. Finally scratched the itch and switched over to a basic form and some javascript to push comments over to my self-hosted ntfy server. For now, I&rsquo;ve left the moderation to manual mode - I have to copy over the comments manually from NTFY to a comments.json file. A GO script that usually publishes this site also builds the comments for each of the posts as needed  based on the posts&rsquo; permalink. Pretty friction-less and nifty! <a href="https://srikanthperinkulam.com/2025/02/05/implementing-static-comments/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>20 Feb 2022 00:00</title>
+      <link>https://srikanthperinkulam.com/2022/02/20/bridged/</link>
+      <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2022/02/20/bridged/</guid>
+      <description>&lt;p&gt;After a good &lt;a href=&#34;https://srikanthperinkulam.com/2021/01/10/digital-reset/&#34;&gt;one year away&lt;/a&gt; from Whatsapp, I&amp;rsquo;m back on it . This time however, on better terms.  All thanks to the &lt;a href=&#34;https://maunium.net/go/mautrix-whatsapp/&#34;&gt;Mautrix bridge&lt;/a&gt; and the &lt;a href=&#34;https://matrix.org/faq/#what-is-matrix%3F&#34;&gt;Matrix protocol&lt;/a&gt;.  Essentially, I can access my whatsapp account data on my regular phone or desktop using &lt;a href=&#34;https://element.io/get-started&#34;&gt;Elements&amp;rsquo; pretty robust app&lt;/a&gt; system. Note that the whatsapp app however is either running on a Virtual Machine or in my case an old phone fronted with a VPN. Since whatsapp only needs the primary phone to connect with their servers once every two weeks, it&amp;rsquo;s pretty much just sitting there turned off while all the group and individual messages show up on the bridged element app.&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s tremendous benefit to this approach:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The metadata that whatsapp is known to generously absorb from your ecosystem is heavily &lt;strong&gt;reduced&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You still get to stay in touch with folks who&amp;rsquo;re pure lazy to install another communications app&lt;/li&gt;
+&lt;li&gt;You get to be in the ecosystem and nudge people out&lt;/li&gt;
+&lt;li&gt;This works not just with Whatsapp, but telegram, iMessage, FB messenger and other messaging apps.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Setting this up took me barely 30 minutes - thanks to this exceptionally well documented &lt;a href=&#34;https://github.com/spantaleev/matrix-docker-ansible-deploy/&#34;&gt;ansible playbook&lt;/a&gt; . Sounds and reads terse but it is super straightforward to follow through. At this point, calls are not bridged. It otherwise works absolutely seamless. Not quite sure how long I&amp;rsquo;d use this. It started off more from the perspective of testing out matrix and the surrounding ecosystem and it&amp;rsquo;s been a fun ride so far.&lt;/p&gt;
+&lt;p&gt;Walk over that bridge. Will ya? Now, if you do not want to set this all up yourselves, you could for a small price, use the service provided by either &lt;a href=&#34;https://element.io/element-one&#34;&gt;element&lt;/a&gt; or &lt;a href=&#34;https://www.beeper.com/&#34;&gt;Beeper&lt;/a&gt; . I think they offer it at at a fantastic price-point.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>After a good <a href="https://srikanthperinkulam.com/2021/01/10/digital-reset/">one year away</a> from Whatsapp, I&rsquo;m back on it . This time however, on better terms.  All thanks to the <a href="https://maunium.net/go/mautrix-whatsapp/">Mautrix bridge</a> and the <a href="https://matrix.org/faq/#what-is-matrix%3F">Matrix protocol</a>.  Essentially, I can access my whatsapp account data on my regular phone or desktop using <a href="https://element.io/get-started">Elements&rsquo; pretty robust app</a> system. Note that the whatsapp app however is either running on a Virtual Machine or in my case an old phone fronted with a VPN. Since whatsapp only needs the primary phone to connect with their servers once every two weeks, it&rsquo;s pretty much just sitting there turned off while all the group and individual messages show up on the bridged element app.</p>
+<p>There&rsquo;s tremendous benefit to this approach:</p>
+<ul>
+<li>The metadata that whatsapp is known to generously absorb from your ecosystem is heavily <strong>reduced</strong></li>
+<li>You still get to stay in touch with folks who&rsquo;re pure lazy to install another communications app</li>
+<li>You get to be in the ecosystem and nudge people out</li>
+<li>This works not just with Whatsapp, but telegram, iMessage, FB messenger and other messaging apps.</li>
+</ul>
+<p>Setting this up took me barely 30 minutes - thanks to this exceptionally well documented <a href="https://github.com/spantaleev/matrix-docker-ansible-deploy/">ansible playbook</a> . Sounds and reads terse but it is super straightforward to follow through. At this point, calls are not bridged. It otherwise works absolutely seamless. Not quite sure how long I&rsquo;d use this. It started off more from the perspective of testing out matrix and the surrounding ecosystem and it&rsquo;s been a fun ride so far.</p>
+<p>Walk over that bridge. Will ya? Now, if you do not want to set this all up yourselves, you could for a small price, use the service provided by either <a href="https://element.io/element-one">element</a> or <a href="https://www.beeper.com/">Beeper</a> . I think they offer it at at a fantastic price-point.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>23 Jan 2022 00:00</title>
+      <link>https://srikanthperinkulam.com/2022/01/23/january-23-2022-1445/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2022/01/23/january-23-2022-1445/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://micro.blog/Alligator&#34;&gt;@Alligator&lt;/a&gt; I&amp;rsquo;m glad I got most of my family off apple a few years ago.The ecosystem and apps are great but there&amp;rsquo;s so little room for fun tweaking. I&amp;rsquo;ve had my eyes on Dex and Ubuntu&amp;rsquo;s convergence for a while too. For now though, I&amp;rsquo;m happy with my modular workstation setup. Another stream of thought is to port the fam to a Snikket/XMPP/matrix ecosystem so we&amp;rsquo;re lesser dependent on external networks. That&amp;rsquo;s going to take a bit of planning and coaxing though untill the &lt;a href=&#34;https://matrix.org/bridges/&#34;&gt;matrix bridges&lt;/a&gt; are a bit more robust :).&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><a href="https://micro.blog/Alligator">@Alligator</a> I&rsquo;m glad I got most of my family off apple a few years ago.The ecosystem and apps are great but there&rsquo;s so little room for fun tweaking. I&rsquo;ve had my eyes on Dex and Ubuntu&rsquo;s convergence for a while too. For now though, I&rsquo;m happy with my modular workstation setup. Another stream of thought is to port the fam to a Snikket/XMPP/matrix ecosystem so we&rsquo;re lesser dependent on external networks. That&rsquo;s going to take a bit of planning and coaxing though untill the <a href="https://matrix.org/bridges/">matrix bridges</a> are a bit more robust :).</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>15 Aug 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/08/15/davids-farmhouse/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/08/15/davids-farmhouse/</guid>
+      <description>&lt;p&gt;Celebrations at the farmhouse.&lt;/p&gt;
+&lt;p&gt;&lt;div class=&#34;image-gallery&#34;&gt;
+    
+    
+    
+    
+    &lt;ol class=&#34;photo-list single-image&#34;&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2021/08/15/davids-farmhouse/images/Imagepipe_1.jpg&#34;&gt;&lt;img src=&#34;./images/Imagepipe_1.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Imagepipe_1.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+    &lt;/ol&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list &gt; li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    flex-grow: 10;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image &gt; li {
+    height: auto;  
+}
+&lt;/style&gt;
+
+&lt;a href=&#34;https://srikanthperinkulam.com/2021/08/15/davids-farmhouse/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Celebrations at the farmhouse.</p>
+<p><div class="image-gallery">
+    
+    
+    
+    
+    <ol class="photo-list single-image">
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2021/08/15/davids-farmhouse/images/Imagepipe_1.jpg"><img src="./images/Imagepipe_1.jpg" loading="lazy" alt="Imagepipe_1.jpg" /><a>
+            </li>
+        
+    </ol>
+</div>
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    flex-grow: 10;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image > li {
+    height: auto;  
+}
+</style>
+
+<a href="https://srikanthperinkulam.com/2021/08/15/davids-farmhouse/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>18 Feb 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/02/18/shumee/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/02/18/shumee/</guid>
+      <description>&lt;p&gt;Shumee evenings.
+&lt;div class=&#34;image-gallery&#34;&gt;
+    
+    
+    
+    
+    &lt;ol class=&#34;photo-list single-image&#34;&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2021/02/18/shumee/images/29.jpg&#34;&gt;&lt;img src=&#34;./images/29.jpg&#34; loading=&#34;lazy&#34; alt=&#34;29.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+    &lt;/ol&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list &gt; li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    flex-grow: 10;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image &gt; li {
+    height: auto;  
+}
+&lt;/style&gt;
+
+&lt;a href=&#34;https://srikanthperinkulam.com/2021/02/18/shumee/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Shumee evenings.
+<div class="image-gallery">
+    
+    
+    
+    
+    <ol class="photo-list single-image">
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2021/02/18/shumee/images/29.jpg"><img src="./images/29.jpg" loading="lazy" alt="29.jpg" /><a>
+            </li>
+        
+    </ol>
+</div>
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    flex-grow: 10;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image > li {
+    height: auto;  
+}
+</style>
+
+<a href="https://srikanthperinkulam.com/2021/02/18/shumee/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>09 Feb 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/02/09/i-see-you/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/02/09/i-see-you/</guid>
+      <description>&lt;p&gt;I see you!
+&lt;div class=&#34;image-gallery&#34;&gt;
+    
+    
+    
+    
+    &lt;ol class=&#34;photo-list single-image&#34;&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2021/02/09/i-see-you/images/27.jpg&#34;&gt;&lt;img src=&#34;./images/27.jpg&#34; loading=&#34;lazy&#34; alt=&#34;27.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+    &lt;/ol&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list &gt; li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    flex-grow: 10;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image &gt; li {
+    height: auto;  
+}
+&lt;/style&gt;
+
+&lt;a href=&#34;https://srikanthperinkulam.com/2021/02/09/i-see-you/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>I see you!
+<div class="image-gallery">
+    
+    
+    
+    
+    <ol class="photo-list single-image">
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2021/02/09/i-see-you/images/27.jpg"><img src="./images/27.jpg" loading="lazy" alt="27.jpg" /><a>
+            </li>
+        
+    </ol>
+</div>
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    flex-grow: 10;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image > li {
+    height: auto;  
+}
+</style>
+
+<a href="https://srikanthperinkulam.com/2021/02/09/i-see-you/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>10 Jan 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/01/10/digital-reset/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/01/10/digital-reset/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been sitting on the ledge for a while now and Whatsapp&amp;rsquo;s latest &lt;a href=&#34;https://bag.srkn.org/share/5ffaa21254e415.40990025&#34;&gt;ultimatum&lt;/a&gt; is &lt;em&gt;just&lt;/em&gt; what I needed to see myself out the doors. I value my freedom and privacy - way more than the perceived convenience and I&amp;rsquo;ve deleted my Whatsapp account for good.&lt;/p&gt;
+&lt;p&gt;Ever since FB bought Whatsapp in 2014, they&amp;rsquo;ve been working on building a feature-set that would keep users tethered to the network - read receipts, web clients, weeding out third party clients, voice calls, removing the 1$ annual fee, file sharing, encryption, desktop clients, video calls, customer service platform for enterprises, status, enhanced video call features - you get it. The most recent move is a strategic attempt to enhance their monetizing pipeline by building the framework to better mine metadata across its various platforms - Whatsapp, Instagram, Facebook and CrowdTangle. In growing economies, Payments has been one realm they have had their eyes on for a while now and this latest move will turbo-boost that intent and help them compete with PayTM, Google and Amazon Payment systems. I&amp;rsquo;m surprised they took 6 years to get here though.&lt;/p&gt;
+&lt;p&gt;Users currently have until Feb 8, 2021 to agree. Very few of the millions of users will end up deleting their accounts since most just cannot see beyond Whatsapp and the mainstream messaging platforms. Given its huge user base and the network effect, It&amp;rsquo;s terrifically socially engineered to keep you from moving out to other apps because of the perceived benefits. Also how do you move your family and then the extended network out of a system that is already so inter-twined? If most of your connections don&amp;rsquo;t move where&amp;rsquo;s the draw in moving out? And honestly, I would have probably stayed had they given me an option to opt-out of its most recent terms and conditions. As a business, I know you&amp;rsquo;re eyeing the honey pot - But hey, not at my expense, free will and something that you shove down my throat. Good riddance.&lt;/p&gt;
+&lt;p&gt;I use(d) Whatsapp primarily to stay connected with close family. I&amp;rsquo;m coercing nudging them to move over to &lt;a href=&#34;https://www.signal.org/&#34;&gt;Signal&lt;/a&gt; / &lt;a href=&#34;https://delta.chat/en/&#34;&gt;Delta-chat&lt;/a&gt;. Surprisingly, it wasn&amp;rsquo;t that difficult to get them to move. I should have done this several months back…I created groups on Signal and shared those individual links in the Whatsapp groups that I was part of, left a message and immediately deleted my account not waiting for many responses or questions. Majority accepted and are now on Signal! And for those that don&amp;rsquo;t, there&amp;rsquo;s always the old school way of connecting via SMS/voice calls. My FB and Instagram accounts are in dormant mode for the last few years now and the only social space I&amp;rsquo;m ‘active’ is on this blog. Since moving over my RSS feeds to &lt;a href=&#34;https://github.com/miniflux/&#34;&gt;miniflux&lt;/a&gt;, I&amp;rsquo;m more actively following people&amp;rsquo;s blogs and find that way more enriching than mainstream media. I&amp;rsquo;m gunning on the premise that if someone really wants to get in touch with me, they will figure out how to.&lt;/p&gt;
+&lt;p&gt;Love these digital resets. See you on the other side!&lt;/p&gt;
+&lt;p&gt;PS: Before deleting your account, If you do want to archive your chat history, make sure you manually &lt;em&gt;export&lt;/em&gt; and not backup all your chats prior to moving. The backup option on Whatsapp doesn&amp;rsquo;t do much since the messages are encrypted and Whatsapp deletes the backups too when the account is deleted.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>I&rsquo;ve been sitting on the ledge for a while now and Whatsapp&rsquo;s latest <a href="https://bag.srkn.org/share/5ffaa21254e415.40990025">ultimatum</a> is <em>just</em> what I needed to see myself out the doors. I value my freedom and privacy - way more than the perceived convenience and I&rsquo;ve deleted my Whatsapp account for good.</p>
+<p>Ever since FB bought Whatsapp in 2014, they&rsquo;ve been working on building a feature-set that would keep users tethered to the network - read receipts, web clients, weeding out third party clients, voice calls, removing the 1$ annual fee, file sharing, encryption, desktop clients, video calls, customer service platform for enterprises, status, enhanced video call features - you get it. The most recent move is a strategic attempt to enhance their monetizing pipeline by building the framework to better mine metadata across its various platforms - Whatsapp, Instagram, Facebook and CrowdTangle. In growing economies, Payments has been one realm they have had their eyes on for a while now and this latest move will turbo-boost that intent and help them compete with PayTM, Google and Amazon Payment systems. I&rsquo;m surprised they took 6 years to get here though.</p>
+<p>Users currently have until Feb 8, 2021 to agree. Very few of the millions of users will end up deleting their accounts since most just cannot see beyond Whatsapp and the mainstream messaging platforms. Given its huge user base and the network effect, It&rsquo;s terrifically socially engineered to keep you from moving out to other apps because of the perceived benefits. Also how do you move your family and then the extended network out of a system that is already so inter-twined? If most of your connections don&rsquo;t move where&rsquo;s the draw in moving out? And honestly, I would have probably stayed had they given me an option to opt-out of its most recent terms and conditions. As a business, I know you&rsquo;re eyeing the honey pot - But hey, not at my expense, free will and something that you shove down my throat. Good riddance.</p>
+<p>I use(d) Whatsapp primarily to stay connected with close family. I&rsquo;m coercing nudging them to move over to <a href="https://www.signal.org/">Signal</a> / <a href="https://delta.chat/en/">Delta-chat</a>. Surprisingly, it wasn&rsquo;t that difficult to get them to move. I should have done this several months back…I created groups on Signal and shared those individual links in the Whatsapp groups that I was part of, left a message and immediately deleted my account not waiting for many responses or questions. Majority accepted and are now on Signal! And for those that don&rsquo;t, there&rsquo;s always the old school way of connecting via SMS/voice calls. My FB and Instagram accounts are in dormant mode for the last few years now and the only social space I&rsquo;m ‘active’ is on this blog. Since moving over my RSS feeds to <a href="https://github.com/miniflux/">miniflux</a>, I&rsquo;m more actively following people&rsquo;s blogs and find that way more enriching than mainstream media. I&rsquo;m gunning on the premise that if someone really wants to get in touch with me, they will figure out how to.</p>
+<p>Love these digital resets. See you on the other side!</p>
+<p>PS: Before deleting your account, If you do want to archive your chat history, make sure you manually <em>export</em> and not backup all your chats prior to moving. The backup option on Whatsapp doesn&rsquo;t do much since the messages are encrypted and Whatsapp deletes the backups too when the account is deleted.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>03 Jan 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/01/03/crow-chasers/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/01/03/crow-chasers/</guid>
+      <description>&lt;p&gt;Chasing crows
+&lt;div class=&#34;image-gallery&#34;&gt;
+    
+    
+    
+    
+    &lt;ol class=&#34;photo-list &#34;&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2021/01/03/crow-chasers/images/25.1.jpg&#34;&gt;&lt;img src=&#34;./images/25.1.jpg&#34; loading=&#34;lazy&#34; alt=&#34;25.1.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2021/01/03/crow-chasers/images/25.2.jpg&#34;&gt;&lt;img src=&#34;./images/25.2.jpg&#34; loading=&#34;lazy&#34; alt=&#34;25.2.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+             
+             
+            &lt;li&gt;
+                &lt;a href=&#34;https://srikanthperinkulam.com/2021/01/03/crow-chasers/images/25.3.jpg&#34;&gt;&lt;img src=&#34;./images/25.3.jpg&#34; loading=&#34;lazy&#34; alt=&#34;25.3.jpg&#34; /&gt;&lt;a&gt;
+            &lt;/li&gt;
+        
+    &lt;/ol&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list &gt; li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    flex-grow: 10;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image &gt; li {
+    height: auto;  
+}
+&lt;/style&gt;
+
+&lt;a href=&#34;https://srikanthperinkulam.com/2021/01/03/crow-chasers/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Chasing crows
+<div class="image-gallery">
+    
+    
+    
+    
+    <ol class="photo-list ">
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2021/01/03/crow-chasers/images/25.1.jpg"><img src="./images/25.1.jpg" loading="lazy" alt="25.1.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2021/01/03/crow-chasers/images/25.2.jpg"><img src="./images/25.2.jpg" loading="lazy" alt="25.2.jpg" /><a>
+            </li>
+        
+             
+             
+            <li>
+                <a href="https://srikanthperinkulam.com/2021/01/03/crow-chasers/images/25.3.jpg"><img src="./images/25.3.jpg" loading="lazy" alt="25.3.jpg" /><a>
+            </li>
+        
+    </ol>
+</div>
+
+<style>
+.photo-list {
+    display: flex;  
+    flex-wrap: wrap;  
+    margin: -1px;  
+}
+
+.photo-list > li {
+    height: 22vh;  
+    flex-grow: 1;  
+    list-style-type: none;  
+    margin: 1px;  
+}
+
+.photo-list li img {
+    max-height: 100%;  
+    min-width: 100%;  
+    object-fit: cover;  
+    vertical-align: bottom;  
+    border: 2px solid gray;  
+}
+
+.photo-list li:last-child {
+    flex-grow: 10;  
+    border: none;  
+}
+
+ 
+.photo-list.single-image > li {
+    height: auto;  
+}
+</style>
+
+<a href="https://srikanthperinkulam.com/2021/01/03/crow-chasers/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

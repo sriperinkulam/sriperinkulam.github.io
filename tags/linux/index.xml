@@ -10,7 +10,259 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Apr 2008 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01 Nov 2020 00:00</title>
+      <link>https://srikanthperinkulam.com/2020/11/01/encrypting-drives/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2020/11/01/encrypting-drives/</guid>
+      <description>&lt;p&gt;Earlier last week one of my external hard-disks went kaput. Though it&amp;rsquo;s fair to assume the recent travel could have led to this, my guess is that it was just a case of an ill-fated drive. While I did lose all the data on that drive, I thankfully had duplicate copies of the over 200GB data on other drives or machines. This is the first time that I&amp;rsquo;m losing a hard-drive and I&amp;rsquo;m so glad I was prudent enough to have multiple copies. All thanks to the folks over at Backblaze who frequently &lt;a href=&#34;https://www.backblaze.com/blog/category/cloud-storage/hard-drive-stats/&#34;&gt;publish hard-drive failure statistics&lt;/a&gt; on their stock!&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/20201017_100233.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Now, losing that data got me thinking if I was really wise in just storing that data naked without any encryption. If I did want to claim the warranty on the drive, I will have to send over the hard-drive to Seagate. I am just not comfortable sending it over now since technically, most if not all of it, can be forensically retrieved. On that thought while researching on possible encryption tools, I landed on &lt;a href=&#34;https://www.veracrypt.fr/&#34;&gt;VeraCrypt&lt;/a&gt;. I instantly formatted my backup drives, setup an encrypted container and pointed my selfhosted Nextcloud installation to that virtual &amp;lsquo;drive&amp;rsquo;. The initial formatting does take time since VeraCrypt replaces data bit-by-bit and creates a clean slate. Once that is done, decrypting the data is just a matter of seconds. While at it, I also subjected all my other hard-drives to &lt;a href=&#34;https://en.wikipedia.org/wiki/S.M.A.R.T.&#34;&gt;SMART&lt;/a&gt; tests and &lt;a href=&#34;https://en.wikipedia.org/wiki/Badblocks&#34;&gt;badblock&lt;/a&gt; tests to make sure they were following suit!&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s been about two weeks and I am super impressed with the ease and functionality of Veracrypt. It definitely is an additional step in the workflow. However, as they say - Privacy comes at a cost and I am willing to go that extra mile for an overall peace of mind.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Earlier last week one of my external hard-disks went kaput. Though it&rsquo;s fair to assume the recent travel could have led to this, my guess is that it was just a case of an ill-fated drive. While I did lose all the data on that drive, I thankfully had duplicate copies of the over 200GB data on other drives or machines. This is the first time that I&rsquo;m losing a hard-drive and I&rsquo;m so glad I was prudent enough to have multiple copies. All thanks to the folks over at Backblaze who frequently <a href="https://www.backblaze.com/blog/category/cloud-storage/hard-drive-stats/">publish hard-drive failure statistics</a> on their stock!</p>
+<p><img loading="lazy" src="images/20201017_100233.jpg" alt=""  />
+</p>
+<p>Now, losing that data got me thinking if I was really wise in just storing that data naked without any encryption. If I did want to claim the warranty on the drive, I will have to send over the hard-drive to Seagate. I am just not comfortable sending it over now since technically, most if not all of it, can be forensically retrieved. On that thought while researching on possible encryption tools, I landed on <a href="https://www.veracrypt.fr/">VeraCrypt</a>. I instantly formatted my backup drives, setup an encrypted container and pointed my selfhosted Nextcloud installation to that virtual &lsquo;drive&rsquo;. The initial formatting does take time since VeraCrypt replaces data bit-by-bit and creates a clean slate. Once that is done, decrypting the data is just a matter of seconds. While at it, I also subjected all my other hard-drives to <a href="https://en.wikipedia.org/wiki/S.M.A.R.T.">SMART</a> tests and <a href="https://en.wikipedia.org/wiki/Badblocks">badblock</a> tests to make sure they were following suit!</p>
+<p>It&rsquo;s been about two weeks and I am super impressed with the ease and functionality of Veracrypt. It definitely is an additional step in the workflow. However, as they say - Privacy comes at a cost and I am willing to go that extra mile for an overall peace of mind.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>21 Aug 2020 00:00</title>
+      <link>https://srikanthperinkulam.com/2020/08/21/mini-yet-mighty/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2020/08/21/mini-yet-mighty/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve had my eyes on the &lt;a href=&#34;https://www.intel.com/content/www/us/en/products/boards-kits/nuc.html&#34;&gt;Intel NUC&lt;/a&gt; for a while now. My current laptop has been on a downward spiral and a few days back, when I came across a fabulous deal on eBay for an unboxed but unused NUC, I took the dive and ordered it.&lt;/p&gt;
+&lt;p&gt;With 16GB RAM, 256GB NVMe SSD, 8TH Gen Core i7 Pro processor and Windows 10 Pro pre-installed - This is the most powerful machine I&amp;rsquo;ve owned. Agreed speed and performance is all relative. I&amp;rsquo;m just amazed that all of this fits in a tiny 4&amp;quot;x 4&amp;quot;x 1&amp;quot; box!&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/odfywNUIw08ldUgYLl3wgoarJq9gnPRPxRJ7JXbY.jpeg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;While at it, I also decided to switch over from &lt;a href=&#34;https://elementary.io/&#34;&gt;ElementaryOS&lt;/a&gt; to &lt;a href=&#34;https://pop.system76.com/&#34;&gt;PopOS&lt;/a&gt;. The PopOS install was a breeze. After a quick drive-partition all it took was probably a couple minutes to install the OS! Super impressed with the UI and the tiling feature on large screens is crisp!&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>I&rsquo;ve had my eyes on the <a href="https://www.intel.com/content/www/us/en/products/boards-kits/nuc.html">Intel NUC</a> for a while now. My current laptop has been on a downward spiral and a few days back, when I came across a fabulous deal on eBay for an unboxed but unused NUC, I took the dive and ordered it.</p>
+<p>With 16GB RAM, 256GB NVMe SSD, 8TH Gen Core i7 Pro processor and Windows 10 Pro pre-installed - This is the most powerful machine I&rsquo;ve owned. Agreed speed and performance is all relative. I&rsquo;m just amazed that all of this fits in a tiny 4&quot;x 4&quot;x 1&quot; box!</p>
+<p><img loading="lazy" src="images/odfywNUIw08ldUgYLl3wgoarJq9gnPRPxRJ7JXbY.jpeg" alt=""  />
+</p>
+<p>While at it, I also decided to switch over from <a href="https://elementary.io/">ElementaryOS</a> to <a href="https://pop.system76.com/">PopOS</a>. The PopOS install was a breeze. After a quick drive-partition all it took was probably a couple minutes to install the OS! Super impressed with the UI and the tiling feature on large screens is crisp!</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>09 Jul 2018 00:00</title>
+      <link>https://srikanthperinkulam.com/2018/07/09/snappy-nextcloud/</link>
+      <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2018/07/09/snappy-nextcloud/</guid>
+      <description>&lt;p&gt;Last year, I procured a &lt;a href=&#34;https://nextcloud.com/box/&#34;&gt;Nextcloud box&lt;/a&gt; and moved part of my data to it. I&amp;rsquo;d just heard about &lt;a href=&#34;https://srikanthperinkulam.com/2017/11/04/fired-up/&#34;&gt;Ubuntu Snappy Core OS&lt;/a&gt; and was keen on porting my install to that setup. I finally got around doing that last week and thought I&amp;rsquo;d quickly jot down the install steps for reference later. Essentially, I installed the Core OS on a 32GB microSD card and installed Nextcloud as a snap. Two 1TB hard drives service the Pi3 and are synced with rclone. Below is a crude outline of the setup:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Install and sign-in to the UbuntuCore OS:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1.Download the latest &lt;a href=&#34;https://www.ubuntu.com/core&#34;&gt;Ubuntu Core OS&lt;/a&gt; and use &lt;a href=&#34;https://etcher.io/&#34;&gt;Etcher&lt;/a&gt; to burn it on to a microSSD card.&lt;/p&gt;
+&lt;p&gt;2.On your local machine generate a public/private rsa key using the following command: &lt;code&gt;ssh-keygen -t rsa&lt;/code&gt; Create an &lt;a href=&#34;https://login.ubuntu.com/&#34;&gt;UbuntuOne&lt;/a&gt; account if you don&amp;rsquo;t already have one and import your ssh key to your account. You&amp;rsquo;ll need this to ssh into your Core OS pretty soon.&lt;/p&gt;
+&lt;p&gt;3.Slide in the microSSD card onto the Pi3 board. Then connect a monitor, keyboard and hard drive to the Pi3 and power it on. The Pi3 Board B comes with in-built wi-fi and bluetooth and once powered on it should automatically prompt you to connect to the wi-fi and then to your UbuntuONE account. Once this is setup, you should be able to ssh into the CoreOS from your local machine using: &lt;code&gt;ssh ubuntu-username@192.168.0.xx&lt;/code&gt; [btw] If ssh fails - &amp;ldquo;Error - signandsend_pubkey: signing failed: agent refused operation&amp;rdquo;. This is most likely because the ssh agent is already running but isn&amp;rsquo;t able to find the private keys. To add the keys to the authentication agent, enter &lt;code&gt;ssh-add&lt;/code&gt;. Also to see list of fingerprints of all identities added use &lt;code&gt;ssh-add -l&lt;/code&gt; [/btw][btw]To add a password for the user: &lt;code&gt;sudo passwd ubuntu-username&lt;/code&gt;[/btw][btw]To re-configure network at anytime: &lt;code&gt;sudo console-conf&lt;/code&gt;[/btw]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;External Drive setup&lt;/strong&gt; 1.I use two external hard-drives one as a primary and the other as a secondary. First format the drives: &lt;code&gt;sudo fdisk /dev/sda&lt;/code&gt; [btw]&lt;code&gt;Welcome to fdisk (util-linux 2.27.1). Changes will remain in memory only, until you decide to write them. Be careful before using the write command. Command (m for help): o Created a new DOS disklabel with disk identifier 0x8b913f43. Command (m for help): n Partition type p primary (0 primary, 0 extended, 4 free) e extended (container for logical partitions) Select (default p): p Partition number (1-4, default 1): First sector (2048-1953458175, default 2048): Last sector, +sectors or +size{K,M,G,T,P} (2048-1953458175, default 1953458175): Created a new partition 1 of type &#39;Linux&#39; and of size 931.5 GiB. Command (m for help): w The partition table has been altered. Calling ioctl() to re-read partition table. Syncing disks.&lt;/code&gt; [/btw]&lt;/p&gt;
+&lt;p&gt;2.Format the partition and give it the label data. This label will be used to reference it for mounting later: &lt;code&gt;sudo mkfs.ext4 -L data /dev/sda1&lt;/code&gt; [btw] mke2fs 1.42.13 (17-May-2015) /dev/sda1 contains a ext4 file system labelled &amp;lsquo;data&amp;rsquo; last mounted on Sat Nov 18 08:38:49 2017 Proceed anyway? (y,n) y Creating filesystem with 244182016 4k blocks and 61046784 inodes Filesystem UUID: c03685e6-fc4d-4d69-b8cf-8b17b24f2e0a Superblock backups stored on blocks: 32768, 98304, 163840, 229376, 294912, 819200, 884736, 1605632, 2654208, 4096000, 7962624, 11239424, 20480000, 23887872, 71663616, 78675968, 102400000, 214990848 Allocating group tables: done&lt;br&gt;
+Writing inode tables: done&lt;br&gt;
+Creating journal (32768 blocks): done Writing superblocks and filesystem accounting information: done [/btw]&lt;/p&gt;
+&lt;p&gt;3.To mount the partition we&amp;rsquo;re forced to rely on systemd since most of Ubuntu core system is read-only and editing /etc/fstab is not an option. Mount units need to be named after the mount point directories they control. So create the media-data.mount unit: &lt;code&gt;sudo vi /writable/system-data/etc/systemd/system/media-data.mount&lt;/code&gt; and add in the following content: &lt;code&gt;[Unit] Description=Mount unit for data [Mount] What=/dev/disk/by-label/data Where=/media/data Type=ext4 [Install] WantedBy=multi-user.target&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;4.Reload systemd to reflect the changes,Start and enable the mount volume so it gets automatically mounted: &lt;code&gt;sudo systemctl daemon-reload sudo systemctl start media-data.mount sudo systemctl enable media-data.mount&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;5.Make sure Ubuntucore is up to date and refresh: &lt;code&gt;sudo snap refresh sudo reboot&lt;/code&gt; After the reboot make sure /media/data is mounted and functional: &lt;code&gt;sudo systemctl status media-data.mount&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Install and configure Nextcloud as a snap&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1.Install Nextcloud: &lt;code&gt;sudo snap install nextcloud&lt;/code&gt; 2.Access the nextcloud install from any browser in the network using the IP address: &lt;a href=&#34;http://192.168.0.xx&#34;&gt;http://192.168.0.xx&lt;/a&gt;, create an admin account and complete the installation. 3.Enable the &amp;lsquo;External Storages&amp;rsquo; app under &amp;lsquo;Apps&amp;rsquo;. 4.Associate the removable media with nextcloud: &lt;code&gt;sudo snap connect nextcloud:removable-media core:removable-media&lt;/code&gt; 5.Map /media/data with nextcloud in the external storage with the following settings: &lt;code&gt;Folder name: data External storage: Local Authentication: None Configuration: /media/data Available for: All&lt;/code&gt; 6.Setup encryption certificates: &lt;code&gt;sudo nextcloud.enable-https self-signed&lt;/code&gt; 7.To access the setup pi3 server from outside the local network, you&amp;rsquo;ll need to map the dynamic dns provided by your ISP to a global address. I used no-ip and my netgear router to facilitate this. 8. Do note that when you upload files, by default they&amp;rsquo;re saved to the microSD card!![btw]here: /var/snap/nextcloud/common/nextcloud/data/&lt;em&gt;NC_user&lt;/em&gt;/files[/btw]. Read &lt;a href=&#34;https://help.nextcloud.com/t/is-there-a-safe-and-reliable-way-to-move-data-directory-out-of-web-root/3642/51&#34;&gt;this forum&lt;/a&gt; for details. 9. If more than one user would be using the external data mount either install the &amp;lsquo;File access control&amp;rsquo; app and setup rules or create folders for each person and just mount those folders for each user in the Nextcloud admin panel.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Last year, I procured a <a href="https://nextcloud.com/box/">Nextcloud box</a> and moved part of my data to it. I&rsquo;d just heard about <a href="https://srikanthperinkulam.com/2017/11/04/fired-up/">Ubuntu Snappy Core OS</a> and was keen on porting my install to that setup. I finally got around doing that last week and thought I&rsquo;d quickly jot down the install steps for reference later. Essentially, I installed the Core OS on a 32GB microSD card and installed Nextcloud as a snap. Two 1TB hard drives service the Pi3 and are synced with rclone. Below is a crude outline of the setup:</p>
+<p><strong>Install and sign-in to the UbuntuCore OS:</strong></p>
+<p>1.Download the latest <a href="https://www.ubuntu.com/core">Ubuntu Core OS</a> and use <a href="https://etcher.io/">Etcher</a> to burn it on to a microSSD card.</p>
+<p>2.On your local machine generate a public/private rsa key using the following command: <code>ssh-keygen -t rsa</code> Create an <a href="https://login.ubuntu.com/">UbuntuOne</a> account if you don&rsquo;t already have one and import your ssh key to your account. You&rsquo;ll need this to ssh into your Core OS pretty soon.</p>
+<p>3.Slide in the microSSD card onto the Pi3 board. Then connect a monitor, keyboard and hard drive to the Pi3 and power it on. The Pi3 Board B comes with in-built wi-fi and bluetooth and once powered on it should automatically prompt you to connect to the wi-fi and then to your UbuntuONE account. Once this is setup, you should be able to ssh into the CoreOS from your local machine using: <code>ssh ubuntu-username@192.168.0.xx</code> [btw] If ssh fails - &ldquo;Error - signandsend_pubkey: signing failed: agent refused operation&rdquo;. This is most likely because the ssh agent is already running but isn&rsquo;t able to find the private keys. To add the keys to the authentication agent, enter <code>ssh-add</code>. Also to see list of fingerprints of all identities added use <code>ssh-add -l</code> [/btw][btw]To add a password for the user: <code>sudo passwd ubuntu-username</code>[/btw][btw]To re-configure network at anytime: <code>sudo console-conf</code>[/btw]</p>
+<p><strong>External Drive setup</strong> 1.I use two external hard-drives one as a primary and the other as a secondary. First format the drives: <code>sudo fdisk /dev/sda</code> [btw]<code>Welcome to fdisk (util-linux 2.27.1). Changes will remain in memory only, until you decide to write them. Be careful before using the write command. Command (m for help): o Created a new DOS disklabel with disk identifier 0x8b913f43. Command (m for help): n Partition type p primary (0 primary, 0 extended, 4 free) e extended (container for logical partitions) Select (default p): p Partition number (1-4, default 1): First sector (2048-1953458175, default 2048): Last sector, +sectors or +size{K,M,G,T,P} (2048-1953458175, default 1953458175): Created a new partition 1 of type 'Linux' and of size 931.5 GiB. Command (m for help): w The partition table has been altered. Calling ioctl() to re-read partition table. Syncing disks.</code> [/btw]</p>
+<p>2.Format the partition and give it the label data. This label will be used to reference it for mounting later: <code>sudo mkfs.ext4 -L data /dev/sda1</code> [btw] mke2fs 1.42.13 (17-May-2015) /dev/sda1 contains a ext4 file system labelled &lsquo;data&rsquo; last mounted on Sat Nov 18 08:38:49 2017 Proceed anyway? (y,n) y Creating filesystem with 244182016 4k blocks and 61046784 inodes Filesystem UUID: c03685e6-fc4d-4d69-b8cf-8b17b24f2e0a Superblock backups stored on blocks: 32768, 98304, 163840, 229376, 294912, 819200, 884736, 1605632, 2654208, 4096000, 7962624, 11239424, 20480000, 23887872, 71663616, 78675968, 102400000, 214990848 Allocating group tables: done<br>
+Writing inode tables: done<br>
+Creating journal (32768 blocks): done Writing superblocks and filesystem accounting information: done [/btw]</p>
+<p>3.To mount the partition we&rsquo;re forced to rely on systemd since most of Ubuntu core system is read-only and editing /etc/fstab is not an option. Mount units need to be named after the mount point directories they control. So create the media-data.mount unit: <code>sudo vi /writable/system-data/etc/systemd/system/media-data.mount</code> and add in the following content: <code>[Unit] Description=Mount unit for data [Mount] What=/dev/disk/by-label/data Where=/media/data Type=ext4 [Install] WantedBy=multi-user.target</code></p>
+<p>4.Reload systemd to reflect the changes,Start and enable the mount volume so it gets automatically mounted: <code>sudo systemctl daemon-reload sudo systemctl start media-data.mount sudo systemctl enable media-data.mount</code></p>
+<p>5.Make sure Ubuntucore is up to date and refresh: <code>sudo snap refresh sudo reboot</code> After the reboot make sure /media/data is mounted and functional: <code>sudo systemctl status media-data.mount</code></p>
+<p><strong>Install and configure Nextcloud as a snap</strong></p>
+<p>1.Install Nextcloud: <code>sudo snap install nextcloud</code> 2.Access the nextcloud install from any browser in the network using the IP address: <a href="http://192.168.0.xx">http://192.168.0.xx</a>, create an admin account and complete the installation. 3.Enable the &lsquo;External Storages&rsquo; app under &lsquo;Apps&rsquo;. 4.Associate the removable media with nextcloud: <code>sudo snap connect nextcloud:removable-media core:removable-media</code> 5.Map /media/data with nextcloud in the external storage with the following settings: <code>Folder name: data External storage: Local Authentication: None Configuration: /media/data Available for: All</code> 6.Setup encryption certificates: <code>sudo nextcloud.enable-https self-signed</code> 7.To access the setup pi3 server from outside the local network, you&rsquo;ll need to map the dynamic dns provided by your ISP to a global address. I used no-ip and my netgear router to facilitate this. 8. Do note that when you upload files, by default they&rsquo;re saved to the microSD card!![btw]here: /var/snap/nextcloud/common/nextcloud/data/<em>NC_user</em>/files[/btw]. Read <a href="https://help.nextcloud.com/t/is-there-a-safe-and-reliable-way-to-move-data-directory-out-of-web-root/3642/51">this forum</a> for details. 9. If more than one user would be using the external data mount either install the &lsquo;File access control&rsquo; app and setup rules or create folders for each person and just mount those folders for each user in the Nextcloud admin panel.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>17 Apr 2015 00:00</title>
+      <link>https://srikanthperinkulam.com/2015/04/17/enabling-wifi-from-the-terminal/</link>
+      <pubDate>Fri, 17 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2015/04/17/enabling-wifi-from-the-terminal/</guid>
+      <description>&lt;p&gt;After a few rough beta installs of the OS, I decided to do a clean install of  &lt;a href=&#34;http://elementary.io/&#34;&gt;Freya&lt;/a&gt;. It&amp;rsquo;s been a smooth sail so far but for the intermittent WiFi disconnects. For some reason the WiFi gets soft disabled at times. Until I figure out what&amp;rsquo;s causing this to happen and for future reference here&amp;rsquo;s a nifty work-around:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Determine the current state of the radio transmitters using &lt;a href=&#34;https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Power_Management_Guide/RFKill.html&#34;&gt;rfkill&lt;/a&gt;. You&amp;rsquo;ll be able to see immediately If any of your devices are soft blocked.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[code] $ sudo rfkill list all [/code]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Unblock radio transmitters as needed. In my case, something was turning the Wi-Fi off. I just had to turn this on using the below command:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[code] $ rfkill unblock wifi [/code]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Note: In a few laptops the Wi-Fi  key is also mapped to the Bluetooth function, so to activate or deactivate you&amp;rsquo;ll just have to tap a few times to disable or enable wifi and/or bluetooth.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>After a few rough beta installs of the OS, I decided to do a clean install of  <a href="http://elementary.io/">Freya</a>. It&rsquo;s been a smooth sail so far but for the intermittent WiFi disconnects. For some reason the WiFi gets soft disabled at times. Until I figure out what&rsquo;s causing this to happen and for future reference here&rsquo;s a nifty work-around:</p>
+<ul>
+<li>Determine the current state of the radio transmitters using <a href="https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Power_Management_Guide/RFKill.html">rfkill</a>. You&rsquo;ll be able to see immediately If any of your devices are soft blocked.</li>
+</ul>
+<blockquote>
+<p>[code] $ sudo rfkill list all [/code]</p>
+</blockquote>
+<ul>
+<li>Unblock radio transmitters as needed. In my case, something was turning the Wi-Fi off. I just had to turn this on using the below command:</li>
+</ul>
+<blockquote>
+<p>[code] $ rfkill unblock wifi [/code]</p>
+</blockquote>
+<p>Note: In a few laptops the Wi-Fi  key is also mapped to the Bluetooth function, so to activate or deactivate you&rsquo;ll just have to tap a few times to disable or enable wifi and/or bluetooth.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>05 Jun 2008 00:00</title>
+      <link>https://srikanthperinkulam.com/2008/06/05/dual-booting-multiple-os/</link>
+      <pubDate>Thu, 05 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2008/06/05/dual-booting-multiple-os/</guid>
+      <description>&lt;p&gt;Hosting more that one OS on your hard disk can be a pain if you&amp;rsquo;re not really sure on configuring the boot loader. I&amp;rsquo;ll confine the scope of this post to parenting only Debian based Linux OS ( Ubuntu ) and WIndoze. Because for the most part of it, I&amp;rsquo;ve only worked on them.&lt;/p&gt;
+&lt;p&gt;Why would you have to Install / reconfigure Grub in the first case?&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;You had to install Windows after you installed Ubuntu/Linux which led to the Grub ( Previously installed by Ubuntu ) to be over written by the Windows Boot loader.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You screwed up an installation right at the wrong spot and now you can boot neither Windows nor Linux.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Installing Grub through a Live CD:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Insert the Ubuntu Live CD into the tray and restart your system&lt;/li&gt;
+&lt;li&gt;Once you&amp;rsquo;re at the Live CD Desktop, Navigate to the terminal ( Applications&amp;gt;Accessories&amp;gt;Terminal)&lt;/li&gt;
+&lt;li&gt;Type &lt;strong&gt;sudo fdisk -l&lt;/strong&gt; /* This would list all the OS installations and drives that you have. Make note in which drive Ubuntu has been installed - Let&amp;rsquo;s say it&amp;rsquo;s hda3*/&lt;/li&gt;
+&lt;li&gt;Next we&amp;rsquo;ll have to enter the Grub shell. Fot that type &lt;strong&gt;sudo grub&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;In the grub menu type find &lt;strong&gt;/boot/grub/stage1&lt;/strong&gt; . This would return a listing of the drives in which the OS&amp;rsquo;s/ boot records are installed.&lt;/li&gt;
+&lt;li&gt;Identify where Ubuntu&amp;rsquo;s Grub is on, by relating the output from step 3 and the above output.Now to let the Grub shell know what grub files are to be used, type &lt;strong&gt;root (hd0, 3)&lt;/strong&gt; /* You&amp;rsquo;ll have to change this accordingly as per your output from step 3*/&lt;/li&gt;
+&lt;li&gt;Now to install Grub on MBR,  type &lt;strong&gt;setup (hd0)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;By now, You should have got a success message from the grub shell telling you that the Grub has successfully been installed.&lt;/li&gt;
+&lt;li&gt;Type &lt;strong&gt;quit&lt;/strong&gt; and exit the terminal. Reboot and this should have properly fixed your Grub.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Installing Grub using the Super Grub disk:&lt;/p&gt;
+&lt;p&gt;If in case you do not have a Live CD, you can download a super grub disk and use it to setup the Grub for you. Check this page for more info on using the Super grub disk.&lt;/p&gt;
+&lt;p&gt;Note:&lt;/p&gt;
+&lt;p&gt;Installing Grub in your MBR will overwrite WIndows bootloader. If in case you do not find Windows in your boot menu after rebooting, all that you have to do is to make an entry in the Grub boot list.&lt;/p&gt;
+&lt;p&gt;Making an Entry of Windows in the Grub boot list:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In the terminal , type sudo gedit /boot/grub/menu.lst /* Always have a backup of this file. Screwing this will only cause more trouble */&lt;/li&gt;
+&lt;li&gt;Add the following lines wherever you would like the Windows entry to be listed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;title WIndows XP Professional Edition&lt;/p&gt;
+&lt;p&gt;root(hdX,Y) /* Based on the fdisk -l output. Note: /dev/hda1 ==(hd0,0). /dev/hda2==(hd0,1) &amp;ndash;&amp;gt; Grub  convention */&lt;/p&gt;
+&lt;p&gt;savedefault&lt;/p&gt;
+&lt;p&gt;makeactive&lt;/p&gt;
+&lt;p&gt;chainloader +1&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Save Menu.lst and reboot. This should resolve the issue&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <content:encoded><![CDATA[<p>Hosting more that one OS on your hard disk can be a pain if you&rsquo;re not really sure on configuring the boot loader. I&rsquo;ll confine the scope of this post to parenting only Debian based Linux OS ( Ubuntu ) and WIndoze. Because for the most part of it, I&rsquo;ve only worked on them.</p>
+<p>Why would you have to Install / reconfigure Grub in the first case?</p>
+<ol>
+<li>
+<p>You had to install Windows after you installed Ubuntu/Linux which led to the Grub ( Previously installed by Ubuntu ) to be over written by the Windows Boot loader.</p>
+</li>
+<li>
+<p>You screwed up an installation right at the wrong spot and now you can boot neither Windows nor Linux.</p>
+</li>
+</ol>
+<p>Installing Grub through a Live CD:</p>
+<ol>
+<li>Insert the Ubuntu Live CD into the tray and restart your system</li>
+<li>Once you&rsquo;re at the Live CD Desktop, Navigate to the terminal ( Applications&gt;Accessories&gt;Terminal)</li>
+<li>Type <strong>sudo fdisk -l</strong> /* This would list all the OS installations and drives that you have. Make note in which drive Ubuntu has been installed - Let&rsquo;s say it&rsquo;s hda3*/</li>
+<li>Next we&rsquo;ll have to enter the Grub shell. Fot that type <strong>sudo grub</strong></li>
+<li>In the grub menu type find <strong>/boot/grub/stage1</strong> . This would return a listing of the drives in which the OS&rsquo;s/ boot records are installed.</li>
+<li>Identify where Ubuntu&rsquo;s Grub is on, by relating the output from step 3 and the above output.Now to let the Grub shell know what grub files are to be used, type <strong>root (hd0, 3)</strong> /* You&rsquo;ll have to change this accordingly as per your output from step 3*/</li>
+<li>Now to install Grub on MBR,  type <strong>setup (hd0)</strong></li>
+<li>By now, You should have got a success message from the grub shell telling you that the Grub has successfully been installed.</li>
+<li>Type <strong>quit</strong> and exit the terminal. Reboot and this should have properly fixed your Grub.</li>
+</ol>
+<p>Installing Grub using the Super Grub disk:</p>
+<p>If in case you do not have a Live CD, you can download a super grub disk and use it to setup the Grub for you. Check this page for more info on using the Super grub disk.</p>
+<p>Note:</p>
+<p>Installing Grub in your MBR will overwrite WIndows bootloader. If in case you do not find Windows in your boot menu after rebooting, all that you have to do is to make an entry in the Grub boot list.</p>
+<p>Making an Entry of Windows in the Grub boot list:</p>
+<ul>
+<li>In the terminal , type sudo gedit /boot/grub/menu.lst /* Always have a backup of this file. Screwing this will only cause more trouble */</li>
+<li>Add the following lines wherever you would like the Windows entry to be listed</li>
+</ul>
+<p>title WIndows XP Professional Edition</p>
+<p>root(hdX,Y) /* Based on the fdisk -l output. Note: /dev/hda1 ==(hd0,0). /dev/hda2==(hd0,1) &ndash;&gt; Grub  convention */</p>
+<p>savedefault</p>
+<p>makeactive</p>
+<p>chainloader +1</p>
+<ul>
+<li>Save Menu.lst and reboot. This should resolve the issue</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>04 Jun 2008 00:00</title>
+      <link>https://srikanthperinkulam.com/2008/06/04/passwords-and-security/</link>
+      <pubDate>Wed, 04 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2008/06/04/passwords-and-security/</guid>
+      <description>&lt;p&gt;Just ten minutes before I was supposed to leave for work yesterday,  I had this remote urge to get back Hardy running on my desktop. I had it installed but because of a windows re-install, the GRUB boot menu was overwritten. So all that I had to do was to re-install Grub!&lt;/p&gt;
+&lt;p&gt; Powered the CPU , inserted Gutsy&amp;rsquo;s Live CD, logged into the desktop and fired a few commands in the terminal. The shell gave in a success message and I quickly rebooted to check if the Grub was installed. And boy, it did get installed right in the first go :-) !&lt;/p&gt;
+&lt;p&gt;I had to catch the 10:45 service so I powered the CPU off and ran my might to reach in time. Post work when I get back home and turn on the Desktop to check back on sweet old Ubuntu, I&amp;rsquo;m in for a surprise - I didn&amp;rsquo;t remember the Password for my Admin acccount ! Even before my instincts to re-install the OS took control, I rebooted and logged into Windoze. Googling a bit had even more surprises in store - A few posts in the Ubuntu Forum stated a minutes walk to Glory - You could override the admin&amp;rsquo;s password by a few quick commands! And till date, I was thinking Linux gave me all the security in the world. How wrong I was ! Or was I ?&lt;/p&gt;
+&lt;p&gt;This only made me think if Linux had a backgate entry, Bill&amp;rsquo;s Windoze should as well. Again thanks to Sergey and Larry, I realized hacking the windoze admin password was a cake walk too! Damn, it took me so many years to realise that. It was no damn rocket science!&lt;/p&gt;
+&lt;p&gt;This incident forked out a few salient points&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;If there&amp;rsquo;s a password - It can and will be hacked. It&amp;rsquo;s only a matter of when and how!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Linux is still a better vault when it comes to data security- Check this &lt;a href=&#34;http://www.theregister.co.uk/security/security_report_windows_vs_linux/&#34; title=&#34;link&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If you&amp;rsquo;re really worried about data security, You have every reason to be! It&amp;rsquo;s a murky world out there ;-) !&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We&amp;rsquo;ve got one of the best processors - the Brain. High time we knew how to use it effectively :-) !&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+      <content:encoded><![CDATA[<p>Just ten minutes before I was supposed to leave for work yesterday,  I had this remote urge to get back Hardy running on my desktop. I had it installed but because of a windows re-install, the GRUB boot menu was overwritten. So all that I had to do was to re-install Grub!</p>
+<p> Powered the CPU , inserted Gutsy&rsquo;s Live CD, logged into the desktop and fired a few commands in the terminal. The shell gave in a success message and I quickly rebooted to check if the Grub was installed. And boy, it did get installed right in the first go :-) !</p>
+<p>I had to catch the 10:45 service so I powered the CPU off and ran my might to reach in time. Post work when I get back home and turn on the Desktop to check back on sweet old Ubuntu, I&rsquo;m in for a surprise - I didn&rsquo;t remember the Password for my Admin acccount ! Even before my instincts to re-install the OS took control, I rebooted and logged into Windoze. Googling a bit had even more surprises in store - A few posts in the Ubuntu Forum stated a minutes walk to Glory - You could override the admin&rsquo;s password by a few quick commands! And till date, I was thinking Linux gave me all the security in the world. How wrong I was ! Or was I ?</p>
+<p>This only made me think if Linux had a backgate entry, Bill&rsquo;s Windoze should as well. Again thanks to Sergey and Larry, I realized hacking the windoze admin password was a cake walk too! Damn, it took me so many years to realise that. It was no damn rocket science!</p>
+<p>This incident forked out a few salient points</p>
+<ol>
+<li>
+<p>If there&rsquo;s a password - It can and will be hacked. It&rsquo;s only a matter of when and how!</p>
+</li>
+<li>
+<p>Linux is still a better vault when it comes to data security- Check this <a href="http://www.theregister.co.uk/security/security_report_windows_vs_linux/" title="link">link</a></p>
+</li>
+<li>
+<p>If you&rsquo;re really worried about data security, You have every reason to be! It&rsquo;s a murky world out there ;-) !</p>
+</li>
+<li>
+<p>We&rsquo;ve got one of the best processors - the Brain. High time we knew how to use it effectively :-) !</p>
+</li>
+</ol>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>25 Apr 2008 00:00</title>
       <link>https://srikanthperinkulam.com/2008/04/25/the-herons-up-there-in-the-servers/</link>

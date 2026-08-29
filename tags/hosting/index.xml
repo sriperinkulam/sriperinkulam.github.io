@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hosting on Srikanth Perinkulam</title>
+    <link>https://srikanthperinkulam.com/tags/hosting/</link>
+    <description>Recent content in Hosting on Srikanth Perinkulam</description>
+    <image>
+      <url>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</url>
+      <link>https://srikanthperinkulam.com/images/favicon/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 17 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/hosting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>17 Apr 2021 00:00</title>
+      <link>https://srikanthperinkulam.com/2021/04/17/april-17-2021-1729/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2021/04/17/april-17-2021-1729/</guid>
+      <description>&lt;p&gt;I reworked how posts are displayed on my site - essentially moving over the micro-posts to a page of it&amp;rsquo;s own. Over time with different publishing workflows and experimentations, the site&amp;rsquo;s taken the brunt. Over the next few weeks, I plan on tweaking things further to make publishing posts quick and seamless.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>I reworked how posts are displayed on my site - essentially moving over the micro-posts to a page of it&rsquo;s own. Over time with different publishing workflows and experimentations, the site&rsquo;s taken the brunt. Over the next few weeks, I plan on tweaking things further to make publishing posts quick and seamless.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>12 Jan 2020 00:00</title>
+      <link>https://srikanthperinkulam.com/2020/01/12/weeknote-02-snow-mischief/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2020/01/12/weeknote-02-snow-mischief/</guid>
+      <description>&lt;p&gt;&lt;em&gt;A glimpse of the past week and the few articles, podcasts, tools, videos and music that captivated my attention:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Earlier this week I helped Sharath setup a nextcloud instance on the RaspberryPi 4 that we got him for Christmas. Installed the DietPi OS, moved the user data over to a 5TB WD disk and while at it also setup a pi-hole for the network.&lt;/p&gt;
+&lt;p&gt;Weather wise, this was one odd week. Had a good dusting of snow on Tuesday night and a balmy 60 degrees for most of the weekend. The kids had early school closures and we made sure we hit the trails.&lt;/p&gt;
+&lt;p&gt;Gone are the crawling days. Shasta has moved on to walking and she&amp;rsquo;s getting pretty good at it. Also her mischief quotient is raising by the day!&lt;/p&gt;
+&lt;p&gt;Meena found an interesting course in Tufts and has applied for the 2020 Fall deadline. Fingers crossed that she makes it! Some other exciting developments through this week might take us back to Boston this spring.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Interesting podcasts this week:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Indicator from Planet Money: The Skyrocketing Cost Of Air Ambulances&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://play.podtrac.com/npr-510325/edge1.pod.npr.org/anon.npr-mp3/npr/indicator/2020/01/20200103&#34;&gt;https://play.podtrac.com/npr-510325/edge1.pod.npr.org/anon.npr-mp3/npr/indicator/2020/01/20200103&lt;/a&gt;_indicator_200103_air_ambulances_final.mp3&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Interesting reads this week:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://outline.com/XDFmDn&#34;&gt;Welcome to New Hollywood&lt;/a&gt;: Netflix has absolutely taken over the digital market. Oddly they rely on AWS!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.theguardian.com/lifeandstyle/2019/jun/04/why-parents-are-addicted-to-calpol&#34;&gt;Why parents are addicted to Calpol&lt;/a&gt;: So true! It struck me so starkly when we moved to the states several years back. It&amp;rsquo;s amazing how quickly my family pops in paracetamols without any second thoughts.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://outline.com/3FULea&#34;&gt;The Shadow Commander&lt;/a&gt;: Quite an interesting read on recent developments in Iran and it&amp;rsquo;s past.&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p><em>A glimpse of the past week and the few articles, podcasts, tools, videos and music that captivated my attention:</em></p>
+<p>Earlier this week I helped Sharath setup a nextcloud instance on the RaspberryPi 4 that we got him for Christmas. Installed the DietPi OS, moved the user data over to a 5TB WD disk and while at it also setup a pi-hole for the network.</p>
+<p>Weather wise, this was one odd week. Had a good dusting of snow on Tuesday night and a balmy 60 degrees for most of the weekend. The kids had early school closures and we made sure we hit the trails.</p>
+<p>Gone are the crawling days. Shasta has moved on to walking and she&rsquo;s getting pretty good at it. Also her mischief quotient is raising by the day!</p>
+<p>Meena found an interesting course in Tufts and has applied for the 2020 Fall deadline. Fingers crossed that she makes it! Some other exciting developments through this week might take us back to Boston this spring.</p>
+<p><strong>Interesting podcasts this week:</strong></p>
+<p>The Indicator from Planet Money: The Skyrocketing Cost Of Air Ambulances</p>
+<p><a href="https://play.podtrac.com/npr-510325/edge1.pod.npr.org/anon.npr-mp3/npr/indicator/2020/01/20200103">https://play.podtrac.com/npr-510325/edge1.pod.npr.org/anon.npr-mp3/npr/indicator/2020/01/20200103</a>_indicator_200103_air_ambulances_final.mp3</p>
+<p><strong>Interesting reads this week:</strong></p>
+<p><a href="https://outline.com/XDFmDn">Welcome to New Hollywood</a>: Netflix has absolutely taken over the digital market. Oddly they rely on AWS!</p>
+<p><a href="https://www.theguardian.com/lifeandstyle/2019/jun/04/why-parents-are-addicted-to-calpol">Why parents are addicted to Calpol</a>: So true! It struck me so starkly when we moved to the states several years back. It&rsquo;s amazing how quickly my family pops in paracetamols without any second thoughts.</p>
+<p><a href="https://outline.com/3FULea">The Shadow Commander</a>: Quite an interesting read on recent developments in Iran and it&rsquo;s past.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>16 May 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/05/16/https/</link>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/05/16/https/</guid>
+      <description>&lt;p&gt;LetsEncrypt makes you feel you&amp;rsquo;re doing highly technical stuff, yet makes it so simple to install certificates. I&amp;rsquo;d defer auto-renewals just to get to the meat every 90 days!&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>LetsEncrypt makes you feel you&rsquo;re doing highly technical stuff, yet makes it so simple to install certificates. I&rsquo;d defer auto-renewals just to get to the meat every 90 days!</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>03 Mar 2017 00:00</title>
+      <link>https://srikanthperinkulam.com/2017/03/03/migrations-workflows-and-awesomeness/</link>
+      <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2017/03/03/migrations-workflows-and-awesomeness/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/file.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Since mid 2016, I&amp;rsquo;ve been wanting to consolidate all the portals I manage. Having set them up on separate domain spaces, It was getting excruciatingly difficult to update/maintain/upgrade them. The admin interface at times was dead slow and I had restrictions with server permissions which wasn&amp;rsquo;t quite helpful. My first thought was to procure a home server and host all the portals from there. Besides speed and control, It would also give me flexibility to tinker with other self-hosted apps that I&amp;rsquo;ve been itching to work on. It looked like a great solution but I knew it would also need me to invest a lot of time, getting up to speed with server administration. With my new &lt;a href=&#34;https://srikanthperinkulam.com/category/channel/training/&#34;&gt;running schedule&lt;/a&gt; and several other things, time was a luxury I didn&amp;rsquo;t have and I was soon scouting for alternatives.&lt;/p&gt;
+&lt;p&gt;I figured the &amp;lsquo;cloud&amp;rsquo; was a good alternative. While debating between AWS and Azure I came across &lt;a href=&#34;https://www.digitalocean.com/&#34;&gt;DigitalOcean&lt;/a&gt; [DO] which seemed to be a great testing ground for Cloud services. It seemed to have all that I was looking for and apparently was also pretty easy to setup. Besides, with another service called &lt;a href=&#34;https://serverpilot.io/&#34;&gt;Serverpilot.io&lt;/a&gt; I could spin a portal with just a few clicks. Sometime late in December when one of my shared servers expired, I bit the bullet and signed up with DO. It&amp;rsquo;s been pretty stable and worry-free so far. I see a tremendous improvement in speed, and goes without saying, the flexibility is incredible. As an added bonus, I also got to port to https using &lt;a href=&#34;https://letsencrypt.org/&#34;&gt;LetsEncrypt&lt;/a&gt;. Something that I sub-consciously wanted to do for a long time now. Couldn&amp;rsquo;t have asked for more! Over the next few weeks, as other shared accounts expire, I plan to migrate all of my other websites over to DO. It&amp;rsquo;s been a fun ride and a huge learning experience.&lt;/p&gt;
+&lt;p&gt;In the process I also came across a few nifty tools that do incredible things. The &lt;a href=&#34;https://wordpress.org/plugins/all-in-one-wp-migration/&#34;&gt;All-in-one WP Migration&lt;/a&gt; plugin does wonders in migration. All you need to do is install it in your old server setup, download the export and then import that into your brand new wordpress setup. This plugin takes care of EVERYTHING - posts, pages, CPTs, database, media and what not! It takes me just a minute to migrate my whole setup! Amazing! On another front, I&amp;rsquo;ve been itching to find a tool to publish to my site directly from my phone. The wordpress app worked just fine but didn&amp;rsquo;t quite meet all my needs. And then one day, I chanced upon a neat workaround using the &lt;a href=&#34;https://workflow.is/&#34;&gt;workflow&lt;/a&gt; app on my iphone. One of those days when I wasn&amp;rsquo;t quite in the mood for podcasts, I used the 20 minute train commute to build some custom workflows. Soon I could push updates to my site - be it bookmarks, moments, quick notes, replies, running updates etc which seamlessly get posted with just a few clicks. Once these &amp;lsquo;posts&amp;rsquo; enter my website, I use a couple of plugins to add featured images (&lt;a href=&#34;https://wordpress.org/plugins/quick-featured-images/&#34;&gt;Quick featured images&lt;/a&gt;) and/or auto post to twitter using &lt;a href=&#34;https://wordpress.org/plugins/social-networks-auto-poster-facebook-twitter-g/&#34;&gt;SNAP&lt;/a&gt;. Some thought behind this was also to live the &lt;a href=&#34;https://indieweb.org/Principles&#34;&gt;indieweb philosophy&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/file-169x300.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Ever since I started training for the 50 miler, I seem to have developed a better approach to time-management. During the week I keep note of all the tasks I would like to work on, prioritize them and then only work on the finishing the top three. This way I spend at-most half an hour during the weekend on server admin tasks and weed out the one&amp;rsquo;s with lower priority. This approach leads to having several want-to but unfinished tasks on the list. However, I guess it&amp;rsquo;s the best in terms of distributing time across the &lt;a href=&#34;https://srikanthperinkulam.com/2016/11/11/non-negotiable-milers/&#34;&gt;buckets&lt;/a&gt;.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="images/file.png" alt=""  />
+</p>
+<p>Since mid 2016, I&rsquo;ve been wanting to consolidate all the portals I manage. Having set them up on separate domain spaces, It was getting excruciatingly difficult to update/maintain/upgrade them. The admin interface at times was dead slow and I had restrictions with server permissions which wasn&rsquo;t quite helpful. My first thought was to procure a home server and host all the portals from there. Besides speed and control, It would also give me flexibility to tinker with other self-hosted apps that I&rsquo;ve been itching to work on. It looked like a great solution but I knew it would also need me to invest a lot of time, getting up to speed with server administration. With my new <a href="https://srikanthperinkulam.com/category/channel/training/">running schedule</a> and several other things, time was a luxury I didn&rsquo;t have and I was soon scouting for alternatives.</p>
+<p>I figured the &lsquo;cloud&rsquo; was a good alternative. While debating between AWS and Azure I came across <a href="https://www.digitalocean.com/">DigitalOcean</a> [DO] which seemed to be a great testing ground for Cloud services. It seemed to have all that I was looking for and apparently was also pretty easy to setup. Besides, with another service called <a href="https://serverpilot.io/">Serverpilot.io</a> I could spin a portal with just a few clicks. Sometime late in December when one of my shared servers expired, I bit the bullet and signed up with DO. It&rsquo;s been pretty stable and worry-free so far. I see a tremendous improvement in speed, and goes without saying, the flexibility is incredible. As an added bonus, I also got to port to https using <a href="https://letsencrypt.org/">LetsEncrypt</a>. Something that I sub-consciously wanted to do for a long time now. Couldn&rsquo;t have asked for more! Over the next few weeks, as other shared accounts expire, I plan to migrate all of my other websites over to DO. It&rsquo;s been a fun ride and a huge learning experience.</p>
+<p>In the process I also came across a few nifty tools that do incredible things. The <a href="https://wordpress.org/plugins/all-in-one-wp-migration/">All-in-one WP Migration</a> plugin does wonders in migration. All you need to do is install it in your old server setup, download the export and then import that into your brand new wordpress setup. This plugin takes care of EVERYTHING - posts, pages, CPTs, database, media and what not! It takes me just a minute to migrate my whole setup! Amazing! On another front, I&rsquo;ve been itching to find a tool to publish to my site directly from my phone. The wordpress app worked just fine but didn&rsquo;t quite meet all my needs. And then one day, I chanced upon a neat workaround using the <a href="https://workflow.is/">workflow</a> app on my iphone. One of those days when I wasn&rsquo;t quite in the mood for podcasts, I used the 20 minute train commute to build some custom workflows. Soon I could push updates to my site - be it bookmarks, moments, quick notes, replies, running updates etc which seamlessly get posted with just a few clicks. Once these &lsquo;posts&rsquo; enter my website, I use a couple of plugins to add featured images (<a href="https://wordpress.org/plugins/quick-featured-images/">Quick featured images</a>) and/or auto post to twitter using <a href="https://wordpress.org/plugins/social-networks-auto-poster-facebook-twitter-g/">SNAP</a>. Some thought behind this was also to live the <a href="https://indieweb.org/Principles">indieweb philosophy</a>.</p>
+<p><img loading="lazy" src="images/file-169x300.png" alt=""  />
+</p>
+<p>Ever since I started training for the 50 miler, I seem to have developed a better approach to time-management. During the week I keep note of all the tasks I would like to work on, prioritize them and then only work on the finishing the top three. This way I spend at-most half an hour during the weekend on server admin tasks and weed out the one&rsquo;s with lower priority. This approach leads to having several want-to but unfinished tasks on the list. However, I guess it&rsquo;s the best in terms of distributing time across the <a href="https://srikanthperinkulam.com/2016/11/11/non-negotiable-milers/">buckets</a>.</p>]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>08 Apr 2015 00:00</title>
+      <link>https://srikanthperinkulam.com/2015/04/08/important-plugins-for-your-wp-installation/</link>
+      <pubDate>Wed, 08 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2015/04/08/important-plugins-for-your-wp-installation/</guid>
+      <description>&lt;p&gt;Over the last seven years, since I &lt;a href=&#34;https://srikanthperinkulam.com/site-hosting/transition-from-v1-0-to-v2-0&#34; title=&#34;Transition from v1.0 to v2.0&#34;&gt;moved to a self hosted platform&lt;/a&gt; I&amp;rsquo;ve grown really fond of WordPress as a CMS. The ease of its installation and maintenance, the power of scaling, the flexibility to adapt it to your requirements and it&amp;rsquo;s ever present support framework is something that I&amp;rsquo;ve really grown to appreciate over time.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve worked on several installations of WordPress and over these years extensively tested quite a few plugins. &lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s a log of plugins that I&amp;rsquo;ve really found useful and hopefully will update this list as I experiment more with them:&lt;/p&gt;
+&lt;p&gt;[fruitful_tabs type=&amp;ldquo;default&amp;rdquo; width=&amp;ldquo;100%&amp;rdquo; fit=&amp;ldquo;false&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;[fruitful_tab title=&amp;ldquo;Security and Regular Maintenance &amp;ldquo;]&lt;/p&gt;
+&lt;h5 id=&#34;wordfence-securityhttpswordpressorgpluginswordfence&#34;&gt;&lt;strong&gt;&lt;a href=&#34;https://wordpress.org/plugins/wordfence/&#34;&gt;Wordfence Security&lt;/a&gt;&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;Started using this plugin when one of my sites was hacked (more on this later) and sworn by it ever since then. With server-side scans, e-mail alerts and regular updates, this is one plugin you should install by default.&lt;/p&gt;
+&lt;h5 id=&#34;bad-behaviorhttpswordpressorgpluginsbad-behavior&#34;&gt;&lt;strong&gt;&lt;a href=&#34;https://wordpress.org/plugins/bad-behavior/&#34;&gt;Bad Behavior&lt;/a&gt;&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;You just need to get hacked once to realize how vulnerable you actually are! I installed this plugin as a primary shield to spammers and malicious code and the ships&amp;rsquo; been sailing in full mast ever since.&lt;/p&gt;
+&lt;h5 id=&#34;updraft-plushttpswordpressorgpluginsupdraftplus&#34;&gt;&lt;a href=&#34;https://wordpress.org/plugins/updraftplus/&#34;&gt;Updraft Plus&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;A backup and restoration plugin I came across recently that easily backups the core files and databases to S3 buckets (And other services)&lt;/p&gt;
+&lt;h5 id=&#34;akismethttpswordpressorgpluginsakismet&#34;&gt;&lt;a href=&#34;https://wordpress.org/plugins/akismet/&#34;&gt;&lt;strong&gt;Akismet&lt;/strong&gt;&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;There&amp;rsquo;s absolutely no reason why shouldn&amp;rsquo;t install this plugin. Its free, works wonders and just so easy to set up. Add a captcha and your site should be rock-solid.&lt;/p&gt;
+&lt;p&gt;[/fruitful_tab]&lt;/p&gt;
+&lt;p&gt;[fruitful_tab title=&amp;ldquo;Speed and SEO&amp;rdquo;]&lt;/p&gt;
+&lt;h5 id=&#34;w3-total-cachehttpswordpressorgpluginsw3-total-cache&#34;&gt;&lt;a href=&#34;https://wordpress.org/plugins/w3-total-cache/&#34;&gt;&lt;strong&gt;W3 Total Cache&lt;/strong&gt;&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;Though not that straightforward, you can count on this plugin to drastically improve your site&amp;rsquo;s speed and performance. There are tons of reference guides available online and in a few minutes you should be all fired up!&lt;/p&gt;
+&lt;h5 id=&#34;cloudflarehttpswordpressorgpluginscloudflare&#34;&gt;&lt;strong&gt;&lt;a href=&#34;https://wordpress.org/plugins/cloudflare/&#34;&gt;CloudFlare&lt;/a&gt;&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;Install this plugin once you setup a cloudflare account (Free) for your site. Besides the benefits of a &lt;a href=&#34;http://www.cloudflare.com/features-cdn&#34;&gt;CDN&lt;/a&gt; you also get another layer of security for &lt;a href=&#34;http://en.wikipedia.org/wiki/Denial-of-service_attack&#34;&gt;DOS attacks&lt;/a&gt;.&lt;/p&gt;
+&lt;h5 id=&#34;wordpress-seohttpswordpressorgpluginswordpress-seo&#34;&gt;&lt;a href=&#34;https://wordpress.org/plugins/wordpress-seo/&#34;&gt;&lt;strong&gt;Wordpress SEO&lt;/strong&gt;&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;The most powerful SEO plugin I&amp;rsquo;ve come across yet. With a nifty setup it compels you to write better content. The ease of updating your meta tags and the dynamic scoring gives you a very clear picture on your SEO rankings for each post.&lt;/p&gt;
+&lt;h5 id=&#34;wp-optimizehttpswordpressorgpluginswp-optimize&#34;&gt;&lt;a href=&#34;https://wordpress.org/plugins/wp-optimize/&#34;&gt;&lt;strong&gt;WP-Optimize&lt;/strong&gt;&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;Worpress being the dynamic CMS gives you robust features such as post revisions, Trackbacks and pingbacks, transient options to state a few. Over time as your portal content increases, this may cause unnecessary meta data and content. WP-optimize does a wonderful job of optimizing and cleaning your database.&lt;/p&gt;
+&lt;h5 id=&#34;broken-link-checkerhttpswordpressorgpluginsbroken-link-checker&#34;&gt;&lt;a href=&#34;https://wordpress.org/plugins/broken-link-checker/&#34;&gt;&lt;strong&gt;Broken link checker&lt;/strong&gt;&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;One nifty plugin to keep track of your links. Based on your site settings, this plugin gives you complete control of the links you use on your portal and does a brilliant job not only in picking up broken links but also giving you remedial options.&lt;/p&gt;
+&lt;p&gt;[/fruitful_tab]&lt;/p&gt;
+&lt;p&gt;[fruitful_tab title=&amp;ldquo;Custom Post Types&amp;rdquo;]&lt;/p&gt;
+&lt;h5 id=&#34;pods---custom-content-types-and-fieldshttpswordpressorgpluginspods&#34;&gt;&lt;a href=&#34;https://wordpress.org/plugins/pods/&#34;&gt;&lt;strong&gt;Pods - Custom Content Types and Fields&lt;/strong&gt;&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;Enter the world of Custom content types and fields - The true power of Wordpress as a CMS. Pods helps you generate CPTs in a matter of seconds. I chanced on this plugin when I just learnt about CPTs and have been extensively using them ever since.&lt;/p&gt;
+&lt;h5 id=&#34;book-review-library&#34;&gt;&lt;strong&gt;Book Review Library&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;Think of this as a variant of the Pods plugin. This plugin comes in-built with features such as authors and ratings.&lt;/p&gt;
+&lt;h5 id=&#34;current-menu-item-for-custom-post-typeshttpswordpressorgpluginscurrent-menu-item-for-custom-post-types&#34;&gt;&lt;a href=&#34;https://wordpress.org/plugins/current-menu-item-for-custom-post-types/&#34;&gt;&lt;strong&gt;Current Menu Item for Custom Post Types&lt;/strong&gt;&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;This plugin lets you add a parent page for a CPT and highlight the menu accordingly.&lt;/p&gt;
+&lt;p&gt;[/fruitful_tab]&lt;/p&gt;
+&lt;p&gt;[fruitful_tab title=&amp;ldquo;Enhanced features&amp;rdquo;]&lt;/p&gt;
+&lt;h5 id=&#34;tablepresshttpswordpressorgpluginstablepress&#34;&gt;&lt;a href=&#34;https://wordpress.org/plugins/tablepress/&#34;&gt;TablePress&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;WordPress by default doesn&amp;rsquo;t provide tables. This plugin gives you a truly functional and easy to implement table feature for your installation. With import and export features, this is one plugin that really stands out in its kind.&lt;/p&gt;
+&lt;h5 id=&#34;bytheway-annotationshttpswordpressorgpluginsbytheway&#34;&gt;&lt;strong&gt;&lt;a href=&#34;https://wordpress.org/plugins/bytheway/&#34;&gt;ByTheWay Annotations&lt;/a&gt;&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;If you&amp;rsquo;ve read any of my &lt;a href=&#34;https://srikanthperinkulam.com/actuarial-postpad/&#34; title=&#34;The Actuarial Postpad&#34;&gt;Actuarial Postpad posts&lt;/a&gt;, you would have noticed the power of [btw] ByTheWaty Annotations [/btw]! One effective short-code usage to highlight content.&lt;/p&gt;
+&lt;h5 id=&#34;custom-sidebarshttpswordpressorgpluginscustom-sidebars&#34;&gt;&lt;strong&gt;&lt;a href=&#34;https://wordpress.org/plugins/custom-sidebars/&#34;&gt;Custom Sidebars&lt;/a&gt;&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;Powered by the super-awesome &lt;a href=&#34;https://premium.wpmudev.org/&#34;&gt;wpmudev&lt;/a&gt; team, this is one plugin you could use to modify the way you display content even in really complex themes. The flexibility to work on the sidebars is truly amazing!&lt;/p&gt;
+&lt;h5 id=&#34;display-posts-shortcodehttpswordpressorgpluginsdisplay-posts-shortcode&#34;&gt;&lt;a href=&#34;https://wordpress.org/plugins/display-posts-shortcode/&#34;&gt;&lt;strong&gt;Display posts shortcode&lt;/strong&gt;&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;This plugin gives you the power to display list of posts based on certain criteria. The truly powerful feature is its ability to work with Custom Post Types. Well documented and one truly powerful plugin.&lt;/p&gt;
+&lt;h5 id=&#34;jetpackhttpswordpressorgpluginsjetpack&#34;&gt;&lt;a href=&#34;https://wordpress.org/plugins/jetpack/&#34;&gt;&lt;strong&gt;Jetpack&lt;/strong&gt;&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;Powered by &lt;a href=&#34;http://automattic.com/&#34;&gt;Automattic&lt;/a&gt;, this plugin gives you a slew of features to customize your Wordpress installation. Most of the settings work out of the box and brings in features previously only available to Wordpress.com users.&lt;/p&gt;
+&lt;h5 id=&#34;simple-mathjaxhttpswordpressorgpluginssimple-mathjax&#34;&gt;&lt;a href=&#34;https://wordpress.org/plugins/simple-mathjax/&#34;&gt;&lt;strong&gt;Simple Mathjax&lt;/strong&gt;&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;One powerful plugin to solve all your latex worries on Wordpress. Most of my mathematical posts are powered by Simple Mathjax and Jetpacks inbuilt latex support. &lt;a href=&#34;http://www.codecogs.com/latex/eqneditor.php&#34;&gt;CodeCogs LATEX equation editor&lt;/a&gt; is yet another support framework truly worth exploring!&lt;/p&gt;
+&lt;h5 id=&#34;syntaxhighlighter-evolvedhttpswordpressorgpluginssyntaxhighlighter&#34;&gt;&lt;a href=&#34;https://wordpress.org/plugins/syntaxhighlighter/&#34;&gt;&lt;strong&gt;SyntaxHighlighter Evolved&lt;/strong&gt;&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;This plugin easily helps you post your syntax highlighted code in your posts. With its support for many languages and its ease of use, this plugin is a must have if you work with developing and sharing code snippets.&lt;/p&gt;
+&lt;h5 id=&#34;wp-csvhttpswordpressorgpluginswp-csv&#34;&gt;&lt;a href=&#34;https://wordpress.org/plugins/wp-csv/&#34;&gt;&lt;strong&gt;WP CSV&lt;/strong&gt;&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;One simple CSV export and import plugin. Works with CPTs too.&lt;/p&gt;
+&lt;h5 id=&#34;better-font-awesomehttpswordpressorgpluginsbetter-font-awesome&#34;&gt;&lt;a href=&#34;https://wordpress.org/plugins/better-font-awesome/&#34;&gt;&lt;strong&gt;Better Font Awesome&lt;/strong&gt;&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;Helps you automatically integrate the latest version of the &lt;a href=&#34;http://fontawesome.io/&#34;&gt;font awesome toolkit&lt;/a&gt; into your Wordpress installation.&lt;/p&gt;
+&lt;p&gt;[/fruitful_tab]&lt;/p&gt;
+&lt;p&gt;[fruitful_tab title=&amp;ldquo;Storage and Media&amp;rdquo;]&lt;/p&gt;
+&lt;h5 id=&#34;amazon-webserviceshttpswordpressorgpluginsamazon-web-services&#34;&gt;&lt;a href=&#34;https://wordpress.org/plugins/amazon-web-services/&#34;&gt;&lt;strong&gt;Amazon Webservices&lt;/strong&gt;&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;I recently moved all my images to the Amazon S3 service to steer clear of image link issues and server delays. The Amazon Webservices plugin is a primary plugin to connect your Wordpress installation to Amazons&amp;rsquo; Webservices account.&lt;/p&gt;
+&lt;h5 id=&#34;amazon-s3-and-cloudfronthttpswordpressorgpluginsamazon-s3-and-cloudfront&#34;&gt;&lt;a href=&#34;https://wordpress.org/plugins/amazon-s3-and-cloudfront/&#34;&gt;&lt;strong&gt;Amazon S3 and CloudFront&lt;/strong&gt;&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;Coupled with the Amazon Webservices plugin, this plugin automatically uploads all your images on to the S3 bucket you&amp;rsquo;d setup previously. The optional CloudFront feature also brings in the additional benefit of serving your images from Amazons&amp;rsquo; CDN.&lt;/p&gt;
+&lt;h5 id=&#34;regenerate-thumbnailshttpswordpressorgpluginsregenerate-thumbnails&#34;&gt;&lt;a href=&#34;https://wordpress.org/plugins/regenerate-thumbnails/&#34;&gt;&lt;strong&gt;Regenerate Thumbnails&lt;/strong&gt;&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;A handy plugin to regenerate all your thumbnails. Very useful when you have images that are not yet ported on to the Amazon S3 bucket but would like to do so in bulk. More of a secondary option but truly worth it!&lt;/p&gt;
+&lt;h5 id=&#34;instagrate-to-wordpresshttpswordpressorgpluginsinstagrate-to-wordpress&#34;&gt;&lt;a href=&#34;https://wordpress.org/plugins/instagrate-to-wordpress/&#34;&gt;&lt;strong&gt;Instagrate to wordpress&lt;/strong&gt;&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;Sync your Instagram posts with Wordpress and use the auto post to seamlessly post updates to your portal.&lt;/p&gt;
+&lt;p&gt;[/fruitful_tab]&lt;/p&gt;
+&lt;p&gt;[fruitful_tab title=&amp;ldquo;Charts and Mapping&amp;rdquo;]&lt;/p&gt;
+&lt;h5 id=&#34;wp-gpx-mapshttpswordpressorgpluginswp-gpx-maps&#34;&gt;&lt;a href=&#34;https://wordpress.org/plugins/wp-gpx-maps/&#34;&gt;&lt;strong&gt;WP-GPX-Maps&lt;/strong&gt;&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;When talking about fitness, data and Wordpress , this is one plugin I would highly recommend. Using imported GPX files, this plugin gives you dynamic elevation, speed, cadence and heart-rate plots. Brilliance at work!&lt;/p&gt;
+&lt;h5 id=&#34;gpx2chart&#34;&gt;&lt;strong&gt;gpx2chart&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;Yet another nifty plugin that captures your Garmin data beautifully with core statistics tabled out. Talk about details!&lt;/p&gt;
+&lt;p&gt;[/fruitful_tab]&lt;/p&gt;
+&lt;p&gt;[/fruitful_tabs]&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Over the last seven years, since I <a href="https://srikanthperinkulam.com/site-hosting/transition-from-v1-0-to-v2-0" title="Transition from v1.0 to v2.0">moved to a self hosted platform</a> I&rsquo;ve grown really fond of WordPress as a CMS. The ease of its installation and maintenance, the power of scaling, the flexibility to adapt it to your requirements and it&rsquo;s ever present support framework is something that I&rsquo;ve really grown to appreciate over time.</p>
+<p>I&rsquo;ve worked on several installations of WordPress and over these years extensively tested quite a few plugins. </p>
+<p>Here&rsquo;s a log of plugins that I&rsquo;ve really found useful and hopefully will update this list as I experiment more with them:</p>
+<p>[fruitful_tabs type=&ldquo;default&rdquo; width=&ldquo;100%&rdquo; fit=&ldquo;false&rdquo;]</p>
+<p>[fruitful_tab title=&ldquo;Security and Regular Maintenance &ldquo;]</p>
+<h5 id="wordfence-securityhttpswordpressorgpluginswordfence"><strong><a href="https://wordpress.org/plugins/wordfence/">Wordfence Security</a></strong></h5>
+<p>Started using this plugin when one of my sites was hacked (more on this later) and sworn by it ever since then. With server-side scans, e-mail alerts and regular updates, this is one plugin you should install by default.</p>
+<h5 id="bad-behaviorhttpswordpressorgpluginsbad-behavior"><strong><a href="https://wordpress.org/plugins/bad-behavior/">Bad Behavior</a></strong></h5>
+<p>You just need to get hacked once to realize how vulnerable you actually are! I installed this plugin as a primary shield to spammers and malicious code and the ships&rsquo; been sailing in full mast ever since.</p>
+<h5 id="updraft-plushttpswordpressorgpluginsupdraftplus"><a href="https://wordpress.org/plugins/updraftplus/">Updraft Plus</a></h5>
+<p>A backup and restoration plugin I came across recently that easily backups the core files and databases to S3 buckets (And other services)</p>
+<h5 id="akismethttpswordpressorgpluginsakismet"><a href="https://wordpress.org/plugins/akismet/"><strong>Akismet</strong></a></h5>
+<p>There&rsquo;s absolutely no reason why shouldn&rsquo;t install this plugin. Its free, works wonders and just so easy to set up. Add a captcha and your site should be rock-solid.</p>
+<p>[/fruitful_tab]</p>
+<p>[fruitful_tab title=&ldquo;Speed and SEO&rdquo;]</p>
+<h5 id="w3-total-cachehttpswordpressorgpluginsw3-total-cache"><a href="https://wordpress.org/plugins/w3-total-cache/"><strong>W3 Total Cache</strong></a></h5>
+<p>Though not that straightforward, you can count on this plugin to drastically improve your site&rsquo;s speed and performance. There are tons of reference guides available online and in a few minutes you should be all fired up!</p>
+<h5 id="cloudflarehttpswordpressorgpluginscloudflare"><strong><a href="https://wordpress.org/plugins/cloudflare/">CloudFlare</a></strong></h5>
+<p>Install this plugin once you setup a cloudflare account (Free) for your site. Besides the benefits of a <a href="http://www.cloudflare.com/features-cdn">CDN</a> you also get another layer of security for <a href="http://en.wikipedia.org/wiki/Denial-of-service_attack">DOS attacks</a>.</p>
+<h5 id="wordpress-seohttpswordpressorgpluginswordpress-seo"><a href="https://wordpress.org/plugins/wordpress-seo/"><strong>Wordpress SEO</strong></a></h5>
+<p>The most powerful SEO plugin I&rsquo;ve come across yet. With a nifty setup it compels you to write better content. The ease of updating your meta tags and the dynamic scoring gives you a very clear picture on your SEO rankings for each post.</p>
+<h5 id="wp-optimizehttpswordpressorgpluginswp-optimize"><a href="https://wordpress.org/plugins/wp-optimize/"><strong>WP-Optimize</strong></a></h5>
+<p>Worpress being the dynamic CMS gives you robust features such as post revisions, Trackbacks and pingbacks, transient options to state a few. Over time as your portal content increases, this may cause unnecessary meta data and content. WP-optimize does a wonderful job of optimizing and cleaning your database.</p>
+<h5 id="broken-link-checkerhttpswordpressorgpluginsbroken-link-checker"><a href="https://wordpress.org/plugins/broken-link-checker/"><strong>Broken link checker</strong></a></h5>
+<p>One nifty plugin to keep track of your links. Based on your site settings, this plugin gives you complete control of the links you use on your portal and does a brilliant job not only in picking up broken links but also giving you remedial options.</p>
+<p>[/fruitful_tab]</p>
+<p>[fruitful_tab title=&ldquo;Custom Post Types&rdquo;]</p>
+<h5 id="pods---custom-content-types-and-fieldshttpswordpressorgpluginspods"><a href="https://wordpress.org/plugins/pods/"><strong>Pods - Custom Content Types and Fields</strong></a></h5>
+<p>Enter the world of Custom content types and fields - The true power of Wordpress as a CMS. Pods helps you generate CPTs in a matter of seconds. I chanced on this plugin when I just learnt about CPTs and have been extensively using them ever since.</p>
+<h5 id="book-review-library"><strong>Book Review Library</strong></h5>
+<p>Think of this as a variant of the Pods plugin. This plugin comes in-built with features such as authors and ratings.</p>
+<h5 id="current-menu-item-for-custom-post-typeshttpswordpressorgpluginscurrent-menu-item-for-custom-post-types"><a href="https://wordpress.org/plugins/current-menu-item-for-custom-post-types/"><strong>Current Menu Item for Custom Post Types</strong></a></h5>
+<p>This plugin lets you add a parent page for a CPT and highlight the menu accordingly.</p>
+<p>[/fruitful_tab]</p>
+<p>[fruitful_tab title=&ldquo;Enhanced features&rdquo;]</p>
+<h5 id="tablepresshttpswordpressorgpluginstablepress"><a href="https://wordpress.org/plugins/tablepress/">TablePress</a></h5>
+<p>WordPress by default doesn&rsquo;t provide tables. This plugin gives you a truly functional and easy to implement table feature for your installation. With import and export features, this is one plugin that really stands out in its kind.</p>
+<h5 id="bytheway-annotationshttpswordpressorgpluginsbytheway"><strong><a href="https://wordpress.org/plugins/bytheway/">ByTheWay Annotations</a></strong></h5>
+<p>If you&rsquo;ve read any of my <a href="https://srikanthperinkulam.com/actuarial-postpad/" title="The Actuarial Postpad">Actuarial Postpad posts</a>, you would have noticed the power of [btw] ByTheWaty Annotations [/btw]! One effective short-code usage to highlight content.</p>
+<h5 id="custom-sidebarshttpswordpressorgpluginscustom-sidebars"><strong><a href="https://wordpress.org/plugins/custom-sidebars/">Custom Sidebars</a></strong></h5>
+<p>Powered by the super-awesome <a href="https://premium.wpmudev.org/">wpmudev</a> team, this is one plugin you could use to modify the way you display content even in really complex themes. The flexibility to work on the sidebars is truly amazing!</p>
+<h5 id="display-posts-shortcodehttpswordpressorgpluginsdisplay-posts-shortcode"><a href="https://wordpress.org/plugins/display-posts-shortcode/"><strong>Display posts shortcode</strong></a></h5>
+<p>This plugin gives you the power to display list of posts based on certain criteria. The truly powerful feature is its ability to work with Custom Post Types. Well documented and one truly powerful plugin.</p>
+<h5 id="jetpackhttpswordpressorgpluginsjetpack"><a href="https://wordpress.org/plugins/jetpack/"><strong>Jetpack</strong></a></h5>
+<p>Powered by <a href="http://automattic.com/">Automattic</a>, this plugin gives you a slew of features to customize your Wordpress installation. Most of the settings work out of the box and brings in features previously only available to Wordpress.com users.</p>
+<h5 id="simple-mathjaxhttpswordpressorgpluginssimple-mathjax"><a href="https://wordpress.org/plugins/simple-mathjax/"><strong>Simple Mathjax</strong></a></h5>
+<p>One powerful plugin to solve all your latex worries on Wordpress. Most of my mathematical posts are powered by Simple Mathjax and Jetpacks inbuilt latex support. <a href="http://www.codecogs.com/latex/eqneditor.php">CodeCogs LATEX equation editor</a> is yet another support framework truly worth exploring!</p>
+<h5 id="syntaxhighlighter-evolvedhttpswordpressorgpluginssyntaxhighlighter"><a href="https://wordpress.org/plugins/syntaxhighlighter/"><strong>SyntaxHighlighter Evolved</strong></a></h5>
+<p>This plugin easily helps you post your syntax highlighted code in your posts. With its support for many languages and its ease of use, this plugin is a must have if you work with developing and sharing code snippets.</p>
+<h5 id="wp-csvhttpswordpressorgpluginswp-csv"><a href="https://wordpress.org/plugins/wp-csv/"><strong>WP CSV</strong></a></h5>
+<p>One simple CSV export and import plugin. Works with CPTs too.</p>
+<h5 id="better-font-awesomehttpswordpressorgpluginsbetter-font-awesome"><a href="https://wordpress.org/plugins/better-font-awesome/"><strong>Better Font Awesome</strong></a></h5>
+<p>Helps you automatically integrate the latest version of the <a href="http://fontawesome.io/">font awesome toolkit</a> into your Wordpress installation.</p>
+<p>[/fruitful_tab]</p>
+<p>[fruitful_tab title=&ldquo;Storage and Media&rdquo;]</p>
+<h5 id="amazon-webserviceshttpswordpressorgpluginsamazon-web-services"><a href="https://wordpress.org/plugins/amazon-web-services/"><strong>Amazon Webservices</strong></a></h5>
+<p>I recently moved all my images to the Amazon S3 service to steer clear of image link issues and server delays. The Amazon Webservices plugin is a primary plugin to connect your Wordpress installation to Amazons&rsquo; Webservices account.</p>
+<h5 id="amazon-s3-and-cloudfronthttpswordpressorgpluginsamazon-s3-and-cloudfront"><a href="https://wordpress.org/plugins/amazon-s3-and-cloudfront/"><strong>Amazon S3 and CloudFront</strong></a></h5>
+<p>Coupled with the Amazon Webservices plugin, this plugin automatically uploads all your images on to the S3 bucket you&rsquo;d setup previously. The optional CloudFront feature also brings in the additional benefit of serving your images from Amazons&rsquo; CDN.</p>
+<h5 id="regenerate-thumbnailshttpswordpressorgpluginsregenerate-thumbnails"><a href="https://wordpress.org/plugins/regenerate-thumbnails/"><strong>Regenerate Thumbnails</strong></a></h5>
+<p>A handy plugin to regenerate all your thumbnails. Very useful when you have images that are not yet ported on to the Amazon S3 bucket but would like to do so in bulk. More of a secondary option but truly worth it!</p>
+<h5 id="instagrate-to-wordpresshttpswordpressorgpluginsinstagrate-to-wordpress"><a href="https://wordpress.org/plugins/instagrate-to-wordpress/"><strong>Instagrate to wordpress</strong></a></h5>
+<p>Sync your Instagram posts with Wordpress and use the auto post to seamlessly post updates to your portal.</p>
+<p>[/fruitful_tab]</p>
+<p>[fruitful_tab title=&ldquo;Charts and Mapping&rdquo;]</p>
+<h5 id="wp-gpx-mapshttpswordpressorgpluginswp-gpx-maps"><a href="https://wordpress.org/plugins/wp-gpx-maps/"><strong>WP-GPX-Maps</strong></a></h5>
+<p>When talking about fitness, data and Wordpress , this is one plugin I would highly recommend. Using imported GPX files, this plugin gives you dynamic elevation, speed, cadence and heart-rate plots. Brilliance at work!</p>
+<h5 id="gpx2chart"><strong>gpx2chart</strong></h5>
+<p>Yet another nifty plugin that captures your Garmin data beautifully with core statistics tabled out. Talk about details!</p>
+<p>[/fruitful_tab]</p>
+<p>[/fruitful_tabs]</p>]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>29 Mar 2009 00:00</title>
+      <link>https://srikanthperinkulam.com/2009/03/29/the-week-that-was.../</link>
+      <pubDate>Sun, 29 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2009/03/29/the-week-that-was.../</guid>
+      <description>&lt;p&gt;It´s been a long long long week! Looks like the client out there has suddenly decided to catch up on things. Deployments are happening pretty frequently and every team claims to be on fire to push their deployment across. Next week looks to be even more hectic.But guess it´s all a part of sweet sweet life :).&lt;/p&gt;
+&lt;p&gt;Caught up with two books this week.&lt;/p&gt;
+&lt;p&gt;How Starbucks saved my life - Michael Gill&lt;/p&gt;
+&lt;p&gt;One of those simple yet powerful books that I´ve read after Richard Branson´s Losing my Virginity. At 60+, fired by a person whom he himself  had recommended, Michael walks you through his life as he miserably tumults down from the post of a Creative director at an advertising firm JWT. Exposed to the elite corporate lifestyle for 25+ years he brings out the mental stress he passes through having to work in a Starbucks store as a bartender. He soon learns to come to terms with life; learns to let go of his ego and finally builds up a ripe career at Starbucks. Working at Starbucks in the lower rungs of the hierarchial ladder he lucidly brings out what the real sense of Job satisfaction is and how important it is to respect the job you do however menial it is.&lt;/p&gt;
+&lt;p&gt;A perfect five on five! If you´ve still not read this book&amp;hellip;High time you order!&lt;/p&gt;
+&lt;p&gt;Go Kiss the world - Subroto Bagchi&lt;/p&gt;
+&lt;p&gt;Happened to purchase this book from the Strand store just out of impulse. A quick simple read. One of those books that surprisingly got over in a couple of hours. Give´s you insight into how Mindtree was born and how they shaped up. One stark feature of this book is that though each chapter is good in its own sense, there seems to be no continuity in the flow. Wouldn´t really fall into the autobiography groove - Probably a mix of history and gyan. That said you may want to give it a shot&lt;/p&gt;
+&lt;p&gt;I would give it a 3.5 on a five point scale.&lt;/p&gt;
+&lt;p&gt;Scoop from the greener side:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Registered for the Jalori pass &lt;strong&gt;- National Himalayan Mountain Biking Expedition 2009&lt;/strong&gt; Off to Kulu - Manali - Aut in May - Yippee!Would be byking with 19 other unknown morons for 8 straight days. Their itinerary sounds pretty relaxing though..Gotta wait and watch. That followed by the marriage of a close friend. Seems to be  a promising outing! - All now hangs on my leave being approved!&lt;/li&gt;
+&lt;li&gt;Moved from Ibex to Ubuntu Studio. Had to install OpenOffice and a couple of other apps. Feels good with a different feel ;)&lt;/li&gt;
+&lt;li&gt;Upgarded the WP version. Played safe and backed up the data. Fell through smoothly though!&lt;/li&gt;
+&lt;li&gt;Tweaked the HydVentura website a bit. Lots of modification yet to be done.&lt;/li&gt;
+&lt;li&gt;Missed the &lt;a href=&#34;http://www.meetup.com/HyderabadBicyclingClub/calendar/9894817/&#34; title=&#34;Hyderabad Bicycling club&#34;&gt;HBC race&lt;/a&gt;. So did a short ride this weekend circumventing the Osmania Univ.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <content:encoded><![CDATA[<p>It´s been a long long long week! Looks like the client out there has suddenly decided to catch up on things. Deployments are happening pretty frequently and every team claims to be on fire to push their deployment across. Next week looks to be even more hectic.But guess it´s all a part of sweet sweet life :).</p>
+<p>Caught up with two books this week.</p>
+<p>How Starbucks saved my life - Michael Gill</p>
+<p>One of those simple yet powerful books that I´ve read after Richard Branson´s Losing my Virginity. At 60+, fired by a person whom he himself  had recommended, Michael walks you through his life as he miserably tumults down from the post of a Creative director at an advertising firm JWT. Exposed to the elite corporate lifestyle for 25+ years he brings out the mental stress he passes through having to work in a Starbucks store as a bartender. He soon learns to come to terms with life; learns to let go of his ego and finally builds up a ripe career at Starbucks. Working at Starbucks in the lower rungs of the hierarchial ladder he lucidly brings out what the real sense of Job satisfaction is and how important it is to respect the job you do however menial it is.</p>
+<p>A perfect five on five! If you´ve still not read this book&hellip;High time you order!</p>
+<p>Go Kiss the world - Subroto Bagchi</p>
+<p>Happened to purchase this book from the Strand store just out of impulse. A quick simple read. One of those books that surprisingly got over in a couple of hours. Give´s you insight into how Mindtree was born and how they shaped up. One stark feature of this book is that though each chapter is good in its own sense, there seems to be no continuity in the flow. Wouldn´t really fall into the autobiography groove - Probably a mix of history and gyan. That said you may want to give it a shot</p>
+<p>I would give it a 3.5 on a five point scale.</p>
+<p>Scoop from the greener side:</p>
+<ul>
+<li>Registered for the Jalori pass <strong>- National Himalayan Mountain Biking Expedition 2009</strong> Off to Kulu - Manali - Aut in May - Yippee!Would be byking with 19 other unknown morons for 8 straight days. Their itinerary sounds pretty relaxing though..Gotta wait and watch. That followed by the marriage of a close friend. Seems to be  a promising outing! - All now hangs on my leave being approved!</li>
+<li>Moved from Ibex to Ubuntu Studio. Had to install OpenOffice and a couple of other apps. Feels good with a different feel ;)</li>
+<li>Upgarded the WP version. Played safe and backed up the data. Fell through smoothly though!</li>
+<li>Tweaked the HydVentura website a bit. Lots of modification yet to be done.</li>
+<li>Missed the <a href="http://www.meetup.com/HyderabadBicyclingClub/calendar/9894817/" title="Hyderabad Bicycling club">HBC race</a>. So did a short ride this weekend circumventing the Osmania Univ.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>29 Mar 2008 00:00</title>
+      <link>https://srikanthperinkulam.com/2008/03/29/damn-its-all-black/</link>
+      <pubDate>Sat, 29 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2008/03/29/damn-its-all-black/</guid>
+      <description>&lt;p&gt;Having something of you own definitely costs you a penny more!&lt;/p&gt;
+&lt;p&gt;I moved over my Wordpress blog to a self hosted domain about a month back. It wasn&amp;rsquo;t much of a problem to start out with. But of late the loose threads are soon popping up!  Server down time, FTP issues, Database issues , linking issues to name a few.&lt;/p&gt;
+&lt;p&gt;After hooking to bland white themes for quite some time I thought I&amp;rsquo;d transition to a few dark themes. Wanted to use Red but then I realised I alone wouldn&amp;rsquo;t be reading  the posts on this blog. So settled for Black! Scouted for a couple of themes for my blog and baselanded on the elegant DF Theme. To relate it to my blog, I modified my site&amp;rsquo;s theme to black as well. All looked rosy(ROSY? ;-) ) on my Desktop with Firefox.  They blended well in IE too. Safari was never an issue. It only made the site look Royal! Tweaked the font size et al and finally it was all set up.&lt;/p&gt;
+&lt;p&gt;About two weeks later, people soon started dropping their comments! The color ain&amp;rsquo;t jelling! , Where&amp;rsquo;s the text? , Change the font! . Fools! Don&amp;rsquo;t they have a color sense? One more week passed and still the same comments. Nut Cases! Give them some aesthetic senses!&lt;/p&gt;
+&lt;p&gt;I never understood their suggestion&amp;hellip;till today! I happened to check my site and blog on a different system , on a different browser with different settings at a different place ( not on my desktop at home) . And I realise how bad a testing I&amp;rsquo;d done when setting up my site. All I could see was BLACK. The font wasn&amp;rsquo;t visible, the contrast was too bad, the voting widget was all jacked up and , the comments tag was a bit too confusing , people were responding to one post instead of another, the tags were being misplaced. In a gist, The whole site was in a mess and it still is! What a jerk I was, to set my LCD monitors brightness and Contrast settings to the max and test the display! Sigh!&lt;/p&gt;
+&lt;p&gt;Folks! Really sorry for having neglected your suggestions!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m currently having very limited access to internet and my company&amp;rsquo;s Internet policies prohibits me from accessing login to my site! It&amp;rsquo;s a pity , this site and blog is to remain in a sad state of affairs as long as I&amp;rsquo;m in the Pune campus :-( . That ideally translates to another month or till I manage to get an accomodation somewhere in the City!&lt;/p&gt;
+&lt;p&gt;So till I manage to set things right, I&amp;rsquo;m just hoping your monitor&amp;rsquo;s display settings are set to make this site/blog readable. Too much of an expectation, but still that&amp;rsquo;s the best I can ask for! :-)&lt;/p&gt;
+&lt;p&gt;And thanks a ton for your comments. Lest I would still be basking in twilights glory!&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>Having something of you own definitely costs you a penny more!</p>
+<p>I moved over my Wordpress blog to a self hosted domain about a month back. It wasn&rsquo;t much of a problem to start out with. But of late the loose threads are soon popping up!  Server down time, FTP issues, Database issues , linking issues to name a few.</p>
+<p>After hooking to bland white themes for quite some time I thought I&rsquo;d transition to a few dark themes. Wanted to use Red but then I realised I alone wouldn&rsquo;t be reading  the posts on this blog. So settled for Black! Scouted for a couple of themes for my blog and baselanded on the elegant DF Theme. To relate it to my blog, I modified my site&rsquo;s theme to black as well. All looked rosy(ROSY? ;-) ) on my Desktop with Firefox.  They blended well in IE too. Safari was never an issue. It only made the site look Royal! Tweaked the font size et al and finally it was all set up.</p>
+<p>About two weeks later, people soon started dropping their comments! The color ain&rsquo;t jelling! , Where&rsquo;s the text? , Change the font! . Fools! Don&rsquo;t they have a color sense? One more week passed and still the same comments. Nut Cases! Give them some aesthetic senses!</p>
+<p>I never understood their suggestion&hellip;till today! I happened to check my site and blog on a different system , on a different browser with different settings at a different place ( not on my desktop at home) . And I realise how bad a testing I&rsquo;d done when setting up my site. All I could see was BLACK. The font wasn&rsquo;t visible, the contrast was too bad, the voting widget was all jacked up and , the comments tag was a bit too confusing , people were responding to one post instead of another, the tags were being misplaced. In a gist, The whole site was in a mess and it still is! What a jerk I was, to set my LCD monitors brightness and Contrast settings to the max and test the display! Sigh!</p>
+<p>Folks! Really sorry for having neglected your suggestions!</p>
+<p>I&rsquo;m currently having very limited access to internet and my company&rsquo;s Internet policies prohibits me from accessing login to my site! It&rsquo;s a pity , this site and blog is to remain in a sad state of affairs as long as I&rsquo;m in the Pune campus :-( . That ideally translates to another month or till I manage to get an accomodation somewhere in the City!</p>
+<p>So till I manage to set things right, I&rsquo;m just hoping your monitor&rsquo;s display settings are set to make this site/blog readable. Too much of an expectation, but still that&rsquo;s the best I can ask for! :-)</p>
+<p>And thanks a ton for your comments. Lest I would still be basking in twilights glory!</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>09 Mar 2008 00:00</title>
+      <link>https://srikanthperinkulam.com/2008/03/09/i-quit/</link>
+      <pubDate>Sun, 09 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2008/03/09/i-quit/</guid>
+      <description>&lt;p&gt;I was just sifting through a few of my previous posts couple of minutes back and even before I realized, something came in as a wonderful surprise. My first post was dated March 10th &amp;lsquo;07 and that means It&amp;rsquo;s been exactly one year that I started rambling on Wordpress. It&amp;rsquo;s been a wonderful journey all along.&lt;/p&gt;
+&lt;p&gt;Wordpress has been one beautiful tool to rant and rave at my whims. It gave me the reconfigurability which Blogger didn&amp;rsquo;t match ( and I believe it still doesn&amp;rsquo;t !), the flexibility that I could deploy when required, the aesthetic appeal that I wanted to personify on my space, and Oh yes the always responsive support team that I believe none of the other competitors of Wordpress are even close to! Be it the stats page or the widgets corner; the lucid variety of themes or the anti spam Akismet utility, the going&amp;rsquo;s been fabulous.&lt;/p&gt;
+&lt;p&gt;On a different note, Blogging has got me on an altogether different front. It&amp;rsquo;s been a wonderful medium of expression of my thoughts not just to people who know me but also to those totally unaware of my existence. It&amp;rsquo;s got me up in the Networking platform and thanks to this I&amp;rsquo;ve got to know quite a few interesting people and more so their perspectives. I feel it&amp;rsquo;s also one of the reasons responsible for the change in my outlook per se.&lt;/p&gt;
+&lt;p&gt;I preferred not blogging on the latest sizzling topics or contentious issues just because that would mean something else encroaching into my space. Something that would undermine my real virtual presence. There&amp;rsquo;s been a downside to this too but then at the end of the day when it comes to personal satisfaction hits or stats are no match. Just the sheer pleasure of someone reading what you right out of your fickle mind works wonders in making things better. It&amp;rsquo;s been great getting to hear your version of the story from the other side of the wall on most of my posts. Thank you for that! :-)&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve always believed in looking back at the way things evolve and in giving credit to myself however small be my achievement. To be frank , I was totally oblivious of the fact that I&amp;rsquo;d soon be reaching the one year mark till a few minutes back. I&amp;rsquo;d bought myself a domain name and hosting space from Znet just to experiment on my coding prowess yesterday :-) and what do I find today? Looks like all of this was choreographed just like pieces of a puzzle falling in the right place at the right time!!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;From today I&amp;rsquo;ve decided to stop blogging . Blogging on this space! srikanthperinkulam.wordpress.com would soon cease to be the platform where I would live virtually. Things need to change. Transition, thrill and adventure is a must in life and just to fall in line with that funda of mine,&lt;/em&gt; &lt;em&gt;I Quit**.** Quit, to move on with things from a different perspective. It&amp;rsquo;s sad to see the end of my year long journey here. But there&amp;rsquo;s always that pot of gold at that fag end . Something else more interesting beckons !&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Thus, with the power vested in me I officially declare Spiky V1.0 to be stalled, deprecated and no more active.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://srikanthperinkulam.wordpress.com&#34;&gt;http://srikanthperinkulam.wordpress.com&lt;/a&gt;&lt;/strong&gt; is now &lt;strong&gt;&lt;a href=&#34;https://srikanthperinkulam.com/blog&#34;&gt;https://srikanthperinkulam.com/blog&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Catch me on &lt;a href=&#34;https://srikanthperinkulam.com&#34; title=&#34;My Official Webspace&#34;&gt;Spiky V 2.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Everythingz the same except the name! ;-)&lt;/p&gt;
+&lt;p&gt;Srikanth S Perinkulam&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>I was just sifting through a few of my previous posts couple of minutes back and even before I realized, something came in as a wonderful surprise. My first post was dated March 10th &lsquo;07 and that means It&rsquo;s been exactly one year that I started rambling on Wordpress. It&rsquo;s been a wonderful journey all along.</p>
+<p>Wordpress has been one beautiful tool to rant and rave at my whims. It gave me the reconfigurability which Blogger didn&rsquo;t match ( and I believe it still doesn&rsquo;t !), the flexibility that I could deploy when required, the aesthetic appeal that I wanted to personify on my space, and Oh yes the always responsive support team that I believe none of the other competitors of Wordpress are even close to! Be it the stats page or the widgets corner; the lucid variety of themes or the anti spam Akismet utility, the going&rsquo;s been fabulous.</p>
+<p>On a different note, Blogging has got me on an altogether different front. It&rsquo;s been a wonderful medium of expression of my thoughts not just to people who know me but also to those totally unaware of my existence. It&rsquo;s got me up in the Networking platform and thanks to this I&rsquo;ve got to know quite a few interesting people and more so their perspectives. I feel it&rsquo;s also one of the reasons responsible for the change in my outlook per se.</p>
+<p>I preferred not blogging on the latest sizzling topics or contentious issues just because that would mean something else encroaching into my space. Something that would undermine my real virtual presence. There&rsquo;s been a downside to this too but then at the end of the day when it comes to personal satisfaction hits or stats are no match. Just the sheer pleasure of someone reading what you right out of your fickle mind works wonders in making things better. It&rsquo;s been great getting to hear your version of the story from the other side of the wall on most of my posts. Thank you for that! :-)</p>
+<p>I&rsquo;ve always believed in looking back at the way things evolve and in giving credit to myself however small be my achievement. To be frank , I was totally oblivious of the fact that I&rsquo;d soon be reaching the one year mark till a few minutes back. I&rsquo;d bought myself a domain name and hosting space from Znet just to experiment on my coding prowess yesterday :-) and what do I find today? Looks like all of this was choreographed just like pieces of a puzzle falling in the right place at the right time!!</p>
+<p><em>From today I&rsquo;ve decided to stop blogging . Blogging on this space! srikanthperinkulam.wordpress.com would soon cease to be the platform where I would live virtually. Things need to change. Transition, thrill and adventure is a must in life and just to fall in line with that funda of mine,</em> <em>I Quit**.** Quit, to move on with things from a different perspective. It&rsquo;s sad to see the end of my year long journey here. But there&rsquo;s always that pot of gold at that fag end . Something else more interesting beckons !</em></p>
+<p>Thus, with the power vested in me I officially declare Spiky V1.0 to be stalled, deprecated and no more active.</p>
+<p><strong><a href="http://srikanthperinkulam.wordpress.com">http://srikanthperinkulam.wordpress.com</a></strong> is now <strong><a href="https://srikanthperinkulam.com/blog">https://srikanthperinkulam.com/blog</a></strong></p>
+<p>Catch me on <a href="https://srikanthperinkulam.com" title="My Official Webspace">Spiky V 2.0</a></p>
+<p>Everythingz the same except the name! ;-)</p>
+<p>Srikanth S Perinkulam</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

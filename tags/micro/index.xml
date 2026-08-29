@@ -10,356 +10,110 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 00:00:08 +0100</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/micro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Aug 2026 00:00:08 +0100</lastBuildDate><atom:link href="https://srikanthperinkulam.com/tags/micro/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>13 Jun 2026 10:30</title>
-      <link>https://srikanthperinkulam.com/2026/06/13/palakkad-gap/</link>
-      <pubDate>Sat, 13 Jun 2026 10:30:00 +0000</pubDate>
+      <title>19 May 2025 21:30</title>
+      <link>https://srikanthperinkulam.com/2025/05/19/feeds/</link>
+      <pubDate>Mon, 19 May 2025 21:30:00 +0000</pubDate>
       
-      <guid>https://srikanthperinkulam.com/2026/06/13/palakkad-gap/</guid>
-      <description>&lt;p&gt;Rishi&amp;rsquo;s most recent &lt;a href=&#34;https://newsletter.rishikeshs.com/p/100-facts-bouncy-meatballs-map-of&#34;&gt;newsletter&lt;/a&gt; sent me down a rabbit-hole on the Palakkad Gap - the lowest and most significant mountain pass in the Western Ghats in India. It all makes sense now - The weather patterns, our ancestral migration, the language effect&amp;hellip;&lt;/p&gt;
-&lt;p&gt;And then the word &lt;em&gt;Kerala&lt;/em&gt; was derived from &lt;em&gt;Cheralam&lt;/em&gt;. The Cheras Dynasty ruled this part of India then and the Palakkad Gap was instrumental in the Chola Dynasty engaging with the Cheras. Malayalam evolved from a western dialect of Old Tamil and was heavily influenced by Sanskrit. The words &lt;em&gt;Pattar&lt;/em&gt; and &lt;em&gt;Bhat&lt;/em&gt; evolved from sanskrit word &lt;em&gt;bhaṭṭa&lt;/em&gt;! And the word Malayalam is most likely derived from &lt;em&gt;mala&lt;/em&gt; and &lt;em&gt;alam&lt;/em&gt; - language of the mountainous region.&lt;/p&gt;
-&lt;p&gt;This is all so fascinating! &lt;a href=&#34;https://srikanthperinkulam.com/2026/06/13/palakkad-gap/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+      <guid>https://srikanthperinkulam.com/2025/05/19/feeds/</guid>
+      <description>&lt;p&gt;I think I almost figured out how to have different feeds for tags and categories in Hugo! Modified the feed so the title is replaced with the publish date instead so feed readers display the content properly instead of just the title and a link to the post. Might still have a few kinks but I think we&amp;rsquo;re slowly getting there&amp;hellip;.
+&lt;a href=&#34;https://srikanthperinkulam.com/2025/05/19/feeds/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
 &lt;/p&gt;
 </description>
-      <content:encoded><![CDATA[<p>Rishi&rsquo;s most recent <a href="https://newsletter.rishikeshs.com/p/100-facts-bouncy-meatballs-map-of">newsletter</a> sent me down a rabbit-hole on the Palakkad Gap - the lowest and most significant mountain pass in the Western Ghats in India. It all makes sense now - The weather patterns, our ancestral migration, the language effect&hellip;</p>
-<p>And then the word <em>Kerala</em> was derived from <em>Cheralam</em>. The Cheras Dynasty ruled this part of India then and the Palakkad Gap was instrumental in the Chola Dynasty engaging with the Cheras. Malayalam evolved from a western dialect of Old Tamil and was heavily influenced by Sanskrit. The words <em>Pattar</em> and <em>Bhat</em> evolved from sanskrit word <em>bhaṭṭa</em>! And the word Malayalam is most likely derived from <em>mala</em> and <em>alam</em> - language of the mountainous region.</p>
-<p>This is all so fascinating! <a href="https://srikanthperinkulam.com/2026/06/13/palakkad-gap/" style="text-decoration: none !important;">🔗</a>
+      <content:encoded><![CDATA[<p>I think I almost figured out how to have different feeds for tags and categories in Hugo! Modified the feed so the title is replaced with the publish date instead so feed readers display the content properly instead of just the title and a link to the post. Might still have a few kinks but I think we&rsquo;re slowly getting there&hellip;.
+<a href="https://srikanthperinkulam.com/2025/05/19/feeds/" style="text-decoration: none !important;">🔗</a>
 </p>
 ]]></content:encoded>
     </item>
     
     <item>
-      <title>16 Dec 2025 10:30</title>
-      <link>https://srikanthperinkulam.com/2025/12/16/posse/</link>
-      <pubDate>Tue, 16 Dec 2025 10:30:00 +0000</pubDate>
+      <title>14 Nov 2024 22:00</title>
+      <link>https://srikanthperinkulam.com/2024/11/14/momboard/</link>
+      <pubDate>Thu, 14 Nov 2024 22:00:00 -0500</pubDate>
       
-      <guid>https://srikanthperinkulam.com/2025/12/16/posse/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/tinypost.png&#34; alt=&#34;&#34;  /&gt;
-
-Built a tiny posting interface to cross-post content from this site to elsewhere on-demand if needed. Since I exclude my &lt;a href=&#34;https://srikanthperinkulam.com/daynote&#34;&gt;daynotes&lt;/a&gt; in my main rss feed, this helps reduce the friction a bit if I want to push out certain &lt;em&gt;sections&lt;/em&gt; of a daynote on a whim. Still crude and janky but seems to do the job! #indieweb &lt;a href=&#34;https://srikanthperinkulam.com/2025/12/16/posse/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
-&lt;/p&gt;
+      <guid>https://srikanthperinkulam.com/2024/11/14/momboard/</guid>
+      <description>&lt;p&gt;This is such a neat idea. Love a good purposeful e-ink display! Adding his &lt;a href=&#34;https://github.com/WebOrigami/japan-hike-ebook&#34;&gt;book&lt;/a&gt; to my read-list.&lt;/p&gt;
 </description>
-      <content:encoded><![CDATA[<p><img loading="lazy" src="images/tinypost.png" alt=""  />
-
-Built a tiny posting interface to cross-post content from this site to elsewhere on-demand if needed. Since I exclude my <a href="/daynote">daynotes</a> in my main rss feed, this helps reduce the friction a bit if I want to push out certain <em>sections</em> of a daynote on a whim. Still crude and janky but seems to do the job! #indieweb <a href="https://srikanthperinkulam.com/2025/12/16/posse/" style="text-decoration: none !important;">🔗</a>
-</p>
+      <content:encoded><![CDATA[<p>This is such a neat idea. Love a good purposeful e-ink display! Adding his <a href="https://github.com/WebOrigami/japan-hike-ebook">book</a> to my read-list.</p>
 ]]></content:encoded>
     </item>
     
     <item>
-      <title>11 Dec 2025 00:20</title>
-      <link>https://srikanthperinkulam.com/2025/12/11/digital-house/</link>
-      <pubDate>Thu, 11 Dec 2025 00:20:00 +0000</pubDate>
+      <title>01 Nov 2024 00:00</title>
+      <link>https://srikanthperinkulam.com/2024/11/01/running-on-hugo/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://srikanthperinkulam.com/2025/12/11/digital-house/</guid>
-      <description>&lt;p&gt;Those four words - &amp;lsquo;But it is mine&amp;rsquo;; Definitely makes it all worth it. I have a similar setup wherein I use a Hetzner VPS just to proxy in all traffic to my selfhosted stuff. Initially had wireguard running across my devices. Switched to tailscale for a bit more ease of management. Maybe every six months or so something breaks, but it is all manageable. Gets fixed if I really want to, else it stays by the wayside until it really needs to come back up. &lt;a href=&#34;https://srikanthperinkulam.com/2025/12/11/digital-house/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
-&lt;/p&gt;
+      <guid>https://srikanthperinkulam.com/2024/11/01/running-on-hugo/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://srikanthperinkulam.com/posts/2024/10/crisp-new-start/&#34;&gt;That&lt;/a&gt;  didn&amp;rsquo;t last long. Moved over to Hugo from WriteFreely for a bit more flexibility. This site is going through some major overhaul. Slowly and recklessly.&lt;/p&gt;
 </description>
-      <content:encoded><![CDATA[<p>Those four words - &lsquo;But it is mine&rsquo;; Definitely makes it all worth it. I have a similar setup wherein I use a Hetzner VPS just to proxy in all traffic to my selfhosted stuff. Initially had wireguard running across my devices. Switched to tailscale for a bit more ease of management. Maybe every six months or so something breaks, but it is all manageable. Gets fixed if I really want to, else it stays by the wayside until it really needs to come back up. <a href="https://srikanthperinkulam.com/2025/12/11/digital-house/" style="text-decoration: none !important;">🔗</a>
-</p>
+      <content:encoded><![CDATA[<p><a href="https://srikanthperinkulam.com/posts/2024/10/crisp-new-start/">That</a>  didn&rsquo;t last long. Moved over to Hugo from WriteFreely for a bit more flexibility. This site is going through some major overhaul. Slowly and recklessly.</p>
 ]]></content:encoded>
     </item>
     
     <item>
-      <title>03 Dec 2025 10:30</title>
-      <link>https://srikanthperinkulam.com/2025/12/03/insurance/</link>
-      <pubDate>Wed, 03 Dec 2025 10:30:00 +0000</pubDate>
+      <title>13 Jul 2024 13:49</title>
+      <link>https://srikanthperinkulam.com/2024/07/13/projects/</link>
+      <pubDate>Sat, 13 Jul 2024 13:49:36 -0600</pubDate>
       
-      <guid>https://srikanthperinkulam.com/2025/12/03/insurance/</guid>
-      <description>&lt;p&gt;My wife and I still haven&amp;rsquo;t figured where/when we want to retire yet, but sadly the U.S. seems to be a bleaker option with every passing day. I don&amp;rsquo;t think any country has really figured out their healthcare system well and those that had a decent stab at it seem to be hell bent on breaking it. For now, thankfully our Foreign service benefit plan does an okay job and we&amp;rsquo;re at an okay premium-benefit ratio. Only a question of time before that buckles though. As a former actuary, I do subscribe to the concept of having good insurance. However, the good ones are so few and stretched so thin. I keep telling my wife if we want to stay in the U.S. I should get back to teaching - Not just because I love it, but because it might also keep our premiums low in retirement. &lt;a href=&#34;https://srikanthperinkulam.com/2025/12/03/insurance/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
-&lt;/p&gt;
+      <guid>https://srikanthperinkulam.com/2024/07/13/projects/</guid>
+      <description>&lt;p&gt;The pains and joys of self-hosting and tinkering. There’s always something that is broken, ready to be fixed, to be upgraded, can be built upon or changed. It is like a puzzle that constantly evolves depending on the time you invest in it. And every once in a while it exposes the silver lining that keeps you hooked to it.&lt;/p&gt;
 </description>
-      <content:encoded><![CDATA[<p>My wife and I still haven&rsquo;t figured where/when we want to retire yet, but sadly the U.S. seems to be a bleaker option with every passing day. I don&rsquo;t think any country has really figured out their healthcare system well and those that had a decent stab at it seem to be hell bent on breaking it. For now, thankfully our Foreign service benefit plan does an okay job and we&rsquo;re at an okay premium-benefit ratio. Only a question of time before that buckles though. As a former actuary, I do subscribe to the concept of having good insurance. However, the good ones are so few and stretched so thin. I keep telling my wife if we want to stay in the U.S. I should get back to teaching - Not just because I love it, but because it might also keep our premiums low in retirement. <a href="https://srikanthperinkulam.com/2025/12/03/insurance/" style="text-decoration: none !important;">🔗</a>
-</p>
+      <content:encoded><![CDATA[<p>The pains and joys of self-hosting and tinkering. There’s always something that is broken, ready to be fixed, to be upgraded, can be built upon or changed. It is like a puzzle that constantly evolves depending on the time you invest in it. And every once in a while it exposes the silver lining that keeps you hooked to it.</p>
 ]]></content:encoded>
     </item>
     
     <item>
-      <title>23 Nov 2025 10:30</title>
-      <link>https://srikanthperinkulam.com/2025/11/23/notes/</link>
-      <pubDate>Sun, 23 Nov 2025 10:30:00 +0000</pubDate>
+      <title>21 Jun 2024 20:06</title>
+      <link>https://srikanthperinkulam.com/2024/06/21/photoprism-albums/</link>
+      <pubDate>Fri, 21 Jun 2024 20:06:53 -0600</pubDate>
       
-      <guid>https://srikanthperinkulam.com/2025/11/23/notes/</guid>
-      <description>&lt;p&gt;On the phone, I use Signal&amp;rsquo;s note-to-self to record on-the-go thoughts or to  quickly bookmark stuff. Later when on the laptop, I migrate these to my Trilium notes. After years of dabbling between multiple &amp;rsquo;notes&amp;rsquo; applications, this has stuck. Using the default messaging app as my notes &amp;lsquo;filter&amp;rsquo; definitely streamlined the process.
-&lt;a href=&#34;https://srikanthperinkulam.com/2025/11/23/notes/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
-&lt;/p&gt;
+      <guid>https://srikanthperinkulam.com/2024/06/21/photoprism-albums/</guid>
+      <description>&lt;p&gt;M and I tend to share photos with family and friends on various chat groups. While straightforward, It felt redundant to share copies of the same pictures in multiple places. I’ve been looking for options to share album links instead that would give us a bit more control. All our photos are primarily saved in a Nextcloud self-hosted instance. I explored a few options of album shares there but wasn’t quite happy. Pixelfed was another option I explored. It did check most of the requirements but I wasn’t quite comfortable relying on a software that’s mostly dependent on just one developer. Also the unlisted feature on their albums seemed half-baked and not yet ready for prime-time. Finally played a bit with PhotoPrism and so far it seems to be something that checks all the boxes. With private links, a PWA app and great thumbnails this might be the closest solution for my photo needs.&lt;/p&gt;
 </description>
-      <content:encoded><![CDATA[<p>On the phone, I use Signal&rsquo;s note-to-self to record on-the-go thoughts or to  quickly bookmark stuff. Later when on the laptop, I migrate these to my Trilium notes. After years of dabbling between multiple &rsquo;notes&rsquo; applications, this has stuck. Using the default messaging app as my notes &lsquo;filter&rsquo; definitely streamlined the process.
-<a href="https://srikanthperinkulam.com/2025/11/23/notes/" style="text-decoration: none !important;">🔗</a>
-</p>
+      <content:encoded><![CDATA[<p>M and I tend to share photos with family and friends on various chat groups. While straightforward, It felt redundant to share copies of the same pictures in multiple places. I’ve been looking for options to share album links instead that would give us a bit more control. All our photos are primarily saved in a Nextcloud self-hosted instance. I explored a few options of album shares there but wasn’t quite happy. Pixelfed was another option I explored. It did check most of the requirements but I wasn’t quite comfortable relying on a software that’s mostly dependent on just one developer. Also the unlisted feature on their albums seemed half-baked and not yet ready for prime-time. Finally played a bit with PhotoPrism and so far it seems to be something that checks all the boxes. With private links, a PWA app and great thumbnails this might be the closest solution for my photo needs.</p>
 ]]></content:encoded>
     </item>
     
     <item>
-      <title>22 Nov 2025 10:30</title>
-      <link>https://srikanthperinkulam.com/2025/11/22/mbankolo-unlocked/</link>
-      <pubDate>Sat, 22 Nov 2025 10:30:00 +0000</pubDate>
+      <title>09 Jun 2024 21:12</title>
+      <link>https://srikanthperinkulam.com/2024/06/09/jmp/</link>
+      <pubDate>Sun, 09 Jun 2024 21:12:32 -0600</pubDate>
       
-      <guid>https://srikanthperinkulam.com/2025/11/22/mbankolo-unlocked/</guid>
-      <description>&lt;p&gt;After a failed attempt &lt;a href=&#34;https://srikanthperinkulam.com/daynote/2025-nov-11/#note-1&#34;&gt;last week&lt;/a&gt;, I made it up to Mbankolo this morning. Romero joined me and we ran into an LGF at the base of the hill. This place is pretty neat and way better than Mt. Febe! So glad I decided to give this another shot.&lt;/p&gt;
-&lt;p&gt;On the way back, instead of coming via the market, we decided to climb up towards Mt. Febe and took the inner roads via the golf course. This could be a fun route to retrace on the reverse sometime later.&lt;/p&gt;
-&lt;p&gt;I need to figure out why my garmin isn&amp;rsquo;t recording the GPX properly. Oddly, Looks like all other metrics are logged correctly. The only thing I really changed was syncing it with GadgetBridge last week.&lt;/p&gt;
-&lt;p&gt;&lt;div class=&#34;image-gallery&#34;&gt;
-    
-    
-    
-    
-    &lt;ol class=&#34;photo-list &#34;&gt;
-        
-             
-             
-            &lt;li&gt;
-                &lt;a href=&#34;https://srikanthperinkulam.com/2025/11/22/mbankolo-unlocked/images/IMG-20251122-WA0001.jpg&#34;&gt;&lt;img src=&#34;./images/IMG-20251122-WA0001.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG-20251122-WA0001.jpg&#34; /&gt;&lt;a&gt;
-            &lt;/li&gt;
-        
-             
-             
-            &lt;li&gt;
-                &lt;a href=&#34;https://srikanthperinkulam.com/2025/11/22/mbankolo-unlocked/images/IMG-20251122-WA0003.jpg&#34;&gt;&lt;img src=&#34;./images/IMG-20251122-WA0003.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG-20251122-WA0003.jpg&#34; /&gt;&lt;a&gt;
-            &lt;/li&gt;
-        
-             
-             
-            &lt;li&gt;
-                &lt;a href=&#34;https://srikanthperinkulam.com/2025/11/22/mbankolo-unlocked/images/IMG-20251122-WA0004.jpg&#34;&gt;&lt;img src=&#34;./images/IMG-20251122-WA0004.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG-20251122-WA0004.jpg&#34; /&gt;&lt;a&gt;
-            &lt;/li&gt;
-        
-    &lt;/ol&gt;
-&lt;/div&gt;
-
-&lt;style&gt;
-.photo-list {
-    display: flex;  
-    flex-wrap: wrap;  
-    margin: -1px;  
-}
-
-.photo-list &gt; li {
-    height: 22vh;  
-    flex-grow: 1;  
-    list-style-type: none;  
-    margin: 1px;  
-}
-
-.photo-list li img {
-    max-height: 100%;  
-    min-width: 100%;  
-    object-fit: cover;  
-    vertical-align: bottom;  
-    border: 2px solid gray;  
-}
-
-.photo-list li:last-child {
-    flex-grow: 10;  
-    border: none;  
-}
-
- 
-.photo-list.single-image &gt; li {
-    height: auto;  
-}
-&lt;/style&gt;
- &lt;a href=&#34;https://srikanthperinkulam.com/2025/11/22/mbankolo-unlocked/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
-&lt;/p&gt;
+      <guid>https://srikanthperinkulam.com/2024/06/09/jmp/</guid>
+      <description>&lt;p&gt;Been looking for a Google voice number replacement for sometime now and looks like I might have found one that meets most of my needs. Just got a &lt;a href=&#34;https://jmp.chat/&#34;&gt;JMP number&lt;/a&gt; and ordered a sim with a data plan. The cheogram app so far has been great and once I get the SIM I might slowly transition things out of GV.&lt;/p&gt;
 </description>
-      <content:encoded><![CDATA[<p>After a failed attempt <a href="https://srikanthperinkulam.com/daynote/2025-nov-11/#note-1">last week</a>, I made it up to Mbankolo this morning. Romero joined me and we ran into an LGF at the base of the hill. This place is pretty neat and way better than Mt. Febe! So glad I decided to give this another shot.</p>
-<p>On the way back, instead of coming via the market, we decided to climb up towards Mt. Febe and took the inner roads via the golf course. This could be a fun route to retrace on the reverse sometime later.</p>
-<p>I need to figure out why my garmin isn&rsquo;t recording the GPX properly. Oddly, Looks like all other metrics are logged correctly. The only thing I really changed was syncing it with GadgetBridge last week.</p>
-<p><div class="image-gallery">
-    
-    
-    
-    
-    <ol class="photo-list ">
-        
-             
-             
-            <li>
-                <a href="https://srikanthperinkulam.com/2025/11/22/mbankolo-unlocked/images/IMG-20251122-WA0001.jpg"><img src="./images/IMG-20251122-WA0001.jpg" loading="lazy" alt="IMG-20251122-WA0001.jpg" /><a>
-            </li>
-        
-             
-             
-            <li>
-                <a href="https://srikanthperinkulam.com/2025/11/22/mbankolo-unlocked/images/IMG-20251122-WA0003.jpg"><img src="./images/IMG-20251122-WA0003.jpg" loading="lazy" alt="IMG-20251122-WA0003.jpg" /><a>
-            </li>
-        
-             
-             
-            <li>
-                <a href="https://srikanthperinkulam.com/2025/11/22/mbankolo-unlocked/images/IMG-20251122-WA0004.jpg"><img src="./images/IMG-20251122-WA0004.jpg" loading="lazy" alt="IMG-20251122-WA0004.jpg" /><a>
-            </li>
-        
-    </ol>
-</div>
-
-<style>
-.photo-list {
-    display: flex;  
-    flex-wrap: wrap;  
-    margin: -1px;  
-}
-
-.photo-list > li {
-    height: 22vh;  
-    flex-grow: 1;  
-    list-style-type: none;  
-    margin: 1px;  
-}
-
-.photo-list li img {
-    max-height: 100%;  
-    min-width: 100%;  
-    object-fit: cover;  
-    vertical-align: bottom;  
-    border: 2px solid gray;  
-}
-
-.photo-list li:last-child {
-    flex-grow: 10;  
-    border: none;  
-}
-
- 
-.photo-list.single-image > li {
-    height: auto;  
-}
-</style>
- <a href="https://srikanthperinkulam.com/2025/11/22/mbankolo-unlocked/" style="text-decoration: none !important;">🔗</a>
-</p>
+      <content:encoded><![CDATA[<p>Been looking for a Google voice number replacement for sometime now and looks like I might have found one that meets most of my needs. Just got a <a href="https://jmp.chat/">JMP number</a> and ordered a sim with a data plan. The cheogram app so far has been great and once I get the SIM I might slowly transition things out of GV.</p>
 ]]></content:encoded>
     </item>
     
     <item>
-      <title>15 Nov 2025 10:30</title>
-      <link>https://srikanthperinkulam.com/2025/11/15/250th-marine-ball/</link>
-      <pubDate>Sat, 15 Nov 2025 10:30:00 +0000</pubDate>
+      <title>08 Jun 2024 19:32</title>
+      <link>https://srikanthperinkulam.com/2024/06/08/grand-vitara/</link>
+      <pubDate>Sat, 08 Jun 2024 19:32:32 -0600</pubDate>
       
-      <guid>https://srikanthperinkulam.com/2025/11/15/250th-marine-ball/</guid>
-      <description>&lt;p&gt;Had a real good time at the Marine ball this year. This one felt way more &amp;lsquo;connected&amp;rsquo;. Probably because we knew almost everyone? Had to head back home around 2130 right around the time the music was kicking in. The souvenir &lt;a href=&#34;https://srikanthperinkulam.com/coin/#2025-msg-250th-marine-ball-coin&#34;&gt;coin&lt;/a&gt; looked pretty tame as compared to the coin the Yaoundé detachment designed earlier this year.
-&lt;div class=&#34;image-gallery&#34;&gt;
-    
-    
-    
-    
-    &lt;ol class=&#34;photo-list single-image&#34;&gt;
-        
-             
-             
-            &lt;li&gt;
-                &lt;a href=&#34;https://srikanthperinkulam.com/2025/11/15/250th-marine-ball/images/IMG-20251116.jpg&#34;&gt;&lt;img src=&#34;./images/IMG-20251116.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG-20251116.jpg&#34; /&gt;&lt;a&gt;
-            &lt;/li&gt;
-        
-    &lt;/ol&gt;
-&lt;/div&gt;
-
-&lt;style&gt;
-.photo-list {
-    display: flex;  
-    flex-wrap: wrap;  
-    margin: -1px;  
-}
-
-.photo-list &gt; li {
-    height: 22vh;  
-    flex-grow: 1;  
-    list-style-type: none;  
-    margin: 1px;  
-}
-
-.photo-list li img {
-    max-height: 100%;  
-    min-width: 100%;  
-    object-fit: cover;  
-    vertical-align: bottom;  
-    border: 2px solid gray;  
-}
-
-.photo-list li:last-child {
-    flex-grow: 10;  
-    border: none;  
-}
-
- 
-.photo-list.single-image &gt; li {
-    height: auto;  
-}
-&lt;/style&gt;
-
-&lt;a href=&#34;https://srikanthperinkulam.com/2025/11/15/250th-marine-ball/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
-&lt;/p&gt;
+      <guid>https://srikanthperinkulam.com/2024/06/08/grand-vitara/</guid>
+      <description>&lt;p&gt;Brought the Grand Vitara home today. We’d been on the lookout for a decent car ever since we knew about our next posting. We don’t need one here in CDMX but would definitely need one in Yaounde. All I wanted was a reliable bare minimum car with no gadgetry shabangs. Over the last few months folks on their PCS did post a few decent cars but these are barely in the market for a few hours. With this one though, the stars seemed to align all well one day and we were able to seal the deal in a few hours.&lt;/p&gt;
+&lt;p&gt;Given the mileage, the GV might need some maintenance over the next few years. It rides like butter now though and reminds me of the &lt;a href=&#34;http://0.0.0.0:8123/2016/04/26/the-grand-cherokee/&#34;&gt;Grand Cherokee&lt;/a&gt; we had in NYC/BOS.&lt;/p&gt;
 </description>
-      <content:encoded><![CDATA[<p>Had a real good time at the Marine ball this year. This one felt way more &lsquo;connected&rsquo;. Probably because we knew almost everyone? Had to head back home around 2130 right around the time the music was kicking in. The souvenir <a href="https://srikanthperinkulam.com/coin/#2025-msg-250th-marine-ball-coin">coin</a> looked pretty tame as compared to the coin the Yaoundé detachment designed earlier this year.
-<div class="image-gallery">
-    
-    
-    
-    
-    <ol class="photo-list single-image">
-        
-             
-             
-            <li>
-                <a href="https://srikanthperinkulam.com/2025/11/15/250th-marine-ball/images/IMG-20251116.jpg"><img src="./images/IMG-20251116.jpg" loading="lazy" alt="IMG-20251116.jpg" /><a>
-            </li>
-        
-    </ol>
-</div>
-
-<style>
-.photo-list {
-    display: flex;  
-    flex-wrap: wrap;  
-    margin: -1px;  
-}
-
-.photo-list > li {
-    height: 22vh;  
-    flex-grow: 1;  
-    list-style-type: none;  
-    margin: 1px;  
-}
-
-.photo-list li img {
-    max-height: 100%;  
-    min-width: 100%;  
-    object-fit: cover;  
-    vertical-align: bottom;  
-    border: 2px solid gray;  
-}
-
-.photo-list li:last-child {
-    flex-grow: 10;  
-    border: none;  
-}
-
- 
-.photo-list.single-image > li {
-    height: auto;  
-}
-</style>
-
-<a href="https://srikanthperinkulam.com/2025/11/15/250th-marine-ball/" style="text-decoration: none !important;">🔗</a>
-</p>
+      <content:encoded><![CDATA[<p>Brought the Grand Vitara home today. We’d been on the lookout for a decent car ever since we knew about our next posting. We don’t need one here in CDMX but would definitely need one in Yaounde. All I wanted was a reliable bare minimum car with no gadgetry shabangs. Over the last few months folks on their PCS did post a few decent cars but these are barely in the market for a few hours. With this one though, the stars seemed to align all well one day and we were able to seal the deal in a few hours.</p>
+<p>Given the mileage, the GV might need some maintenance over the next few years. It rides like butter now though and reminds me of the <a href="http://0.0.0.0:8123/2016/04/26/the-grand-cherokee/">Grand Cherokee</a> we had in NYC/BOS.</p>
 ]]></content:encoded>
     </item>
     
     <item>
-      <title>14 Nov 2025 10:30</title>
-      <link>https://srikanthperinkulam.com/2025/11/14/campost/</link>
-      <pubDate>Fri, 14 Nov 2025 10:30:00 +0000</pubDate>
+      <title>03 Jun 2024 21:00</title>
+      <link>https://srikanthperinkulam.com/2024/06/03/bmg/</link>
+      <pubDate>Mon, 03 Jun 2024 21:00:36 -0600</pubDate>
       
-      <guid>https://srikanthperinkulam.com/2025/11/14/campost/</guid>
-      <description>&lt;p&gt;Stopped by the Campost office earlier this Monday and bought a good ton of stamps. Added them to my digital &lt;a href=&#34;https://srikanthperinkulam.com/stamp/#cameroon&#34;&gt;stamp collection&lt;/a&gt;. The Post office received a fresh coat of paint last month for the Presidential election. Staff were super welcoming and were super curious as to why we were purchasing that many stamps.&lt;/p&gt;
-&lt;p&gt;There&amp;rsquo;s barely anybody I know that collects stamps still. Someday maybe I&amp;rsquo;ll mail these out to someone who&amp;rsquo;s genuinely interested.
-&lt;a href=&#34;https://srikanthperinkulam.com/2025/11/14/campost/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+      <guid>https://srikanthperinkulam.com/2024/06/03/bmg/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://0.0.0.0:8123/wp-content/uploads/2024/06/imagepipe_04348564902056275560.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
+&lt;p&gt;Went to a Blue Man Group performance last Friday. Our first and most likely last. The drums were great but the theatrics left a lot to be desired. Also didn’t help that S was in one of her super emotional moods…&lt;/p&gt;
 </description>
-      <content:encoded><![CDATA[<p>Stopped by the Campost office earlier this Monday and bought a good ton of stamps. Added them to my digital <a href="/stamp/#cameroon">stamp collection</a>. The Post office received a fresh coat of paint last month for the Presidential election. Staff were super welcoming and were super curious as to why we were purchasing that many stamps.</p>
-<p>There&rsquo;s barely anybody I know that collects stamps still. Someday maybe I&rsquo;ll mail these out to someone who&rsquo;s genuinely interested.
-<a href="https://srikanthperinkulam.com/2025/11/14/campost/" style="text-decoration: none !important;">🔗</a>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="http://0.0.0.0:8123/wp-content/uploads/2024/06/imagepipe_04348564902056275560.jpg" alt=""  />
 </p>
+<p>Went to a Blue Man Group performance last Friday. Our first and most likely last. The drums were great but the theatrics left a lot to be desired. Also didn’t help that S was in one of her super emotional moods…</p>
 ]]></content:encoded>
     </item>
     
