@@ -3,8 +3,36 @@
   <title>Day Notes</title>
   <link href="https://srikanthperinkulam.com/daynote/" rel="self"/>
   <link href="https://srikanthperinkulam.com/" />
-  <updated>2026-08-29T21:49:24Z</updated>
+  <updated>2026-08-31T23:23:26Z</updated>
   <id>https://srikanthperinkulam.com/daynote/</id>
+
+<entry>
+  <title>Degoogling</title>
+  <link href="https://srikanthperinkulam.com/daynote/degoogling/" />
+  <id>https://srikanthperinkulam.com/daynote/degoogling/</id>
+  <updated>2026-08-31T00:00:08+01:00</updated>
+  <published>2026-08-31T00:00:08+01:00</published>
+
+  <summary>↩ @bradbarrish I moved my files to a self-hosted Nextcloud install on an old laptop several years ago. Its been chugging along with minimal intervention and has been one of the best things I’ve done to move away from Google. Files get sync’d to my daily laptop and LibreOffice helps with document and spreadsheets.
+Considering migrating to a shorter domain and letting go of this one. Been at this for more than twenty years, so the baggage is real! While at it, should maybe setup a Forgejo instance, deploy to CF Pages and ditch github too?
+</summary>
+
+ 
+
+
+
+
+
+
+
+
+
+<content type="html"><![CDATA[<p>↩ <a href="https://bradbarrish.com/2026/08/30/beginning-down-a-long-road.html">@bradbarrish</a> I moved my files to a self-hosted Nextcloud install on an old laptop several years ago. Its been chugging along with minimal intervention and has been one of the best things I’ve done to move away from Google. Files get sync’d to my daily laptop and LibreOffice helps with document and spreadsheets. <a href="https://srikanthperinkulam.com/daynote/degoogling/#note-1">🔗</a></p>
+<p>Considering migrating to a shorter domain and letting go of this one. Been at this for more than twenty years, so the baggage is real! While at it, should maybe setup a Forgejo instance, deploy to CF Pages and ditch github too? <a href="https://srikanthperinkulam.com/daynote/degoogling/#note-2">🔗</a></p>
+<p>I still can&rsquo;t quite wrap my head around the Nepal flash flood. I&rsquo;ve always been humbled by water. This glacier collapse is quite unprecedented and takes that several notches higher. <a href="https://srikanthperinkulam.com/daynote/degoogling/#note-3">🔗</a></p>
+<p>We&rsquo;ve been running on Generator power for close to two months now! <a href="https://srikanthperinkulam.com/daynote/degoogling/#note-4">🔗</a></p>]]></content>
+
+</entry>
 
 <entry>
   <title>Netcup</title>
