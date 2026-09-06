@@ -20,6 +20,9 @@
     <loc>https://srikanthperinkulam.com/date/</loc>
     <lastmod>2026-09-06T00:00:09+01:00</lastmod>
   </url><url>
+    <loc>https://srikanthperinkulam.com/location/</loc>
+    <lastmod>2026-09-06T00:00:09+01:00</lastmod>
+  </url><url>
     <loc>https://srikanthperinkulam.com/person/michaud/</loc>
     <lastmod>2026-09-06T00:00:09+01:00</lastmod>
   </url><url>
@@ -35,16 +38,13 @@
     <loc>https://srikanthperinkulam.com/tags/</loc>
     <lastmod>2026-09-06T00:00:09+01:00</lastmod>
   </url><url>
+    <loc>https://srikanthperinkulam.com/location/yaounde/</loc>
+    <lastmod>2026-09-06T00:00:09+01:00</lastmod>
+  </url><url>
     <loc>https://srikanthperinkulam.com/date/2026-09-04-000009-&#43;0100-&#43;0100/</loc>
     <lastmod>2026-09-04T00:00:09+01:00</lastmod>
   </url><url>
-    <loc>https://srikanthperinkulam.com/location/</loc>
-    <lastmod>2026-09-04T00:00:09+01:00</lastmod>
-  </url><url>
     <loc>https://srikanthperinkulam.com/daynote/paper-mache/</loc>
-    <lastmod>2026-09-04T00:00:09+01:00</lastmod>
-  </url><url>
-    <loc>https://srikanthperinkulam.com/location/yaounde/</loc>
     <lastmod>2026-09-04T00:00:09+01:00</lastmod>
   </url><url>
     <loc>https://srikanthperinkulam.com/date/2026-08-31-000008-&#43;0100-&#43;0100/</loc>
@@ -16538,8 +16538,14 @@
     <loc>https://srikanthperinkulam.com/book-note/the-king-of-torts/</loc>
     <lastmod>2006-01-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://srikanthperinkulam.com/projects/digital-display/</loc>
+  </url><url>
     <loc>https://srikanthperinkulam.com/map/</loc>
   </url><url>
     <loc>https://srikanthperinkulam.com/person/</loc>
+  </url><url>
+    <loc>https://srikanthperinkulam.com/projects/</loc>
+  </url><url>
+    <loc>https://srikanthperinkulam.com/projects/model-railroad/</loc>
   </url>
 </urlset>

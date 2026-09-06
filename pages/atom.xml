@@ -3,7 +3,7 @@
   <title>Pages</title>
   <link href="https://srikanthperinkulam.com/pages/" rel="self"/>
   <link href="https://srikanthperinkulam.com/" />
-  <updated>2026-09-06T19:18:45Z</updated>
+  <updated>2026-09-06T23:32:13Z</updated>
   <id>https://srikanthperinkulam.com/pages/</id>
 
 <entry>
@@ -6382,6 +6382,8 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 
 
 <content type="html"><![CDATA[<p>Sort of a change log to keep track of modifications done to this portal. <a href="https://srikanthperinkulam.com/sitelog/#note-1">🔗</a></p>
+<h3 id="monday-07-september-2026-1229am">Monday, 07. September 2026 12:29AM</h3>
+<p>Setup a <a href="/projects">projects</a> page to list the progress on a bunch of my ongoing projects. <a href="https://srikanthperinkulam.com/sitelog/#note-2">🔗</a></p>
 <h3 id="saturday-29-august-2026-1047pm">Saturday, 29. August 2026 10:47PM</h3>
 <ul>
 <li>Tweaked the atom feed so it shows images.</li>
@@ -6400,7 +6402,7 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 <li>Automated the <a href="/now">Now</a> page a bit to show the activity and posts summary.</li>
 </ul>
 <h3 id="friday-01-may-2026-0842pm">Friday, 01. May 2026 08:42PM</h3>
-<p>Tweaked the comments code so I can now separate the comments.json for each post instead of having one mega file. Also added in a comment-id for each comment so as to enable in-line replies to be setup later. <a href="https://srikanthperinkulam.com/sitelog/#note-2">🔗</a></p>
+<p>Tweaked the comments code so I can now separate the comments.json for each post instead of having one mega file. Also added in a comment-id for each comment so as to enable in-line replies to be setup later. <a href="https://srikanthperinkulam.com/sitelog/#note-3">🔗</a></p>
 <h3 id="friday-13-february-2026-1127pm">Friday, 13. February 2026 11:27PM</h3>
 <ul>
 <li>Made some minor tweaks to the <a href="/micro">micro</a> page.</li>
@@ -6590,20 +6592,20 @@ const jsonData = JSON.parse(`{{ $data | jsonify }}`);
 <hr>
 <ol>
 <li id="fn:1">
-<p>Decided to add a permalink to each post at the end. A shortcode automatically fetches the permalink and adds it to the end of each post.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a> <a href="https://srikanthperinkulam.com/sitelog/#note-3">🔗</a></p>
+<p>Decided to add a permalink to each post at the end. A shortcode automatically fetches the permalink and adds it to the end of each post.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a> <a href="https://srikanthperinkulam.com/sitelog/#note-4">🔗</a></p>
 </li>
 <li id="fn:2">
-<p>Wrote a quick GO script to consolidate these&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a> <a href="https://srikanthperinkulam.com/sitelog/#note-4">🔗</a></p>
+<p>Wrote a quick GO script to consolidate these&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a> <a href="https://srikanthperinkulam.com/sitelog/#note-5">🔗</a></p>
 </li>
 <li id="fn:3">
-<p>Moved the photos over. Decided to leave the photo notes behind.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a> <a href="https://srikanthperinkulam.com/sitelog/#note-5">🔗</a></p>
+<p>Moved the photos over. Decided to leave the photo notes behind.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a> <a href="https://srikanthperinkulam.com/sitelog/#note-6">🔗</a></p>
 </li>
 <li id="fn:4">
-<p><a href="https://srikanthperinkulam.com/2024/12/09/last-mile-closures/">Decided to use ISSO</a> over Remark42&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a> <a href="https://srikanthperinkulam.com/sitelog/#note-6">🔗</a></p>
+<p><a href="https://srikanthperinkulam.com/2024/12/09/last-mile-closures/">Decided to use ISSO</a> over Remark42&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a> <a href="https://srikanthperinkulam.com/sitelog/#note-7">🔗</a></p>
 </li>
 </ol>
 </div>
- <a href="https://srikanthperinkulam.com/sitelog/#note-7">🔗</a></p>]]></content>
+ <a href="https://srikanthperinkulam.com/sitelog/#note-8">🔗</a></p>]]></content>
 
 </entry>
 
