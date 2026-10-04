@@ -10,7 +10,33 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Sep 2026 10:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Oct 2026 10:30:00 +0000</lastBuildDate><atom:link href="https://srikanthperinkulam.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>02 Oct 2026 10:30</title>
+      <link>https://srikanthperinkulam.com/2026/10/02/thirsty-snyder/</link>
+      <pubDate>Fri, 02 Oct 2026 10:30:00 +0000</pubDate>
+      
+      <guid>https://srikanthperinkulam.com/2026/10/02/thirsty-snyder/</guid>
+      <description>&lt;p&gt;One of the perks of my job is to meet and work with so many interesting people. And with anything that awesome, it&amp;rsquo;s almost always short-lived. People move on once their assignment comes to an end and somebody else comes and fills their shoes. Snyder is leaving us this weekend and he will very much be missed!&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/ThirstyJohn01.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;We have an unsaid practice in ST to host &lt;em&gt;Thirsty Thursday&amp;rsquo;s&lt;/em&gt;. It&amp;rsquo;s a HUGE morale booster for a bunch of teams and turns out to be great way to get folks together just before the week comes to an end. Snyder was a frequent TT participant and we&amp;rsquo;ll absolutely miss him.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/ThirstyJohn02.png&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Made him a miniature representation of TT last night. Took me around 4 hours to get it to this state and I think I&amp;rsquo;m going to leave this as is and not color it. Coloring is not my artsy forte yet and I think this kinda gives him (or his grandkids) a platform to build-on. Until next, Snyder! 1600 somewhere on TTs. &lt;a href=&#34;https://srikanthperinkulam.com/2026/10/02/thirsty-snyder/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
+&lt;/p&gt;
+</description>
+      <content:encoded><![CDATA[<p>One of the perks of my job is to meet and work with so many interesting people. And with anything that awesome, it&rsquo;s almost always short-lived. People move on once their assignment comes to an end and somebody else comes and fills their shoes. Snyder is leaving us this weekend and he will very much be missed!</p>
+<p><img loading="lazy" src="images/ThirstyJohn01.png" alt=""  />
+</p>
+<p>We have an unsaid practice in ST to host <em>Thirsty Thursday&rsquo;s</em>. It&rsquo;s a HUGE morale booster for a bunch of teams and turns out to be great way to get folks together just before the week comes to an end. Snyder was a frequent TT participant and we&rsquo;ll absolutely miss him.</p>
+<p><img loading="lazy" src="images/ThirstyJohn02.png" alt=""  />
+</p>
+<p>Made him a miniature representation of TT last night. Took me around 4 hours to get it to this state and I think I&rsquo;m going to leave this as is and not color it. Coloring is not my artsy forte yet and I think this kinda gives him (or his grandkids) a platform to build-on. Until next, Snyder! 1600 somewhere on TTs. <a href="https://srikanthperinkulam.com/2026/10/02/thirsty-snyder/" style="text-decoration: none !important;">🔗</a>
+</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>27 Sep 2026 10:30</title>
       <link>https://srikanthperinkulam.com/2026/09/27/rail-diorama/</link>
@@ -187,26 +213,6 @@ The engine zooms on these tracks and barely derails. The coaches on the other ha
 <p>Mistakes are all mine though and in hindsight, I did see this coming. Was treading really murky waters not flashing in a stock OS in the first place. As with all things that go wrong, a bunch of factors contributed to this - incrementally. Since download speeds barely hit 0.5Mbps here, I was very selective on what firmware files I&rsquo;d port in. And in that process, I failed installing the CP and CSC packages. All this leading to a quasi stable OS. Thankfully, I had some backups in place and there&rsquo;s only a couple months until I get to purchase a Pixel 9 and install GrapheneOS on it.</p>
 <p>This whole process has, if anything, convinced me to institute a process to better manage these devices. It took me a solid 30 minutes to block most of the stock crap that Samsung dumps on your phone even before it hits the network. Having to do this manually every single time the bootloader is flashed, is absolutely painful. Came across two really good apps on the F-Droid ecosystem. <a href="https://muntashir.dev/AppManager/en/">AppManager</a> and <a href="https://github.com/NeoApplications/Neo-Backup">NeoBackup</a> seem to be great for backup and management of apps based on no-root/root access systems. Will put them to good use for the next migration.</p>
 <p>If I were to look past all those hours spent on this and attempt to look at the positive side of things, I&rsquo;m amazed at how well a few things worked. DAVx5 for contacts and calendar management worked like a charm and I had those back on my phone in seconds. Same with Aegis, F-Droid, K-9 mail and pEp settings backups. With some more fine-tuning I think I should have a swifter migration to GrapheneOS later this July. <a href="https://srikanthperinkulam.com/2026/05/10/migrating-to-lineageos/" style="text-decoration: none !important;">🔗</a>
-</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>26 Apr 2026 10:30</title>
-      <link>https://srikanthperinkulam.com/2026/04/26/commenting-outside-silos/</link>
-      <pubDate>Sun, 26 Apr 2026 10:30:00 +0000</pubDate>
-      
-      <guid>https://srikanthperinkulam.com/2026/04/26/commenting-outside-silos/</guid>
-      <description>&lt;p&gt;Sometime around February last year, I &lt;a href=&#34;https://srikanthperinkulam.com/sitelog#tuesday-04-february-2025-1021pm&#34;&gt;setup my comments system using ntfy&lt;/a&gt;. I think it&amp;rsquo;s actually pretty neat how it works and I&amp;rsquo;ve barely received any spam. I&amp;rsquo;ve kept it bare-bones since people rarely comment these days. Unless there&amp;rsquo;s an edgy or controversial post; there&amp;rsquo;s barely any exchange. And that&amp;rsquo;s perfectly fine too, I think. For what I write here is just for my future self and to scratch that itch of doing something creative and fun.&lt;/p&gt;
-&lt;p&gt;What irks me though is that there are some really good blogs out there that just do not have any form of accepting comments/feedback. I guess they just don&amp;rsquo;t want any engagement? Or just don&amp;rsquo;t see the benefit of comments over the likely spam they anticipate? But in general, there&amp;rsquo;s way too much friction to participation for individual blogs. Unless, you&amp;rsquo;re part of some sort of silo - WordPress, Substack, Medium etc which have their own ecosystem; Meaningful conversations rarely happen.&lt;/p&gt;
-&lt;p&gt;The &lt;a href=&#34;https://indieweb.org/&#34;&gt;Indieweb&lt;/a&gt; seemed to have an interesting take but it&amp;rsquo;s way too technical for a regular bloke. &lt;a href=&#34;http://micro.blog/&#34;&gt;Micro.blog&lt;/a&gt; seems to be one of the only few quasi-ecosystems that facilitates engaging conversations for independent  blogs. The more recently launched &lt;a href=&#34;https://bubbles.town/&#34;&gt;Bubbles&lt;/a&gt; is a great step in shoring up non-tech blogs but engagement still seems &amp;rsquo;low&amp;rsquo;? Maybe it&amp;rsquo;s too early to judge?&lt;/p&gt;
-&lt;p&gt;For all this progress in technology, there&amp;rsquo;s gotta be something more simple and intuitive. And until then maybe that&amp;rsquo;s just pure simple email? If you have a blog out there, maybe just leave a note with an email alias that someone could respond to? &lt;a href=&#34;https://srikanthperinkulam.com/2026/04/26/commenting-outside-silos/&#34; style=&#34;text-decoration: none !important;&#34;&gt;🔗&lt;/a&gt;
-&lt;/p&gt;
-</description>
-      <content:encoded><![CDATA[<p>Sometime around February last year, I <a href="https://srikanthperinkulam.com/sitelog#tuesday-04-february-2025-1021pm">setup my comments system using ntfy</a>. I think it&rsquo;s actually pretty neat how it works and I&rsquo;ve barely received any spam. I&rsquo;ve kept it bare-bones since people rarely comment these days. Unless there&rsquo;s an edgy or controversial post; there&rsquo;s barely any exchange. And that&rsquo;s perfectly fine too, I think. For what I write here is just for my future self and to scratch that itch of doing something creative and fun.</p>
-<p>What irks me though is that there are some really good blogs out there that just do not have any form of accepting comments/feedback. I guess they just don&rsquo;t want any engagement? Or just don&rsquo;t see the benefit of comments over the likely spam they anticipate? But in general, there&rsquo;s way too much friction to participation for individual blogs. Unless, you&rsquo;re part of some sort of silo - WordPress, Substack, Medium etc which have their own ecosystem; Meaningful conversations rarely happen.</p>
-<p>The <a href="https://indieweb.org/">Indieweb</a> seemed to have an interesting take but it&rsquo;s way too technical for a regular bloke. <a href="http://micro.blog/">Micro.blog</a> seems to be one of the only few quasi-ecosystems that facilitates engaging conversations for independent  blogs. The more recently launched <a href="https://bubbles.town/">Bubbles</a> is a great step in shoring up non-tech blogs but engagement still seems &rsquo;low&rsquo;? Maybe it&rsquo;s too early to judge?</p>
-<p>For all this progress in technology, there&rsquo;s gotta be something more simple and intuitive. And until then maybe that&rsquo;s just pure simple email? If you have a blog out there, maybe just leave a note with an email alias that someone could respond to? <a href="https://srikanthperinkulam.com/2026/04/26/commenting-outside-silos/" style="text-decoration: none !important;">🔗</a>
 </p>
 ]]></content:encoded>
     </item>
